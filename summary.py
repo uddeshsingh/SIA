@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 chat_model = ChatGroq(
     model="mixtral-8x7b-32768",
-    temperature=0.4,
+    temperature=0.2,
     groq_api_key=GROQ_API_KEY
 )
 
@@ -241,7 +241,8 @@ def save_summaries_to_file(summaries, company_name):
     """
     Save the summaries into a text file named after the company.
     """
-    filename = f"Summary/{company_name.replace(' ', '_')}_summaries.txt"
+    cn = company_name.replace(' ', '_').tolower()
+    filename = f"Summary/{cn}_summaries.txt"
     try:
         with open(filename, "w", encoding="utf-8") as file:
             for heading, summary in summaries.items():

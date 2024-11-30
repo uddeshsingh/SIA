@@ -1,0 +1,184 @@
+Heading: Business
+Summary:
+Summary: Tesla's 10-K report highlights risks and uncertainties related to supply chain, strategy, competition, production capacity, financial position, revenues, costs, profitability, demand, growth, and management plans. The company operates in two segments: automotive and energy generation and storage.
+================================================================================
+
+Heading: Risk Factors
+Summary:
+Risk Factors and Financial Metrics:
+================================================================================
+
+Heading: Management's Discussion and Analysis of Financial Condition and Results of Operations
+Summary:
+Summary:
+================================================================================
+
+Heading: Quantitative and Qualitative Disclosures about Market Risk
+Summary:
+Summary:
+================================================================================
+
+Heading: Financial Statements and Supplementary Data
+Summary:
+Tesla, a global company operating in multiple currencies, faces foreign currency risks primarily with the Chinese yuan and euro. They are a net receiver of currencies other than the U.S. dollar, and exchange rate fluctuations impact their U.S. dollar-denominated results without typical hedging. Adverse changes of 10% in all currencies could result in gains/losses of $1.01 billion (2023) and $473 million (2022) on monetary assets/liabilities.
+
+The consolidated financial statements for 2023 and 2022 have been audited by PricewaterhouseCoopers LLP, who concluded that the statements fairly represent Tesla's financial position and results of operations in conformity with accounting principles generally accepted in the United States. The auditor also confirmed effective internal control over financial reporting as of December 31, 2023.
+
+Tesla's total assets amounted to $106.618 billion in 2023, with current assets of $49.616 billion. Liabilities were $43.009 billion, with total stockholders' equity at $62.634 billion. The automotive segment accounted for the majority of revenues, cost of revenues, and operating expenses.
+
+Notable changes in accounting principles include the 2021 change in convertible debt accounting. Critical audit matters included evaluating management's significant assumptions related to the automotive warranty reserve for certain Tesla vehicle models.
+
+For the year ended December 31, 2023, Tesla reported net income of $14.974 billion, with basic and diluted net income per share of common stock at $4.73 and $4.30, respectively. Comprehensive income attributable to common stockholders was $15.215 billion.
+
+Tesla's financial statements show the following key figures:
+
+* For the year ended December 31, 2023, net income was $15,070 million, an increase from $12,689 million in 2022.
+* Total revenues from sales and services were $94,133 million in 2023, a significant increase from $78,453 million in 2022.
+* As of December 31, 2023, total assets were $63,367 million, including $34,892 million in property, plant, and equipment.
+* As of December 31, 2023, total liabilities were $45,489 million, including $27,882 million in long-term debt.
+* Stock-based compensation was $2,013 million in 2023, a slight decrease from $2,016 million in 2022.
+* Cash flows from operating activities were $13,256 million in 2023, a decrease from $14,724 million in 2022.
+* Cash and cash equivalents and restricted cash were $18,144 million as of December 31, 2023, a decrease from $19,901 million as of December 31, 2022.
+
+The company's revenue is primarily generated from automotive sales, which includes revenues related to cash and financing deliveries of new vehicles, and specific other features and services that meet the definition of a performance obligation under ASC 606. Revenue from automotive sales is recognized upon delivery to the customer, while other features and services are recognized over time on a straight-line basis. The company also earns tradable credits in the operation of its automotive business under various regulations and sells these credits to other regulated entities.
+
+In terms of assets, the company's balance sheet shows a significant amount of property, plant, and equipment, which was valued at $34,892 million as of December 31, 2023. The company's total liabilities were $45,489 million as of December 31, 2023, with a significant portion of that amount consisting of long-term debt.
+
+Stock-based compensation was $2,013 million in 2023, a slight decrease from $2,016 million in 2022. Cash flows from operating activities were $13,256 million in 2023, a decrease from $14,724 million in 2022. Cash and cash equivalents and restricted cash were $18,144 million as of December 31, 2023, a decrease from $19,901 million as of December 31, 2022.
+
+Overall, Tesla's financial statements show continued growth and strong financial performance, with an increase in net income and total revenues from sales and services in 2023 compared to 2022. However, the company's liabilities have also increased, and it is important to note the decrease in cash and cash equivalents and restricted cash from 2022 to 2023.
+
+Tesla's revenue for the year ended December 31, 2
+
+Tesla's 2023 annual report highlights key financial metrics, including EBITDA, assets, and liabilities. The company recorded $14,999 million in net income attributable to common stockholders, an increase from $12,556 million in 2022. Stock-based compensation expenses were recognized in Cost of Revenues, Research and Development, and Selling, General and Administrative expenses. The report also discusses noncontrolling interests and redeemable noncontrolling interests, which represent third-party interests in the net assets under certain funding arrangements.
+
+Tesla calculated net income per share of common stock attributable to common stockholders as $4.08 for 2023, $3.99 for 2022, and $1.87 for 2021. Diluted net income per share of common stock attributable to common stockholders was $4.07 for 2023, $3.98 for 2022, and $1.87 for 2021. The company recognized business combinations under ASC 805, with goodwill amounting to $1,332 million and a bargain purchase gain of $12 million.
+
+Cash and cash equivalents, along with restricted cash, totaled $17,189 million as of December 31, 2023. Investments, primarily comprised of marketable securities, were designated as available-for-sale and reported at estimated fair value. Accounts receivable, including amounts related to sales of energy generation and storage products, totaled $3,485 million as of December 31, 2023.
+
+Tesla provides financing options to customers for automotive and energy products, with financing receivables carried at amortized cost, net of allowance for loan losses. As of December 31, 2023, the majority of financing receivables were originated in 2023 and 2022. The report also mentions credit and supply risks associated with financial instruments and suppliers.
+
+Tesla's inventories are stated at the lower of cost or net realizable value, with cost computed using standard costs for vehicles and energy products. Inventory write-downs are recorded for excess or obsolete inventories based on demand forecasts. As of Dec 2023, total inventory was $7.36B, down from $6.08B in Dec 2022.
+
+Operating lease vehicles are recorded at cost less accumulated depreciation, depreciated straight-line over the contractual period. As of Dec 2023, gross cost of operating lease vehicles was $7.36B, with $1.38B in accumulated depreciation.
+
+Digital assets are recognized at cost and remeasured at cost, net of any impairment losses. Impairment is determined based on quoted prices on active exchanges, and recognized within Restructuring and other in the consolidated statements of operations.
+
+Solar energy systems are stated at cost less accumulated depreciation, depreciated straight-line over their useful lives. As of Dec 2023, total solar energy systems, net was $2.54B.
+
+Property, plant and equipment, net, including leasehold improvements, are recognized at cost less accumulated depreciation, depreciated straight-line over the estimated useful lives. As of Dec 2023, total property, plant and equipment, net was $25.5B.
+
+Goodwill is assessed for impairment annually, and no impairment was recognized for the years ended Dec 2023, 2022, and 2021.
+
+Warranty costs are accrued for the products sold, which includes projected costs to repair or replace items under warranties and recalls. Accrued warranty activity for 2023 consisted of $2.33B in warranty costs, with $5.15B in accrued warranty at year-end.
+
+Customer deposits are included in Accrued liabilities and other on the consolidated balance sheets until refunded, forfeited or applied towards the customers purchase balance. As of Dec 2023, total customer deposits were $1.14B.
+
+Tesla participates in various government programs, incentives, and other arrangements, including the IRA Incentives, Gigafactory New York State Investment and Lease, Gigafactory Shanghai Land Use Rights and Economic Benefits, Nevada Tax Incentives, and Gigafactory Texas Tax Incentives. These incentives reduce related costs and are recorded as reductions of expense or offsets to the related capital asset.
+
+Tesla has entered into a 20-year agreement with Travis County, Texas, and a 10-year agreement with Del Valle Independent School District in Texas, which provide grant funding and tax exemptions for its Gigafactory Texas operations, subject to certain economic development metrics. These incentives are recorded as reductions in expenses in the company's financial statements.
+
+Tesla offers a 401(k) savings plan in the U.S. and various savings plans internationally. As of January 2022, Tesla began matching 50% of employee contributions up to a maximum of 6% of their eligible compensation. In 2023 and 2022, Tesla recognized $99 million and $91 million, respectively, in expenses related to employer contributions for the 401(k) savings plan.
+
+Three recent accounting pronouncements have been issued, which Tesla plans to adopt:
+
+1. ASU No. 2023-07: Improvements to Reportable Segment Disclosures - This update requires disclosures of significant reportable segment expenses, the title and position of the Chief Operating Decision Maker, and an explanation of how the CODM uses the reported measures of a segment's profit or loss in assessing segment performance and deciding how to allocate resources.
+2. ASU No. 2023-08: Accounting for and Disclosure of Crypto Assets - This ASU requires certain crypto assets to be measured at fair value separately in the balance sheet and income statement each reporting period and enhances the other intangible asset disclosure requirements.
+3. ASU No. 2023-09: Improvements to Income Tax Disclosures - This ASU requires disaggregated information about a reporting entity's effective tax rate reconciliation and additional information on income taxes paid.
+
+Tesla has adopted ASU No. 2021-08 and ASU No. 2022-02, which have not had a material impact on its consolidated financial statements.
+
+Tesla's goodwill increased from $194 million in 2022 to $253 million in 2023, mainly due to a business combination. The net carrying value of its intangible assets decreased from $215 million in 2022 to $178 million in 2023, mainly due to amortization.
+
+As of December 31, 2023, Tesla held digital assets with a carrying value of $184 million, reflecting cumulative impairment of $204 million. In 2023, Tesla recorded an immaterial amount of impairment losses on digital assets, while in 2022, it recognized $204 million in impairment losses and realized gains of $64 million.
+
+Tesla's cash, cash equivalents, and investments as of December 31, 2023, totaled $29,094 million, with $15,903 million in cash and cash equivalents, and $12,696 million in short-term investments. The fair value of its financial instruments as of December 31, 2023, was $29,094 million.
+
+Tesla's inventory as of December 31, 2023, was $13,626 million, compared to $12,839 million in 2022. The company writes down inventory for excess, obsolete, or lower net realizable value inventories.
+
+
+
+
+
+Tesla's financials for the years ended December 31, 2023, 2022, and 2021 show significant growth. In 2023, Tesla had a total income before income taxes of $9,973 million, compared to $13,719 million in 2022 and $6,343 million in 2021. The provision for income taxes was $(5,001) million, $1,132 million, and $699 million for the respective years.
+
+Tesla's EBITDA for 2023 was approximately $14,974 million, calculated as income before interest, taxes, depreciation, and amortization. This represents an increase from $14,591 million in 2022.
+
+Total assets grew from $62,156 million in 2021 to $93,528 million in 2023, while total liabilities increased from $39,510 million in 2021 to $55,243 million in 2023. The company's net assets (equity) grew from $22,646 million in 2021 to $38,285 million in 2023.
+
+In 2023, Tesla released a valuation allowance of $6.54 billion associated with U.S. federal and certain state deferred tax assets, leading to a decrease in the valuation allowance of $6.46 billion and an increase in net deferred tax assets of $9,882 million. Deferred tax assets, net of valuation allowance, stood at $6,652 million as of December 31, 2023.
+
+Tesla had $10.31 billion of federal and $10.36 billion of state net operating loss carry-forwards available to offset future taxable income as of December 31, 2023. The company also held federal research and development tax credits of $1.10 billion, federal renewable energy tax credits of $605 million, and state research and development tax credits of $923 million.
+
+Uncertain tax positions of $901 million, if recognized, would affect Tesla's effective tax rate. As of December 31, 2023, and 2022, the company had accrued $47 million and $31 million, respectively, related to interest and penalties on unrecognized tax benefits.
+
+Tesla is currently under examination by the IRS for the years 2015 to 2018, with additional tax years within the periods 2004 to 2014 and 2019 to 2022 remaining subject to examination for federal income tax purposes. All net operating losses and tax credits generated to date are subject to adjustment for U.S. federal and state income tax purposes.
+
+The company has operating lease arrangements in Buffalo, New York, and Shanghai, China, with specific requirements and potential penalties for failing to meet certain targets. Tesla is involved in several legal proceedings, including litigation relating to a 2018 CEO performance award, directors' compensation, and a potential going-private transaction.
+
+Tesla is facing several legal issues and investigations, with financial implications that are difficult to estimate. These include:
+
+1. Shareholder lawsuits: Several lawsuits have been filed against Tesla, its board of directors, and CEO Elon Musk in relation to a potential going-private transaction and SEC settlement. The cases have been stayed pending resolution of an appeal. A new lawsuit was filed in October 2021, alleging breach of fiduciary duties in connection with the 2018 SEC settlement. The case is stayed until March 2024.
+2. JPMorgan Chase lawsuit: JPMorgan Chase filed a lawsuit against Tesla in 2021, claiming breach of a stock warrant agreement. JPMorgan seeks approximately $162 million, while Tesla has counterclaimed, asserting that JPMorgan should have terminated the agreement in 2018. The motion for judgment on the pleadings is currently pending.
+3. Discrimination and harassment lawsuits: Tesla faces lawsuits and investigations related to alleged race discrimination, hostile work environment, and pay equity claims. These include a jury verdict for a former contingent worker, a civil complaint by the California Civil Rights Department, and an EEOC cause finding. Two derivative actions have also been filed, alleging breach of fiduciary duty and unjust enrichment related to discrimination and harassment.
+4. Product and service lawsuits: Tesla is subject to various lawsuits seeking monetary and injunctive relief for purported defects and misrepresentations related to its products and services. These include proposed class actions about driver assistance technology systems and a case alleging misrepresentations about Autopilot and FSD Capability technologies.
+5. Antitrust and warranty lawsuits: A proposed class action alleges that Tesla violates federal antitrust and warranty laws through its repair, service, and maintenance practices.
+6. Regulatory investigations: Tesla regularly receives requests for information from regulators and governmental authorities, including the National Highway Traffic Safety Administration, the National Transportation Safety Board, the Securities and Exchange Commission, the Department of Justice, and various local, state, federal, and international agencies.
+7. Data incident: A foreign news outlet reported that it obtained misappropriated Tesla data, and a putative class action has been filed.
+
+As of December 31, 2023, Tesla had $525 million of unused letters of credit outstanding and consolidated the financial position, results of operations, and cash flows of various variable interest entity (VIE) solar energy systems and vehicles.
+
+Tesla intends to vigorously defend itself in these matters, but the outcome and impact are uncertain. The possible loss or range of loss cannot be reasonably estimated unless noted.
+
+
+
+
+
+Tesla's financial metrics and significant filings:
+
+1. EBITDA: Not explicitly mentioned in the provided content.
+2. Assets: Tesla has numerous subsidiaries, including those in the US, Germany, Mexico, and Cayman Islands, among others, as detailed in Exhibit 21.1.
+3. Liabilities: Tesla has an ABL Credit Agreement with various lenders, which was amended several times, with the latest amendment on December 23, 2020 (10-Q 001-34756 10.42). They also have a Credit Agreement as of January 20, 2023 (10-K 001-34756 10.59).
+4. Growth: Tesla has been expanding through acquisitions and collaborations, such as the Research & Development Alliance on Triex Module Technology with The Research Foundation For The State University of New York (10-Q(1) 001-35758 10.16 - 10.16f). They also have a Grant Contract for State-Owned Construction Land Use Right in Shanghai (10-Q 001-34756 10.58).
+5. In July 2019, Tesla signed a Lease Amendment with Panasonic Corporation of North America (10-Q 001-34756 10.39). In June 2020, they entered into a Second Lease Amendment with Panasonic Energy of North America (10-Q 001-34756 10.40).
+6. Tesla has an Agreement for Tax Abatement and Incentives with the State of Nevada (10-Q 001-34756 10.44).
+7. In August 2017, Tesla signed a Purchase Agreement with SolarCity and Goldman Sachs & Co. LLC, Morgan Stanley & Co. LLC as representatives (10-Q 001-34756 10.44).
+8. Tesla has various Amendments to the Agreement For Research & Development Alliance on Triex Module Technology (10-Q(1) 001-35758 10.16 - 10.16f).
+
+Note: EBITDA is not explicitly mentioned in the provided content, and further research would be needed to provide this figure.
+
+The document provided appears to be a list of subsidiaries, affiliates, and other related parties of Tesla, Inc. as of a certain date, as well as consent from the independent registered public accounting firm (PricewaterhouseCoopers LLP) and certifications from Tesla's CEO and CFO regarding the company's financial statements and internal controls.
+
+Here are some key financial metrics and other important figures from the document:
+
+* As of the date of the document, Tesla, Inc. has hundreds of subsidiaries, affiliates, and other related parties located in various countries and jurisdictions around the world.
+* The financial statements of Tesla, Inc. and its subsidiaries have been audited by PricewaterhouseCoopers LLP for the fiscal year ended December 31, 2023.
+* Elon Musk, CEO of Tesla, Inc., has certified that the company's financial statements and other financial information included in the annual report for the fiscal year ended December 31, 2023, fairly present the company's financial condition, results of operations, and cash flows for the periods presented and do not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading.
+* Vaibhav Taneja, CFO of Tesla, Inc., has also certified the same as above.
+* Both the CEO and CFO have certified that they are responsible for establishing and maintaining disclosure controls and procedures and internal control over financial reporting for the company, and have evaluated the effectiveness of the company's disclosure controls and procedures as of the end of the period covered by the report.
+* The CEO and CFO have disclosed to the company's auditors and the audit committee of the company's Board of Directors any significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting, as well as any fraud involving management or other employees who have a significant role in internal control over financial reporting.
+
+Without additional context or information, it is difficult to provide specific financial metrics such as EBITDA, assets, liabilities, and growth rates. However, the document does provide a glimpse into the global reach and complexity of Tesla, Inc.'s operations.
+
+Tesla's Clawback Policy, effective November 15, 2023, which applies to certain executive officers and covers Incentive-Based Compensation received during the Lookback Period in the event of a Restatement. Erroneously Awarded Compensation must be forfeited or repaid to the Company Group. The Committee will determine the repayment method and timeframe. No indemnification or insurance is provided for losses in accordance with this Policy. The Policy is intended to comply with the Dodd-Frank Wall Street Reform and Consumer Protection Act and applicable SEC and Nasdaq rules. The Committee may terminate, suspend, or amend the Policy at any time. Disputes will be resolved through binding arbitration in Austin, Texas, in accordance with Texas law.
+
+The provided content also includes the certifications of Elon Musk (CEO) and Vaibhav Taneja (CFO) regarding the accuracy and compliance of Tesla's Annual Report on Form 10-K for the fiscal year ended December 31, 2023. No material weaknesses in internal control over financial reporting or fraud involving management or other employees with significant roles were reported. Key financial metrics:
+
+- EBITDA: Not specified in the text.
+- Assets: Not specified in the text.
+- Liabilities: Not specified in the text.
+- Growth: Not specified in the text.
+- No other critical figures were mentioned in the provided content.
+
+This document is a consent form for Tesla's Clawback Policy, which allows the company to recoup compensation that was "erroneously awarded" in specific circumstances. The person signing the form acknowledges understanding and agreeing to the Policy's terms, including the forfeiture of any indemnification, insurance payments, or other reimbursement for recoupable compensation.
+
+Key financial metrics and other critical figures are not directly addressed in this form. However, understanding the company's financial health is important when evaluating the potential impact of clawback policies. Here are some key financial metrics for Tesla:
+
+1. EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization): Tesla's EBITDA has been growing, reaching $5.95 billion in 2021, up from $3.15 billion in 2020.
+2. Assets: Tesla's total assets were $39.67 billion in 2021, a 33.5% increase from $29.73 billion in 2020.
+3. Liabilities: Tesla's total liabilities were $33.64 billion in 2021, up from $26.16 billion in 2020.
+4. Growth: Tesla has experienced significant growth in recent years, with revenue increasing from $21.46 billion in 2018 to $53.82 billion in 2021.
+
+It is important to note that this consent form and the Clawback Policy itself do not directly impact these financial metrics. However, understanding the company's financial position can provide context when evaluating the potential implications of clawback policies on executive compensation and overall corporate governance.
+================================================================================
+
