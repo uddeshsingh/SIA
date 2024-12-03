@@ -3,6 +3,28 @@ Interactive Stock Investment Advisor (SIA) that provides users with company/stoc
 
 ## Project Proposal: Stock Investment Advisor (SIA)
 
+### Getting started
+
+1. First, install depedent libraries
+
+```shell
+$ pip install -r requirements.txt
+```
+
+2. Prepare tokens for Discord bot and Vertex AI (Google) in your shell script!
+
+```shell
+$ vi ~/.zshrc
+export DISCORD_TOKEN="Paste your bot token!"
+export VERTEX_AI_API_KEY="Paste your Vertex AI API key!"
+```
+
+3. Run chatbot!
+
+```shell
+$ python chatbot.py
+```
+
 ### Goal
 
 To create an interactive stock investment advisor that provides users with company information through a Q&A format. Our goal is to empower investors and financial enthusiasts with accurate, timely, and insightful information.
@@ -30,7 +52,7 @@ Our project will focus on the following key elements:
 
 * **Coverage**: We will cover tech companies in the top 50, providing a comprehensive overview of their financial health and market performance.
 
-* **Time Period for Report Summarization**: We will summarize reports for the current year (2023) and the previous two years (2022 and 2021).
+* **Time Period for Report Summarization**: We will summarize reports for the current year 2024.
 
 * **Time Period for News Summarization**: We will provide news summaries up to the current date, with a focus on the last 12 months.
 
