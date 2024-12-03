@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Michael Kan",
+        "feature launches",
+        "fights between rival providers"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 18:07:12",
+    "description": "The Nvidia app is out of beta and aims to improve the old GeForce Experience with interface changes and a bulked-up in-game overlay.",
+    "filename": ".json",
+    "image_url": "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-app/nvidia-app-launches-to-replace-geforce-experience-heres-what_8882.1200.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Nvidia has long directed users to its GeForce Experience app for GPU driver updates, but that's now being replaced by the simply titled \"Nvidia app,\" which emerges from beta today.\nThe app, first previewed in February, is meant to be a \"unified GPU control center,\" which can also automatically optimize PC games for your Nvidia graphics card. But a key change is that the new app introduces \"a redesigned in-game overlay for convenient access to powerful gameplay recording tools, performance monitoring overlays, and game-enhancing filters, including innovative new AI-powered filters for RTX users,\" Nvidia says.\nLike with GeForce Experience, the new overlay will appear when you press ALT+Z, giving you an easy way to take screenshots, record videos, or augment a game's visuals with an AI-powered filter. For example, you can use a filter to play a game in black-and-white, make the visuals appear like a watercolor painting, or increase the vibrance to HDR fidelity. The same functions also can be activated with hotkeys.\nThe company adds: \"Nvidia app is designed to be fast and responsive. When compared to GeForce Experience, it installs in half the time and offers a modernized UI that is 50% more responsive.\" Another change is a new \"Performance\" tab, which can monitor your GPU\u2019s current statistics and even calibrate its voltage, power, and temperature limits.\nThe new app also seems to merge GeForce Experience with the creator-focused RTX Experience program. Through the Nvidia app, you can download Nvidia drivers for games and the company\u2019s \"studio drivers,\" which are optimized for creative and design software.\nDespite the improvements, the app arguably tries to push some bloat. For example, the homepage for the Nvidia app contains a \"Discover\" section that encourages you to download other Nvidia products, such as the company\u2019s game-streaming service, GeForce Now, or its creator-focused programs, such as Nvidia Broadcast and Nvidia Omniverse.\nWe also found that not all installed PC games immediately appeared in the Nvidia app. Helldivers 2, God of War Ragnarok, and Baldur\u2019s Gate 3 were notably absent from the GPU optimization feature until we ran the games.",
+    "source_domain": null,
+    "text": null,
+    "title": "'Nvidia app' Launches to Replace GeForce Experience: Here's What It Can Do",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

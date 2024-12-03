@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Isaiah Richard"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 07:50:11",
+    "description": "Apple and TSMC's 2nm chips are set to power a next-generation of iPhones, iPads, and Macs.",
+    "filename": ".json",
+    "image_url": "https://d.techtimes.com/en/full/454572/apple-m1-chipset.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The biggest upgrade for the renowned technological developments from Apple is the 2-nanometer (nm) chips whichhave been part of the many rumors to be coming shortly for the public to see. However, despite the many speculations that it will appear in next year's iPhone 17 series, it will not yet be available for the public to see just yet, but there is already an expected timeline for it.\nNot only will it power the future iPhones in the market, but Apple will also deliver this new Silicon process to its other renowned devices like the iPad and Macs, centering on the future M-series chipsets.\nApple's 2nm Chips Are Coming Soon, But Not For Next Year\nThe latest report from 9to5Mac gave an insight into the timeline of Apple's upcoming 2nm processors coming to the market, and while many thought that it would be available next year, it would be a longer wait. That being said, the earliest that the world will possibly see the 2nm chipsets on Apple devices would be by 2026, particularly as sources claimed that this is the expected arrival of the chip.\nIt was revealed by insiders that Apple and TSMC would begin production behind the 2nm process come 2025, but it was not specified when exactly next year would these processors begin their manufacturing.\nDespite starting in 2025, Apple reportedly chose to \"hold out\" the 2nm chip's release for public availability on its devices for unknown reasons, pointing out that 2022 also saw 3nm volume production but did not come out until 2023's iPhone 15 series.\nApple's iPhones, iPads, and Macs to Get 2nm Upgrade\nWith this information, it is expected that Apple's 2nm chips would be available for the two generations-away devices like the iPhone 18 which is expected to receive the A20 chips, and the iPads and Macs that will get the M6.\nMany analysts also corroborate this information as the iPhone 17 will still see the 3nm process for the A19 series, unlike the earlier rumors saying that this specific device would be powered by the 2nm.\nThe 2nm Chipset from Apple and TSMC\nThe innovations and continued developments of the chipsets from Apple and TSMC are not stopping for anything, as despite already offering a 3nm processor to power its current latest devices, there is more from the two companies. Thisis in the form of the 1-nanometer smaller System-on-chip (SoC), the 2nm, and it was already demonstrated by TSMC as early as late 2023.\nBecause of this early demonstration date by the latest chipset, many believed that it would be available come 2024 or 2025 for the world to see, with massive speculations claiming that it would first arrive as the M4 chip. However, the M4 features the 3nm process which is the current generation from the company, and it was also revealed that it is not coming for next year's iPhone 17 and its A19 chip.\nThere are many industry leakers and analysts who claim that Apple will be ready for its 2nm chipset's debut come the iPhone 18 series which is set for 2026, less than two years from now. This 2026 timeline for the 2nm process has been the generally accepted information behind the smaller SoC from Apple and TSMC, possibly powering the iPhone 18, as well as the iPads and Macs featuring the M6.",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple's 2nm Chips Are Coming For iPhones, iPads, Macs But When? Here's the Timeline",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Steve Vegvari"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-28 18:20:13",
+    "description": "You can now share moments from your favorite shows using a link, here's how.",
+    "filename": ".json",
+    "image_url": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2024/03/caspar-camille-rubin-vbgylwhnw88-unsplash.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Key Takeaways\nNetflix's Moments feature allows users to bookmark scenes and easily share them with others.\nThis feature may lead to more viral discussions about shows and movies, enticing others to watch.\nUsers can save and share Moments, with no clear limit based on content length, but limited availability to iOS and Android only.\nNetflix is rolling out a new Moments feature that lets you bookmark specific scenes or instances from a series or movie. Users can then share that scene with a friend or family member using a link that can be shared. Using the Moments feature, Netflix subscribers can easily share a part of a series online as well. It's one of the streamer's surprising new features.\nThis function will undoubtedly enable Netflix subscribers to generate even more viral discussions about a new series or movie. Showing a scene from a brand-new series could entice others to jump in and give it a shot. The ability to share a Moment is rolling out to iOS subscribers globally starting October 28. In the \"coming weeks,\" Android users will also gain access to this feature. Unfortunately, it doesn't seem as though the feature will come to the web or TV.\nHow to use Netflix's Moments feature\nYou can use Moments to bookmark and save that hysterical bit from a standup special to share\nWhen you're watching something on Netflix, you can tap the screen to see the menu options available. Here, a brand-new Moments button can be found. Selecting this will open a new menu to discover. Within this menu, Netflix asks users if they \"Want to capture this moment?\" Once confirmed, the scene is saved and bookmarked. When ready to replay, it starts at the specific timecode that's saved. Using this menu, you can also see other Moments that have been saved for that series or movie.\nYou can also share the Moment with various supported apps. Netflix also lets you copy the link to your clipboard so you can post it at your leisure. By using these links, you can post them in a group chat with friends, suggesting they check out a specific scene. It can also be shared on social media, whether it be for a cheeky reference or a way to show off an impactful moment from a series. It can also be much better than having to scrub through uploaded clips on YouTube or TikTok.\nThe limits of using Netflix Moments\nIn a recent interview, spokesperson Dorian Rosenburg talks about how many Moments you can save\nImmediately after hearing about this feature, I began to wonder how many Moments a user would be able to bookmark and save. Speaking with The Verge, Netflix spokesperson Dorian Rosenburg says that it'll ultimately depend on the length of the content. \u201cThe number of Moments you can save depends on the length of the content,\u201d Rosenburg says.\nFrom the sounds of it, you'll likely be able to bookmark more of say Stranger Things than you would when wanting to clip Moments from Beverly Hills Cop: Axel F. However, Rosenberg does state, \"There\u2019s plenty of space to save your favorite Moments, so most members won\u2019t need to worry about a limit when it comes to saving across multiple shows and movies.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "A new Netflix feature is about to blow up your group chat",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

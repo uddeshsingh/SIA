@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Margherita Bassi",
+        "Ed Cara",
+        "Passant Rabie",
+        "Dua Rashid"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:10:37",
+    "description": "A team of Chinese scientists has confirmed the presence of the anthrax-causing bacteria at the site of an infamous Second World War laboratory.",
+    "filename": ".json",
+    "image_url": "https://gizmodo.com/app/uploads/2024/12/Harbin-bioweapon-facility-of-Unit-731.jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The atrocious experiments Nazi doctors performed on prisoners during World War II are well documented. Less well known, however, is the fact that Japanese doctors also conducted horrifying medical tests on captives in occupied China. The extent of these tests is largely shrouded in mystery, but new evidence provides important support for historical accounts of this dark period in history.\nResearchers from the Academy of Military Medical Sciences in Beijing, China, have confirmed the presence of Bacillus anthracis\u00e2\u0080\u0094bacteria that causes anthrax\u00e2\u0080\u0094at Unit 731, a Japanese World War II-era laboratory in northeastern China. Their findings, published in a November 20 research letter in the journal Emerging Infectious Diseases, provide strong scientific support for historical accounts suggesting that, among other horrors, scientists at Unit 731 intentionally infected prisoners with pathogens to develop biological weapons. The analysis presents critical evidence of atrocities that have long been overlooked or, at the very least, veiled in speculation.\nAs mentioned previously, B. anthracis causes anthrax, a life-threatening bacterial disease infectious to mammals, including humans. Symptoms can include black sores, swollen neck, fever, nausea, and/or trouble breathing, among others. Left untreated, the disease can rapidly progress, leading to severe complications or death.\n\u00e2\u0080\u009cB. anthracis is considered one of the most serious and threatening agents for conducting biowarfare or bioterrorism,\u00e2\u0080\u009d the researchers wrote in the letter. \u00e2\u0080\u009cRecords suggest Bacillus anthracis was used in biowarfare during World War II, but evidence remains limited,\u00e2\u0080\u009d they added.\nIn a previous study, the team had detected B. anthracis in three soil samples from Unit 731. More recently, they confirmed its presence by isolating the bacteria\u00e2\u0080\u0099s genetic material from the samples to analyze its physical, biochemical, and genetic properties. The researchers sequenced the genome of the isolated strain, identified key genes, and placed it within an evolutionary framework.\nThe researchers also collected two dozen more samples from 12 locations in the lab\u00e2\u0080\u0099s proximity. None of these additional samples had any traces of B. anthracis, leading the researchers to conclude that the bacteria in the previous positive samples likely did not originate from the natural local environment.\u00c2 However, they warned that similar remains at World War 2 sites might pose a risk to humans, animals, and nature if they are not dealt with properly.\n\u00e2\u0080\u009cBy analyzing the distribution of the positive samples, qualities of the isolated strain, and historical documents, we established a chain of evidence supporting the hypothesis that B. anthracis was misused in inhumane medical experiments and likely for developing biologic weapons during WWII,\u00e2\u0080\u009d the researchers wrote, adding that their \u00e2\u0080\u009cfindings highlight the role of microbial forensics in tracing biologic warfare and providing insights into biothreats.\u00e2\u0080\u009d\nSeveral factors have contributed to the lack of knowledge surrounding the inhumane Unit 731 medical experiments, including the fact that the Japanese executed all of the lab\u2019s surviving victims at the end of the war. The United States\u00e2\u0080\u0099 response also played a determining role: U.S. authorities, including General Douglas MacArthur (who supervised the U.S.\u00e2\u0080\u0099s post-war occupation of Japan), granted the doctors immunity in exchange for the medical information they had learned from the experiments.",
+    "source_domain": null,
+    "text": null,
+    "title": "Japan Sought to Develop Weaponized Anthrax During WWII, New Research Confirms",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Benj Edwards"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-04 17:28:07",
+    "description": "Stock index switch-up reflects symbolic market shift as chip industry refocuses around AI.",
+    "filename": ".json",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/robot_breakthrough_1-1152x648.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "On Friday, S&P Dow Jones Indices announced that AI chipmaker Nvidia will replace Intel in the Dow Jones Industrial Average, marking a seismic shift in the semiconductor industry and ending Intel's 25-year run on the prestigious stock market index. The change takes effect on November 8.\n\"The index changes were initiated to ensure a more representative exposure to the semiconductors industry,\" wrote S&P in a press release.\nIntel's stock has dropped 54 percent this year, making it the worst performer on the Dow, and the company now holds a market value of under $100 billion for the first time in three decades, Reuters reported. Analysts expect Intel to post its first annual net loss since 1986.\nThe change reflects a dramatic shift in the semiconductor industry's power dynamics. Intel, whose chips drove the personal computer revolution from the 1970s to the 1990s, has been on shaky business ground recently. The chipmaker has lost its manufacturing leadership to Taiwan's TSMC and reportedly missed opportunities in the growing market for AI processors.\nMeanwhile, due to the demand for AI accelerator chips, Nvidia's market capitalization has soared to $3.32 trillion, making it the second most valuable company in the world. The company's graphics processing units (GPUs) power many AI systems today, including generative AI chatbots like ChatGPT, driving the company's stock price up more than 100 percent this year alone.\nChanging winds in the tech industry\nThe Dow Jones Industrial Average serves as a benchmark of the US stock market by tracking 30 large, publicly owned companies that represent major sectors of the US economy, and being a member of the Index has long been considered a sign of prestige among American companies.\nHowever, S&P regularly makes changes to the index to better reflect current realities and trends in the marketplace, so deletion from the Index likely marks a new symbolic low point for Intel.\nWhile the rise of AI has caused a surge in several tech stocks, it has delivered tough times for chipmaker Intel, which is perhaps best known for manufacturing CPUs that power Windows-based PCs.\nIntel recently withdrew its forecast to sell over $500 million worth of AI-focused Gaudi chips in 2024, a target CEO Pat Gelsinger had promoted after initially pushing his team to project $1 billion in sales. The setback follows Intel's pattern of missed opportunities in AI, with Reuters reporting that Bank of America analyst Vivek Arya questioned the company's AI strategy during a recent earnings call.\nIn addition, Intel has faced challenges as device manufacturers increasingly use Arm-based alternatives that power billions of smartphone devices and from symbolic blows like Apple's transition away from Intel processors for Macs to its own custom-designed chips based on the Arm architecture.\nWhether the historic tech company will rebound is yet to be seen, but investors will undoubtedly keep a close watch on Intel as it attempts to reorient itself in the face of changing trends in the tech industry.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia ousts Intel from Dow Jones Index after 25-year run",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

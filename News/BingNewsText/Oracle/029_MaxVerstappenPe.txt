@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Lydia Mee"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-30 17:53:53",
+    "description": "Max Verstappen lost his pole position at the Qatar Grand Prix due to a post-qualifying penalty.",
+    "filename": ".json",
+    "image_url": "https://d.newsweek.com/en/full/2533399/max-verstappen.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "2024 Drivers' Champion Max Verstappen has been handed a one-place grid penalty for impeding Mercedes driver George Russell during the Qualifying session for the Qatar Grand Prix.\nThe Red Bull driver had initially achieved the fastest time at the Lusail International Circuit, marking his first pole since the Austrian Grand Prix. However, Russell will now start the race from the front.\nThe incident occurred while Verstappen was executing an extra warm-up lap during Q3, moving at a considerably slow pace before his final push. During this period, Russell, on a different preparation strategy, approached and caught up with Verstappen between Turns 12 and 14.\nThe Stewards conducted a review of the incident, examining a range of evidence including positioning and marshalling system data, videos, timing telemetry, and even the team radio and in-car video footage. They determined that Verstappen was following a distinct preparation strategy that clashed with Russell's plan and was driving significantly below the prescribed delta time.\nAs noted by the Stewards (below):\n\"The Stewards heard from the driver of Car 1 (Max Verstappen), the driver of Car 63 (George Russell), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence.\n\"Car 1 was on a different preparation strategy to that of Car 63. Car 1 was well outside of the delta and the driver of Car 1 explained he had let Cars 4 and 14 past. The driver of Car 63 claimed that he had adhered to the delta and did not expect Car 1 to be on the racing line. He stated that if a car was going slow in a high-speed corner, it should not be on the racing line.\n\"The Stewards regard this case as a complicated one in that clearly Car 1 did not comply with the Race Director's Event Notes and clearly was driving, in our determination, unnecessarily slowly considering the circumstances.\"\nThe penalty decision was mitigated to a reduction of just one grid position instead of the standard three. This decision took into account that neither Verstappen nor Russell was on a push lap. The Stewards continued:\n\"It was obvious the driver of Car 1 was attempting to cool his tyres. He also could see Car 63 approaching as he looked in his mirror multiple times whilst on the small straight between Turns 11 and 12.\n\"Unusually, this incident occurred when neither car was on a push lap. Had Car 63 been on a push lap, the penalty would have most likely been the usual 3 grid position penalty, however in mitigation of penalty, it was obvious that the driver of Car 63 had clear visibility of Car 1 and that neither car was on a push lap.\"",
+    "source_domain": null,
+    "text": null,
+    "title": "Max Verstappen Penalty Costs Him Qatar Pole Position After Post",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

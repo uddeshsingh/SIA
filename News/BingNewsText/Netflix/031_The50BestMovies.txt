@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Jason Bailey",
+        "www.nytimes.com",
+        "jason-bailey"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-18 21:49:34",
+    "description": "There are so many film experiences to choose from on Netflix, let us help you narrow down your choices.",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/images/2024/10/01/multimedia/best-netflix-movies-pix1-bfvp/best-netflix-movies-pix1-bfvp-facebookJumbo.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Sign up for our Watching newsletter to get recommendations on the best films and TV shows to stream and watch, delivered to your inbox.\nThe sheer volume of films on Netflix \u2014 and the site\u2019s less than ideal interface \u2014 can make finding a genuinely great movie there a difficult task. To help, we\u2019ve plucked out the 50 best films currently streaming on the service in the United States, updated regularly as titles come and go. And as a bonus, we link to more great movies on Netflix within many of our write-ups below. (Note: Streaming services sometimes remove titles or change starting dates without giving notice.)\nHere are our lists of the best TV shows on Netflix, the best movies on Amazon Prime Video and the best of everything on Hulu and Disney Plus.\n\u2018Woman of the Hour\u2019 (2024)\nAnna Kendrick makes an impressive directorial debut in this fictionalized account of the serial killer Rodney Alcala, who \u2014 in the midst of a yearslong spree of sexual assaults and murders \u2014 appeared as one of the bachelors on \u201cThe Dating Game\u201d in 1978. Kendrick also stars as Sheryl, the bachelorette who appeared opposite him (and chose him from three finalists) on that game show. To the credit of the screenwriter Ian McDonald, \u201cWoman\u201d is less interested in this monster than his victims, who are seen in flashbacks and flash-forwards, and in Sheryl, who becomes an avatar for the fears and frustrations of the \u201cliberated woman\u201d of the era. Our critic praised Kendrick\u2019s ability to balance \u201cthe buoyant goofiness of a TV game show with a menacing undertone.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "The 50 Best Movies on Netflix Right Now",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

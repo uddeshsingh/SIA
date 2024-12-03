@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Jacorey Moon"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:30:07",
+    "description": "Amazon is known for selling trendy, sturdy furniture finds \u2014 we rounded up ten deals to shop that exude rich mom energy!",
+    "filename": ".json",
+    "image_url": "https://www.usmagazine.com/wp-content/uploads/2024/11/rich-mom-furniture-deals.jpg?crop=0px%2C281px%2C2000px%2C1051px&resize=1200%2C630&quality=70&strip=all",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Let\u2019s face it: The rich mom aesthetic is not going anywhere any time soon \u2014 seriously! This style is so popular because it can extend past clothing and help you reinvent your home. Whether you need a new piece of furniture or want to reinvigorate your space in general, now is the time to do invest in new furniture deals and save a few bucks on Amazon!\nFrom bedding to decor, Amazon has something for every person\u2019s home that won\u2019t cost a fortune! We rounded up ten furniture deals to shop at Amazon that will help you exude rich mom energy no matter what \u2014 read on to see our picks!\n1. Counting Sheep: This Sha Cerlin queen size metal platform bed will help you sleep peacefully \u2014 was $170, now just $126!\n2. Abstract Queen: We love this Tribesigns 41.3\u2033 console table because it\u2019s so abstract and different. It\u2019s sure to become a compliment magnet for you \u2014 was $160, now just $112!\n3. Lights On: These Innqoo industrial table lamps are modern and functional \u2014 was $50, now just $40!\n4. Store Me: For the girl who has too many pairs of shoes, this Maupvit shoe storage cabinet can help seamlessly \u2014 was $180, now just $117!\n5. Elegance Only: If you like fashion-forward furniture, this Sweetcrispy lift top coffee table is right up your alley \u2014 was $70, now just $66!\n6.Outside Splendor: This lamaker 3-pieces wicker patio set will help you entertain with ease \u2014 was $120, now just $95!\n7. Clean And Simple: This Qeeig narrow c shaped side table set are so cute, and they can hold tons of things \u2014 was $65, now just $40!\n8. Plushly Soft: This Poly & Bark Essexl leather couch that it\u2019s sure to become a key player in your living room \u2014 seriously \u2014 was $2,195, now just $1,519!\n9. Fuzzy Wuzzy: We can\u2019t get enough of this Greenstell vanity stool chair because it uses faux fur for style points and it comes with storage \u2014 was $50, now just $47!",
+    "source_domain": null,
+    "text": null,
+    "title": "10 Furniture Deals to Shop Now at Amazon That Feel Luxe",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

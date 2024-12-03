@@ -1,0 +1,17 @@
+Authors: ['Philippine Daily Inquirer']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-07 02:28:56
+Description: Tesla Motors is making a big splash in the Philippines with the opening on Friday of first Tesla Showroom Flagship Experience Center in the country.
+Filename: .json
+Image_Url: https://business.inquirer.net/files/2024/07/bizbuzz-2024.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: BIZ BUZZ: Tesla is coming to town
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: It will be housed at Uptown Parade, one of the many developments within the Uptown Bonifacio township developed by Andrew Tan-led property leader Megaworld Corp. READ: Cybertruck’s supervised self-driving feature open to select users No less than Alliance Global Group Inc. President and CEO Kevin Tan and Megaworld President Lourdes Gutierrez-Alfonso will lead the opening of the facility that includes an after-sales service center aside from the showroom. Article continues after this advertisement Uptown is already home to many firsts—the first Tim Hortons, Randy’s Donuts, Tempur Cinema and soon, Morton’s Steakhouse. Article continues after this advertisement Tesla says the opening is a “celebration to remember” and showcases its commitment “to revolutionizing” the local landscape. READ: PAL to debut Cebu-Osaka flights in December The Hokkaido city is Japan’s winter destination for skiing and snowboarding. The budget carrier has been seeing strong interest in its routes to Japan, nearly doubling its passenger volume to the tourist destination to 110,000 in the first quarter.
+Financial_Events: []

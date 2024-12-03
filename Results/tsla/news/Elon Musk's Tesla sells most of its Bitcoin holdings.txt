@@ -1,0 +1,17 @@
+Authors: ['BBC News']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2022-07-20 22:48:02
+Description: The announcement comes as the value of the world's biggest cryptocurrency has plunged.
+Filename: .json
+Image_Url: https://ichef.bbci.co.uk/news/1024/branded_news/EA9B/production/_125995006_musk_getty.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Elon Musk's Tesla sells most of its Bitcoin holdings
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Tesla, which made waves last year when it revealed a major investment in Bitcoin, has now sold off most of its holdings of the cryptocurrency. Tesla boss Elon Musk has been among the most high profile champions of cryptocurrency, with his pronouncements on social media often driving significant trading activity. Tesla's $1.5bn investment in Bitcoin, revealed in February 2021, prompted a surge of demand in the currency. Whether it's promising driverless tech or buying social media companies, Mr Musk's pronouncements don't always come to pass. However, the company reported higher-than-expected profit for the three months to the end of June as price increases of its best-selling cars helped offset challenges, including lockdowns in China.
+Financial_Events: ['It said Bitcoin was one of the factors that hurt its profitability.\nHowever, the company reported higher-than-expected profit for the three months to the end of June as price increases of its best-selling cars helped offset challenges, including lockdowns in China.\nIt also promised a "record-breaking second half" to the year.\nTesla said production at its factory in China rose to a monthly record as Covid-19 restrictions were lifted.']

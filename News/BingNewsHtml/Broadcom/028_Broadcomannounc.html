@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html class="theme-light" lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}}); 
+/* ]]> */
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="always">
+    <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/icons/favicon-16x16.png">
+    <link rel="manifest" href="/wp-content/icons/site.webmanifest">
+    <link rel="mask-icon" href="/wp-content/icons/safari-pinned-tab.svg" color="#f6a234">
+    <link rel="shortcut icon" href="/wp-content/icons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#f6a234">
+    <meta name="msapplication-config" content="/wp-content/icons/browserconfig.xml">
+    <meta name="theme-color" content="#f6a234">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="preconnect" href="https://cdn-cookieyes.com" />
+<link rel="preconnect" href="https://service.techzine.eu" />
+<link rel="preconnect" href="https://www.techzine.nl" />
+<link rel="preconnect" href="https://media.aso1.net" />
+<link rel="preconnect" href="https://snap.licdn.com" /><link rel="alternate" hreflang="nl-NL" href="https://www.techzine.nl/nieuws/infrastructure/556316/broadcom-komt-met-velorain-architectuur-voor-velocloud/" /><link rel="alternate" hreflang="nl-BE" href="https://www.techzine.be/nieuws/infrastructure/73860/broadcom-komt-met-velorain-architectuur-voor-velocloud/" /><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.9 (Yoast SEO v23.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Broadcom announces VeloRAIN architecture for VeloCloud: what is that? - Techzine Global</title>
+	<meta name="description" content="After some actual, physical downpours at the beginning of VMware Explore in Barcelona, Broadcom is also making it rain metaphorically this week. It Broadcom is giving VeloCloud a fundamental update. In this article, read all about VeloRAIN and new VeloCloud Edge appliances." />
+	<link rel="canonical" href="https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Broadcom announces VeloRAIN architecture for VeloCloud: what is that?" />
+	<meta property="og:description" content="After some actual, physical downpours at the beginning of VMware Explore in Barcelona, Broadcom is also making it rain metaphorically this week. It" />
+	<meta property="og:url" content="https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/" />
+	<meta property="og:site_name" content="Techzine Global" />
+	<meta property="article:modified_time" content="2024-11-05T06:36:35+00:00" />
+	<meta property="og:image" content="https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN.jpg" />
+	<meta property="og:image:width" content="1792" />
+	<meta property="og:image:height" content="1024" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@techzineeu" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#article","isPartOf":{"@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/"},"author":{"name":"Sander Almekinders","@id":"https://www.techzine.eu/#/schema/person/6b55f04fb333c94e10d002998b08c591"},"headline":"Broadcom announces VeloRAIN architecture for VeloCloud: what is that?","datePublished":"2024-11-05T08:00:00+00:00","dateModified":"2024-11-05T06:36:35+00:00","mainEntityOfPage":{"@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/"},"wordCount":938,"publisher":{"@id":"https://www.techzine.eu/#organization"},"image":{"@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#primaryimage"},"thumbnailUrl":"https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN.jpg","keywords":["AI network","Broadcom VeloCloud","VeloCloud Edge","VeloRAIN","VMware by Broadcom"],"articleSection":["Infrastructure"],"inLanguage":"en-US","copyrightYear":"2024","copyrightHolder":{"@id":"https://www.techzine.eu/#organization"}},{"@type":"WebPage","@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/","url":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/","name":"Broadcom announces VeloRAIN architecture for VeloCloud: what is that? - Techzine Global","isPartOf":{"@id":"https://www.techzine.eu/#website"},"primaryImageOfPage":{"@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#primaryimage"},"image":{"@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#primaryimage"},"thumbnailUrl":"https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN.jpg","datePublished":"2024-11-05T08:00:00+00:00","dateModified":"2024-11-05T06:36:35+00:00","description":"After some actual, physical downpours at the beginning of VMware Explore in Barcelona, Broadcom is also making it rain metaphorically this week. It Broadcom is giving VeloCloud a fundamental update. In this article, read all about VeloRAIN and new VeloCloud Edge appliances.","breadcrumb":{"@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#primaryimage","url":"https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN.jpg","contentUrl":"https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN.jpg","width":1792,"height":1024},{"@type":"BreadcrumbList","@id":"https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Techzine","item":"https://www.techzine.eu/"},{"@type":"ListItem","position":2,"name":"News","item":"https://www.techzine.eu/news/"},{"@type":"ListItem","position":3,"name":"Infrastructure","item":"https://www.techzine.eu/infrastructure/"},{"@type":"ListItem","position":4,"name":"Broadcom announces VeloRAIN architecture for VeloCloud: what is that?"}]},{"@type":"WebSite","@id":"https://www.techzine.eu/#website","url":"https://www.techzine.eu/","name":"Techzine Global","description":"Your single source of truth","publisher":{"@id":"https://www.techzine.eu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.techzine.eu/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.techzine.eu/#organization","name":"Techzine","alternateName":"Dolphin Publications","url":"https://www.techzine.eu/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.techzine.eu/#/schema/logo/image/","url":"https://www.techzine.eu/wp-content/uploads/2024/07/icon.png","contentUrl":"https://www.techzine.eu/wp-content/uploads/2024/07/icon.png","width":500,"height":500,"caption":"Techzine"},"image":{"@id":"https://www.techzine.eu/#/schema/logo/image/"},"sameAs":["https://x.com/techzineeu","https://www.instagram.com/techzine/","https://www.linkedin.com/company/techzine-eu","https://www.youtube.com/user/techzine"],"description":"Publisher of multiple IT publications in multiple languages; Techzine and ICTMagazine","email":"info@dolphin.pub","telephone":"+31736233237","legalName":"Dolphin Publications B.V.","foundingDate":"2002-09-26","vatID":"NL861392978B01","numberOfEmployees":{"@type":"QuantitativeValue","minValue":"11","maxValue":"50"}},{"@type":"Person","@id":"https://www.techzine.eu/#/schema/person/6b55f04fb333c94e10d002998b08c591","name":"Sander Almekinders","description":"Co-owner and analyst at Dolphin Publications","sameAs":["https://www.linkedin.com/in/sanderalmekinders/"],"url":"https://www.techzine.eu/author/sander-almekinders/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Techzine Global &raquo; Feed" href="https://www.techzine.eu/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.techzine.eu/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='elasticpress-related-posts-style-inline-css' type='text/css'>
+.editor-styles-wrapper .wp-block-elasticpress-related-posts ul,.wp-block-elasticpress-related-posts ul{list-style-type:none;padding:0}.editor-styles-wrapper .wp-block-elasticpress-related-posts ul li a>div{display:inline}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='techzinev11-style-css' href='https://www.techzine.eu/wp-content/themes/techzinev11/css/style.css?ver=2024062701' type='text/css' media='screen' />
+<link rel='stylesheet' id='techzinev11-style-mobile-css' href='https://www.techzine.eu/wp-content/themes/techzinev11/css/style-mobile.css?ver=2024061403' type='text/css' media='screen and (max-width: 1023.9px)' />
+<script type="text/javascript" src="https://www.techzine.eu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.techzine.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript">
+	var crph = null; var e=window;
+	(function(e,t,o,n,p,r,i){e.crpAlias=n;e[e.crpAlias]=e[e.crpAlias]||function(){(e[e.crpAlias].q=e[e.crpAlias].q||[]).push(arguments)};e[e.crpAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://service.techzine.eu/js/events.js","crp"); crph=window.location.toString().match('crph=(.*?)(&|$)')||null; if(crph!=null){crph=crph[1];}else{crph='';}crp('track', crph);
+	 
+</script><script>var _aso = _aso || {}; _aso.cmp = true; var screenWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;</script>
+
+<script async data-id="101239770" src="https://service.techzine.eu/cl/24a1a4c500a1977.js"></script>
+<script id="cookieyes" async type="text/javascript" src="https://cdn-cookieyes.com/client_data/0814763e01f01d328a17145c/script.js"></script> 
+<script defer data-domain="techzine.eu" src="https://service.techzine.eu/pl/script.js"></script>
+<script data-cfasync="false" async src="https://media.aso1.net/js/code.min.js"></script>
+
+
+
+
+<link rel="icon" href="https://www.techzine.eu/wp-content/uploads/2024/06/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.techzine.eu/wp-content/uploads/2024/06/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.techzine.eu/wp-content/uploads/2024/06/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.techzine.eu/wp-content/uploads/2024/06/cropped-icon-270x270.png" />
+</head>
+<body class="news-template-default single single-news postid-125920 techzineeu">
+    <header class="site-header" id="header">
+        <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+        <div class="header-wrapper">
+            <div class="container">
+                <div id="logo"><a href="https://www.techzine.eu/" rel="home">
+                                    <span>Techzine Europe</span>
+                                </a></div>
+                <div id="menu">
+                    <div class="button dropdown-toggle navbar-toggle" data-bs-toggle="dropdown" data-bs-target=".nav-dropdown"><span></span></div>
+                    <nav id="site-navigation" class="dropdown-menu depth_0 nav-dropdown">
+                        <form action="/" method="get" class="mobilesearch">
+                            <input type="text" name="s" id="s" value="" placeholder="Search for...">
+                            <button type="submit" class="search_icon"></button>
+                            <input type="hidden" name="years" value="2024,2023,2022,2021,2020">
+                        </form>
+                        <ul id="menu-master" class="navbar-nav "><li  id="menu-item-74509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home nav-item nav-item-74509"><a href="https://www.techzine.eu/" class="nav-link ">Home</a></li>
+<li  id="menu-item-74511" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-74511"><a href="https://www.techzine.eu/topstories/" class="nav-link ">Topstories</a></li>
+<li  id="menu-item-74512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-74512"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Topics</a>
+<ul class="dropdown-menu  depth_0">
+	<li  id="menu-item-74513" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74513"><a href="https://www.techzine.eu/analytics/" class="dropdown-item ">Analytics</a></li>
+	<li  id="menu-item-74514" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74514"><a href="https://www.techzine.eu/applications/" class="dropdown-item ">Applications</a></li>
+	<li  id="menu-item-74515" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74515"><a href="https://www.techzine.eu/collaboration/" class="dropdown-item ">Collaboration</a></li>
+	<li  id="menu-item-74516" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74516"><a href="https://www.techzine.eu/data-management/" class="dropdown-item ">Data Management</a></li>
+	<li  id="menu-item-74517" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74517"><a href="https://www.techzine.eu/devices/" class="dropdown-item ">Devices</a></li>
+	<li  id="menu-item-74518" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74518"><a href="https://www.techzine.eu/devops/" class="dropdown-item ">Devops</a></li>
+	<li  id="menu-item-74520" class="menu-item menu-item-type-taxonomy menu-item-object-category current-news-ancestor current-menu-parent current-news-parent nav-item nav-item-74520"><a href="https://www.techzine.eu/infrastructure/" class="dropdown-item ">Infrastructure</a></li>
+	<li  id="menu-item-74521" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74521"><a href="https://www.techzine.eu/privacy-compliance/" class="dropdown-item ">Privacy &amp; Compliance</a></li>
+	<li  id="menu-item-74522" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-74522"><a href="https://www.techzine.eu/security/" class="dropdown-item ">Security</a></li>
+</ul>
+</li>
+<li  id="menu-item-74524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-74524"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Insights</a>
+<ul class="dropdown-menu  depth_0">
+	<li  id="menu-item-74510" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-74510"><a href="https://www.techzine.eu/insights/" class="dropdown-item ">All Insights</a></li>
+	<li  id="menu-item-122024" class="menu-item menu-item-type-taxonomy menu-item-object-insights nav-item nav-item-122024"><a href="https://www.techzine.eu/insights/analytics/" class="dropdown-item ">Analytics</a></li>
+	<li  id="menu-item-121445" class="menu-item menu-item-type-taxonomy menu-item-object-insights nav-item nav-item-121445"><a href="https://www.techzine.eu/insights/cloud-erp/" class="dropdown-item ">Cloud ERP</a></li>
+	<li  id="menu-item-121446" class="menu-item menu-item-type-taxonomy menu-item-object-insights nav-item nav-item-121446"><a href="https://www.techzine.eu/insights/gen-ai/" class="dropdown-item ">Generative AI</a></li>
+	<li  id="menu-item-121447" class="menu-item menu-item-type-taxonomy menu-item-object-insights nav-item nav-item-121447"><a href="https://www.techzine.eu/insights/it-in-retail/" class="dropdown-item ">IT in Retail</a></li>
+	<li  id="menu-item-124116" class="menu-item menu-item-type-taxonomy menu-item-object-insights nav-item nav-item-124116"><a href="https://www.techzine.eu/insights/nis2/" class="dropdown-item ">NIS2</a></li>
+	<li  id="menu-item-121448" class="menu-item menu-item-type-taxonomy menu-item-object-insights nav-item nav-item-121448"><a href="https://www.techzine.eu/insights/security-platforms/" class="dropdown-item ">Security Platforms</a></li>
+	<li  id="menu-item-125258" class="menu-item menu-item-type-taxonomy menu-item-object-insights nav-item nav-item-125258"><a href="https://www.techzine.eu/insights/sentinelone/" class="dropdown-item ">SentinelOne</a></li>
+</ul>
+</li>
+<li  id="menu-item-37358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-37358"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
+<ul class="dropdown-menu  depth_0">
+	<li  id="menu-item-37360" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-37360"><a href="https://www.dolphin.pub" class="dropdown-item ">Become a partner</a></li>
+	<li  id="menu-item-42920" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-42920"><a href="https://www.techzine.eu/about-us/" class="dropdown-item ">About us</a></li>
+	<li  id="menu-item-37361" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-37361"><a href="/contact" class="dropdown-item ">Contact us</a></li>
+	<li  id="menu-item-37471" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-37471"><a href="/conditions" class="dropdown-item ">Terms and conditions</a></li>
+	<li  id="menu-item-37497" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-37497"><a href="/privacy" class="dropdown-item ">Privacy Policy</a></li>
+</ul>
+</li>
+</ul>                    </nav>
+                    <div class="search_menu_container">
+                        <div class="dropdown-toggle search-toggle" data-bs-toggle="dropdown" data-bs-target=".search-dropdown"></div>
+                        <div id="search_menu" class="dropdown-menu depth_0 search-dropdown">
+                            <form action="/" method="get">
+                                    <input type="text" name="s" id="s" value="" placeholder="Search for...">
+                                    <button type="submit" class="search_icon"></button>
+                                    <input type="hidden" name="years" value="2024,2023,2022">
+                            </form>
+                        </div>
+                    </div>
+                    <div class="lights-out"></div>
+                    <div class="dropdown-toggle lang-toggle techzineeu" data-bs-toggle="dropdown" data-bs-target=".lang-dropdown"><span></span></div>
+                    <div id="lang" class="dropdown-menu depth_0 lang-dropdown">
+                        <ul>
+                            <li><a href="https://www.techzine.eu" rel="external">Techzine Europe</a></li>
+                            <li><a href="https://www.techzine.nl" rel="external">Techzine Netherlands</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<div id="breadcrumbs"><span><span><a href="https://www.techzine.eu/">Techzine</a></span>  <span><a href="https://www.techzine.eu/news/">News</a></span>  <span><a href="https://www.techzine.eu/infrastructure/">Infrastructure</a></span>  <span class="breadcrumb_last" aria-current="page"><strong>Broadcom announces VeloRAIN architecture for VeloCloud: what is that?</strong></span></span></div>
+    </header>
+
+	<div id="content" class="site-content">
+        <div class="color_bar"></div>	<div class="container chimney">
+		            <div id="first_chimney">
+                <script>
+                    if(screenWidth >= 1000) {
+                        var banelm = document.createElement("ins");
+                        banelm.setAttribute("data-zone", "119371");
+                        banelm.classList.add("aso-zone");
+                        document.getElementById('first_chimney').appendChild(banelm);
+                    }
+                    if(screenWidth < 1000) {
+                        var banelm = document.createElement("ins");
+                        banelm.setAttribute("data-zone", "119372");
+                        banelm.classList.add("aso-zone");
+                        document.getElementById('first_chimney').appendChild(banelm);
+                    }
+                </script>
+            </div>
+            	</div>
+    <main id="main" class="site-main container" role="main">
+        <article id="post-125920" class="main-article post-125920 news type-news status-publish has-post-thumbnail category-infrastructure tag-ai-network tag-broadcom-velocloud tag-velocloud-edge tag-velorain tag-vmware-by-broadcom">
+            <header class="entry-header ">
+                <div class="header_title">
+                    <div class="meta">
+                        <span class="time">5 min</span>
+                        <span class="divider"></span>
+                        <a class="cat" href="/infrastructure/">Infrastructure</a>
+                                            </div>
+                    <h1 class="entry-title" itemprop="headline">Broadcom announces VeloRAIN architecture for VeloCloud: what is that?</h1>                                                        </div>
+                <div class="header_meta">
+                    <div class="author">
+                        <div class="author-image">
+                            <img alt='' src='https://www.techzine.eu/wp-content/uploads/2022/03/sander.jpg' srcset='https://www.techzine.eu/wp-content/uploads/2022/03/sander.jpg 2x' class='avatar avatar-100 photo' height='100' width='100' decoding='async'/>                        </div>
+                        <div class="info">
+                            <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://www.techzine.eu/author/sander-almekinders/"><span class="author vcard" itemprop="name">Sander Almekinders</span></a></span><a href="https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/" rel="bookmark"><time class="entry-date published" itemprop="datePublished" datetime="2024-11-05T09:00:00+01:00">November 5, 2024 9:00 am</time><time class="updated" itemprop="dateModified" datetime="2024-11-05T07:36:35+01:00">November 5, 2024</time></a>                        </div>
+                    </div>
+                    <div class="share-buttons">
+                        <div><a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/&title=Broadcom announces VeloRAIN architecture for VeloCloud: what is that?&summary=&source=techzine" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&url=https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/&title=Broadcom announces VeloRAIN architecture for VeloCloud: what is that?&summary=&source=techzine','', 'width=700,height=450'); return false" target="_blank"><span></span></a></div>
+                        <div><a class="twitter" href="http://twitter.com/share?url=https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/&amp;via=techzine&amp;text=Just%20read%20on%Techzine: Broadcom announces VeloRAIN architecture for VeloCloud: what is that?"
+                                onclick="window.open('http://twitter.com/share?url=https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/&amp;via=techzine&amp;text=Broadcom announces VeloRAIN architecture for VeloCloud: what is that?','Tweet', 'width=700,height=450'); return false" data-count="none" data-via="techzine" target="_blank"><span></span></a></div>
+                        <div><a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/','', 'width=700,height=450'); return false" target="_blank"><span></span></a></div>
+                        <div><a class="whatsapp" href="whatsapp://send?text=You should read this story on Techzine: https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/" target="_blank"><span></span></a></div>
+                    </div>
+                </div>
+                                <figure class="article-image">
+                    <img width="768" height="439" src="https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN-768x439.jpg" class="cover wp-post-image" alt="Broadcom announces VeloRAIN architecture for VeloCloud: what is that?" id="primaryimage" fetchpriority="high" srcset="https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN-768x439.jpg 768w, https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN-450x257.jpg 450w, https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN-1500x857.jpg 1500w, https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN-1536x878.jpg 1536w, https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN.jpg 1792w" sizes="(max-width: 768px) 100vw, 768px" />                </figure>
+                            </header>
+          	<div id="primary" class="content-area">
+                <div class="entry-content" itemprop="articleBody">
+                    
+<p><strong>After some actual, physical downpours at the beginning of VMware Explore in Barcelona, Broadcom is also making it rain metaphorically this week. It announces several enhancements to its VeloCloud SD-WAN portfolio. Chief among them is the announcement of VeloRAIN, a network architecture specifically aimed at AI workloads. There are also some new edge devices on the horizon and Broadcom is introducing a new partner program. We break down the new components of VeloCloud for you below.</strong></p>
+
+
+
+<p>Broadcom has traditionally felt at home in the networking world. As such, edge and SD-WAN feel like natural environments for the company. However, it also sees that with the rise of GenAI workloads, it needs to improve the network. After all, after compute, that is the most important component in any AI stack. Hence, Broadcom is equipping the VeloCloud portfolio with VeloRAIN, where RAIN stands for Robust AI Networking.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-broadcom-velocloud-gets-velorain-foundation">Broadcom VeloCloud gets VeloRAIN foundation</h2>
+
+
+
+<p>For Broadcom, VeloRAIN is the foundation for all the networking innovation the company is doing in the field of AI. It should boost the entire portfolio. At least that&#8217;s what Sanjay Uppal, the VP and GM for the VeloCloud division at Broadcom, says. By this he means not only distributed inferencing workloads, but also agentic applications and heavy Retrieval-Augmented Generation (RAG) tasks. It is intended to improve not only the user experience in such workloads, but also security.</p>
+
+
+
+<p>Broadcom VeloRAIN (the company no longer seems to use the prefix VMware in conjunction with VeloCloud) consists of several components. First, VeloRAIN uses AI and ML to detect AI applications. This was not possible or difficult to do until now due to the fact that this traffic was encrypted, among other things. That made it difficult to effectively identify AI applications and then also be able to provide them with appropriate prioritization on the network. Without that prioritization, it is hard to to guarantee performance. In other words, the Quality of Service was not as it should be.</p>
+
+
+
+<p>The second part of VeloRAIN is concerned with optimizing the use of the network. It brings new features for intelligently estimating how to deploy and utilize channels of wireless links such as 5G and satellite. The goal is to be able to provide &#8220;fiber-like&#8221; Quality of Service over these wireless links. Not only that, these new features should also allow organizations to more easily and quickly set up and deploy a network at (edge) locations where they want it.</p>
+
+
+
+<p>Finally, there&#8217;s the third component of VeloRAIN. This is not so much concerned with the network, but with setting up policies for prioritizing applications. For this, Broadcom uses AI, which should prioritize new applications automatically. It should also ensure that critical applications get the attention they deserve without the need for manual intervention. It also involves so-called DABS, or Dynamic Application-Based Slicing. This makes it possible to give applications an optimal Quality of Experience, regardless of the complexity of the underlying network. So that can include multiple networks. </p>
+
+
+
+<h2 class="wp-block-heading" id="h-new-velocloud-edge-4100-and-5100">New VeloCloud Edge 4100 and 5100</h2>
+
+
+
+<p>In addition to a new network architecture with VeloRAIN, Broadcom also has news in the hardware space. It also announces the VeloCloud Edge 4100 and 5100 appliances today. These are designed for large branch sites, regional hubs and data centers. They should provide organizations with the SD-WAN, security and AI networking they need in their most demanding environments.</p>
+
+
+
+<p>The VeloCloud Edge 4100 offers up to 30 Gbps of throughput and can set up to 12,000 tunnels. That&#8217;s an improvement of up to 300 percent over its predecessor, the 3400- and 3800/3810-series appliances, according to Broadcom. The VeloCloud Edge 5100 takes this up a notch, with a throughput of 100 Gbps and the ability to set up up to 20,000 tunnels. This is not a replacement for an existing device, but a completely new product that can be seen as a new high-end offering. By greatly increasing the throughput and number of tunnels in general, organizations need to deploy fewer devices. That makes for a simpler network architecture, is the idea.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-titan-a-new-partner-program-for-velocloud">Titan: a new partner program for VeloCloud</h2>
+
+
+
+<p>The latest announcement Broadcom is making today at VMware Explore regarding VeloCloud is that there will be a new partner program. This program has been named Titan, or the Broadcom Advantage Partner Program for VeloCloud. Again, we see the VMware name being erased, as this program was always called the VMware VeloCloud Partner Program. According to Broadcom, the new program is built with MSPs in mind and consists of three tiers: Pinnacle, Premier and Registered. Other than that, it looks broadly like other partner programs we&#8217;ve seen. An interesting component, as far as we&#8217;re concerned, is that there will be a &#8220;white label&#8221; offering for partners in the highest tier. They can grow VeloCloud through regional and specialized channel partners with this offering.</p>
+
+
+
+<p>All in all, Broadcom gives VeloCloud a substantial update today. VeloRAIN in particular catches our eye, and piques our interest. With it, Broadcom aims to move its SD-WAN offerings into the AI era. With the new VeloCloud Edge devices, Broadcom is also making the edge part of the larger AI story more than it did until now. That is, the desire in the market to do AI at the edge at organizations can now also be better fulfilled. The idea that this can be done without increasing (and perhaps even while decreasing) complexity is also certainly interesting. Finally, the new partner program should bring everything to market optimally.</p>
+
+
+
+<p>We currently have no information on when the architecture, devices and programs announced today will be available.</p>
+
+
+
+<p><strong>Also read: </strong><a href="https://www.techzine.eu/blogs/infrastructure/123794/vcf-9-is-a-new-beginning-for-vmware-by-broadcom/">VCF 9 is a new beginning for VMware by Broadcom</a></p>
+
+
+
+<p></p>
+                </div><!-- .entry-content -->
+                <footer class="entry-footer">
+                                            <aside id="tags">
+                                <h4 class="tag_title">Tags:</h4>
+                                    <p class="tags"><a href="https://www.techzine.eu/tag/ai-network/" rel="tag">AI network</a> / <a href="https://www.techzine.eu/tag/broadcom-velocloud/" rel="tag">Broadcom VeloCloud</a> / <a href="https://www.techzine.eu/tag/velocloud-edge/" rel="tag">VeloCloud Edge</a> / <a href="https://www.techzine.eu/tag/velorain/" rel="tag">VeloRAIN</a> / <a href="https://www.techzine.eu/tag/vmware-by-broadcom/" rel="tag">VMware by Broadcom</a>                            </aside>
+                                                        <div class="divider"></div>
+                                        <div class="subscribe_block">
+                <script type="text/javascript"></script>
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework crsubscribe_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+							<p class='gform_required_legend'>&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='crsubscribe' action='/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/#gf_1' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_1_5" class="gfield gfield--type-html gfield--width-full header gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_5" ><h4 id="subscribeTitle">Stay tuned, subscribe!</h4>
+<script>
+var newsletter_titles = ['Stay informed!', 'Don\'t miss any IT development', 'Stay tuned, subscribe!', 'Subscribe to our newsletters', 'Techzine newsletters'];
+document.getElementById('subscribeTitle').innerHTML = newsletter_titles[Math.floor(Math.random() * 4)];
+</script></div><div id="field_1_2" class="gfield gfield--type-email cremail gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_1_2" ><label class='gfield_label gform-field-label' for='input_1_2'>E-mailadres<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_1_2' type='email' value='' class='large'   placeholder='name@organisation.com' aria-required="true" aria-invalid="false"  autocomplete="email"/>
+                        </div></div><fieldset id="field_1_3" class="gfield gfield--type-checkbox gfield--type-choice gfield--width-full crlists gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_1_3" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Nieuwsbrieven<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class='ginput_container ginput_container_checkbox'><div class='gfield_checkbox ' id='input_1_3'><div class='gchoice gchoice_1_3_1'>
+								<input class='gfield-choice-input' name='input_3.1' type='checkbox'  value='84623970802861205'  id='choice_1_3_1'   />
+								<label for='choice_1_3_1' id='label_1_3_1' class='gform-field-label gform-field-label--type-inline'>Morning Bytes</label>
+							</div><div class='gchoice gchoice_1_3_2'>
+								<input class='gfield-choice-input' name='input_3.2' type='checkbox'  value='84623981521405447'  id='choice_1_3_2'   />
+								<label for='choice_1_3_2' id='label_1_3_2' class='gform-field-label gform-field-label--type-inline'>Weekly Advisor</label>
+							</div></div></div></fieldset><div id="field_1_6" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_6" ><label class='gfield_label gform-field-label' for='input_1_6'>Comments</label><div class='ginput_container'><input name='input_6' id='input_1_6' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_6'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' onclick='gform.submission.handleButtonClick(this)' value='Subscribe →'  /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImY2ZDQ1MGJiNmU1MDRmMjc5Yzk3OThjMmE1OTYyMjE4Il0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://www.techzine.eu/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://www.techzine.eu/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            gform.utils.trigger( { event: 'gform/post_render', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+            </div>                            <aside id="related">
+                                <h2 class="section-link">
+                                    <span></span>Related                                </h2>
+
+                                
+<div id="post-124646" class="article-spotlight news post-124646 type-news status-publish has-post-thumbnail category-infrastructure tag-att tag-broadcom tag-lawsuit tag-license-agreement tag-vmware">
+        <div class="content">
+        <a href="https://www.techzine.eu/news/infrastructure/124646/att-accuses-vmware-owner-broadcom-of-bullying-tactics-and-price-gouging/" title="Update: AT&amp;T and Broadcom close to settlement of legal dispute">
+            <h2>Update: AT&amp;T and Broadcom close to settlement of legal dispute</h2>
+        </a>
+                    </div>
+</div>
+
+<div id="post-124738" class="article-spotlight news post-124738 type-news status-publish has-post-thumbnail category-privacy-compliance tag-broadcom tag-bundling tag-takeover tag-virtualization tag-vmware">
+        <div class="content">
+        <a href="https://www.techzine.eu/news/privacy-compliance/124738/vmware-bundling-puts-broadcom-japans-crosshairs/" title="VMware bundling puts Broadcom in Japan&#8217;s crosshairs">
+            <h2>VMware bundling puts Broadcom in Japan&#8217;s crosshairs</h2>
+        </a>
+                    </div>
+</div>
+
+<div id="post-123802" class="article-spotlight news post-123802 type-news status-publish has-post-thumbnail category-infrastructure tag-broadcom tag-edge-ai tag-edge-computing tag-velocloud tag-vmware tag-vmware-sd-wan-by-velocloud">
+        <div class="content">
+        <a href="https://www.techzine.eu/news/infrastructure/123802/broadcom-revamps-vmware-offering-with-support-for-edge-ai-workloads/" title="Broadcom revamps VMware offering with support for Edge AI workloads">
+            <h2>Broadcom revamps VMware offering with support for Edge AI workloads</h2>
+        </a>
+                    </div>
+</div>
+
+<div id="post-123799" class="article-spotlight news post-123799 type-news status-publish has-post-thumbnail category-infrastructure tag-ai tag-broadcom tag-kubernetes tag-tanzu tag-vmware tag-vmware-by-broadcom">
+        <div class="content">
+        <a href="https://www.techzine.eu/news/infrastructure/123799/vmware-tanzu-platform-10-wants-ai-apps-to-feel-right-at-home/" title="VMware Tanzu Platform 10 wants AI apps to feel right at home">
+            <h2>VMware Tanzu Platform 10 wants AI apps to feel right at home</h2>
+        </a>
+                    </div>
+</div>
+                            </aside>
+                            <img src="/pixel.php?u=/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/" class="tzpixel">                </footer><!-- .entry-footer -->
+            </div><!-- #primary -->
+                    <aside id="secondary" role="complementary">
+                <div class="sidebar">
+                    <div>
+                    <section id="popular-stories" class="spotlight-block fixed-vertical">
+    <h2 class="section-link">
+        <span></span>Editor picks    </h2>
+
+        
+<div id="post-126729" class="article-spotlight blogs post-126729 type-blogs status-publish has-post-thumbnail category-infrastructure tag-ceo tag-intel tag-pat-gelsinger tag-vmware">
+        <div class="content">
+        <a href="https://www.techzine.eu/blogs/infrastructure/126729/intel-ceo-pat-gelsinger-leaving-intel/" title="Intel CEO Pat Gelsinger leaves Intel: why, and what does that mean?">
+            <h2>Intel CEO Pat Gelsinger leaves Intel: why, and what does that mean?</h2>
+        </a>
+                                    <h3 class="subtitle">Is Intel sinking further into the quagmire?</h3>
+                                                </div>
+</div>
+
+<div id="post-126543" class="article-spotlight blogs post-126543 type-blogs status-publish has-post-thumbnail category-security tag-kaspersky tag-ot-security tag-research">
+        <div class="content">
+        <a href="https://www.techzine.eu/blogs/security/126543/the-industrial-sector-is-under-cyber-attack-what-can-be-done-about-it/" title="The industrial sector is under cyber attack: what can be done about it?">
+            <h2>The industrial sector is under cyber attack: what can be done about it?</h2>
+        </a>
+                                    <h3 class="subtitle">Prevention is being dismissed as fantasy</h3>
+                                                </div>
+</div>
+
+<div id="post-126661" class="article-spotlight news post-126661 type-news status-publish has-post-thumbnail category-infrastructure tag-infrastructure tag-sea-cables tag-un">
+        <div class="content">
+        <a href="https://www.techzine.eu/news/infrastructure/126661/advisory-body-considers-vulnerable-marine-cables/" title="Advisory body considers vulnerable marine cables">
+            <h2>Advisory body considers vulnerable marine cables</h2>
+        </a>
+                                    <p class="entry-content">
+The International Telecommunication Union (ITU) and the International...</p>
+                                                </div>
+</div>
+
+<div id="post-126591" class="article-spotlight blogs post-126591 type-blogs status-publish has-post-thumbnail category-analytics tag-ai tag-capgemini tag-capgemini-research-institute tag-energy-transition tag-genai tag-research tag-robotics tag-supply-chain">
+        <div class="content">
+        <a href="https://www.techzine.eu/blogs/analytics/126591/genai-in-2025-autonomous-for-more-industries-and-collaborative/" title="(Gen)AI in 2025: autonomous, for more industries and collaborative">
+            <h2>(Gen)AI in 2025: autonomous, for more industries and collaborative</h2>
+        </a>
+                                    <p class="entry-content">
+The five most important tech trends of 2025 will all revolve around A...</p>
+                                                </div>
+</div>
+</section>                    </div>
+                    <div class="chimney">
+                                <div id="third_chimney">
+            <script>
+                if(screenWidth >= 1000) {
+                    var banelm = document.createElement("ins");
+                    banelm.setAttribute("data-zone", "119372");
+                    banelm.classList.add("aso-zone");
+                    document.getElementById('third_chimney').appendChild(banelm);
+                }
+            </script>
+        </div>
+                            </div>
+                    <div class="spread">
+<section id="insight" class="spotlight-block fixed-vertical insight-security-platforms">
+    <h2 class="section-link">
+        <span></span><a href="/insights/security-platforms/">Insight: Security Platforms</a>
+    </h2>
+        
+<div id="post-126552" class="article-spotlight blogs post-126552 type-blogs status-publish has-post-thumbnail category-security tag-arctic-wolf tag-consolidation tag-security-market tag-security-operations-platform tag-security-platform insights-security-platforms">
+        <div class="content">
+        <a href="https://www.techzine.eu/blogs/security/126552/arctic-wolf-ceo-platform-is-what-customers-are-really-looking-for/" title="Arctic Wolf CEO: &#8220;Platform is what customers are really looking for&#8221;">
+            <h2>Arctic Wolf CEO: &#8220;Platform is what customers are really looking for&#8221;</h2>
+        </a>
+                                    <h3 class="subtitle">The security platform is gaining traction</h3>
+                                </div>
+</div>
+
+<div id="post-124822" class="article-spotlight blogs post-124822 type-blogs status-publish has-post-thumbnail category-security tag-ai-agent tag-autonomous-security tag-greymatter tag-reliaquest insights-security-platforms">
+        <div class="content">
+        <a href="https://www.techzine.eu/blogs/security/124822/reliaquest-brings-autonomous-cybersecurity-step-closer-with-ai-agent/" title="ReliaQuest brings autonomous cybersecurity step closer with AI Agent">
+            <h2>ReliaQuest brings autonomous cybersecurity step closer with AI Agent</h2>
+        </a>
+                                    <p class="entry-content">
+More than 15 years of ReliaQuest's experience comes together in AI Ag...</p>
+                                </div>
+</div>
+        
+<div id="post-113162" class="article-spotlight blogs post-113162 type-blogs status-publish has-post-thumbnail category-security tag-artificial-intelligence tag-automation tag-cyber-insurance tag-cybersecurity tag-nis2 tag-ransomware tag-security-awareness insights-security-platforms">
+        <a href="https://www.techzine.eu/blogs/security/113162/cybersecurity-in-2023-is-it-five-to-or-five-past-twelve/" class="img-link" title="Cybersecurity in 2023: Is it five to or five past twelve?">
+        <img width="150" height="90" src="https://www.techzine.eu/wp-content/uploads/2023/11/16983234196532-scaled-1-150x90.jpg" class="cover wp-post-image" alt="Cybersecurity in 2023: Is it five to or five past twelve?" loading="lazy" decoding="async" />    </a>
+        <div class="content">
+        <a href="https://www.techzine.eu/blogs/security/113162/cybersecurity-in-2023-is-it-five-to-or-five-past-twelve/" title="Cybersecurity in 2023: Is it five to or five past twelve?">
+            <h2>Cybersecurity in 2023: Is it five to or five past twelve?</h2>
+        </a>
+                                    <p class="entry-content">
+No day in the cyber world looks the same. With attack frequency and s...</p>
+                                </div>
+</div>
+
+<div id="post-67229" class="article-spotlight blogs post-67229 type-blogs status-publish has-post-thumbnail category-security tag-check-point tag-cybercrime tag-data-breach tag-sophos tag-vmware-carbon-black insights-security-platforms">
+        <a href="https://www.techzine.eu/blogs/security/67229/what-are-the-current-cyber-security-threats-an-overview/" class="img-link" title="What are the current cyber security threats? An overview">
+        <img width="100" height="60" src="https://www.techzine.eu/wp-content/uploads/2021/10/shutterstock_1878883150-e1634148977989-100x60.png" class="cover wp-post-image" alt="What are the current cyber security threats? An overview" loading="lazy" decoding="async" />    </a>
+        <div class="content">
+        <a href="https://www.techzine.eu/blogs/security/67229/what-are-the-current-cyber-security-threats-an-overview/" title="What are the current cyber security threats? An overview">
+            <h2>What are the current cyber security threats? An overview</h2>
+        </a>
+                                    <p class="entry-content">
+Cybersecurity is in a state of constant change. The attack surfaces o...</p>
+                                </div>
+</div>
+</section>
+</div>
+                </div>
+            </aside>
+            </article>
+    </main><!-- #main -->
+    <div class="container chimney">
+                    <div id="second_chimney">
+                <script>
+                    if(screenWidth >= 1000) {
+                        var banelm = document.createElement("ins");
+                        banelm.setAttribute("data-zone", "119373");
+                        banelm.classList.add("aso-zone");
+                        document.getElementById('second_chimney').appendChild(banelm);
+                    }
+                    if(screenWidth < 1000) {
+                        var banelm = document.createElement("ins");
+                        banelm.setAttribute("data-zone", "119374");
+                        banelm.classList.add("aso-zone");
+                        document.getElementById('second_chimney').appendChild(banelm);
+                    }
+                </script>
+            </div>
+                </div>
+    <aside id="latest" class="container">
+                <h2 class="section-link">
+            <span></span><a href="/infrastructure/">Read more on Infrastructure</a>
+        </h2>
+                    <div class="latest articleview">
+        <article id="post-126741" class="article-list news post-126741 type-news status-publish has-post-thumbnail category-infrastructure tag-aws tag-google-cloud tag-microsoft-azure tag-power-usage-efficiency tag-pue">
+    <a href="https://www.techzine.eu/news/infrastructure/126741/aws-has-cloud-region-with-near-perfect-pue-score/" class="img-link" title="AWS has cloud region with near-perfect PUE score">
+        <img width="450" height="270" src="https://www.techzine.eu/wp-content/uploads/2024/12/Shutterstock_1537208690-450x270.jpg" class="cover wp-post-image" alt="AWS has cloud region with near-perfect PUE score" loading="lazy" decoding="async" srcset="https://www.techzine.eu/wp-content/uploads/2024/12/Shutterstock_1537208690-450x270.jpg 450w, https://www.techzine.eu/wp-content/uploads/2024/12/Shutterstock_1537208690-150x90.jpg 150w, https://www.techzine.eu/wp-content/uploads/2024/12/Shutterstock_1537208690-768x461.jpg 768w, https://www.techzine.eu/wp-content/uploads/2024/12/Shutterstock_1537208690.jpg 1500w" sizes="auto, (max-width: 450px) 100vw, 450px" />    </a>
+    <div class="content">
+        <span class="article-type"></span>
+        <a href="https://www.techzine.eu/news/infrastructure/126741/aws-has-cloud-region-with-near-perfect-pue-score/" title="AWS has cloud region with near-perfect PUE score">
+            <h2>AWS has cloud region with near-perfect PUE score</h2>
+        </a>
+                    <p class="entry-content">
+Today at re:Invent, for the first time ever, AWS gave some insights into how efficiently the company's data c...</p>
+                <div class="meta">
+            <span class="author"><a href="https://www.techzine.eu/author/sander-almekinders/">Sander Almekinders</a></span>            <span class="divider"></span>
+            <span class="date">32 minutes ago</span>
+        </div>
+    </div>
+</article><article id="post-126673" class="article-list experts post-126673 type-experts status-publish has-post-thumbnail category-infrastructure tag-a3-communications tag-object-first tag-pure-storage guest-expert-federica-monsone">
+    <a href="https://www.techzine.eu/experts/infrastructure/126673/having-it-both-ways-bringing-the-cloud-to-on-premises-data-storage/" class="img-link" title="Having it both ways – bringing the cloud to on-premises data storage">
+        <img width="450" height="281" src="https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_2475419979-450x281.jpg" class="cover wp-post-image" alt="Having it both ways – bringing the cloud to on-premises data storage" loading="lazy" decoding="async" srcset="https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_2475419979-450x281.jpg 450w, https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_2475419979-768x480.jpg 768w, https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_2475419979.jpg 1000w" sizes="auto, (max-width: 450px) 100vw, 450px" />    </a>
+    <div class="content">
+        <span class="article-type"><a href="/experts/">Expert Talks</a></span>
+        <a href="https://www.techzine.eu/experts/infrastructure/126673/having-it-both-ways-bringing-the-cloud-to-on-premises-data-storage/" title="Having it both ways – bringing the cloud to on-premises data storage">
+            <h2>Having it both ways – bringing the cloud to on-premises data storage</h2>
+        </a>
+                    <p class="entry-content">
+Like everything in the IT world, enterprise data storage is constantly evolving. One of the biggest changes i...</p>
+                <div class="meta">
+            <span class="author"><a href="https://www.techzine.eu/guest-expert/federica-monsone/">Federica Monsone</a></span>            <span class="divider"></span>
+            <span class="date">13 hours ago</span>
+        </div>
+    </div>
+</article><article id="post-126670" class="article-list news post-126670 type-news status-publish has-post-thumbnail category-infrastructure tag-internet tag-meta tag-sea-cable">
+    <a href="https://www.techzine.eu/news/infrastructure/126670/meta-wants-to-build-global-undersea-cable-for-10-billion/" class="img-link" title="Meta wants to build global undersea cable for 10 billion">
+        <img width="450" height="300" src="https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_1372606622-450x300.jpg" class="cover wp-post-image" alt="Meta wants to build global undersea cable for 10 billion" loading="lazy" decoding="async" srcset="https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_1372606622-450x300.jpg 450w, https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_1372606622-768x511.jpg 768w, https://www.techzine.eu/wp-content/uploads/2024/11/shutterstock_1372606622.jpg 1000w" sizes="auto, (max-width: 450px) 100vw, 450px" />    </a>
+    <div class="content">
+        <span class="article-type"></span>
+        <a href="https://www.techzine.eu/news/infrastructure/126670/meta-wants-to-build-global-undersea-cable-for-10-billion/" title="Meta wants to build global undersea cable for 10 billion">
+            <h2>Meta wants to build global undersea cable for 10 billion</h2>
+        </a>
+                    <p class="entry-content">
+Undersea cables are used for intercontinental data traffic. Meta, however, wants to build an exclusive connec...</p>
+                <div class="meta">
+            <span class="author"><a href="https://www.techzine.eu/author/erik-van-klinken/">Erik van Klinken</a></span>            <span class="divider"></span>
+            <span class="date">November 29, 2024</span>
+        </div>
+    </div>
+</article><article id="post-126737" class="article-list blogs post-126737 type-blogs status-publish has-post-thumbnail category-infrastructure tag-sovereign-cloud tag-techzine-talks-on-tour tag-vcf tag-vmware tag-vmware-cloud-foundation">
+    <a href="https://www.techzine.eu/blogs/infrastructure/126737/vmware-bets-big-on-sovereign-clouds-built-on-vcf/" class="img-link" title="VMware bets big on sovereign clouds built on VCF">
+        <img width="450" height="257" src="https://www.techzine.eu/wp-content/uploads/2024/12/TZOT_VMware-450x257.jpg" class="cover wp-post-image" alt="VMware bets big on sovereign clouds built on VCF" loading="lazy" decoding="async" srcset="https://www.techzine.eu/wp-content/uploads/2024/12/TZOT_VMware-450x257.jpg 450w, https://www.techzine.eu/wp-content/uploads/2024/12/TZOT_VMware-1500x857.jpg 1500w, https://www.techzine.eu/wp-content/uploads/2024/12/TZOT_VMware-768x439.jpg 768w, https://www.techzine.eu/wp-content/uploads/2024/12/TZOT_VMware-1536x878.jpg 1536w, https://www.techzine.eu/wp-content/uploads/2024/12/TZOT_VMware.jpg 1792w" sizes="auto, (max-width: 450px) 100vw, 450px" />    </a>
+    <div class="content">
+        <span class="article-type"><a href="/topstories/">Top story</a></span>
+        <a href="https://www.techzine.eu/blogs/infrastructure/126737/vmware-bets-big-on-sovereign-clouds-built-on-vcf/" title="VMware bets big on sovereign clouds built on VCF">
+            <h2>VMware bets big on sovereign clouds built on VCF</h2>
+        </a>
+                    <h3 class="subtitle">Is VMware Cloud Foundation the ideal foundation for sovereign clouds?</h3>
+                <div class="meta">
+            <span class="author"><a href="https://www.techzine.eu/author/sander-almekinders/">Sander Almekinders</a></span>            <span class="divider"></span>
+            <span class="date">2 hours ago</span>
+        </div>
+    </div>
+</article>        </div>
+    </aside>
+
+    <aside id="services" class="spotlight-block">
+        <div class="container">
+            <div class="spread">
+<section id="whitepapers" class="spotlight-block fixed-vertical">
+    <h2 class="section-link">
+        <span></span><a href="/whitepapers/">Whitepapers</a>
+    </h2>
+
+        
+<div id="post-122599" class="article-spotlight whitepapers post-122599 type-whitepapers status-publish has-post-thumbnail category-infrastructure tag-ai tag-artificial-intelligence tag-data tag-digital-realty">
+        <a href="https://www.techzine.eu/whitepapers/infrastructure/122599/are-you-data-and-ai-ready/" class="img-link" title="Are you data and AI ready?">
+        <img width="150" height="90" src="https://www.techzine.eu/wp-content/uploads/2024/07/Image_WP_AI-en_Data_Ready-150x90.png" class="cover wp-post-image" alt="Are you data and AI ready?" loading="lazy" decoding="async" />    </a>
+        <div class="content">
+        <a href="https://www.techzine.eu/whitepapers/infrastructure/122599/are-you-data-and-ai-ready/" title="Are you data and AI ready?">
+            <h2>Are you data and AI ready?</h2>
+        </a>
+                                    <p class="entry-content">
+Discover the essential strategies and imperatives to create a data an...</p>
+                                </div>
+</div>
+
+<div id="post-108880" class="article-spotlight whitepapers post-108880 type-whitepapers status-publish has-post-thumbnail category-infrastructure tag-cio tag-freshworks tag-it-department">
+        <a href="https://www.techzine.eu/whitepapers/infrastructure/108880/technology-2023-four-areas-of-focus/" class="img-link" title="Technology 2023: Four areas of focus">
+        <img width="150" height="90" src="https://www.techzine.eu/wp-content/uploads/2023/07/shutterstock_293274554-150x90.jpg" class="cover wp-post-image" alt="Technology 2023: Four areas of focus" loading="lazy" decoding="async" />    </a>
+        <div class="content">
+        <a href="https://www.techzine.eu/whitepapers/infrastructure/108880/technology-2023-four-areas-of-focus/" title="Technology 2023: Four areas of focus">
+            <h2>Technology 2023: Four areas of focus</h2>
+        </a>
+                                    <p class="entry-content">
+Some companies thrive in times of external uncertainty. They know how...</p>
+                                </div>
+</div>
+
+<div id="post-108406" class="article-spotlight whitepapers post-108406 type-whitepapers status-publish has-post-thumbnail category-infrastructure tag-cio tag-freshworks tag-it-department">
+        <div class="content">
+        <a href="https://www.techzine.eu/whitepapers/infrastructure/108406/the-10-priorities-of-the-it-department/" title="The 10 priorities of the IT department">
+            <h2>The 10 priorities of the IT department</h2>
+        </a>
+                                    <p class="entry-content">
+The IT department is currently under great pressure, partly because o...</p>
+                                </div>
+</div>
+
+<div id="post-106855" class="article-spotlight whitepapers post-106855 type-whitepapers status-publish has-post-thumbnail category-security tag-api tag-code-security tag-opentext-cybersecurity">
+        <div class="content">
+        <a href="https://www.techzine.eu/whitepapers/security/106855/the-state-of-code-security/" title="The state of code security">
+            <h2>The state of code security</h2>
+        </a>
+                                    <p class="entry-content">
+As the software development life cycle becomes ever more complex and ...</p>
+                                </div>
+</div>
+</section>
+</div><div class="spread">
+<section id="jobs" class="spotlight-block fixed-vertical">
+    <h2 class="section-link">
+        <span></span><a href="https://www.techcareer.eu">Tech career</a>
+    </h2>
+            <div id="job-1981" class="article-spotlight job-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcareer.eu/job/synology-2-technical-sales-manager-h-f/" title="Technical Sales Manager (H/F)">
+                    <h2>Technical Sales Manager (H/F)</h2>
+                </a>
+                <div class="meta">
+                    <span class="location">France</span>
+                    <span class="time">Full time</span>
+                </div>
+            </div>
+        </div>
+        <div id="job-1972" class="article-spotlight job-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcareer.eu/job/de-alliantie-hilversum-2-teamleider-reparatie-en-interventieteam/" title="Teamleider Reparatie- en Interventieteam">
+                    <h2>Teamleider Reparatie- en Interventieteam</h2>
+                </a>
+                <div class="meta">
+                    <span class="location">Hilversum</span>
+                    <span class="time">Full time</span>
+                </div>
+            </div>
+        </div>
+        <div id="job-1995" class="article-spotlight job-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcareer.eu/job/coolblue-deventer-2-warmtepompen-installateur/" title="Warmtepompen Installateur">
+                    <h2>Warmtepompen Installateur</h2>
+                </a>
+                <div class="meta">
+                    <span class="location">Deventer</span>
+                    <span class="time">Full time</span>
+                </div>
+            </div>
+        </div>
+        <div id="job-1988" class="article-spotlight job-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcareer.eu/job/sentinelone-amsterdam-2-enterprise-sales-executive-benelux/" title="Enterprise Sales Executive Benelux">
+                    <h2>Enterprise Sales Executive Benelux</h2>
+                </a>
+                <div class="meta">
+                    <span class="location">Amsterdam</span>
+                    <span class="time">Full time</span>
+                </div>
+            </div>
+        </div>
+</section>
+</div>
+<div class="spread">
+<section id="events" class="spotlight-block fixed-vertical">
+    <h2 class="section-link">
+        <span></span><a href="https://www.techcalendar.eu">Tech calendar</a>
+    </h2>
+            <div id="event-2657" class="article-spotlight event-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcalendar.eu/events/t-talks-live/" title="T-Talks live!">
+                    <h2>T-Talks live!</h2>
+                </a>
+                <div class="meta">
+                    <span class="date">December 19, 2024</span>
+                    <span class="location">Nijkerk</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="event-2642" class="article-spotlight event-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcalendar.eu/events/cisco-live-2025/" title="Cisco Live 2025">
+                    <h2>Cisco Live 2025</h2>
+                </a>
+                <div class="meta">
+                    <span class="date">February 10, 2025</span>
+                    <span class="location">Amsterdam</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="event-2638" class="article-spotlight event-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcalendar.eu/events/atlassian-team-25/" title="Atlassian Team ’25">
+                    <h2>Atlassian Team ’25</h2>
+                </a>
+                <div class="meta">
+                    <span class="date">April 8, 2025</span>
+                    <span class="location">Anaheim</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="event-2632" class="article-spotlight event-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcalendar.eu/events/veeamon-2025/" title="VeeamON 2025">
+                    <h2>VeeamON 2025</h2>
+                </a>
+                <div class="meta">
+                    <span class="date">April 21, 2025</span>
+                    <span class="location">San Diego</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="event-2532" class="article-spotlight event-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcalendar.eu/events/gitex-asia-singapore/" title="Gitex Asia Singapore">
+                    <h2>Gitex Asia Singapore</h2>
+                </a>
+                <div class="meta">
+                    <span class="date">April 23, 2025</span>
+                    <span class="location">Singapore</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="event-2636" class="article-spotlight event-listing post-1 post type-post status-publish format-standard category-uncategorized">
+            <div class="content">
+                <a href="https://www.techcalendar.eu/events/sas-innovate-2025/" title="SAS Innovate 2025">
+                    <h2>SAS Innovate 2025</h2>
+                </a>
+                <div class="meta">
+                    <span class="date">May 6, 2025</span>
+                    <span class="location">Orlando</span>
+                </div>
+            </div>
+        </div>
+
+</section>
+</div>
+        </div>
+    </aside>
+
+    <div class="container chimney">
+            </div>
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+		<div class="container">
+			<div class="site-info">
+                <h3><span class="icon"></span>Techzine Global</h3>
+				<p>Techzine focusses on IT professionals and business decision makers by publishing the latest IT news and background stories. The goal is to help IT professionals get acquainted with new innovative products and services, but also to offer in-depth information to help them understand products and services better.</p>
+			</div>
+			<div class="follow-us">
+				<div>
+                    <h3>Follow us</h3>
+	    			<div class="social">
+                                                <div><a class="twitter" href="https://x.com/techzine" rel="external"><span>Twitter</span></a></div>
+                                                <div><a class="linkedin" href="https://www.linkedin.com/company/techzine-eu" rel="external"><span>LinkedIn</span></a></div>
+                                                <div><a class="youtube" href="https://www.youtube.com/@Techzine" rel="external"><span>YouTube</span></a></div>
+                                            </div>
+                </div>
+                <p class="copyright">© 2024 Dolphin Publications B.V.<br>All rights reserved.</p>
+			</div>
+			<div class="footer-service">
+					<h3>Techzine Service</h3>
+					<ul class="footer-links">
+						<li><a href="https://www.dolphin.pub/" rel="external">Become a partner</a></li>
+                        <li><a href="https://www.dolphin.pub/" rel="external">Advertising</a></li>
+						<li><a href="/about-us/">About Us</a></li>
+                        <li><a href="/contact/">Contact</a></li>
+						<li><a href="/conditions/">Terms & Conditions</a></li>
+						<li><a href="/privacy/">Privacy Statement</a></li>
+					</ul>
+			</div>
+		</div><!-- .container -->
+	</footer><!-- #colophon -->
+
+
+<script type="text/javascript">
+_linkedin_partner_id = "1480961";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1480961&fmt=gif" />
+</noscript>
+<link rel='stylesheet' id='gform_basic-css' href='https://www.techzine.eu/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://www.techzine.eu/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://www.techzine.eu/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.9.0' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.techzine.eu/wp-content/themes/techzinev11/js/main.js?ver=2024061402" id="techzinev11-main-js"></script>
+<script type="text/javascript" src="https://www.techzine.eu/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.techzine.eu/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.techzine.eu/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.techzine.eu/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.techzine.eu/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.0" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.techzine.eu\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Euro","symbol_left":"","symbol_right":"&#8364;","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2,"code":"EUR"},"base_url":"https:\/\/www.techzine.eu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.techzine.eu\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"acd7da5ca7d7ffd347ee98183c844c1a","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.techzine.eu/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.0" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.techzine.eu/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.0" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.techzine.eu/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=f802885f3482236736b18b55abcdc360" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.techzine.eu/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=ddd2702ee024d421149a5e61416f1ff5" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"acd7da5ca7d7ffd347ee98183c844c1a"},"ajax":{"ajaxurl":"https:\/\/www.techzine.eu\/wp-admin\/admin-ajax.php","ajax_submission_nonce":"82cfd23e61","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https:\/\/www.techzine.eu\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/","config_nonce":"bd0f3208ea"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.techzine.eu/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=c055226f9b8c432c9206edab9070263c" id="gform_gravityforms_theme-js"></script>
+    <script>
+        /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);
+    </script>
+    <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: 1 } } );            gform.utils.trigger( { event: 'gform/post_render', native: false, data: { formId: 1, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+</body>
+</html>
+

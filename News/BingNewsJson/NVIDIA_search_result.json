@@ -1,0 +1,2298 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=NVIDIA",
+    "queryContext": {
+        "originalQuery": "NVIDIA",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 13100,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=NVIDIA"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=NVIDIA&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Intel's CEO steps down as the chipmaker tries to restore investor confidence",
+            "url": "https://www.msn.com/en-us/money/companies/intel-s-ceo-steps-down-as-chip-maker-tries-to-restore-investor-confidence/ar-AA1v7ONb",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Txj1ZBTDSejm8j2M3ddbvS&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "Intel's share price has almost halved this year but jumped 3% at the market open Monday after Pat Gelsinger's retirement was announced.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c5ad466d-fd68-f389-4727-7f3b9daaebf6",
+                    "name": "Bloomberg L.P."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:03:00.0000000Z",
+            "video": {
+                "name": "An AI expert discusses the hardware and infrastructure needed to properly run and train AI models",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/bd001fc2-d0d4-4e8e-8673-6950b8a566f9/ab76f14a-b656-4acc-bfda-582ccb1b_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "Business"
+        },
+        {
+            "name": "Intel now has two CEOs: Will it soon be two companies?",
+            "url": "https://www.oregonlive.com/silicon-forest/2024/12/intel-now-has-two-ceos-will-it-soon-be-two-companies.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JQUcqMzZKV-2JXADaZontS&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "The chipmaker made the unconventional decision to appoint two interim CEOs as CEO Pat Gelsinger abruptly retired.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "OregonLive.com"
+                },
+                {
+                    "name": "Intel Corporation"
+                },
+                {
+                    "name": "Portland"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Oregonian",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.cAlmKYIYwBwbrYSrvr9Jow&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:57:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Palantir Stock vs. Nvidia Stock: Billionaires Are Buying One and Selling the Other",
+            "url": "https://www.aol.com/palantir-stock-vs-nvidia-stock-230000290.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.wVathx1lJVTd0KDoUlhEMC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Among AI's hottest stocks through 2024 are data analytics company Palantir Technologies (NASDAQ: PLTR) and semiconductor leader Nvidia (NASDAQ: NVDA). Both companies have handily topped the markets this year -- with shares of Palantir rocketing by 291% while Nvidia has gained about 179% (as of market close Nov. 29).",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c3ea5c5-8119-f4b3-5019-aeed4f2f1843",
+                    "name": "Nasdaq Composite"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e8398f8f-9677-81c5-db16-8b32949217d5",
+                    "name": "Palantir Technologies"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d8bb8c2-d5dc-5159-69dc-c7a1fe132583",
+                    "name": "Semiconductor industry"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:47:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The best Cyber Monday gaming laptop deals at Amazon",
+            "url": "https://mashable.com/article/best-cyber-monday-amazon-gaming-laptop-deals-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.H8HLduzD4nrxiJfrHfILZy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Read on for a comprehensive list of Amazon's best Cyber Monday deals on gaming laptops \u2014 including an unprecedented discount on a variant of Mashable's current favorite budget machine. Note: Any deal marked with a \ud83d\udd25 has dropped to a record-low price.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d3cf09a9-76dd-973e-2179-47f7f24c5e37",
+                    "name": "Microsoft Surface"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8aa5a00c-3c60-f287-e386-b729c0ce9d07",
+                    "name": "Mashable"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mashable",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.tfB_goYOslaBqaikd8wc5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:08:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "AI data center builder Nebius raises $700M in funding",
+            "url": "https://siliconangle.com/2024/12/02/ai-data-center-builder-nebius-raises-700m-funding/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._8EDTTorEDgYNJxK4bEUZS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "coNebius NV, a publicly traded provider of artificial intelligence infrastructure, today announced that it has raised $700 million in funding.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/655c2858-7d9d-3bfa-9af9-425ff2a2e2ce",
+                    "name": "Accel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0b840501-8599-9528-5b22-13589caf205a",
+                    "name": "Amsterdam"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d4091904-caea-4b11-459a-00c59487110f",
+                    "name": "Yandex"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ysUeRt2Q3xQKySmZkxXQ8A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:56:00.0000000Z"
+        },
+        {
+            "name": "Intel\u2019s CEO had big plans for a turnaround. It failed, and now he\u2019s gone",
+            "url": "https://www.msn.com/en-au/money/companies/intel-s-ceo-had-big-plans-for-a-turnaround-it-failed-and-now-he-s-gone/ar-AA1v8P9C",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.BlRWOth4JP8q9RV8Zcre6C&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Intel\u2019s shares rose 5% Monday after the company announced the 63-year-old Gelsinger, who began his career at the chipmaker in 1979, had retired from the position of chief executive and also stepped down from the board of directors.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39eaa44b-e724-8c6a-34b4-e4021f758f71",
+                    "name": "TSMC"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FeWYW1QCsYCtD_PN1Fjd_Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:52:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Intel CEO Pat Gelsinger resigns without a permanent successor",
+            "url": "https://venturebeat.com/business/intel-ceo-pat-gelsinger-resigns-without-a-permanent-successor/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0pteIGeCrLRqkbSkcXDz8i&pid=News",
+                    "width": 700,
+                    "height": 402
+                }
+            },
+            "description": "In a blow to Intel's turnaround plans, CEO Pat Gelsinger has resigned from the big chip maker without a permanent successor in place.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "VentureBeat",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.qPCJA3Or4GGU4hhi1ZEpfg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:40:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tech stock gains push Wall Street higher still; CEO of fallen chip giant Intel is out",
+            "url": "https://www.postandcourier.com/tech-stock-gains-push-wall-street-higher-still-ceo-of-fallen-chip-giant-intel-is/article_cc630e54-af2c-11ef-a244-abda32f39d32.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.y9PXf_BpPgVBLCxwtBheSy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "It\u2019s the latest action of more than three years of aggressive antitrust enforcement shepherded by FTC Chair Lina Chan, who was elevated to lead the agency by President Joe Biden after he came into office pledging tougher scrutiny of monopolistic behavior by Big Tech companies.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c3ea5c5-8119-f4b3-5019-aeed4f2f1843",
+                    "name": "Nasdaq Composite"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Post and Courier",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.70-LnngeSG1sW2m_LvztaA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:30:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Amazon is giving its data centers a facelift for the generative AI age",
+            "url": "https://www.aol.com/finance/amazon-giving-data-centers-facelift-203052540.html",
+            "description": "Amazon ( AMZN) is giving its massive Amazon Web Services (AWS) data centers a facelift. The company announced it\u2019s improving the efficiency, availability, and design of its enormous computing facilities to keep them up and running for its customers and provide them with the kind of processing power they need to run new generative AI applications.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1cb8ca46-c867-a19a-b118-0f594a12fafe",
+                    "name": "Yahoo! Finance"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Rising tech stocks pull Wall Street to another record",
+            "url": "https://www.latimes.com/business/story/2024-12-02/stock-market-today-rising-tech-stocks-pull-wall-street-to-another-record",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3N2kdy2ab7qIGdMyaK17HC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "NEW YORK \u2014 Technology stocks pulled Wall Street to another record amid a mixed Monday of trading. The Standard & Poor\u2019s 500 rose 0.2% from its all-time high set on Friday to post a record for the 54th time this year. The Dow Jones industrial average fell 128 points, or 0.3%, while the Nasdaq composite gained 1%.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caeb7b9a-f5d7-4686-8fb5-cf7628296b13",
+                    "name": "New York"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Los Angeles Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.wKX1xpM7bmNj7V_rB5JVyQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:19:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "AMD Radeon RX 8800 XT could go head-to-head with RTX 4080 in raster and ray tracing performance",
+            "url": "https://www.techspot.com/news/105796-amd-rx-8800-xt-could-go-head-head.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.NGENQcp1R_z_RormL48W9C&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "A proven leaker from the Chiphell forums recently reported that an upcoming AMD RDNA4 graphics card substantially outperforms the company's current flagship in ray tracing while",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/802aca08-7cb5-9c50-2f9a-40827e90dd08",
+                    "name": "Raster graphics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6b4e820b-ce22-f1da-0376-da99a728bc0a",
+                    "name": "Ray tracing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d7e579fa-ce13-1c7d-442b-8a89ebbfd547",
+                    "name": "AMD Hybrid Graphics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/00405142-cc52-0e84-0474-5ce67acb48f3",
+                    "name": "Graphics processing unit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d703e89c-7485-e060-998b-94d5d038aed2",
+                    "name": "Red team"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/30c8ff0e-ba06-2aac-e7a7-f033f9195680",
+                    "name": "Capcom"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechSpot",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lK_Pb1dzSoft564j8nm9vw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:17:00.0000000Z"
+        },
+        {
+            "name": "AWS Announces New Data Center Components to Support AI Innovation and Further Improve Energy Efficiency",
+            "url": "https://press.aboutamazon.com/2024/12/aws-announces-new-data-center-components-to-support-ai-innovation-and-further-improve-energy-efficiency",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.yIogyrBv6KoRGRf0RG38Ui&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "New set of flexible data center components will support the next generation of generative AI innovation and provide 12% more compute power, while improving availability and efficiency",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/26dfb75a-3573-4ff8-bbb3-b8cadaea23a8",
+                    "name": "Las Vegas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/235a0e9c-154b-6a99-1b61-77f805360330",
+                    "name": "Business Wire"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "press.aboutamazon",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Qc5Huhjn1wZg6C2tfAh16Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:05:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel CEO steps down as chipmaker falters, lays off staff",
+            "url": "https://kfor.com/news/intel-ceo-steps-down-as-chipmaker-falters-lays-off-staff/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.l39yV2jJ3N-zsGePtCUUHy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Intel CEO Pat Gelsinger has stepped down after a three-year stint leading the company, the chipmaker announced Monday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dbecda62-9b26-38f3-51d9-51892cfba1a5",
+                    "name": "The Hill"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Oklahoma's News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jyULeNzt6S20bZWgwljS2A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:29:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Intel faces massive shakeup as CEO Pat Gelsinger abruptly retires",
+            "url": "https://www.thestreet.com/video/intel-faces-massive-shakeup-as-ceo-pat-gelsinger-abruptly-retires",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0OXCh0vewRAaoCalmGEpoi&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Intel CEO Pat Gelsinger has retired effective December 1 and has also stepped down from the Board of Directors.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/68d0f5c7-3547-28fb-9050-6ad9c5b07476",
+                    "name": "TheStreet"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f923f286-468e-c09b-d44d-1bbcad3e707a",
+                    "name": "Institute for Supply Management"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee2a2fbe-aae8-b7ac-edc8-60c9c3490460",
+                    "name": "Carlos Tavares"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/de7c88e3-65e7-b0e5-f8e4-5d72e816e7f0",
+                    "name": "Chrysler"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "name": "Intel Corporation"
+                },
+                {
+                    "name": "Chief Executive Officer"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TheStreet.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.dsVvdYEiGuqZDGlCaqu-ZQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:24:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Analyst Says Potential Trade War to Have \u2018Material Impact\u2019 on Nvidia (NVDA)",
+            "url": "https://www.insidermonkey.com/blog/analyst-says-potential-trade-war-to-have-material-impact-on-nvidia-nvda-1401008/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.xuMn3wNrkYb_K0pm3wjdYS&pid=News",
+                    "width": 480,
+                    "height": 269
+                }
+            },
+            "description": "The debate around AI systems hitting a \u201cdata wall\u201d or plateau is heating up in the tech industry with many arguing that the performance of AI models is not showing signs of further improvement amid a lack of quality inputs, causing scaling issues in the industry. CNBC\u2019s Deirdre Bosa recently discussed this debate in a program and said:",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Analyst"
+                },
+                {
+                    "name": "Potential"
+                },
+                {
+                    "name": "Trade"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:49:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel CEO Pat Gelsinger announces retirement amid company-wide layoffs",
+            "url": "https://www.azfamily.com/2024/12/02/intel-ceo-pat-gelsinger-announces-retirement-amid-company-wide-layoffs/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.tKThZwoQVOXlJxYBcSyquC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Intel CEO Pat Gelsinger has retired, the struggling chipmaker said Monday in a surprise announcement. Two company executives, David Zinsner and Michelle Johnston Holthaus, will act as interim co-CEOs while the company searches for a replacement for Gelsinger, who also stepped down from the company\u2019s board.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d8bb8c2-d5dc-5159-69dc-c7a1fe132583",
+                    "name": "Semiconductor industry"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AZFamily",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.spQoP6jbtfvrDDK3c1NS7Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:49:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel Stock May Fall. \u2018If HE Couldn\u2019t Fix It, Can Anyone?\u2019 Asks Expert",
+            "url": "https://www.forbes.com/sites/petercohan/2024/12/02/intel-stock-may-fall-if-he-couldnt-fix-it-can-anyone-asks-expert/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3NMDyc4tTQa6oDI7rfGhMC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "After a 52% stock plunge in 2024, a 6% revenue drop paired with a whopping $16.6 billion loss in the latest quarter, Intel\u2019s board ousted CEO Pat Gelsinger",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:32:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "I'm a Tech Editor, and These Are My Favorite Cyber Monday Deals for Xbox, PlayStation, Switch, and PC Gamers",
+            "url": "https://lifehacker.com/tech/cyber-monday-gaming-deals-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.MzJwGNSX1hCs9FupZS4ZGi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "For Cyber Monday, gaming consoles, accessories, collectibles, and games are on sale across Amazon, Best Buy, and more.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/595e44be-f445-d997-7d70-92b9f35592e2",
+                    "name": "Xbox"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2b485a35-f5af-47ad-5cee-6c53599255fe",
+                    "name": "PlayStation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Lifehacker",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DqMYTp7y31wqjjz4HSdQBA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:31:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel CEO Pat Gelsinger ousted amid turnaround plan concerns",
+            "url": "https://www.staradvertiser.com/2024/12/02/breaking-news/intel-ceo-pat-gelsinger-ousted-amid-turnaround-plan-concerns/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.rdgWpAyoN_ZQoZbyiThfsS&pid=News",
+                    "width": 700,
+                    "height": 443
+                }
+            },
+            "description": "SAN FRANCISCO >> Intel Chief Executive Pat Gelsinger has been forced out less than four years after taking the helm of the company, handing control to two lieutenants as the faltering American chipmaking icon searches for a permanent replacement.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ed192b0-1223-42e4-eb4c-46fd7af5fb64",
+                    "name": "Computex"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d819360f-4eab-60ff-7738-dbd6ecd94455",
+                    "name": "Taipei"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2062e34-9038-4cf6-913e-70f770fdfe0b",
+                    "name": "Taiwan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37181124-e096-403d-a455-576a61b83525",
+                    "name": "San Francisco"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Honolulu Star-Advertiser",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.L7r5UMGIQVI6qe1BoRgEAg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:24:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Walmart Cyber Monday Sale Drops This Powerful iBuyPower RTX 4070 Gaming PC to $1,199",
+            "url": "https://gamerant.com/cyber-monday-sale-rtx-4070-gaming-pc-1199/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.dQVdYouP9WCdgwRihJS9eC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "After dropping the best RTX 4060 PC deal on Black Friday, Walmart has unveiled another incredible gaming PC deal during its Cyber Monday sale. If you're still on the hunt for a new gaming PC, you're in luck.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Game Rant",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.NvtItL5e7oo1bQn4ODytnw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Three insights you might have missed from SC24",
+            "url": "https://siliconangle.com/2024/12/02/high-performance-computing-innovations-key-insights-sc24/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.6RRhQSsmYqy96b3I4QlpCC&pid=News",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "description": "Explore high-performance computing innovations from SC24, including scalable AI systems, modular solutions and advanced thermal management technologies.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2ee72f4b-bd6a-0d50-c3d0-33daa47531fb",
+                    "name": "History of supercomputing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ysUeRt2Q3xQKySmZkxXQ8A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:20:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel\u2019s Chief Executive Is Out Amid Chipmaker\u2019s Struggles",
+            "url": "https://www.nytimes.com/2024/12/02/technology/intel-ceo-pat-gelsinger.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.aZ86BvWOHR9PF9a2lvCk1S&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Pat Gelsinger stepped down after nearly four years at the helm of the onetime highflying company, Intel said Monday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.GzcmUDr41J6Qc1JEQyNTCA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:13:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Get in the Game With Up to $500 Off Our Favorite Gaming PCs This Cyber Monday",
+            "url": "https://www.yahoo.com/tech/game-500-off-favorite-gaming-191000961.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3EdRwTogpjfbD38tfZdCMS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "I've tested and reviewed hundreds of gaming laptops and desktops for PCMag, so I know a thing or two about what makes a good deal. These top-rated rigs should be on your Cyber Monday shortlist.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a012213e-f970-bbc0-9652-57a07be959fd",
+                    "name": "PCMag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82dbb2de-46dc-1d45-d01c-0eae70d0b173",
+                    "name": "Acer Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a84ca44-a885-c19b-fd28-897c8470de68",
+                    "name": "Asus"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7018c591-569b-ae17-572c-da86c73133e2",
+                    "name": "Lenovo"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:09:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel CEO resigns after a disastrous tenure",
+            "url": "https://www.kitv.com/news/business/intel-ceo-resigns-after-a-disastrous-tenure/article_eda90956-2557-5c97-ab5f-548830650e37.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.om0ZwWO3cHWB9WLu2pVo6C&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Intel Monday announced CEO Pat Gelsinger has resigned after a difficult stint at the company. The once-dominant chipmaker\u2019s stock cratered as it missed the AI boom and was surpassed by",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99683f36-b094-0f62-01af-7b014cecc455",
+                    "name": "VMware"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KITV",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mykX2fHB0-OsznqpZMQWwQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:55:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "AI Is All Picks And Shovels, No Gold",
+            "url": "https://www.forbes.com/sites/investor/2024/12/02/ai-is-all-picks-and-shovels-no-gold/",
+            "description": "The dark side of AI spending that no one wants to hear about. While riding the AI wave has been exciting, it may be time to consider stepping off the surfboard.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:53:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel\u2019s Battlemage May Help Make GPUs Affordable Again",
+            "url": "https://gizmodo.com/intels-battlemage-may-help-make-gpus-affordable-again-2000532780",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.s-zk62BKWua9w436KTYreS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Intel confirmed it will share more news of what everyone expects is its long-rumored Battlemage GPU to finally compete against Nvidia and AMD.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d7e579fa-ce13-1c7d-442b-8a89ebbfd547",
+                    "name": "AMD Hybrid Graphics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/158e7011-1097-c354-8a83-beca6ed461f1",
+                    "name": "Thanksgiving"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Gizmodo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BmhW-V67ouY4VKCzJMDoqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:33:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Intel CEO Gelsinger Retires as Chipmaker Names Interim Co-CEOs",
+            "url": "https://www.inc.com/associated-press/intel-ceo-gelsinger-retires-as-chipmaker-names-interim-co-ceos/91033580",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.LbG35CGqi0GOGqd4fVcyuy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "David Zinsner and Michelle Johnston Holthaus were named interim co-leaders after the boomerang executive, who returned to the company in 2021, left the top job.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bed469ae-3c1a-6831-523e-15f894a991c9",
+                    "name": "Boomerang"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8a8f679b-6060-afa3-21cb-5f6bfd782f95",
+                    "name": "Data center"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Inc",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.d2sNjsZFyRqPfTHuti8I3g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:15:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Get ready for weaker returns in 2025 after huge stock gains in the last 2 years, Wharton professor Jeremy Siegel says",
+            "url": "https://markets.businessinsider.com/news/stocks/sp500-stock-market-outlook-weaker-returns-mag-7-tech-trump-2024-12",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jDBXALLxfIf6T4c7CYUsEC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "\"Maybe for once, we will see relative softness on the big high flyers that have been so good for the market the last two years,\" Jeremy Siegel said.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d49085b6-0835-e7b5-9957-6487a8321f7d",
+                    "name": "Jeremy Siegel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LrIq_5vxtu4ONs5zIW54FA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:15:00.0000000Z"
+        },
+        {
+            "name": "Nvidia among investors in $700 million capital raise by AI firm Nebius Group",
+            "url": "https://www.usatoday.com/story/money/2024/12/02/nebius-group-nvidia-700m-capital/76706781007/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.i9_b1ww6BxJT_EtPkVkcFy&pid=News",
+                    "width": 580,
+                    "height": 326
+                }
+            },
+            "description": "Nebius Group is raising $700 million in a private placement from investors, including Nvidia, to build the infrastructure underpinning AI.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/655c2858-7d9d-3bfa-9af9-425ff2a2e2ce",
+                    "name": "Accel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe51c040-ca93-45a5-6fa1-c1d12561e3cf",
+                    "name": "Arkady Volozh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d4091904-caea-4b11-459a-00c59487110f",
+                    "name": "Yandex"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c3b7b2c-f40e-cba8-3bb6-29450420b38e",
+                    "name": "Nasdaq"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad599477-9e6d-4a0e-bab5-0edf9db7115a",
+                    "name": "Ukraine"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.m1iod5ODNIyyKu23kGIllQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:39:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "European AI infra company Nebius nabs $700M from Nvidia, Accel, others",
+            "url": "https://techcrunch.com/2024/12/02/european-ai-infrastructure-company-nebius-nabs-700m-from-nvidia-accel-others/",
+            "description": "Nebius, the European AI infrastructure company formerly known as Yandex, has raised $700 million in financing to power its U.S. expansion.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/655c2858-7d9d-3bfa-9af9-425ff2a2e2ce",
+                    "name": "Accel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c92caefd-1980-4e7d-a634-b6be4f469b4d",
+                    "name": "Class A share"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechCrunch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.M4e-NwwkSCFuKsTp672mxA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:08:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "10 best Gaming deals to snag for Cyber Monday 2024: PCs, Laptops, and more",
+            "url": "https://www.soapcentral.com/lifestyle/10-best-gaming-deals-snag-cyber-monday-2024-pcs-laptops",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.egnrhWZ9iG6VaTRPFUWz_S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "ASUS\u2019s ROG series is a favorite among gamers worldwide. The Zephyrus G16 comes with an Intel Core Ultra 9 processor and NVIDIA GeForce RTX 4070 GPU. It can handle demanding AAA games and heavy workloads. It features an OLED Nebula Display with a 2560x1600 resolution and a 240Hz refresh rate.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a84ca44-a885-c19b-fd28-897c8470de68",
+                    "name": "Asus"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c80ff2a2-483f-ff0c-86d3-6d5e43c97d03",
+                    "name": "AAA"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "soapcentral",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.rXMx4CaX6Bkhp_2htV3Lrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:05:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tesla leads November's global market value surge",
+            "url": "https://www.usatoday.com/story/money/2024/12/02/tesla-market-value-surge-november/76705480007/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.zkWXVeV2phgMAEtkRn6yly&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The company's market value surged on reports that Donald Trump's transition team plans to relax federal regulations on self-driving cars.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/92153db6-1d00-451c-d2c8-542c5718125f",
+                    "name": "JPMorgan Chase"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d5e653f-d60b-1eb6-5af6-3a064da5318a",
+                    "name": "Jamie Dimon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.m1iod5ODNIyyKu23kGIllQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:52:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Why the stock market crushed expectations in 2024",
+            "url": "https://markets.businessinsider.com/news/stocks/the-stock-market-crushed-expectations-this-year-trump-ai-economy-2024-12",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.25LszuoGaoSkr0GzCqUxWy&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "The stunning rally in US stocks this year caught Wall Street's top forecasters off guard, with most analysts far less upbeat heading into 2024.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LrIq_5vxtu4ONs5zIW54FA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:43:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Wall Street Starts December Near Record Highs as Tech and Retail Lead Gains",
+            "url": "https://www.newsweek.com/wall-street-highs-tech-retail-december-24-1994240",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.nZwYVdcOMCfRC51BM5wSxi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Wall Street opened December with a mixed performance, highlighted by record-breaking highs and sector-driven fluctuations. The S&P 500 edged up 0.2 percent by midday, building on its best month of the year.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newsweek",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.uTJA7JDoTGKvff5o3jotfg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:31:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Intel CEO Pat Gelsinger Steps Down Amid Struggles at the Chipmaker",
+            "url": "https://www.yahoo.com/tech/intel-ceo-pat-gelsinger-steps-150942724.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JdH0lBl0G9gUsMtUKCd2ti&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "In the interim, the US chip giant will be led by CFO David Zisner and Michelle Johnston Holthaus, the head of Intel products.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a012213e-f970-bbc0-9652-57a07be959fd",
+                    "name": "PCMag"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:05:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia To Ramp Up Production Of Liquid-Cooled Blackwell GPUs, Redefining AI Data Centers",
+            "url": "https://www.benzinga.com/24/12/42269031/nvidias-blackwell-liquid-cooling-revolution-fuels-ai-growth",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.IV_U_G-3CUNcXTDEm_CXfi&pid=News",
+                    "width": 700,
+                    "height": 437
+                }
+            },
+            "description": "Nvidia's Blackwell GPUs are driving demand for liquid cooling in AI servers, creating opportunities for companies like Vertiv and Delta. Customization is key in this changing supply chain.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ced05cc4-3301-93af-6c9f-ed47aa2e1d6c",
+                    "name": "Vertiv"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8a042b51-3efa-d688-2ca0-91154daf58fa",
+                    "name": "Delta Air Lines"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c12c0e2d-3ec5-f6d8-7c20-253409a96026",
+                    "name": "Cooler Master"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LnWAsYULk4XKw3udkffflQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T14:22:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia among investors in $700 mln capital raise by AI firm Nebius Group",
+            "url": "https://www.reuters.com/technology/nvidia-among-investors-700-mln-capital-raise-by-ai-firm-nebius-group-2024-12-02/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3BuJGVkNTfV0d01lAtj61y&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "AI infrastructure firm Nebius Group on Monday said it was raising $700 million in a private placement from investors including Nvidia , Accel and some accounts managed by Orbis Investments.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8e0ba7b6-4225-fa8a-6369-1b5294e602a5",
+                    "name": "London"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/655c2858-7d9d-3bfa-9af9-425ff2a2e2ce",
+                    "name": "Accel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe51c040-ca93-45a5-6fa1-c1d12561e3cf",
+                    "name": "Arkady Volozh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d4091904-caea-4b11-459a-00c59487110f",
+                    "name": "Yandex"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c3b7b2c-f40e-cba8-3bb6-29450420b38e",
+                    "name": "Nasdaq"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ed4fce79-8ad4-352b-205b-e4db36c49bbe",
+                    "name": "Russia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad599477-9e6d-4a0e-bab5-0edf9db7115a",
+                    "name": "Ukraine"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/00405142-cc52-0e84-0474-5ce67acb48f3",
+                    "name": "Graphics processing unit"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T11:07:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia's Blackwell Launch: Here's What to Look for Next.",
+            "url": "https://www.fool.com/investing/2024/12/02/nvidias-blackwell-launch-heres-what-to-look-for/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.DQ4po1L0QdpPS0cakdg8MS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "As Nvidia broadened into these markets, including AI, earnings took off and so did share performance. Earnings in most recent quarters have climbed in the triple digits, and Nvidia stock is heading for a 2,300% gain over the past five years.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T09:48:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia's Deceleration Attributed To Law Of Large Numbers -- Top AI Leadership",
+            "url": "https://seekingalpha.com/article/4740722-nvidia-deceleration-attributed-to-law-of-large-numbers-top-ai-leadership",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.nxs6y0mFVv0374OfdmiZdi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Nvidia Corporation leads in AI with strong financial results, growth potential in cloud computing, and projected market expansion. Click for my NVDA Q3 update.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/64d64f98-fd14-4dfb-87b1-70ec94e99913",
+                    "name": "Law of large numbers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e95d5e1-1e66-476f-eda0-0bb417a12c37",
+                    "name": "Cloud computing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T14:00:00.0000000Z"
+        },
+        {
+            "name": "How did Nvidia expand nearly 20-fold in just over 20 years?",
+            "url": "https://www.businessinsider.com/nvidia-jesen-huang-company-workforce-growth-stock-price-climbing-2024-11",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JkD71qIoZ1bVz_R-V9XxbC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "From 2003 to 2024, Nvidia's growth surged with top pay, AI-driven revenue, and strong workforce expansion, outpacing rivals.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/efd55afd-1637-52e1-3ea9-8c11c1e36ad0",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/59a6e072-001c-b4d6-d836-c329c3cfd52c",
+                    "name": "Business Insider"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4e5975cb-7c84-fb61-28f5-926f3807e8da",
+                    "name": "Citi Trends"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T12:59:00.0000000Z",
+            "video": {
+                "name": "How tech layoffs could affect the economy",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/b2332b8f-0354-41c6-bb5a-4e48aad69844/9abe3cd9-a8f5-486e-8f06-638ada2a_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Prediction: Nvidia Stock Will Soar in 2025. Here's Why.",
+            "url": "https://www.fool.com/investing/2024/11/29/prediction-nvidia-stock-will-soar-in-2025-heres-wh/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.TeFiFqSCoc4gEvIGLcRjQS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The chipmaker has already been a huge winner, but investors may be overlooking a crucial detail that's hiding in plain sight.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T10:15:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia workforce data explains its meteoric rise",
+            "url": "https://www.businessinsider.com/nvidia-workforce-growth-chart-pay-gender-revenue-data-20-years-2024-11",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.h_-2zNt9OmN3rHrdeZgSyC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Nvidia's workforce expansion since 2003 shows its rapid growth in AI, with high salaries, low turnover, and a unique culture of public feedback.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9a39fe47-3ab1-3a36-aed3-e4ccd425b02e",
+                    "name": "Jensen Huang"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/20757754-e543-a49f-c338-3463e22655c3",
+                    "name": "Reddit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/110c5e3f-f50b-176e-6ca4-cbbeeb78abab",
+                    "name": "Blind"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T09:11:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia: Potential For Growth",
+            "url": "https://seekingalpha.com/article/4740864-nvidia-stock-still-potential-for-growth",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mHR8qS7kb6r9w0KqtYUyCC&pid=News",
+                    "width": 700,
+                    "height": 463
+                }
+            },
+            "description": "Nvidia's exceptional financial performance is driven by explosive GPU demand for AI. Read why I still see growth potential for NVDA stock.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7b40a610-ab15-01f5-cc85-721353488c41",
+                    "name": "CUDA"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/24b2a17b-be8b-c0bd-4d2e-5343a4671a7d",
+                    "name": "Seeking Alpha"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T08:29:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The Best Graphics Cards for 2024",
+            "url": "https://www.pcmag.com/picks/the-best-graphics-cards",
+            "description": "Here's everything you need to know to shop the latest Nvidia GeForce, AMD Radeon, and Intel Arc video cards with confidence. (We've tested 'em all.) I have been a technology journalist for 30-plus ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC Magazine"
+                }
+            ],
+            "datePublished": "2024-11-19T00:01:00.0000000Z"
+        },
+        {
+            "name": "How Jensen Huang Built Nvidia Into the $3 Trillion King of AI",
+            "url": "https://www.barrons.com/articles/ai-nvidia-jensen-huang-98f40bd3",
+            "description": "When I started working on a book about Nvidia in early May 2023, the artificial-intelligence boom was still in its infancy. Based on my years covering the chip sector, and tech more broadly ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Barron's"
+                }
+            ],
+            "datePublished": "2024-11-14T08:57:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The 12 Executives Behind Nvidia\u2019s Unprecedented A.I. Domination",
+            "url": "https://observer.com/2024/11/executives-behind-nvidia-ai-domination/",
+            "description": "Nvidia\u2019s success has made its CEO, Jensen Huang, one of the world\u2019s wealthiest people. Justin Sullivan/Getty Images Despite its seemingly rapid rise, Nvidia\u2019s trajectory has been in the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Observer"
+                }
+            ],
+            "datePublished": "2024-11-13T18:06:00.0000000Z"
+        },
+        {
+            "name": "NVIDIA App Is Now Officially Released And Out Of Beta",
+            "url": "https://www.guru3d.com/story/nvidia-app-is-now-officially-released-and-out-of-beta/",
+            "description": "Featuring a unified GPU control center, NVIDIA app allows fine-tuning of game, program, and driver settings from a single place, while introducing a redesigned in-game overlay for convenient ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Guru3D.com"
+                }
+            ],
+            "datePublished": "2024-11-12T13:43:00.0000000Z"
+        },
+        {
+            "name": "Nvidia kills GeForce Experience, Nvidia App 1.0 goes live",
+            "url": "https://www.techspot.com/news/105547-nvidia-kills-geforce-experience-nvidia-app-10-goes.html",
+            "description": "What just happened? GeForce Experience is dead \u2013 long live the Nvidia App! Starting today, Nvidia is rolling out version 1.0 of the Nvidia App, officially bringing it out of beta. Nvidia says ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechSpot"
+                }
+            ],
+            "datePublished": "2024-11-12T12:12:00.0000000Z"
+        },
+        {
+            "name": "Nvidia\u2019s new app replacement for GeForce Experience is now out of beta",
+            "url": "https://www.theverge.com/2024/11/12/24294442/nvidia-app-launch-beta-label-removed-features",
+            "description": "The Nvidia app includes a redesigned and improved overlay, with support for 4K 120fps AV1 video capture, Nvidia\u2019s AI-powered RTX game filters, and an improved customizable statistic overlay.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Verge"
+                }
+            ],
+            "datePublished": "2024-11-12T11:55:00.0000000Z"
+        },
+        {
+            "name": "Nvidia may break its beat-and-raise streak, but there's good news for investors",
+            "url": "https://www.morningstar.com/news/marketwatch/2024111296/nvidia-may-break-its-beat-and-raise-streak-but-theres-good-news-for-investors",
+            "description": "Nvidia's outlook for the January quarter may not wow Wall Street when the company posts earnings next week. But Mizuho analysts see bright prospects for later next year. Nvidia Corp. has been a ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar"
+                }
+            ],
+            "datePublished": "2024-11-12T08:10:00.0000000Z"
+        },
+        {
+            "name": "Rest in pieces: Nvidia is finally ditching GeForce Experience for good",
+            "url": "https://www.digitaltrends.com/computing/nvidia-app-officially-launched/",
+            "description": "We\u2019ve had the Nvidia app for a while, but now, it\u2019s available officially. About a year ago, Nvidia launched the Nvidia app into beta as a one-stop-shop for managing some of its best graphics ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Digital Trends"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "Nvidia app is now out of beta, download it for your GeForce RTX gaming GPU now",
+            "url": "https://www.pcgamesn.com/nvidia/app-official-launch",
+            "description": "The Nvidia app is now officially out of beta testing today and is available for everyone to download. Nvidia\u2019s new app replaces the older GeForce Experience and Control Panel apps as the one ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PCGamesN"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "More hints of Nvidia\u2019s RTX 50 series reveal are here - next-generation GPUs are now rumored to be in production",
+            "url": "https://www.techradar.com/computing/gpu/more-hints-of-nvidias-rtx-50-series-reveal-are-here-next-generation-gpus-are-now-rumored-to-be-in-production",
+            "description": "Nvidia\u2019s production focus has reportedly shifted to RTX 5000 series GPUs RTX 4000 series GPUs could be close to discontinuation This is a huge indication that Nvidia\u2019s reveal could be sooner ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "'Nvidia app' Launches to Replace GeForce Experience: Here's What It Can Do",
+            "url": "https://uk.pcmag.com/graphics-cards/155311/nvidia-app-launches-to-replace-geforce-experience-heres-what-it-can-do",
+            "description": "Nvidia has long directed users to its GeForce Experience app for GPU driver updates, but that's now being replaced by the simply titled \"Nvidia app,\" which emerges from beta today. The app ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC Magazine"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "The new Nvidia App is a brilliant new unified graphics settings powerhouse - and it\u2019s out now",
+            "url": "https://www.vg247.com/new-nvidia-app-is-brilliant",
+            "description": "But we are where we are, and I have to embrace my inner saddo - so here it goes: I\u2019m really, really excited about Nvidia\u2019s new settings app on PC. Simply titled the \u2018Nvidia App\u2019, this all ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "vg247"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "The new Nvidia app is here to replace GeForce Experience \u2014 here's what's new",
+            "url": "https://www.tomsguide.com/gaming/the-new-nvidia-app-is-here-to-replace-geforce-experience-heres-whats-new",
+            "description": "Nvidia is launching a new app for gamers worldwide. The aptly named Nvidia app is coming to PC users as a replacement for the Nvidia GeForce Experience, which wasn't exactly a gamer's best friend.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tom's Guide"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "NVIDIA App has officially launched, an essential tool for GeForce RTX users",
+            "url": "https://www.tweaktown.com/news/101595/nvidia-app-has-officially-launched-an-essential-tool-for-geforce-rtx-users/index.html",
+            "description": "TL;DR: The NVIDIA App, now officially released and no longer in beta, consolidates features from GeForce Experience and NVIDIA Control Panel, offering tools for driver updates, game optimization ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TweakTown"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "'Nvidia app' Launches to Replace GeForce Experience: Here's What It Can Do",
+            "url": "https://www.pcmag.com/news/nvidia-app-launches-to-replace-geforce-experience-heres-what-it-can-do",
+            "description": "Nvidia has long directed users to its GeForce Experience app for GPU driver updates, but that's now being replaced by the simply titled \"Nvidia app,\" which emerges from beta today. The app, first ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC Magazine"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "Nvidia, the world's most valuable company, has officially joined the Dow",
+            "url": "https://finance.yahoo.com/news/nvidia-the-worlds-most-valuable-company-has-officially-joined-the-dow-175854712.html",
+            "description": "AI chipmaker Nvidia (NVDA) has officially joined the Dow Jones Industrial Average (^DJI), cementing the tech giant's significance in the artificial intelligence era. Despite a broader dip in chip ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-08T00:00:00.0000000Z"
+        },
+        {
+            "name": "Nvidia to cap game streaming hours on GeForce Now instead of raising fees",
+            "url": "https://www.theverge.com/2024/11/7/24289443/nvidia-geforce-now-monthly-playtime-caps-performance-membership-1440p",
+            "description": "Nvidia is announcing some big changes to its GeForce Now cloud streaming service today. The existing Priority membership is being renamed to Performance, with 1440p streaming, ultrawide resolution ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Verge"
+                }
+            ],
+            "datePublished": "2024-11-07T14:00:00.0000000Z"
+        },
+        {
+            "name": "Is Nvidia Headed to $200 in 2025?",
+            "url": "https://finance.yahoo.com/news/nvidia-headed-200-2025-230000794.html",
+            "description": "Nvidia (NASDAQ: NVDA) has been one of the best stocks to own over the past two years, returning 239% in 2023, 169% so far in 2024, and over 800% since the start of 2023. That's quite the run ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Nvidia overtakes Apple again as world\u2019s most valuable company",
+            "url": "https://cointelegraph.com/news/nvidia-overtakes-apple-worlds-most-valuable-company-again",
+            "description": "AI-tech titan Nvidia has retaken the lead as the world\u2019s most valuable company after its shares surged almost 3% on Oct. 5, edging out competitor tech firms Apple and Microsoft. Nvidia shares ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CoinTelegraph"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Nvidia is now the world\u2019s most valuable company, thanks to AI and RTX GPUs",
+            "url": "https://www.pcgamesn.com/nvidia/most-valuable-company",
+            "description": "Nvidia has just become the most valuable company in the world, passing other tech titans like Apple and Microsoft to take the crown. With a valuation of $3.43 trillion, Nvidia is now worth more ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PCGamesN"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Nvidia just became the world\u2019s largest company amid AI boom",
+            "url": "https://techcrunch.com/2024/11/05/nvidia-just-became-the-worlds-largest-company-amid-ai-boom/",
+            "description": "Nvidia on Tuesday exceeded Apple\u2019s market capitalization to become the world\u2019s largest company, on the strength of a global AI push. As Bloomberg notes, the chipmaker has experienced an ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechCrunch"
+                }
+            ],
+            "datePublished": "2024-11-05T23:18:00.0000000Z"
+        },
+        {
+            "name": "Nvidia surpasses Apple to become world\u2019s most valuable company",
+            "url": "https://www.washingtonpost.com/business/2024/11/05/nvidia-tops-apple/",
+            "description": "Nvidia is now the world\u2019s most valuable company, surpassing Apple in a tech shake-up that reflects the growing dominance of artificial intelligence. Nvidia\u2019s market capitalization rose nearly ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Washington Post"
+                }
+            ],
+            "datePublished": "2024-11-05T22:26:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia ousts Intel from Dow Jones Index after 25-year run",
+            "url": "https://arstechnica.com/ai/2024/11/nvidia-ousts-intel-from-dow-jones-index-after-25-year-run/",
+            "description": "On Friday, S&P Dow Jones Indices announced that AI chipmaker Nvidia will replace Intel in the Dow Jones Industrial Average, marking a seismic shift in the semiconductor industry and ending Intel's ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Ars Technica"
+                }
+            ],
+            "datePublished": "2024-11-04T09:28:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Nvidia has renamed its Blackwell Ultra product series \u2014 here\u2019s why",
+            "url": "https://www.techradar.com/pro/nvidia-has-renamed-its-blackwell-ultra-product-series-heres-why",
+            "description": "The move by Nvidia marks a strategic shift aimed at promoting CoWoS technology, analysts suggest When you purchase through links on our site, we may earn an affiliate commission. Here\u2019s how it ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar"
+                }
+            ],
+            "datePublished": "2024-11-03T00:00:00.0000000Z"
+        },
+        {
+            "name": "Nvidia to replace Intel on Dow Jones Industrial Average",
+            "url": "https://www.upi.com/Top_News/US/2024/11/02/nvidia-intel-dow-jones/9811730571579/",
+            "description": "Nov. 2 (UPI) --Chipmaker Nvidia will replace Intel on the Dow Jones Industrial Average on Friday as the recent emergence of artificial intelligence continues driving Nvidia's value higher.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "UPI"
+                }
+            ],
+            "datePublished": "2024-11-02T16:49:00.0000000Z"
+        },
+        {
+            "name": "Nvidia to take Intel's spot on Dow Jones Industrial Average",
+            "url": "https://www.reuters.com/technology/nvidia-replace-intel-dow-jones-industrial-average-2024-11-01/",
+            "description": "Intel worst performer on the Dow this year Nvidia stock rises 2.2% after hours, Intel down 1.6% Sherwin-Williams will also join the blue-chip index Once the dominant force in chipmaking ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters"
+                }
+            ],
+            "datePublished": "2024-11-01T22:36:00.0000000Z"
+        },
+        {
+            "name": "Nvidia Will Replace Intel in the Dow Jones Stock Index",
+            "url": "https://www.nytimes.com/2024/11/01/technology/nvidia-intel-dow-jones-index.html",
+            "description": "By Kate Conger The chip-maker Nvidia will soon replace its rival Intel in the Dow Jones industrial average, S&P Dow Jones Indices said on Friday, reflecting Nvidia\u2019s dominance in the world of ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times"
+                }
+            ],
+            "datePublished": "2024-11-01T00:00:00.0000000Z"
+        },
+        {
+            "name": "Apple supplier Foxconn and Nvidia team up to deploy Taiwan's fastest AI supercomputer",
+            "url": "https://www.theregister.com/2024/10/08/foxconn_nvidia_ai_supercomputer/",
+            "description": "Nvidia has confirmed it will be working with mega electronics contractor Foxconn to construct Taiwan's most powerful AI supercomputer. The project, centered on the Hon Hai Kaohsiung Supercomputing Center, will be underpinned by Nvidia's Blackwell ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "theregister"
+                }
+            ],
+            "datePublished": "2024-10-08T15:57:00.0000000Z"
+        },
+        {
+            "name": "How to Buy Nvidia Stock (NVDA)",
+            "url": "https://www.nerdwallet.com/article/investing/buy-nvidia-stock",
+            "description": "Investing in a big-name stock like Nvidia might seem enticing \u2014 but here\u2019s what to consider before getting in on the action. Many, or all, of the products featured on this page are from our ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NerdWallet"
+                }
+            ],
+            "datePublished": "2023-02-28T17:03:00.0000000Z"
+        },
+        {
+            "name": "NVIDIA Warp",
+            "url": "https://github.com/NVIDIA/warp",
+            "description": "Warp is a Python framework for writing high-performance simulation and graphics code. Warp takes regular Python functions and JIT compiles them to efficient kernel code that can run on the CPU or GPU. Warp is designed for spatial computing and comes with a ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2022-03-22T02:35:00.0000000Z"
+        },
+        {
+            "name": "NVIDIA Auto Installer for Fedora Linux",
+            "url": "https://github.com/gridhead/nvidia-auto-installer-for-fedora-linux",
+            "description": "If you use Fedora Linux (32 or above and Rawhide) - you can install NVIDIA Auto Installer for Fedora by enabling my COPR repository. Simply execute the following commands in succession to install the tool. This tool has been tried and tested multiple times ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2021-12-16T10:24:00.0000000Z"
+        }
+    ]
+}

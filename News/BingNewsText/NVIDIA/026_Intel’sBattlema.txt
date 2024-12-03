@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Kyle Barr",
+        "Thomas Maxwell",
+        "Jorge Jimenez"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:33:19",
+    "description": "Intel confirmed it will share more news of what everyone expects is its long-rumored Battlemage GPU to finally compete against Nvidia and AMD.",
+    "filename": ".json",
+    "image_url": "https://gizmodo.com/app/uploads/2024/12/Intel-ARC-Graphics-A770.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "While upcoming GPUs like the rumored Nvidia 50-series will supposedly break the bank and power thresholds in equal measure, we may hopefully find our budget option from Intel and its long-awaited Battlemage GPUs. The beleaguered chipmaker confirmed it has some \u00e2\u0080\u009cbig graphics news\u00e2\u0080\u009d dropping Tuesday.\nIntel\u00c2 released a\u00c2 teaser video over the Thanksgiving holiday break showing what\u00e2\u0080\u0099s obviously a graphics card of some kind. Since then, the rumor mill has hammered\u00c2 on about the chipmaker\u00e2\u0080\u0099s upcoming B570 and B580 GPUs. Team Blue has tried\u00c2 pushing its discrete GPUs\u00c2 for a few years, and its\u00c2 Alchemist lineup, like the A580, is already entrenched for budget-end buyers. Leaks for the Battlemage indicate the higher-end GPU will be Intel\u00e2\u0080\u0099s hardest-hitting graphics processor to date.\nThere have been leaks on Amazon,\u00c2 and at least one\u00c2 YouTuber has offered us a look at what\u00c2 Intel\u00e2\u0080\u0099s B580 graphics card could look like. This version from OEM ASRock, with its three fans, is supposedly overclocked to 2.8 GHz with 12 GB of GDDR6 VRAM. According to these images leaked online, the new card should have a PCIe 4.0 interface and use dual 8-pin power connectors. It certainly won\u00e2\u0080\u0099t be as power-hungry as the most high-end GPUs from Nvidia or AMD.\nThe best Intel could do is not\u00c2 try to compete with the upcoming Nvidia 50-series or the Radeon RX 8000 series from AMD. Specs leaks reported by Videocardz last month show the B570 could sport 18 Xe2-Cores, while the B580 could do 20 Xe2-Cores. The lower-end card could also have 10 GB of GDDR6 RAM. If you believe the leaked specs, both ASRock cards will support three DisplayPort 2.1 slots and an\u00c2 HDMI 2.1 port.\nThis indicates that these cards will be cheaper than the top-of-the-line GPUs you\u00e2\u0080\u0099ll find elsewhere, but Intel hasn\u00e2\u0080\u0099t dropped any hint about pricing. Plenty of unconfirmed rumors on the Chinese social media app\u00c2 Weibo mention synthetic benchmarks, but perhaps the best we could claim is that Intel\u00e2\u0080\u0099s GPU could match the\u00c2 performance of the Nvidia Geforce RTX 4060 Ti. That Ada Lovelace card starts at $300, but we don\u00e2\u0080\u0099t know what any RTX 5060 GPU may cost.\nGenerations be damned. More affordable graphics processors need to be on the market. Intel\u00e2\u0080\u0099s mobile and desktop offerings will support the company\u00e2\u0080\u0099s XeSS upscaling tech, the most recent super sampling technology compared to AMD\u00e2\u0080\u0099s FSR and Nvidia\u00e2\u0080\u0099s DLSS. If Intel can get more games to support it, XeSS could be an extra option to expand performance in some titles.\nIntel\u00e2\u0080\u0099s latest Arrow Lake desktop processors also promise good gaming performance without needing a discrete GPU. Of course, an APU will never beat the strength of a full card. The latest Core Ultra 200S lineup for desktops isn\u00e2\u0080\u0099t supposed to be a 14th-gen desktop processor follow-up, especially regarding gaming performance.\nOn the mobile end, Intel has promoted the ARC graphics for chips like the Intel Core Ultra 9 288V, which should equal solid performance in some demanding games, though you won\u00e2\u0080\u0099t find a laptop with that SKU out in the wild. We\u00e2\u0080\u0099ve used RTX 4060s on several mobile platforms, and with the right configuration, it can run games fairly well. We\u2019d be curious to see Intel design a version of Battlemage for laptops and desktops. Perhaps we could finally have an all-Intel gaming laptop, as weird as that sounds.",
+    "source_domain": null,
+    "text": null,
+    "title": "Intel Says it Will Show Off its Budget Battlemage Discrete GPU",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

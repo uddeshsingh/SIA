@@ -1,0 +1,17 @@
+Authors: ['Oliver Haslam', 'https://www.redmondpie.com/author/oliver.haslam/#author']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:54:48
+Description: If you're the driver of a Tesla EV you have some new software features to look forward to after the company's holiday update was announced. The new software will also bring with it the long-awaited Apple Watch app, too.
+Filename: .json
+Image_Url: https://cdn.redmondpie.com/wp-content/uploads/2024/12/tesla-update.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla Announces 2024 Holiday Update Features And An Apple Watch App
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If you’re the driver of a Tesla EV you have some new software features to look forward to after the company’s holiday update was announced. Announced via the Tesla X account, the new Apple Watch app will allow people to use their wearable as their key while also being able to see the current battery charge, open the frunk, and even turn on climate control. Other features that are set to be added as part of this software update include the ability to watch dashcam and Sentry Mode clips from within the Tesla app and then save them to a phone. Less notable improvements include a new Cybertruck Santa Mode, the ability to play games from the backseat of the Cybertruck, and the ability to “Remotely schedule Light Shows from the Tesla app, including the two new Light Shows in the 2024 Holiday Update”. There are more improvements here as well, and you can check out the full rundown in the Tesla X post announcing the update.
+Financial_Events: []

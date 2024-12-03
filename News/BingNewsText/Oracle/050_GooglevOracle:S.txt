@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "BBC News"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2021-04-05 16:02:04",
+    "description": "The US Supreme Court has handed Google a major win in a decade-long battle over copied code.",
+    "filename": ".json",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/C70A/production/_117845905_gettyimages-1231609344.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A decade-long battle over copied code in Google's Android operating system has ended in the US Supreme Court.\nOracle, another tech titan, had sued Google in 2010 for copyright infringement over what it said was copied computer code.\nAndroid is now used in an estimated 70% of global smartphones, and damages could have run into the billions.\nBut the Supreme Court let Google off the hook, overturning a lower court's decision it had infringed copyright.\nThe court ruled six to two in favour of Google.\nAt issue was whether Google's use of Oracle's Java API - a widely-used \"building block\" for programmers - counted as \"fair use\" under US copyright law.\nIf it was, the fact that Google was accused of copying more than 11,000 lines of code would not matter.\nJustice Stephen Breyer, in his written opinion, said that \"to allow enforcement of Oracle's copyright here would risk harm to the public\".\nSo many programmers used and had deep knowledge of Oracle's building blocks that such a move would turn computer code into \"a lock limiting the future creativity of new programs\".\n\"Oracle alone would hold the key,\" he warned.\n'A monopolist'\nOracle made clear that it firmly disagreed with the court's judgement, saying that it had increased Google's power further and damaged other companies' ability to compete.\n\"They stole Java and spent a decade litigating as only a monopolist can,\" said Dorian Daley, the company's general counsel, in a statement.\n\"This behaviour is exactly why regulatory authorities around the world and in the United States are examining Google's business practices.\"\nGoogle, meanwhile, painted the decision as a victory for the software industry as a whole.\n\"Today's Supreme Court decision in Google v Oracle is a big win for innovation, interoperability and computing,\" wrote Ken Walker, the company's senior vice president for global affairs.\n\"Thanks to the country's leading innovators, software engineers and copyright scholars for their support.\"\n'Eviscerates copyright'\nThe majority of judges agreed that Google's copying of the Java code - in the particular way it was used - was \"a fair use of that material\".\nBut the judges disagreed on how to apply traditional copyright law to computer code.\nJustice Breyer, writing for the majority, acknowledged that it is \"difficult to apply traditional copyright concepts in that technological world\".\nBut in a dissenting opinion, Justice Clarence Thomas wrote that allowing fair use simply because it allows new products to be created effectively redefines the idea.",
+    "source_domain": null,
+    "text": null,
+    "title": "Google v Oracle: Supreme Court declares Google's code copying fair",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

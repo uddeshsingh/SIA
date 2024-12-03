@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Seth Goldstein"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-04-02 00:00:00",
+    "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+    "filename": ".json",
+    "image_url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/TNMZ18O7c3aZz1d_yQXlUUAl2iU=/2000x2000/smart/filters:no_upscale()/author-service-images-prod-us-east-1.publishing.aws.arc.pub/morningstar/ca8d2ce1-cd0f-433b-a52b-d163be882398.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions. Our investment management business generates asset-based fees, which are calculated as a percentage of assets under management. We also sell both admissions and sponsorship packages for our investment conferences and advertising on our websites and newsletters.\nHow we use your information depends on the product and service that you use and your relationship with us. We may use it to:\nVerify your identity, personalize the content you receive, or create and administer your account.\nProvide specific products and services to you, such as portfolio management or data aggregation.\nDevelop and improve features of our offerings.\nGear advertisements and other marketing efforts towards your interests.\nTo learn more about how we handle and protect your data, visit our privacy center.\nMaintaining independence and editorial freedom is essential to our mission of empowering investor success. We provide a platform for our authors to report on investments fairly, accurately, and from the investor\u2019s point of view. We also respect individual opinions\u2013\u2013they represent the unvarnished thinking of our people and exacting analysis of our research processes. Our authors can publish views that we may or may not agree with, but they show their work, distinguish facts from opinions, and make sure their analysis is clear and in no way misleading or deceptive.\nTo further protect the integrity of our editorial content, we keep a strict separation between our sales teams and authors to remove any pressure or influence on our analyses and research.\nRead our editorial policy to learn more about our process.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla\u2019s Strategic Focus Shifts From Growth to Development of Affordable Vehicle and Cost Reductions",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

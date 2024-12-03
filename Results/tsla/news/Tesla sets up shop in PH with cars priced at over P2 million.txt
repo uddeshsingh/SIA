@@ -1,0 +1,17 @@
+Authors: ['Kaycee Valmonte']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-08 09:33:41
+Description: Among the seven vehicle models of the company, Tesla is first bringing its best sellers — Model 3 and Model Y
+Filename: .json
+Image_Url: https://www.rappler.com/tachyon/2024/11/IMG_9688-scaled.jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla sets up shop in PH with cars priced at over P2 million
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The official showroom — dubbed the Tesla Experience Center — is located along Uptown Parade in Bonifacio Global City. “Tesla is committed and excited to help drive a zero-emission and greener future for the Philippines,” the company said in a statement on Friday, November 8. Both vehicle models can be customized according to each needs — from its exterior, interior, to even its features — through the Tesla Design Studio. Tesla also has official showrooms in Australia, mainland China, Hong Kong, Japan, Macau, New Zealand, South Korea, and Taiwan. According to a report by the Philippine Daily Inquirer, electric vehicle sales from January to July 2024 already totaled 9,775 units.
+Financial_Events: []

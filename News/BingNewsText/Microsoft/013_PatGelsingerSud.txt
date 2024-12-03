@@ -1,0 +1,24 @@
+{
+    "authors": [
+        "Kyle Barr",
+        "Gizmodo Deals",
+        "Matt Novak",
+        "Matthew Gault",
+        "Ed Cara"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 18:03:16",
+    "description": "Intel's stock price has seen better days, but Pat Gelsinger has also led the company through numerous scandals with its latest processors.",
+    "filename": ".json",
+    "image_url": "https://gizmodo.com/app/uploads/2024/08/IntelCEOBible.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Push-up artist and the main face of Intel for the past three years, Pat Gelsinger, is leaping into retirement effective immediately. The company\u00e2\u0080\u0099s CEO had worked with Intel on and off for over three decades, but he spent only three years as CEO. After being the face of Intel\u00e2\u0080\u0099s stock downslide, Pat\u00e2\u0080\u0099s sudden retirement leaves many questions at the door. The only clear thing is Intel\u00e2\u0080\u0099s leadership is looking for a change in direction.\nIntel announced Gelsinger\u00e2\u0080\u0099s departure late Sunday. The company doesn\u00e2\u0080\u0099t have a true replacement in place, and instead, the company\u00e2\u0080\u0099s board will install two interim co-CEOs while it goes headhunting for a new chief. If Gelsinger\u00e2\u0080\u0099s leaving were at all premeditated, it would still be an awkward time for the company. Intel is gearing up to release two new discrete GPUs this week, plus it will have to deal with any new competing processor and computing hardware coming out of CES in January next year.\nGelsinger was head of Intel during a turbulent time for the company. It was left behind on AI training chips while competitor Nvidia became one of the most profitable companies in the world. While its first \u00e2\u0080\u009cAI PC\u00e2\u0080\u009d chips landed in December 2023, it had to wait until its Lunar Lake lineup dropped earlier this year before it could get the \u00e2\u0080\u009cCopilot+ PC\u00e2\u0080\u009d from Microsoft.\nIntel was also\u00c2 scrutinized for how it handled a voltage issue on some of its\u00c2 13th\u00e2\u0080\u0094and 14th-gen desktop CPUs\u00c2 that could brick users\u00e2\u0080\u0099 computers. The company\u00c2 went through waves of layoffs earlier this year, and then its latest Arrow Lake desktop Intel Core Ultra chips, launched in October,\u00c2 didn\u00e2\u0080\u0099t set the world on fire.\nIntel acknowledged issues with Arrow Lake in an interview with HotHardware last month. Intel\u00e2\u0080\u0099s VP of client AI and technical marketing, Robert Hallock, said, \u00e2\u0080\u009cWe\u00e2\u0080\u0099ve identified a series of issues\u00e2\u0080\u0094multi-factor\u00e2\u0080\u0094they\u00e2\u0080\u0099re at the OS level and the BIOS level, and the performance we saw in reviews\u00e2\u0080\u00a6 was not what we expected and not what we intended.\u00e2\u0080\u009d\nThe company has long relied on being one of the two main chipmakers for most PCs used in the U.S. and elsewhere. This is why Intel is referred to as \u00e2\u0080\u009cTeam Blue\u00e2\u0080\u009d while its competitor, AMD, is called \u00e2\u0080\u009cTeam Red.\u00e2\u0080\u009d Then Qualcomm changed the game with ARM-based Snapdragon X Elite and X Plus chips. Microsoft put its weight behind the new selection of laptop processors that promised the epitome of battery life and performance on small-form devices.\nIntel\u00e2\u0080\u0099s Lunar Lake chips made up some ground on battery life and X86 performance, but OEMs have not adopted some of the more expensive and powerful Intel Core Ultra Series 2 processors. As for manufacturing its chips, Intel gained $8.5 billion from the U.S. CHIPS Act to construct new plants in Arizona.\nChief finance officer David Zinsner and Michelle Johnston Holthaus, who will also be CEO of Intel\u00e2\u0080\u0099s product, data centers, and AI groups, are stepping up to the co-CEO role.\nGelsinger worked at Intel from 1979 to 2009 and returned in February 2021. Intel\u00e2\u0080\u0099s board hoped he would right the ship. It\u00e2\u0080\u0099s unclear whether the former Intel CEO received any pressure to retire, but this latest shakeup only helps show that the company\u00e2\u0080\u0099s current initiatives weren\u00e2\u0080\u0099t working as well as intended.",
+    "source_domain": null,
+    "text": null,
+    "title": "Pat Gelsinger Retires from Intel After Three Turbulent Years",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

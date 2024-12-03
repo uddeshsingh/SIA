@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Arundhati Sarkar",
+        "SA News Editor",
+        "seekingalpha.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 12:26:29",
+    "description": "OpenAI, backed by Microsoft, is considering introducing advertising to its products to boost revenue.",
+    "filename": ".json",
+    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1701199686/image_1701199686.jpg?io=getty-c-w750",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Microsoft (NASDAQ:MSFT)-backed generative AI company OpenAI is discussing plans to introduce advertising to its range of products, as the ChatGPT maker seeks new revenue sources, chief financial officer Sarah Friar told the Financial Times.\nThe San Francisco-based group, which in October secured $6.6B in new funding, has been hiring",
+    "source_domain": null,
+    "text": null,
+    "title": "OpenAI looks to add advertising to AI products, CFO tells FT",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

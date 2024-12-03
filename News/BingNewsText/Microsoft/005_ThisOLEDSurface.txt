@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Luke Larsen"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 16:01:11",
+    "description": "The Surface Pro 11 got a decent discount for Cyber Monday, making it an even better option than before.",
+    "filename": ".json",
+    "image_url": "https://www.digitaltrends.com/wp-content/uploads/2024/07/surface-pro-11-07.jpg?resize=1200%2C630&p=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "I loved the Surface Pro 11th Edition. In my review of it, I tell people to \u201cjust buy it.\u201d If you\u2019ve ever been curious about the Surface Pro, the 11th-generation model feels like the version of this device that I\u2019ve always wanted it to be. It\u2019s a true iPad Pro competitor in just about every aspect \u2014 except that it runs Windows and is a much better laptop replacement.\nThe only real problem was the price. Microsoft never sells the device bundled with the Surface Pro keyboard, which you\u2019re definitely going to want, and that adds another $180. Ouch.\nBut for Cyber Monday, it\u2019s being sold at a significant discount, easily making it the best 2-in-1 laptop ever made. The Surface Pro 11th Edition costs just $1,000 right now, which is a 29% discount on the normal price. It\u2019s among the best Cyber Monday Surface deals you\u2019ll find today.\nWhile you could always get a $999 Surface Pro 11, that was the slower model that came with the Snapdragon X Plus chip. And now, you can get the faster Snapdragon X Elite configuration for that same price. That\u2019s the model with the largest percentage drop \u2014 and you\u2019ll appreciate the OLED screen on that configuration. For an extra $100, that\u2019s totally worth it.\nBut the more affordable configuration is pretty solid too. It\u2019s been discounted to $840, which has the Snapdragon X Plus and LCD screen, yes, but comes at quite an inexpensive price for this quality of a device. The jump from 256GB to 512GB only costs $50 too. Compared to what Microsoft normally charges, that\u2019s a great deal.\nThe Surface Pro 11 came out just earlier this year and was the first Surface 2-in-1 to come with these new Snapdragon X chips, which greatly enhance the device\u2019s efficiency, with a claimed 22 hours of battery life. That was one of my biggest hangups with previous generations of the Surface Pro, which never got enough battery life to make it the ultimate travel device. But that\u2019s exactly what the Surface Pro 11 is. You can even use the keyboard separated from the tablet now, make it perfect for flights.",
+    "source_domain": null,
+    "text": null,
+    "title": "This OLED Surface Pro deal makes it the best 2-in-1 ever made",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

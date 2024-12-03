@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Laura Bratton"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-08 21:38:24",
+    "description": "AI chipmaker Nvidia has officially joined the Dow Jones Industrial Average, replacing its struggling counterpart Intel.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/o9NIHkzXY3m1NrfdxhAJ1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/e4371f30-e5f5-11ee-97f6-9af8b1858f04",
+    "language": "en",
+    "localpath": null,
+    "maintext": "AI chipmaker Nvidia (NVDA) has officially joined the Dow Jones Industrial Average (^DJI), cementing the tech giant's significance in the artificial intelligence era.\nDespite a broader dip in chip stocks Friday, Nvidia notched a weekly gain of roughly 9%. That surge has helped it overtake Apple (AAPL) this week as the world\u2019s most valuable company, with its $3.6 trillion market cap ahead of Apple\u2019s $3.4 trillion as of Friday at market close.\n\u201cA lot of us on Wall Street talk about the S&P 500 (^GSPC) and the Nasdaq (^IXIC). But really most of America knows the Dow,\u201d said Ritholtz Wealth Management chief market strategist Callie Cox in an interview with Yahoo Finance Friday, \u201cSo a lot of America is going to be introduced or at least have to get a little bit more familiar with Nvidia, and all of what Nvidia means in this AI story.\u201d\nThe AI chip market is set to grow 99% in 2024 and another 74% next year, according to consulting firm International Business Strategies, which tracks industry data.\nNvidia has repeatedly disproven fears of a so-called AI bubble and shows no signs of a slowdown. CEO Jensen Huang has touted \u201cinsane\u201d demand for the company's chips.\nSome 90% of analysts recommend buying Nvidia stock and see shares hitting $149.38 over the next 12 months, according to Bloomberg consensus estimates. Shares stood at $147.36 Friday.\nMeanwhile, the former tech darling Intel (INTC), which Nvidia replaced in the Dow, has fallen nearly 50% since the beginning of 2024 as investors grow wary of its ongoing production issues and gloomy financials and question whether its turnaround plan will succeed.\nIn Trump's second term, Nvidia, like the rest of the AI chip market, could face hurdles in the form of high tariffs on Chinese goods and heightened trade tensions. The president-elect has suggested imposing 10%-20% tariffs across the board and a 60% tariff on imports from China \u2014 levels unseen since the Great Depression. Nvidia manufactures its chips in Taiwan with TSMC (TSMC34.SA), which uses components from China to make those chips.\n\"Trump's victory brings further uncertainty to the semiconductor sector in terms of its impact on additional China restrictions, higher tariffs, and CHIPS Act funding,\" Jefferies analysts wrote in a note Friday.\n\u201cDisruptions to the global supply chain would be a problem for NVIDIA because they'd be a problem for TSMC,\u201d D.A. Davidson analyst Gil Luria told Yahoo Finance in an interview this week.\nThe chipmaker is set to report quarterly earnings on Nov. 20.\nLaura Bratton is a reporter for Yahoo Finance. Follow her on X @LauraBratton5.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia, the world's most valuable company, has officially joined the Dow",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

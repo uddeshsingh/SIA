@@ -1,0 +1,17 @@
+Authors: ['Ines Ferré']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-15 08:58:16
+Description: Tesla stock was under pressure on Thursday afternoon as the broader Trump trade was fading after a furious post-election rally.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/euUyFM0YZHImqYseWbGCAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/1e461b50-9c5c-11ef-bddb-f06d2a45876a
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla stock falls as Trump trade fades, EV tax credits come under threat
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The report, which quoted two sources with knowledge of the matter, said the hallmark incentive of the Biden administration's Inflation Reduction Act was being discussed in meetings by an energy policy transition team. Reuters' report added that Tesla representatives in touch with Trump's team support ending the subsidy. Tesla stock opened Thursday's session lower as the Trump trade rally was showing signs of fatigue. On Monday, Tesla shares reached their highest level since early 2022, with Wall Street analysts growing increasingly bullish on Musk's connection to an incoming Trump administration. This week, Trump announced Musk and former GOP presidential candidate Vivek Ramaswamy would co-lead a new group to cut government waste.
+Financial_Events: []

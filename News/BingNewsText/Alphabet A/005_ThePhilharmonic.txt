@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Justin Davidson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:00:13",
+    "description": "The New York Philharmonic\u2019s new CEO will be Matias Tarnopolsky, the orchestra\u2019s former artistic planner and, for the past six years, president of the Philadelphia Orchestra.",
+    "filename": ".json",
+    "image_url": "https://pyxis.nymag.com/v1/imgs/124/921/fc11ed127206b16f66b0ecb4cb74f62551-matias-philharmonic.1x.rsocial.w1200.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The New York Philharmonic has a habit of summoning ex-leaders back into service. Deborah Borda did three separate stints as chief executive. Now Matias Tarnopolsky will take over as president and CEO on New Year\u2019s Day, returning to an orchestra where he served as head of artistic planning nearly two decades ago. When Tarnopolsky arrived at Lincoln Center back then, he found an airmail envelope waiting for him \u2014 even then, an antiquated form of communication. The handwritten letter was from the composer, conductor, and sage of modern music Pierre Boulez, who had led the Philharmonic as music director for an electrifying but frustrating six years in the 1970s. \u201cShake strongly the programming of the NY Phil,\u201d he advised. \u201cGive them a little bit of adventure. It is not easy, you will see.\u201d It wasn\u2019t: Lorin Maazel was music director at the time, and his boundary pushing was scant.\nThe orchestral world has probably evolved more since Boulez penned that letter than it had in the previous 40 years. The definition of adventure has changed, and the appetite for it increased. There are more women onstage, on the podium, and in the programs. Musical organizations now double as educational institutions. And the Philharmonic, still getting used to its radically rebuilt Geffen Hall, is looking forward to some disruption from inside, as the Venezuelan conductor Gustavo Dudamel gradually takes over the music director\u2019s duties even before his tenure officially begins in 2026.\nFor Tarnopolsky, who is 54 and has been president and CEO of the Philadelphia Orchestra since 2018, the move up I-95 is both a return and a major shift. \u201cI saw this as a unique chance to bring together three fundamental elements: a great orchestra, a new hall, and an extraordinary artistic director,\u201d he says. He and Dudamel go way back. \u201cWhen I first worked for the New York Philharmonic, my first trip was to Caracas to meet Gustavo and invite him to make his debut with us,\u201d he recalls. They bonded instantly over a common language \u2014 as the London-bred child of Argentinian parents, Tarnopolsky grew up speaking Spanish at home. They also share a musical sensibility. \u201cGustavo\u2019s a voracious devourer of the new and interesting, and he\u2019s always exploring,\u201d Tarnopolsky says. Now, they can \u201cshake strongly\u201d together.\nThe new era comes after a rough year at the Philharmonic. The concert season got going last September as the players\u2019 contract was about to expire. On opening night, musicians leafleted the audience in front of the hall and, backstage, were planning for a possible strike. Even more troubling was the fallout from a 2010 sexual-assault case that became public only when New York reported on it last spring. Long-interred resentments resurfaced, a new investigation was launched, and the two musicians accused of misconduct, Matthew Muckey and Liang Wang, were placed on leave \u2014 then sued the orchestra. The chief executive, Gary Ginstling, faced with a suddenly fractious institutional culture, abruptly quit last summer, just two years into his tenure. Borda temporarily unretired, but the Philharmonic suddenly seemed like an institution in crisis \u2014 not the most appealing look for an orchestra in search of a leader. The situation gave Tarnopolsky pause.",
+    "source_domain": null,
+    "text": null,
+    "title": "The Philharmonic\u2019s New CEO Will Be Matias Tarnopolsky",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

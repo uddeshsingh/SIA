@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-18 00:00:00
+Description: Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.
+Filename: .json
+Image_Url: https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: TSLA Tesla Inc Company Reports
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: During the first half of the year, Tesla's profit margins fell to multiyear low levels, largely due to a decline in the automotive segment. Seth Goldstein Stock Analyst Note Tesla: Management Aims to Roll Out FSD to China and Europe in First Quarter of 2025 Tesla's artificial intelligence team announced its product release roadmap, which includes plans to launch its full self-driving software in Europe and China in the first quarter of 2025, pending regulatory approval. Shareholders voted with the board recommendations on nearly every proposal, including approving CEO Elon Musk's 2018 compensation package as well as reincorporating in the US state of Texas from Delaware. The rally was due to multiple media outlets reporting that Tesla cleared regulatory hurdles in China and was given tentative approval by the Chinese government to begin selling its full self-driving driver-assistance software (FSD). The move should drive Tesla sales higher in China, where the automaker is facing increasing competition with many electric vehicle manufacturers competing on lower prices.
+Financial_Events: ['Should this occur, we would expect to see lower near-term US EV sales, slightly weighing on lithium demand.\nSeth Goldstein\nStock Analyst Note\nTesla Earnings: Margin Recovery Underway as Long-Term Objectives Intact\nTesla delivered third-quarter earnings above consensus estimates', "During the first half of the year, Tesla's profit margins fell to multiyear low levels, largely due to a decline in the automotive segment", "In the third quarter, Tesla's automotive business generated 160 basis points of gross profit margin expansion to 20.1% driven by deliveries growth; lower cost per vehicle—including lower raw materials costs; and higher autonomous driving software revenue", "In our view, the results signal that the first half of 2024 was likely the bottom for Tesla's automotive gross profits, as we expect fourth-quarter results will also exceed 20%.\nSeth Goldstein\nCompany Report\nTesla's Strategic Focus Shifts to Development of Affordable Vehicles, Cost Reductions, and AI\nTesla is one of the largest battery electric vehicle automakers in the world", "We're maintaining our $200 fair value estimate and narrow moat rating for Tesla.\nSeth Goldstein\nStock Analyst Note\nTesla Earnings: Affordable Vehicle Still on Track for 2025 Launch and 2026 Ramp\nTesla's second-quarter results were largely in line with our view for the cadence of the year", 'Operating profits were down roughly 33% year over year due largely to lower average automotive selling prices, but up 37% sequentially versus the first quarter, driven by strong energy generation and storage profits and lower corporate expenses']

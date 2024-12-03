@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Ryan Glasspiegel"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-16 15:01:56",
+    "description": "Netflix has about six weeks to figure it out.",
+    "filename": ".json",
+    "image_url": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-0qkro16bj-1731765601813.jpg?quality=75&strip=all&1731747761&w=1024",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Netflix has about six weeks to figure it out.\nThe streaming service\u2019s first foray into airing a big live sporting event with Mike Tyson boxing Jake Paul on Friday night turned into a nightmare as Netflix did not have the requisite bandwidth and viewers were livid over buffering issues.\nNetflix will be airing an NFL doubleheader on Christmas, featuring the Chiefs vs. Steelers and the Ravens vs. Texans, games that will both have big playoff implications in the AFC.\nAs sports fans were encountering obstacles in watching Tyson vs. Paul, concern was already spreading on social media that Netflix might not be able to handle everyone who wants to watch the NFL on Christmas.\n\u201cThis is a disaster for Netflix. They have no chance of successfully airing a Chiefs-Steelers Christmas Day NFL game based on this performance,\u201d OutKick founder Clay Travis wrote on X.\nPittsburgh sports talk radio host Randy Baumann exaggeratedly imagined a grisly scene if Netflix had another streaming debacle on Christmas.\n\u201cIf the Steelers Chiefs Christmas Day game on #Netflix looks like this there are going to be tables overturned with half eaten christmas hams all over western PA. Scalloped potatoes will be hurled at aunts and uncles. #BedlamInBlawnox,\u201d Baumann wrote on X.\nAn NFL memes account posted a video with the caption, \u201cIf Netflix broadcasted NFL games,\u201d which showed the play buffering and a subsequent error message in the middle of Jayden Daniels\u2019 recent Hail Mary to Noah Brown to defeat the Bears.\nTone Digs, a contributor on \u201cThe Pat McAfee Show,\u201d issued a warning to Netflix.\n\u201cIt\u2019s all fun and games tonight @netflix, but if you ruin my family\u2019s Christmas because we can\u2019t watch the Steelers\u2026 there will be real hell to pay,\u201d he wrote.",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix stream debacle for Tyson-Paul fight sparks concern for Christmas NFL games",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

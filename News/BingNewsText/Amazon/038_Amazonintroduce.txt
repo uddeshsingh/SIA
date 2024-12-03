@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Shafiq Najib",
+        "ABC News"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-13 22:58:00",
+    "description": "Amazon Haul offers a variety of items priced at $20 or less.",
+    "filename": ".json",
+    "image_url": "https://i.abcnewsfe.com/a/2ccfa33a-5d57-46d3-856d-ad3143ff1b64/amazon-3-as-jm-241113_1731536206859_hpMain_16x9.jpg?w=1600",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Amazon recently introduced Amazon Haul, a convenient shopping experience accessible through the Amazon app or Amazon website by searching \"Haul.\"\nIn an announcement Wednesday, Dharmesh Mehta, vice president of Amazon's Worldwide Selling Partner Services, said the new service aims to offer customers low-priced products across various categories while ensuring authenticity and safety.\n\"Finding great products at very low prices is important to customers, and we continue to explore ways that we can work with our selling partners so they can offer products at ultra-low prices,\" he said, adding that the company will continue to refine the service based on customer feedback.\nWhat is Amazon Haul\nAmazon Haul is a budget-friendly shopping section within the Amazon app, designed for shoppers looking for affordable items.\nIt offers a separate shopping experience with its own search, cart and checkout, making it easy to browse and purchase low-cost products in one convenient place.\nWhat kind of products does Amazon Haul offer ?\nAmazon Haul offers a variety of items priced at $20 or less, with many options under $10 and some as low as $1.\nTo encourage larger purchases, it provides discounts: 5% off orders over $50 and 10% off orders over $75.\nHow does Amazon Haul work?\nCustomers can access Amazon Haul by searching \"Haul\" in the Amazon Shopping app, selecting it from the main menu, or visiting amazon.com/haul.\nThe section offers a wide range of affordable items in categories like home goods, electronics, beauty and fashion.\nOrders over $25 qualify for free shipping, typically arriving in 1-2 weeks, while there is a $3.99 shipping fee for orders under $25.\nDo you need Amazon Prime for Amazon Haul ?\nAmazon Haul doesn't require an Amazon Prime membership, making it accessible to a broader audience and allowing anyone to enjoy Amazon's lower-priced items without needing to pay for additional membership perks.\nAdditionally, every purchase on Amazon Haul is protected by Amazon's A-to-Z Guarantee, ensuring peace of mind on all transactions.\nWith its range of low-cost options and flexible ordering, Amazon Haul is designed to help shoppers find affordable products quickly and conveniently.",
+    "source_domain": null,
+    "text": null,
+    "title": "Amazon introduces Amazon Haul, a budget-friendly service: What to know",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

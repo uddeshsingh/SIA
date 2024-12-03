@@ -1,0 +1,17 @@
+Authors: ['Derek Saul']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 10:18:34
+Description: “The magnitude” of Tesla stock’s near 40% rally from Election Day through Monday “surprised us,” wrote Deutsche Bank analyst Edison Yu.
+Filename: .json
+Image_Url: https://specials-images.forbesimg.com/imageserve/60cd04172ee85c434d37d80b/400x0.jpg?cropX1=359&cropX2=1258&cropY1=753&cropY2=1652
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla Stock Dips 6% As Post-Election Surge Cools Off
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Topline Shares of Tesla slipped Tuesday as part of a broader cooling off among the hottest trades following last week’s election of Donald Trump, though the Elon Musk-led electric vehicle maker remains far more valuable than it was prior to Election Day. Key Facts Crucial Quote “Elon Musk’s emergence from a political ‘outsider’ to having a voice in potential policies may, at some level, accelerate Tesla’s journey beyond autos,” wrote Morgan Stanley analyst Adam Jonas in a Tuesday note to clients. American leadership in Tesla’s core ambitions like electric and autonomous vehicles, solar energy and robotics “is going to involve government and industrial partnership on a scale some have compared to the Manhattan Project, US Highway Act or the Apollo Missions,” Jonas added. Yu outlined several near-term factors behind the surge, including “retail exuberance” and short trade unwinding “due to lack of near-term negative catalysts.” But Yu wrote there are “potential large” benefits for Tesla under a Trump regime with Musk a close advisor, including “streamlining” regulatory approval of Tesla’s self-driving cars and the potential for Tesla to secure further market share in the U.S. with the potential cutback of federal tax credits for electric vehicles. Tesla stock led a broader rally for U.S. equities since the election, with the S&P up 4% over the last week, trading above 6,000 for the first time ever as Wall Street celebrated the positive earnings impact of the lower corporate tax rates backed by Trump.
+Financial_Events: ['equities since the election, with the S&P up 4% over the last week, trading above 6,000 for the first time ever as Wall Street celebrated the positive earnings impact of the lower corporate tax rates backed by Trump.\nFurther Reading\nForbesElon Musk Now $50 Billion Richer Post-Election As Tesla Stock Up Another 9%']

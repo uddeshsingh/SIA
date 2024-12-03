@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Anan Ashraf",
+        "Benzinga Editor"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-15 08:18:20",
+    "description": "Tesla on Thursday announced the company's new charging infrastructure called the V4 cabinet aimed at increasing charging speed and enabling sufficient charging infrastructure for the company's upcoming Tesla Semi vehicle.",
+    "filename": ".json",
+    "image_url": "https://cdn.benzinga.com/files/images/story/2024/11/15/Tesla-V4-Cabinet.jpeg?width=1200&height=800&fit=crop",
+    "language": "en",
+    "localpath": null,
+    "maintext": "EV giant Tesla Inc. TSLA on Thursday announced the company\u2019s new charging equipment called the V4 cabinet aimed at increasing charging speed and enabling sufficient charging infrastructure for the company\u2019s upcoming Tesla Semi vehicle slated to enter production in 2026.\nWhat Happened: The V4 Cabinet, Tesla said, supports 400V-1000V vehicle architectures and is capable of delivering up to 500kW for cars and 1.2 MW for the company\u2019s upcoming Semi. It powers 8 posts and twice the stalls per cabinet.\n\u201cOur first sites with V4 Cabinets are going into permitting now. First openings in 2025,\u201d Tesla said in a post on X.\nWhile Tesla launched its V4 posts last year, it was still using a V3 cabinet, limiting power output.\n\u201cThere\u2019s great engineering behind the V4 system that enables faster charging speeds, lower deployment costs, more efficient power conversion, and higher power density. These benefits for Tesla Semi customers will be a key part of scaling electric trucking,\u201d Senior Manager for Semi Truck Engineering Dan Priestly said in a post on X.\nThe new V4 cabinet can also enable charging the company\u2019s Cybertruck 30% faster, the company said.\nMax de Zegher, Tesla\u2019s Director of Charging, North America, highlighted the efficiency improvements of the new V4 Cabinet, saying, \u201cEven some of the small incremental improvements matter. V4 Cabinet has a 2% efficiency improvement. Superchargers already deliver over 5 TWh/year, 100 GWh/year in waste heat that can be saved.\u201d\nThis is equivalent to the annual electricity usage of over 9,000 households in the U.S. on average, according to data from the U.S. Energy Information Administration.\nWhy It Matters: As of the end of the third quarter, Tesla had 6,706 supercharger stations around the globe and 62,421 connectors.\nDuring Tesla\u2019s annual shareholder meeting in June, Tesla CEO Elon Musk slammed rumors of the death of its supercharger network following a major layoff in April as \u201cgreatly exaggerated.\u201d Tesla will invest $500 million in expanding the network this year, Musk then said.\nTesla\u2019s company-wide layoffs in April impacted 500 members of the supercharging team and Rebecca Tinucci, Tesla\u2019s then Senior Director of Charging Infrastructure, left the company.\nCheck out more of Benzinga's Future Of Mobility coverage by following this link.\nRead Next:\nFord Cuts Capri, Explorer EV Output Due To \u2018Significantly Lower Than Expected Demand' After Pausing F-150 Lightning Production\nPhoto courtesy: Tesla",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla's V4 Supercharger Cabinet Can Charge Cybertruck 30% Faster, Recharge Tesla Semi And Save Annual Electricity Usage Of Over 9000 Homes",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

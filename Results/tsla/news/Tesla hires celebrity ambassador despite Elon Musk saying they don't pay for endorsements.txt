@@ -1,0 +1,17 @@
+Authors: ['Fred Lambert', 'Michelle Lewis', 'Reinette LeJeune', 'Peter Johnson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-01 14:49:07
+Description: Tesla has hired a celebrity ambassador, a departure from Elon Musk’s policy of not paying for celebrity endorsements. Musk has...
+Filename: .json
+Image_Url: https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/11/Screenshot-2024-11-01-at-10.32.00%E2%80%AFAM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla hires celebrity ambassador despite Elon Musk saying they don't pay for endorsements
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: I hope to convey a positive message together with Tesla.” Here are a few pictures released to announce her new partnership with Tesla: Kim’s agency said that her relationship with Tesla started from CEO Elon Musk tweeting about her viral performance at the Olympics: “The relationship between Kim Ye-ji and Tesla developed after Elon Musk mentioned her. The change in strategy coincidently, or not, came after Musk bought Twitter, a company relying on advertising, and Tesla even started to advertise on Twitter, now called X. Tesla sales in Korea haven’t been amazing, but the country’s auto market greatly favors domestic brands. The American automaker does fairly well for a foreign brand with the Model Y becoming the best-selling imported vehicle in Korea during the first half of 2024. Electrek’s Take It’s a change of strategy, and Elon certainly can’t claim that Tesla doesn’t pay for celebrities to endorse its products, but it is probably a smart move due to the fact that Koreans prefer domestic brands. Kim could help create a deeper level of attachment to the Tesla brand, but I don’t really know.
+Financial_Events: []

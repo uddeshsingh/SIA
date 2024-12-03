@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Paul Gillin",
+        "DUNCAN RILEY",
+        "MARIA DEUTSCHER",
+        "KYT DOTSON"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 08:00:39",
+    "description": "Oracle database on AWS cloud enters limited preview - SiliconANGLE",
+    "filename": ".json",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/oracle.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Oracle Corp. today announced a limited preview of its Exadata Database offering on the Amazon Web Services Inc. cloud.\nThe announcement makes good on plans Oracle announced in September that appeared to put an end to the long-standing feud between the two companies. Oracle co-founder and Chief Technology Officer Larry Ellison has repeatedly taken jabs at his cloud rival, saying in 2018 that Oracle has a \u201c10- to 20-year lead on Amazon in databases.\u201d Amazon responded that Oracle\u2019s data warehouse wasn\u2019t cloud-native and was technically inferior to AWS\u2019s RedShift.\nThose differences now appear to be a thing of the past. AWS customers can soon run Oracle\u2019s Exadata Database Service on Oracle Cloud Infrastructure on AWS infrastructure, starting with the AWS US East Region. They already have similar capabilities on Microsoft Corp. Azure and Google LLC\u2019s Cloud Platform.\nOracle is the world\u2019s most popular database management system, followed by its MySQL open-source counterpart, according to SolidIT Consulting & Software Development gmbh\u2019s DB-Engines ranking. The claims to have more than 430,000 customers in 195 countries.\nCustomers can migrate Oracle Database workloads, including Oracle Exadata and Oracle Real Application Cluster, to the cloud using a low-latency network connection. They can more easily connect data in their Oracle databases to applications running on Amazon Elastic Compute Cloud, including AWS Analytics services.\nThey can also take advantage of AWS\u2019 artificial intelligence AI services, including Amazon Bedrock, a fully managed service that provides access to various foundation models from Amazon and other vendors. Oracle said it will operate and manage Oracle Exadata Database Service.\nThe deal provides for unified database administration, billing and customer support with Oracle Database@AWS managed from the AWS Management Console. Migration can be accelerated with Oracle\u2019s Zero Downtime Migration tools and Oracle Database use qualifies for existing AWS commitments and existing Oracle license features such as Bring Your Own License, a program that enables organizations to apply their existing Oracle software licenses to equivalent services in the cloud.\nOracle said customers can also unify their data across Oracle and AWS platforms for analytics, machine learning and generative AI as well as combine EC2, Amazon Elastic Kubernetes Service and Amazon Elastic Compute Service with Oracle Database 23ai features such as AI Vector Search.\nPhoto: May Wong/Flickr",
+    "source_domain": null,
+    "text": null,
+    "title": "Oracle database on AWS cloud enters limited preview",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

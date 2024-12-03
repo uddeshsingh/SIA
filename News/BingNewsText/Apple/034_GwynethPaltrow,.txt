@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Brendan Morrow"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 00:00:00",
+    "description": "Apple Martin, the 20-year-old daughter of the actress and the Coldplay singer, was supported by her famous parents at the Le Bal des De\u0301butantes ball.",
+    "filename": ".json",
+    "image_url": "https://www.freep.com/gcdn/authoring/authoring-images/2024/12/02/USAT/76701314007-gty-1459064527.jpg?crop=3651,2055,x0,y547&width=3200&height=1802&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The Apple doesn't fall far from the tree.\nApple Martin, the 20-year-old daughter of Gwyneth Paltrow and Chris Martin, made her debut at the Le Bal des De\u0301butantes debutante ball in Paris on Saturday, and both her famous parents turned out to support her.\nPaltrow shared a series of photos and videos from the trip on Instagram with the caption, \"A special long weekend in Paris.\" Two of them showed Paltrow with her daughter, who looked glamorous in a custom blue Valentino dress that took 750 hours to make, according to Vogue. She completed the look with a black bow.\nIn another snap, the \"Iron Man\" star posed with her mother, Blythe Danner, her ex-husband, the lead singer of Coldplay, and their 18-year-old son Moses Martin.\nPaltrow and Martin were married from 2003 until they separated in 2014, and they share two children: Apple and Moses.\nNeed a break? Play the USA TODAY Daily Crossword Puzzle.\nThe Paris fashion event marked Apple Martin's debut into society. Though she has maintained a low public profile, she stepped out last year at Paris Fashion Week, where she appeared at Chanel's spring/summer show wearing a black-and-white plaid dress.\nGwyneth Paltrow'sdoppelganger daughter Apple sits front row at Chanel: See the photos\nAfter separating from Chris Martin, Paltrow went on to marry Brad Falchuk in 2018. Martin, meanwhile, has been in a relationship with Dakota Johnson since 2017.\nGwyneth Paltrow reveals daughter AppleMartin tried on her infamous 2002 Oscars gown\nIn an interview with Bustle in March, the \"Fifty Shades of Grey\" star said she loves being a stepmom figure for Apple and Moses.\n\"I love those kids like my life depends on it,\" she said. \"With all my heart.\"\nIn a May Instagram post, Paltrow said it felt \"surreal\" that Apple was turning 20 and shared cute photos of her as a baby.\n\"You are the most extraordinary, the most hilarious, the most brilliant ... I love your WWII insights as much as I love your physical comedy,\" she said. \"You are the most fun to be with and you have always been. From those days when it was always you and me to now, you are my lil ride or die. You are everything to me and I am so proud of you.\"\nContributing: Charles Trepany",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple Martin, Gwyneth Paltrow's daughter, steps out at debutante ball",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

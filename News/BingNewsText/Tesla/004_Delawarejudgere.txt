@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Misty Severi"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2023-09-02 00:00:00",
+    "description": "Musk's legal team argued that McCormick should reverse her earlier decision because Tesla had conducted a shareholder vote to \u201cratify\u201d the 2018 pay plan at the company's annual shareholder meeting in June.",
+    "filename": ".json",
+    "image_url": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-09/elon-musk.Chesnot.Getty%20Images.jpg?h=9e821982&itok=wvtnQswt",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A Delaware judge on Monday rejected Tesla CEO Elon Musk's bid to reinstate a multi-billion dollar pay package, upholding her previous ruling that the package was improperly granted.\nJudge Kathaleen McCormick ruled in January that Musk was not entitled to the $56 billion pay package, after a shareholder filed a lawsuit against Musk and Tesla's board of directors.\nMusk's legal team argued that McCormick should reverse her earlier decision because Tesla had conducted a shareholder vote to \u201cratify\u201d the 2018 pay plan at the company's annual shareholder meeting in June, per CNBC.\nMcCormick ruled that the vote on the payment package did not have a \"ratifying effect\" on the current case, because shareholders had not ratified the payment plan prior to her ruling.\n\u201cWere the court to condone the practice of allowing defeated parties to create new facts for the purpose of revising judgments, lawsuits would become interminable,\" she wrote.\nThe lawsuit was filed after Musk agreed in 2018 to spend the next decade working as Tesla's CEO or executive chairman and chief product officer in exchange for 20.3 million stock options that had an estimated value at the time of about $55 billion. The exact value has fluctuated with Tesla's stock. The pay plan was considered the largest in U.S. history for a public CEO.\nAttorneys for the plaintiff said they were \"pleased\" with the ruling.\nMusk can still appeal the decision to the Delaware Supreme Court. He has not publicly commented on the latest verdict so far.",
+    "source_domain": null,
+    "text": null,
+    "title": "Delaware judge rejects Elon Musk's bid to reinstate his $56 billion pay package",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

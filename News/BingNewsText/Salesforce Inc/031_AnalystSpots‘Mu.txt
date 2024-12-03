@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Attiya Zainib"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-18 13:01:54",
+    "description": "We recently published a list of 10 AI Stocks to Watch on Latest News and Analyst Ratings. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other AI stocks to watch on latest news and analyst ratings. AI discussion boards online are buzzing with a new development where [\u2026]",
+    "filename": ".json",
+    "image_url": "https://media.zenfs.com/en/insidermonkey.com/bc79275d8ac820aca3ae09d71e3d99a4",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Stifel has reiterated its Buy rating on Salesforce Inc (NYSE:CRM) and increased its price target on the stock to $350 from $320 as it considers Agentforce a catalyst.\n\u201cWith the stock currently trading at ~18.4x Stifel\u2019s FY26 FCF estimate, below large-cap peers trading at 20x-40x CY25 FCF estimates, it believes Salesforce\u2019s current multiple discounts the potential durability of revenue growth through the new agent model,\u201d Lane noted.\nThese agents, which can be used in areas such as customer service, sales, marketing, commerce, and healthcare, are designed to handle complex tasks and produce actionable outputs, Salesforce Inc (NYSE:CRM) says.\n\u201cStifel is still uncertain about several factors\u2014such as demand for workforce reduction, adoption timelines, and key competitors\u2014and will hold off on updating its model until it gathers more information from Salesforce Inc (NYSE:CRM), early users, and partners,\u201d stated Stifel analyst Parker Lane.\nStifel reaffirmed its Buy rating on Salesforce Inc (NYSE:CRM) and raised its price target to $350 from $320, seeing Agentforce as a significant growth driver.\n\u201cWith the stock trading at about 18.4x Stifel\u2019s FY26 free cash flow estimate, below large-cap peers that are trading at 20x-40x CY25 FCF estimates, Salesforce\u2019s current multiple seems to underestimate the potential for sustained revenue growth through its new agent model,\u201d Lane concluded.\nPolen Focus Growth Strategy stated the following regarding Salesforce, Inc. (NYSE:CRM) in its Q3 2024 investor letter:\n\u201cIn the third quarter, we purchased new positions in Apple and Oracle and eliminated our small positions in Nike and Salesforce, Inc. (NYSE:CRM). We exited our position in Salesforce to fund better opportunities in Shopify and MSCI. Salesforce is seeing slower revenue growth than we would have expected, given the weakening macroeconomic environment. Furthermore, since its core end markets in customer relationship management (\u201cCRM\u201d) and Service are fairly mature, a lower growth level versus our expectations could persist for some time.\u201d\nOverall, CRM ranks 5th on our list of AI stocks to watch on latest news and analyst ratings. While we acknowledge the potential of CRM, our conviction lies in the belief that under the radar AI stocks hold greater promise for delivering higher returns, and doing so within a shorter timeframe. If you are looking for an AI stock that is more promising than CRM but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.\nREAD NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock",
+    "source_domain": null,
+    "text": null,
+    "title": "Analyst Spots \u2018Multi-Billion-Dollar\u2019 Opportunity for Salesforce (CRM), Says Stock Is Undervalued",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

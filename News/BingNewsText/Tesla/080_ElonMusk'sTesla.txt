@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "BBC News"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2022-07-20 22:48:02",
+    "description": "The announcement comes as the value of the world's biggest cryptocurrency has plunged.",
+    "filename": ".json",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/EA9B/production/_125995006_musk_getty.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla, which made waves last year when it revealed a major investment in Bitcoin, has now sold off most of its holdings of the cryptocurrency.\nThe electric car firm has offloaded 75% of its Bitcoin, which was worth about $2bn (\u00a31.7bn) at the end of 2021.\nIt is backing away as the value of the cryptocurrency has plunged, falling by more than 50% this year.\nTesla said it bought traditional currency with the $936m (\u00a3782m) from its Bitcoin sales.\nTesla boss Elon Musk has been among the most high profile champions of cryptocurrency, with his pronouncements on social media often driving significant trading activity.\nTesla's $1.5bn investment in Bitcoin, revealed in February 2021, prompted a surge of demand in the currency. The price of the notoriously volatile cryptocurrency soared last year to almost $70,000 in November before crashing.\nOne Bitcoin now trades for less than $25,000.\nTesla last year stopped accepting Bitcoin as payment for its cars, citing concerns about the climate impact of energy-intensive Bitcoin mining.\nAt the time, Mr Musk said on social media that the company would not be selling the Bitcoin it owned.\nAnother Musk promise broken\nLast year, Elon Musk took to Twitter to outline Tesla's position on Bitcoin.\n\"Tesla will not be selling any Bitcoin\". That sounds pretty emphatic.\nYet from the mouth of the world's richest person, statements should be taken with not just a pinch but a shovel of salt.\nWe now know that a year after that Tweet, Tesla sold most of its Bitcoin.\nYou might be noticing a pattern here?\nWhether it's promising driverless tech or buying social media companies, Mr Musk's pronouncements don't always come to pass.\nThat doesn't seem to have hurt his business career, up to now.\nBut this is another reminder that his words, which can move markets, are not set in stone.\nThe move is yet more bad news for Bitcoin and crypto more generally. Musk is an advocate of crypto, and helped hype up currencies like Bitcoin and Dogecoin.\nMr Musk said that this wasn't a reflection on Bitcoin, and more about the need for cash.\nHowever, he also called crypto a \"side show to the side show\". Not exactly a ringing endorsement.\nTesla shared the sale of the holdings as part of its regular quarterly update. It said Bitcoin was one of the factors that hurt its profitability.\nHowever, the company reported higher-than-expected profit for the three months to the end of June as price increases of its best-selling cars helped offset challenges, including lockdowns in China.\nIt also promised a \"record-breaking second half\" to the year.\nTesla said production at its factory in China rose to a monthly record as Covid-19 restrictions were lifted.",
+    "source_domain": null,
+    "text": null,
+    "title": "Elon Musk's Tesla sells most of its Bitcoin holdings",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

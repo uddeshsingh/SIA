@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Naomi Diaz"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:22:20",
+    "description": "\"Discover the latest updates on Murray-Calloway County Hospital's transition from Cerner to Oracle Health, including budget delays and projected financial impac",
+    "filename": ".json",
+    "image_url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Murray-Calloway County Hospital in Murray, Ky., has faced ongoing delays in transitioning its health records system from Cerner to Oracle Health, Ledger & Times reported Dec. 2.\nThe hospital's budget for the new fiscal year, which started Oct. 1, was submitted later than usual due to repeated delays in switching its health records system from Cerner to Oracle Health, according to Murray-Calloway County Hospital's Chief Financial Officer John Bradford.\n\"We had thought we were going to go live with Cerner at the end of August, and then it was end of September, and then it was maybe kicked to October,\" Mr. Bradford told the Ledger & Times. \"Now it's April, so there was a lot of confusion (and some department heads had multiple changes to make), so we thought, rather than try to rush it through, we'd give it another month. So it's kind of odd that you're reporting actual results for the budget, and the budget hadn't even been approved yet.\"\nThe hospital's board approved an operating income of $1.36 million and a $16.5 million capital budget for the upcoming year. Mr. Bradford highlighted that expenses are expected to rise by 8.6%, significantly outpacing the projected 4% growth in net revenues. This increase is driven by rising salaries, inflation in supply costs, and $3.8 million in one-time expenses tied to the Oracle Health implementation.\nMr. Bradford also noted that the hospital's net income is projected at $3.9 million for the year, with a modest 4% growth in net revenue. Supply costs are expected to rise by $5 million, partly due to inflation and the loss of 340B drug program savings. Staff costs, including salary adjustments and a planned 3% merit increase, will also grow significantly.\nDespite these financial pressures, Murray-Calloway County Hospital is expected to maintain a strong financial position, with cash and investments totaling $95.3 million by the end of FY 2025, equating to 182 days of cash on hand.\nAdditionally, October's financial performance exceeded expectations, with gross revenues totaling $65.1 million, 4% above budget projections. While the transition to Oracle Health is expected to temporarily disrupt cash collections and revenue cycles, the hospital anticipates a full recovery by the end of the fiscal year.",
+    "source_domain": null,
+    "text": null,
+    "title": "Kentucky hospital faces delays in transition to Oracle Health",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

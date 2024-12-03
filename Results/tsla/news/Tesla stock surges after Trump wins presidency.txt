@@ -1,0 +1,17 @@
+Authors: ['Eric Revell']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 10:46:50
+Description: Tesla shares surged on Wednesday after former President Trump secured a return to the White House, with Tesla CEO Elon Musk a prominent supporter of his campaign and agenda.
+Filename: .json
+Image_Url: https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/elon-musk-donald-trump.jpg?ve=1&tl=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla stock surges after Trump wins presidency
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Shares of electric vehicle-maker Tesla surged on Wednesday as stocks rose broadly after former President Trump prevailed in the presidential election. Tesla CEO Elon Musk endorsed Trump's bid to return to the White House and was a prominent financial backer of his campaign. Trump has been critical of incentives and subsidies for EVs, but has commended Musk's work with Tesla and praised him as a "super genius" during his victory speech early Wednesday morning. Wall Street anticipates the incoming Trump administration will cut taxes and pursue a deregulatory agenda similar to the former president's first term in office. "We believe a Trump win could add $40-$50 per share to Tesla's stock and exceed $1 trillion in market cap if autonomous/FSD is accelerated starting in 2025 and a tailwind for Cybercab," he added.
+Financial_Events: []

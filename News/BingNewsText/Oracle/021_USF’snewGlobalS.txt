@@ -1,0 +1,27 @@
+{
+    "authors": [
+        "JOANA RIVA",
+        "STAFF",
+        "CLARA ROKITA GARCIA",
+        "NEWS EDITOR",
+        "Camila Gomez",
+        "Editor in Chief",
+        "MARIA RUIZ CORTES",
+        "SARA FUEYO"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 23:24:55",
+    "description": "Sumit Jadhav, student body vice president, said he knows the process of adapting to a new country and its educational system can be \u201cstressful\u201d and \u201cintimidating.\u201d\nJadhav, an international student from India, said USF World\u2019s new Global Student Center is a great addition to the Tampa campus.\nT",
+    "filename": ".json",
+    "image_url": null,
+    "language": "en",
+    "localpath": null,
+    "maintext": "Sumit Jadhav, student body vice president, said he knows the process of adapting to a new country and its educational system can be \u201cstressful\u201d and \u201cintimidating.\u201d\nJadhav, an international student from India, said USF World\u2019s new Global Student Center is a great addition to the Tampa campus.\nThe center will bring together a range of USF services, such as International Student Support and Education Abroad, in one space to increase support for USF\u2019s international and study abroad students, Jadhav said.\n\u201cThis brings a sense of community and a sense of home away from home for all our international students,\u201d he said. \u201cYou enter one office and you find all these services in the same space.\u201d\nThe new center opened in the Faculty Office Building in the USF Tampa campus on Nov. 18.\nSean Gilmore is the assistant vice president for global academic partnerships and enrollment at USF World. The services were brought together to make it easier for international and domestic students to access global services, Gilmore said.\n\u201cWe realized we\u2019re kind of a powerhouse,\u201d Gilmore said. \u201cWe really need to get our ducks in a row so that we can amplify those efforts.\u201d\nUSF was ranked as the No. 1 university with the most international students in Florida by OpenDoors Data in a November report. The report also ranked the university No. 2 in Florida institutions with the most U.S. students studying abroad.\nThe 2023-24 academic year shows over 7,000 international students attending USF Tampa, according to the report.\nRelated: New USF REC program offers fitness classes in Spanish, Portuguese\nIn addition to merging services, the new center brings international, study abroad and exchange students together, Gilmore said.\n\u201cThis is the spot where we not only bring our international students and give them a home, but then invite our domestic students to share that home and really amplify the cultural exchange piece of it,\u201d he said.\nThe opening comes over two years after INTO USF, a program that supported incoming international students, shut down in 2022.\n\u201c[INTO] was a single-purpose use, whereas now this is more of a global space for everybody,\u201d Gilmore said.\nRelated: INTO USF reportedly closing, faces lawsuit for investment losses\nGilmore said conversations with contractors for a \u201ccomplete redo\u201d started in June. The floors were replaced, the walls repainted, all the offices were redone and new furniture was brought in, he said.\nGilmore did not provide the cost of the project or contractor information at the time of publication.\nJadhav said the new center will have educational spaces for students, such as classrooms to hold events or interactive games.\n\u201cIt\u2019s great team bonding,\u201d he said. \u201cEspecially now that it\u2019s the final exam season. This can be a stressful time so that is a good place to chat, network and bond with people.\u201d\nRelated: USF students feel burnout after hurricanes: \u2018We\u2019re all playing catch up\u2019\nAdriana Martinez, a freshman information technology major, said she chose to attend USF because she always wanted to study outside her home country, Honduras.\nAs a first-year student, Martinez said arriving at USF and seeing the many available resources made the process easier.\nMartinez said she made her first friends through a campus tour, which helped her adapt smoothly after her parents dropped her off at USF.\n\u201cI did the campus tour and it was my first time alone,\u201d she said. \u201cBut because I met them, I didn\u2019t feel the difficult transition.\u201d\nGilmore said he wants international students to have the \u201cbest experience possible\u201d because USF has allowed him to encourage people to come to Tampa, his hometown.\n\u201cYou come into my house, come to my school, I want it to feel like family when you get here,\u201d he said.\nMartinez said the international student offices helped her not only with issues, such as changing her insurance company, but also made her feel welcome.\n\u201cEven if you want to be here, you get homesick, you miss your country,\u201d she said. \u201cThey made that process easier.\u201d\nCorrection: An earlier version of this article incorrectly stated the offices found in the new center.",
+    "source_domain": null,
+    "text": null,
+    "title": "USF\u2019s new Global Student Center to enhance international student support",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

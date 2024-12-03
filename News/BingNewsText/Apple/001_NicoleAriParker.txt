@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Catherine Santino",
+        "AOL Staff"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:08:05",
+    "description": "The 'And Just Like That...' actress cheered on her 19-year-old daughter Sophie, who stunned in an Oscar de la Renta gown",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/OxjPpgNYQOBOUtM6s5m7.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/b035160ddceca285011cfc9115df43ca",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The 'And Just Like That...' actress cheered on her 19-year-old daughter Sophie, who stunned in an Oscar de la Renta gown\nNicole Ari Parker's daughter Sophie is a debutante!\nThe And Just Like That... actress cheered on her 19-year-old at the Le Bal des D\u00e9butantes in Paris on Saturday, Nov. 30. The annual event introduces about 20 women between the ages of 16 and 22 into society, with fellow celeb kids like Lily Collins and Margaret Qualley having participated in recent years.\nSophie stunned in a plum-colored gown by Oscar de la Renta, per Hello!. The sculptural number featured a balloon skirt that gathered on one side to reveal a thigh-high slit \u2014 a silhouette that would make Carrie Bradshaw very proud. She accessorized with gold jewelry and wore her dark hair in a chic updo.\n\"My heart is soooo full \u2764\ufe0f A magical night indeed. \u2728,\" Parker, 54, captioned an Instagram post showing video clips of Sophie entering the ball with her escort and dancing with her father, Boris Kodjoe.\n\"Proud Papa \ud83e\uddd1\ud83c\udffe\u200d\ud83e\uddb2\ud83e\udd0e,\" Parker continued in the caption. \"Thank You #OphelieRenouard , @lebal.paris and @OscarDeLaRenta for an unforgettable evening.\"\nRelated: 'AJLT''s Nicole Ari Parker's To-Buy List for College: Microwave for Dorm, Kleenex for Parents (Exclusive)\nThis year's ball also introduced Apple Martin, the 20-year-old daughter of Gwyneth Paltrow and Chris Martin, and Lucia Ponti, the 18-year-old granddaughter of Sophia Loren.\nThe PEOPLE Puzzler crossword is here! How quickly can you solve it? Play now!\nApple's blue chiffon Valentino gown reportedly took Creative Director Alessandro Michele\u2019s atelier 750 hours to make. Per Vogue, the dress was \u201cfashioned in six d\u00e9grad\u00e9 tiers of silk pliss\u00e9 chiffon, cinched at the waist with a black silk bow\u201d and paired with matching blue Valentino sandals, per Vogue.\nApple\u2019s parents and brother, Moses all attended the ball in Valentino outfits. Gwyneth, 52, donned a gown from Valentino\u2019s spring 2025 collection while Chris, 47, and Moses, 18, wore custom Valentino tuxedos.\nGwyneth posted color and black-and-white photos of Apple in her custom gown on her Instagram Stories.\n\u201cMy beautiful daughter in @maisonvalentino,\u201d the Goop founder wrote.\nNever miss a story \u2014 sign up for PEOPLE's free daily newsletter to stay up-to-date on the best of what PEOPLE has to offer, from celebrity news to compelling human interest stories.\nLucia, whose parents are Grey's Anatomy star Sasha Alexander and Italian film director Edoardo Ponti, opted for a strapless gown by Giorgio Armani Priv\u00e9, per Vogue. The ensemble features a pleated A-line skirt and cream and charcoal gray stripes.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nicole Ari Parker\u2019s Daughter Sophie Makes Her Mark at Paris Deb Ball and Her Dress Is So \u201cSex and The City\u201d Coded",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

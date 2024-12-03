@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Alan Ohnsman"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-29 17:52:42",
+    "description": "The autonomous vehicle company\u2019s weekly ridership has jumped more than 50% in two months and more than doubled since the start of 2024.",
+    "filename": ".json",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/66cd073f245b56c254dcc9e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Waymo, Alphabet\u2019s robotic taxi unit, is now providing over 150,000 paid rides per week, up by more than 50% since August as the tech giant seeks to stay ahead of potential rivals in autonomous driving including Elon Musk\u2019s Tesla.\nAlphabet CEO Sundar Pichai disclosed the weekly ride figure Tuesday during the company\u2019s third-quarter results call. The Mountain View, California-based company didn\u2019t say how much revenue Waymo generated in the quarter though its Other Bets business that includes the robotaxi service jumped 31% to $388 million, likely driven by the ride company which Pichai said is \u201cthe biggest part\u201d of that portfolio. The operating loss for Other Bets narrowed by 6.5% to $1.1 billion in the three-month period.\n\u201cWaymo is now a clear technical leader within the autonomous vehicle industry and creating a growing commercial opportunity,\u201d Pichai said. \u201cNow each week Waymo is driving more than 1 million fully autonomous miles and serves over 150,000 paid rides, the first time any AV company has reached this kind of mainstream use.\u201d\nRapid growth for the service, which jumped from 50,000 rides a week in May to 100,000 a week in August, comes as it carries more riders in Phoenix, San Francisco and Los Angeles. Barring any major accidents, growth should remain brisk in the months ahead as it further expands in Los Angeles, and launches in Austin, Texas, and Atlanta. To fund that expansion, Waymo last week said it raised an additional $5.6 billion, led by Alphabet and venture investors.\nMusk is repositioning Tesla to be a major provider of robotaxi rides despite the fact that his company hasn\u2019t operated any public test program of autonomous vehicles or shared detailed information about its system. Tesla\u2019s controversial Autopilot and Full Self-Driving features, which the company charges customers $15,000 for, aren\u2019t technically autonomous as they require a human driver to be ready to take over at any time. Waymo\u2019s robotaxis operate without a human at the wheel.\nIn addition to new cash, Waymo is also adding a vehicle production facility in metro Phoenix to install sensors and its computing system into its robotaxis. It also plans to source electric vehicles based on Hyundai\u2019s Ioniq 5 model for its growing fleet starting next year. Waymo is also shifting to a new lower-cost sensor and compute system that it says is more powerful than the one currently in use and that will help it eventually become profitable.\n\u201cIt's an exciting moment,\u201d Pichai said. \u201cWe are still obviously being safety focused but are looking to scale and testing out a variety of models which will help us plan ahead for 2025 and beyond.\u201d\nAlphabet shares rose 1.7% to $171.14 in Nasdaq trading on Tuesday, edging up a further 5.4% in after-hours trading following the results announcement.\nMore From Forbes\nForbesWaymo Hauls In $5.6 Billion To Boost Its Growing Robotaxi BusinessForbesWaymo Adding A Second Robotaxi Assembly Facility As It Tops 100,000 Weekly Rides",
+    "source_domain": null,
+    "text": null,
+    "title": "Alphabet\u2019s Waymo Logs 150,000 Paid Rides And 1 Million Miles A Week",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

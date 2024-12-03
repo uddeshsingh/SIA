@@ -1,0 +1,17 @@
+Authors: ['Logan Carter']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-08 09:00:00
+Description: Elon Musk made a promise in 2023, but we all know how often he honors promises.
+Filename: .json
+Image_Url: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d08c82ce3666778e4bd8d16753c81ec5.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What Happened To Tesla’s Promised Mexico Gigafactory?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Then-Mexican President Andrés Manuel López Obrador announced in February of 2023 that the northern state of Nuevo León was going to be the location of the next Tesla Gigafactory. Last year, notable Donald Trump fan (and probably upcoming cabinet member) Elon Musk said that Tesla would definitely build its new factory in Mexico, but the timeline would be dependent on the economy and interest rates. The former President and current President-elect Donald Trump said that he would impose tariffs of 200 percent or more on vehicles imported into the United States from Mexico, which surely has impacted the decisionmaking. Reuters said, “Mexico’s economy chief will try to meet soon with Tesla’s chief executive Elon Musk to determine his plans for an electric car factory in northern Mexico, he told local radio on Thursday, part of a push to grow the country’s key carmaking sector Economy Minister Marcelo Ebrard is a former foreign minister and veteran political operator, and reviving plans for a so-called Tesla gigafactory in Mexico’s Nuevo Leon state would mark a major early victory for the government of President Claudia Sheinbaum, who took office last month. Each of Tesla’s Gigafactories are known to employ tens of thousands of people across Europe, China, and North America, so building and staffing Giga Mexico would be a significant boost to the Mexican economy.
+Financial_Events: []

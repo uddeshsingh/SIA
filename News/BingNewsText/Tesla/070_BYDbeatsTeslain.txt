@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Yujie Xue"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-31 00:00:00",
+    "description": "BYD\u2019s third-quarter sales jumped 24 per cent to 201.12 billion yuan (US$28.2 billion), beating Tesla\u2019s US$25.18 billion revenue in the same period.",
+    "filename": ".json",
+    "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/10/31/d63630c3-a449-4ac2-8eaf-864423623b8e_a6cdda2d.jpg?itok=6S9aQtTx&v=1730350366",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Sales at the Shenzhen-based carmaker, the world\u2019s largest assembler of hybrids and pure EVs, jumped 24 per cent to 201.12 billion yuan (US$28.2 billion) in the three months that ended on September 30, more than Tesla\u2019s US$25.18 billion in third-quarter revenue, according to the two companies\u2019 results.\nBYD\u2019s net profit increased 11.5 per cent from a year earlier to 11.61 billion yuan (US$1.63 billion) in the quarter, less profitable than Tesla\u2019s net income of US$2.17 billion in the same period.\n\u201cUnless Tesla further lowers its prices, introduces new models or launches its Full Self-Driving feature in China, it is unlikely to see further growth in China\u201d, said Yale Zhang, head of the Shanghai consulting firm Automotive Foresight. \u201cIf Tesla wants to sell more EVs, it can only depend on sales growth in other overseas markets.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "BYD beats Tesla in quarterly sales for the first time as demand soars for hybrid EVs",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

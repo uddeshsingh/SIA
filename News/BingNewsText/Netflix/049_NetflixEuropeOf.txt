@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Etan Vlessing"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-05 15:26:15",
+    "description": "Netflix's offices in Paris and Amsterdam were raided as part of a tax fraud probe.",
+    "filename": ".json",
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/GettyImages-1377867918.jpg?w=1296&h=730&crop=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Prosecutors and police investigators focused on tax fraud and corruption raided Netflix offices in Paris and Amsterdam on Tuesday as part of an ongoing probe into alleged financial wrongdoing, The Hollywood Reporter has confirmed.\n\u201cFrom a judicial source, I can confirm that searches are being carried out today at various locations, including the headquarters of Netflix companies in France,\u201d a spokesperson for the National Financial Prosecutor\u2019s Office, a French judicial institution in Paris, told THR in a statement.\nThe searches were part of a preliminary investigation opened in November 2022 to probe allegations of aggravated tax fraud and concealed work in an organized conspiracy. Also Tuesday, Dutch magistrates and investigators alongside French magistrates and investigators carried out searches at Netflix\u2019s headquarters in Amsterdam.\n\u201cWe can confirm that searches have been carried out in the context of a French legal assistance request,\u201d a spokesperson for Dutch prosecutors with the National Office for Serious Fraud, Environmental Crime and Asset Confiscation Office told THR.\nFrench and Dutch investigators have been working together on the Netflix European investigation as part of a probe coordinated by Eurojust. In Amsterdam, Dutch prosecutors with the National Office for Serious Fraud, Environmental Crime and Asset Confiscation carried out the Netflix headquarters searches in coordination with French authorities at the French National Financial Prosecutor\u2019s Office (PNF).\nInvestigators at the PNF probe corruption and financial and tax crimes from a base in Paris.\nA Netflix spokesperson told THR in a statement: \u201cWe are cooperating with the authorities in France, where Netflix is a significant contributor to the local economy, and we comply with the tax laws and regulations in all the countries in which we operate.\u201d\nNetflix first came under scrutiny in France \u2014 a major European streaming market next to Germany and the U.K. \u2014 for its tax filings for 2019, 2020 and 2021, according to an August 2023 report in French newspaper La Lettre. Netflix\u2019s French subsidiary was investigated starting in 2021 for allegedly reducing its tax obligations for its revenues generated in France by using a company in the Netherlands.\nThe French outlet claimed Netflix subscribers in France signed agreements with a Dutch subsidiary, Netflix International BV, to reduce the parent company\u2019s tax charges in the 2019 and 2020 filing periods. La Lettre reported that Netflix posted far higher French revenues in 2021 when it began to account for its local subscriber base in France and not in the Netherlands.",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix Europe Offices Raided Tax Fraud Probe",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

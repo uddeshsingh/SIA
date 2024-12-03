@@ -1,0 +1,1799 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Tesla",
+    "queryContext": {
+        "originalQuery": "Tesla",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 23500,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Tesla"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Tesla&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Delaware judge reaffirms ruling rejecting Elon Musk\u2019s massive Tesla pay package",
+            "url": "https://www.marketwatch.com/story/delaware-judge-reaffirms-ruling-voiding-elon-musks-massive-tesla-pay-package-8975da7d",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4yzY_5g0H1iOTzA144xZOi&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Chancellor Kathaleen St. Jude McCormick on Monday denied a request by attorneys for Musk and Tesla\u2019s corporate directors to vacate her ruling earlier this year requiring the company to rescind the unprecedented pay package.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.g28MuDD8Wj91-VMHwbl7qQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:01:00.0000000Z"
+        },
+        {
+            "name": "Endicott College holds vigil for police officer killed in wrong-way crash",
+            "url": "https://www.wmur.com/article/endicott-college-police-officer-killed-crash/63074385",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.QE05ZdGKSFr-YDjLNr6Vsy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "A man from Exeter who was a police officer at Endicott College is being mourned after he was killed in a crash in Massachusetts early Thanksgiving morning.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/930fc767-339a-f3c8-fa62-87bcddcdcfee",
+                    "name": "Endicott College"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c37482a-c28c-5bd7-4376-abcbc935cab3",
+                    "name": "Exeter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/845219d5-3650-4199-b926-964ca27c863c",
+                    "name": "Massachusetts"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/91c4778a-930e-20ba-2263-7a9bf8ad4017",
+                    "name": "Interstate 95"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5f9ad612-56b7-8bcb-1d33-ba26cb7c2816",
+                    "name": "Beverly, Massachusetts"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/495971e9-f63e-eed0-f773-c6ee3231e394",
+                    "name": "New Hampshire State Police"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WMUR",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.7hulKPNu1vgipcNf9tildw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:58:00.0000000Z",
+            "video": {
+                "name": "Endicott College holds vigil for police officer killed in wrong-way crash",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.ZpvRGHVs39TuyFAqmV%2FNjQ&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "US"
+        },
+        {
+            "name": "Delaware judge rejects request to restore Musk's $56 billion Tesla pay",
+            "url": "https://www.aol.com/news/delaware-judge-rejects-request-restore-215608309.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Q5vJgrOEBdUkm5A86XWOoC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "A Delaware judge ruled on Monday that Tesla CEO Elon Musk still is not entitled to receive a $56 billion compensation package despite shareholders of the electric vehicle company voting to reinstate it.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/77a8f223-fe51-4aa2-8e3d-6c81e5bc270e",
+                    "name": "Wilmington, Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/432830db-7155-b64a-d46f-66e6c0330c66",
+                    "name": "Court of Chancery"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:56:00.0000000Z"
+        },
+        {
+            "name": "Delaware judge rejects Elon Musk's bid to reinstate his $56 billion pay package",
+            "url": "https://justthenews.com/government/courts-law/delaware-judge-rejects-elon-musks-bid-reinstate-his-56-billion-pay-package",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HhcAe-dru__SmY1l-ibcri&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Musk's legal team argued that McCormick should reverse her earlier decision because Tesla had conducted a shareholder vote to \u201cratify\u201d the 2018 pay plan at the company's annual shareholder meeting in June.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "justthenews",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.JalbU3dQPyU3-l8DLZI6dA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:41:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Judge rejects Tesla's attempt to revive Elon Musk's $56 billion pay package",
+            "url": "https://www.axios.com/2024/12/02/elon-musk-pay-package-56-billion-delaware",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.boeNTSUvwgSu2alU8shwLy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "A Delaware judge ruled Monday that a Tesla shareholder vote endorsing a $56 billion pay package for Elon Musk does not change her original ruling invalidating the compensation plan.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Axios",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.sYsfqXz0RjOZkzOXCefBWw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:37:00.0000000Z"
+        },
+        {
+            "name": "Delaware judge strikes down Elon Musk's Tesla pay package for 2nd time",
+            "url": "https://www.yahoo.com/tech/delaware-judge-strikes-down-elon-225130843.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Bvf3tCDY7WMhMIZCN5PgAi&pid=News",
+                    "width": 700,
+                    "height": 524
+                }
+            },
+            "description": "Tesla shareholders approved Elon Musk's pay package in June, after it was voided by a judge in January. But that wasn't enough, the court ruled.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:36:00.0000000Z"
+        },
+        {
+            "name": "Tesla CEO Elon Musk loses bid to get $56 billion pay package reinstated",
+            "url": "https://www.msn.com/en-us/money/companies/tesla-ceo-elon-musk-loses-bid-to-get-56-billion-pay-package-reinstated/ar-AA1v98Mf",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.hSc5qm3yDcXTsZ_0zJDv7C&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Tesla CEO Elon Musk lost his bid to get his 2018 CEO pay package reinstated on Monday when a Delaware judge upheld her prior ruling that the compensation plan was improperly granted.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cf5db860-9fd2-390d-0b6d-5ba856efed49",
+                    "name": "Chief executive officer"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ad617cc-3d7a-4b3c-a787-098de959ccc4",
+                    "name": "Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/afd7d7f6-01a2-401c-bb4d-59f7e34d585c",
+                    "name": "Austin, Texas"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NBC News on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ighWNnrr5MMFUs8WKMme2A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:35:34.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Musk $55.8 bn Tesla pay deal again rejected by US judge",
+            "url": "https://www.msn.com/en-us/money/companies/musk-55-8-bn-tesla-pay-deal-again-rejected-by-us-judge/ar-AA1v9dKI",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.fzQ5t0_gV0xwC5vWWb26Ei&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "A US judge on Monday upheld her decision to reject Elon Musk's massive $55.8 billion compensation package at Tesla, denying an attempt to restore the pay deal through a shareholder vote. In a court filing,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ad617cc-3d7a-4b3c-a787-098de959ccc4",
+                    "name": "Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/40316d67-b131-7527-5dcf-91bd38dcb3ca",
+                    "name": "Delaware Court of Chancery"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FMrH4RA-Y_a5aKZ1YjL3bQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Judge reaffirms ruling invalidating Musk's multibillion-dollar Tesla pay package",
+            "url": "https://abcnews.go.com/Business/wireStory/delaware-judge-reaffirms-ruling-invalidated-massive-tesla-pay-116389783",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.VDkrZOhQo8kE4UgeC0prtS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "McCormick also rejected an equally unprecedented and massive fee request by plaintiff attorneys, who argued that they were entitled to legal fees in the form of Tesla stock valued at more than $5 billion. The judge said the attorneys were entitled to a fee award of $345 million.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ABC",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.-LMnifaGw_NvPvJr_0E9tA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:29:00.0000000Z",
+            "video": {
+                "name": "Delaware judge reaffirms ruling that invalidated massive Tesla pay package for Elon Musk",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.I%2Fz1TY1vika4Xjh%2FJ%2BH%2FZA&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            }
+        },
+        {
+            "name": "Tesla's FSD Can Finally Park, Though Sometimes It Aims For The Sidewalk",
+            "url": "https://insideevs.com/news/742973/tesla-fsd-new-version-improvements/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.YxWHMv-zUNXCjgIhbUENri&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "FSD version 13.2 is a big improvement over version 12. It not only makes the autonomous driving better and smoother, but it also adds new features. You can now enable FSD while the car is in Park, and it will reverse out of the parking spot for you and begin its journey to your set destination where it will find a suitable spot to park itself.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/34638654-bb5b-0392-cacf-ffae99e6c75e",
+                    "name": "Elon Musk: The Real Life Iron Man"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85d57794-2305-531a-f930-1576ec0590fe",
+                    "name": "Artificial neural network"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Inside EVs",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.OLsRfZHEiWeFuI3YRrcdJw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:28:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Delaware judge rejects request to restore Elon Musk's $56 billion Tesla pay",
+            "url": "https://www.usatoday.com/story/money/2024/12/02/elon-musk-tesla-pay-rejected/76714329007/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.5fwIxzK_Fpmrk13KcFUD_y&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The ruling by the judge follows her January decision that called the pay package excessive and rescinded it, surprising investors.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/432830db-7155-b64a-d46f-66e6c0330c66",
+                    "name": "Court of Chancery"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.m1iod5ODNIyyKu23kGIllQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:24:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "18-year-old Acreage man dies when motorcycle crashes with Tesla in Westlake, PBSO says",
+            "url": "https://www.freep.com/story/news/local/wellington/2024/12/02/acreage-man-18-dies-when-motorcycle-tesla-crash-in-westlake/76701192007/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.2S3xx5VSs6prioWb-XTUei&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "Derek Hedrill Machin of The Acreage died in the wreck Saturday night along Seminole Pratt Whitney Road, deputies said.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2e778b1-40b6-b290-6891-c84ce4911e3a",
+                    "name": "The Acreage, Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/308bdc6c-0eea-3641-1fdb-f2606ec973e5",
+                    "name": "Westlake, Texas"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Detroit Free Press",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.0wWYJ0GSt176NAhXZ94GFA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:23:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "Judge rejects Elon Musk request to reinstate his $56 billion pay package",
+            "url": "https://www.aol.com/judge-rejects-elon-musk-request-223638184.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.d9bQgt3skOqqV2SH-Bkx2C&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Elon Musk was seeking to reinstate a massive 2018 Tesla pay package after shareholders had reapproved it, but a judge denied his request.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ad617cc-3d7a-4b3c-a787-098de959ccc4",
+                    "name": "Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/40316d67-b131-7527-5dcf-91bd38dcb3ca",
+                    "name": "Delaware Court of Chancery"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Elon Musk\u2019s $56 billion pay package gets rejected \u2014 again",
+            "url": "https://www.theverge.com/2024/12/2/24311526/elon-musk-56-billion-pay-package-rejected-court",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.K7PbK-8yS_pxmUlrGEQRMS&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Tesla CEO Elon Musk\u2019s $56 billion pay package was struck down once again. In a ruling on Monday, Delaware Chancery Court Judge Kathaleen St. J. McCormick upheld her decision to block the compensation plan over concerns about conflicts of interest following its approval in 2018.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/40316d67-b131-7527-5dcf-91bd38dcb3ca",
+                    "name": "Delaware Court of Chancery"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5089772c-60bb-34f3-25cc-9ddeb595dd72",
+                    "name": "Conflict of interest"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Elon Musk"
+                },
+                {
+                    "name": "Package"
+                },
+                {
+                    "name": "The Verge"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Verge",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Eo5m7BPNFOPugCZcNswMBg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:18:00.0000000Z"
+        },
+        {
+            "name": "Elon Musk\u2019s $50 Billion Tesla Pay Can\u2019t Be Reinstated, Delaware Judge Rules",
+            "url": "https://www.nytimes.com/2024/12/02/business/elon-musk-tesla-pay-ruling.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.-2eB5mfLIqKguoJomt2icy&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "The judge said she would not reverse her decision to strike down the compensation package after Tesla shareholders approved Mr. Musk\u2019s pay a second time.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ad617cc-3d7a-4b3c-a787-098de959ccc4",
+                    "name": "Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/40316d67-b131-7527-5dcf-91bd38dcb3ca",
+                    "name": "Delaware Court of Chancery"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.GzcmUDr41J6Qc1JEQyNTCA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:06:00.0000000Z"
+        },
+        {
+            "name": "Elon Musk\u2019s $56B Tesla pay package rejected again by Delaware judge",
+            "url": "https://nypost.com/2024/12/02/business/elon-musks-56b-tesla-pay-rejected-again-by-delaware-judge/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.1je5XncPa7XnvpG5NaEZ-y&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "McCormick also ordered Tesla to pay the attorneys who brought the case $345 million, well short of the $6 billion they initially requested.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/432830db-7155-b64a-d46f-66e6c0330c66",
+                    "name": "Court of Chancery"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Post",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ajvVh9V9VQOkNrdxJ1ZcWw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:03:00.0000000Z",
+            "video": {
+                "name": "Elon Musk\u2019s $56B Tesla pay package rejected again by Delaware judge",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.UWotMfGoVqTH2sSr5fZN3w&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 346
+                }
+            },
+            "category": "Business"
+        },
+        {
+            "name": "Tesla Announces 2024 Holiday Update Features And An Apple Watch App",
+            "url": "https://www.redmondpie.com/tesla-announces-2024-holiday-update-features-and-an-apple-watch-app/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.9ykSzDUHCBQtpTEPV1ZJzi&pid=News",
+                    "width": 700,
+                    "height": 280
+                }
+            },
+            "description": "If you're the driver of a Tesla EV you have some new software features to look forward to after the company's holiday update was announced. The new software will also bring with it the long-awaited Apple Watch app,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/68df8b8e-e8ca-8369-10aa-7979a5912687",
+                    "name": "Tesla Model X"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/873deec7-bc18-4829-84f9-0c66c895f2fc",
+                    "name": "Dashcam"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c88264e1-a246-42e6-8fb3-c5d390d3b5fd",
+                    "name": "Tesla Model 3"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/955392d2-2ecb-ba0f-c9c6-4ce6b2139225",
+                    "name": "Tesla Model Y"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fb9f7f2c-5c65-ceed-9f0d-f9b01279d0bc",
+                    "name": "Tesla Cybertruck"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Redmond Pie",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RN3bSV7VQc_3SJWkSeaPLw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:58:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Musk\u2019s Multibillion-Dollar Pay Package Rejected Again by Judge",
+            "url": "https://www.wsj.com/business/autos/judge-again-rejects-musk-multibillion-dollar-pay-plan-9f98024d",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8DqyNida8rC5khVFHY11sC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Tesla\u2019s board had argued that a shareholder vote earlier this year addressed the court\u2019s previous criticisms.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ad617cc-3d7a-4b3c-a787-098de959ccc4",
+                    "name": "Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Wall Street Journal",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.15fnkpKGfQuTaaskfJ-smw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:33:00.0000000Z"
+        },
+        {
+            "name": "Elon Musk\u2019s massive, multi-billion-dollar Tesla pay package was blocked by a judge again",
+            "url": "https://www.cnn.com/2024/12/02/investing/elon-musk-pay-package-rejected/index.html",
+            "description": "Elon Musk\u2019s record-breaking pay package for serving as Tesla\u2019s CEO was rejected on Monday by a Delaware court, despite being approved by Tesla shareholders at a June meeting.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ad617cc-3d7a-4b3c-a787-098de959ccc4",
+                    "name": "Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/40316d67-b131-7527-5dcf-91bd38dcb3ca",
+                    "name": "Delaware Court of Chancery"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.t0BGYosS4GKZSebCajKQGA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:27:00.0000000Z"
+        },
+        {
+            "name": "Tesla just announced over 25 holiday updates. These are the highlights.",
+            "url": "https://www.businessinsider.com/tesla-new-holiday-updates-highlights-2024-12",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HCPc9fGoIuBfZ5aMzlzX1C&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Tesla owners will finally be able to adjust climate controls and open the frunk from their Apple Watch.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fb9f7f2c-5c65-ceed-9f0d-f9b01279d0bc",
+                    "name": "Tesla Cybertruck"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/860dea43-a2c0-7912-8370-4ef51face341",
+                    "name": "X"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:46:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tesla is launching an Apple Watch app",
+            "url": "https://www.theverge.com/2024/12/2/24310957/tesla-holiday-update-2024-apple-watch-app-remote-sentry-clips",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.xpb9nsefQaXwtqPZn6N1ai&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "The native Apple Watch experience lets you view the charge status, pop the frunk, and remotely warm up your car. Third-party smartwatch apps such as \u201cWatch for Tesla\u201d added this functionality in the absence of a first-party solution, but now Tesla has Sherlocked them all.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fb9f7f2c-5c65-ceed-9f0d-f9b01279d0bc",
+                    "name": "Tesla Cybertruck"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Verge",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Eo5m7BPNFOPugCZcNswMBg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:28:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tesla's Self-Driving Narrative Is Falling Apart",
+            "url": "https://seekingalpha.com/article/4741559-teslas-self-driving-narrative-is-falling-apart",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.NpgAPSd7ADcLS78NMM9hbC&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "Tesla, Inc.'s valuation heavily relies on its self-driving technology, which remains far from achieving safe Level 4 or 5 autonomy. Tesla's vision-based approach faces significant challenges, struggling with real-world complexities and showing diminishing ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/01abb8e8-c5cc-a7c1-e50a-546c133bbd29",
+                    "name": "Self-driving car"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8c5f0b7-2aac-bbcb-b127-af8b8f148d67",
+                    "name": "Waymo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha"
+                }
+            ],
+            "datePublished": "2024-12-02T19:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Judge again rejects the Elon Musk Tesla pay plan now valued at $101 billion",
+            "url": "https://arstechnica.com/tech-policy/2024/12/judge-again-rejects-the-elon-musk-tesla-pay-plan-now-valued-at-101-billion/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Gmoxb-6jemhTpEq_6_VqfS&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "A Delaware judge today rejected Elon Musk's bid to reinstate a Tesla pay package that was worth over $50 billion at the beginning of 2024 and has now crossed $100 billion based on Tesla's latest share price. The judge also ordered Tesla to pay $345 million in attorneys' fees to the plaintiff's counsel, who had sought $5.6 billion in fees.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ad617cc-3d7a-4b3c-a787-098de959ccc4",
+                    "name": "Delaware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/40316d67-b131-7527-5dcf-91bd38dcb3ca",
+                    "name": "Delaware Court of Chancery"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd487bef-80f8-9f1f-e93c-40927c680823",
+                    "name": "Kathaleen McCormick"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Ars Technica",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ujb7xrXKIzzWUeiq3sEXxg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:58:00.0000000Z"
+        },
+        {
+            "name": "More Analysts Are Backing Tesla Stock\u2014And the Shares Are Rising",
+            "url": "https://www.investopedia.com/analysts-backing-tesla-stock-shares-are-rising-elon-musk-8753937",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._OP6VsNTidvlEeMSXs1EoS&pid=News",
+                    "width": 700,
+                    "height": 434
+                }
+            },
+            "description": "Tesla shares advanced to their highest level in two-and-a-half years as two analysts wrote optimistic opinions about the EV maker's future.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/79f56816-6ed3-d443-b72d-6cdc11863d4f",
+                    "name": "Roth Capital Partners"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bba9e-116d-e01c-cf43-2c756e3eb278",
+                    "name": "Robotaxi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investopedia",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4MUhIIMPhIZxw6T79kKysw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:39:00.0000000Z"
+        },
+        {
+            "name": "Tesla leads November's global market value surge",
+            "url": "https://www.usatoday.com/story/money/2024/12/02/tesla-market-value-surge-november/76705480007/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.zkWXVeV2phgMAEtkRn6yly&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The company's market value surged on reports that Donald Trump's transition team plans to relax federal regulations on self-driving cars.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/92153db6-1d00-451c-d2c8-542c5718125f",
+                    "name": "JPMorgan Chase"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d5e653f-d60b-1eb6-5af6-3a064da5318a",
+                    "name": "Jamie Dimon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.m1iod5ODNIyyKu23kGIllQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:52:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Tesla's V4 Supercharger Cabinet Can Charge Cybertruck 30% Faster, Recharge Tesla Semi And Save Annual Electricity Usage Of Over 9000 Homes",
+            "url": "https://www.benzinga.com/tech/24/11/42007326/teslas-v4-supercharger-cabinet-can-charge-cybertruck-30-faster-recharge-tesla-semi-and-save-annual-electricity-usage-of-over-9000-homes",
+            "description": "EV giant Tesla Inc. TSLA on Thursday announced the company\u2019s new charging equipment called the V4 cabinet aimed at increasing charging speed and enabling sufficient charging infrastructure for ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-11-15T08:18:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Trump may end the $7,500 EV tax credit. Elon Musk and Tesla would reap the rewards",
+            "url": "https://www.cnn.com/2024/11/15/business/musk-tesla-trump-ev-tax-credit/index.html",
+            "description": "The $7,500 tax credit for buyers of electric vehicles could be vanishing early in the new Trump administration, but that might actually be good news for Tesla and its CEO Elon Musk, one of Preside ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN"
+                }
+            ],
+            "datePublished": "2024-11-15T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla stock falls as Trump trade fades, EV tax credits come under threat",
+            "url": "https://finance.yahoo.com/news/tesla-stock-falls-as-trump-trade-fades-and-ev-tax-credits-come-under-threat-170918953.html",
+            "description": "Tesla (TSLA) stock fell as the stock's post-election gains faded amid a cooling of the Trump trade and a new report from Reuters that suggested EV tax credits could be cut under the incoming Trump ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-15T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla Solar Reviews, Services and Costs (2024)",
+            "url": "https://www.marketwatch.com/guides/solar/tesla-solar-reviews/",
+            "description": "Tesla Solar offers a combination of high-quality equipment and affordable pricing, based on the MarketWatch Guides team\u2019s review. The company\u2019s in-house solar panels and batteries are some of ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch"
+                }
+            ],
+            "datePublished": "2024-11-15T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla issues sixth recall this year for Cybertrucks",
+            "url": "https://www.foxbusiness.com/technology/tesla-issues-sixth-recall-year-cybertrucks",
+            "description": "Tesla is recalling 2,431 Cybertrucks over a potential issue with their drive inverters. The driver inverters in the recalled Cybertrucks may contain a \"fault\" that could \"cause a loss of drive ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox Business"
+                }
+            ],
+            "datePublished": "2024-11-14T16:58:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tesla recalls 2,400 Cybertrucks in sixth recall of 2024",
+            "url": "https://thehill.com/policy/technology/4988406-tesla-recalls-2400-cybertrucks/",
+            "description": "Tesla voluntarily recalled 2,431 Cybertruck electric pickup trucks Wednesday due to faulty drive inverters, which increase the risk for driver collision, in its sixth recall effort this year.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hill"
+                }
+            ],
+            "datePublished": "2024-11-13T16:39:00.0000000Z"
+        },
+        {
+            "name": "The Tesla Cybertruck Is Facing Its 6th Recall of 2024",
+            "url": "https://www.roadandtrack.com/news/a62894174/tesla-cybertruck-6th-recall-2024/",
+            "description": "The National Highway Traffic Safety Administration (NHTSA) has announced that 2,431 model year 2024 Tesla Cybertrucks are being recalled due to a faulty drive inverter. If the inverter fails ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Road & Track"
+                }
+            ],
+            "datePublished": "2024-11-13T15:36:00.0000000Z"
+        },
+        {
+            "name": "Tesla issues sixth Cybertruck recall in a year",
+            "url": "https://techcrunch.com/2024/11/13/tesla-issues-sixth-cybertruck-recall-in-a-year/",
+            "description": "Tesla\u2019s Cybertruck is facing its sixth recall since its launch a year ago. The recall affects 2,431 units, including certain 2024 Cybertrucks built between November 6, 2023 and July 30 ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechCrunch"
+                }
+            ],
+            "datePublished": "2024-11-13T13:44:00.0000000Z"
+        },
+        {
+            "name": "Tesla stock could soar 50% as it broadens beyond autos and as Musk exerts more political influence, Morgan Stanley says",
+            "url": "https://markets.businessinsider.com/news/stocks/tesla-stock-elon-musk-political-influence-trump-ai-autonomous-2024-11",
+            "description": "Tesla shares have a path to big upside ahead if the electric car company can expand beyond autos and if CEO Elon Musk flexes newfound political muscle in a second Donal Trump presidency ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider"
+                }
+            ],
+            "datePublished": "2024-11-12T18:58:00.0000000Z"
+        },
+        {
+            "name": "4 Killed After a Tesla Crash Sparks Fire in Toronto: \u2018A Very Horrific Scene\u2019",
+            "url": "https://people.com/4-killed-after-tesla-crash-sparks-fire-in-toronto-8743464",
+            "description": "Four people were killed \u2014 and one person was saved by a bystander \u2014 after their Tesla erupted in flames after crashing into a pillar on a roadway. The incident occurred at around 12:10 a.m ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "People"
+                }
+            ],
+            "datePublished": "2024-11-12T16:53:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "Why Tesla Stock Was Pulling Back Today",
+            "url": "https://www.fool.com/investing/2024/11/12/why-tesla-stock-was-pulling-back-today/",
+            "description": "Investor sentiment signaled that Tesla had hit a ceiling after a Trump-driven boom. Hertz said it would sell 30,000 EVs by the end of the year. Despite Musk's alliance with Trump, Tesla faces a ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool"
+                }
+            ],
+            "datePublished": "2024-11-12T15:56:00.0000000Z"
+        },
+        {
+            "name": "Tesla Stock Dips 6% As Post-Election Surge Cools Off",
+            "url": "https://www.forbes.com/sites/dereksaul/2024/11/12/tesla-stock-dips-3-as-post-election-surge-cools-off/",
+            "description": "Shares of Tesla slipped Tuesday as part of a broader cooling off among the hottest trades following last week\u2019s election of Donald Trump, though the Elon Musk-led electric vehicle maker remains ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-12T15:18:00.0000000Z"
+        },
+        {
+            "name": "What Trump means for Tesla",
+            "url": "https://www.fastcompany.com/91226639/what-trump-means-for-tesla",
+            "description": "Roughly a decade ago, when Tesla made some of its electric vehicle technology open-source, Elon Musk said the company wanted to share its IP to help fight climate change because it couldn\u2019t ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fast Company"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "No, Elon Musk's Tesla didn't buy Ford",
+            "url": "https://www.yahoo.com/tech/no-elon-musks-tesla-didnt-131900714.html",
+            "description": "Despite what content farms on YouTube and other platforms want you to believe, Elon Musk\u2019s Tesla (TSLA) is not buying Ford Motor Co. (F) Although it should really go without saying that Musk is ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo"
+                }
+            ],
+            "datePublished": "2024-11-11T13:19:00.0000000Z"
+        },
+        {
+            "name": "Internal Tesla salary database shows Elon Musk's strategy: Lower salaries, bigger stock grants",
+            "url": "https://www.businessinsider.com/tesla-salary-database-elon-musk-pay-strategy-2024-11",
+            "description": "Tesla attracts millions of job seekers annually. The few who receive offers typically face a calculated gamble: Accept lower base pay up front for the chance of a potentially lucrative future payout.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider"
+                }
+            ],
+            "datePublished": "2024-11-11T10:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla stock extends rally as Musk-Trump alliance fuels gains",
+            "url": "https://www.reuters.com/technology/tesla-stock-extends-rally-musk-trump-alliance-fuels-gains-2024-11-11/",
+            "description": "Nov 11 (Reuters) - Tesla shares (TSLA.O), opens new tab extended last week's sharp rally with a jump of over 8% on Monday, fueled by bets of the automaker benefiting from CEO Elon Musk's close ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters"
+                }
+            ],
+            "datePublished": "2024-11-11T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla is not the only winner under Donald Trump",
+            "url": "https://www.economist.com/business/2024/11/11/tesla-is-not-the-only-winner-under-donald-trump",
+            "description": "Elon Musk has added around $40bn to his fortune thanks to the soaring price of Tesla shares, up by around 30% since November 5th\u2014a tidy return on the $100m or so he spent on helping elect Mr Trump.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Economist"
+                }
+            ],
+            "datePublished": "2024-11-11T00:00:00.0000000Z"
+        },
+        {
+            "name": "Trump wins \u2013 Tesla goes beyond $1 Trillion",
+            "url": "https://memeburn.com/motorburn/2024/11/how-a-trump-presidency-could-influence-tesla/",
+            "description": "Donald Trump has had a resurgent year. Tesla? Not so much. The Cybertruck sales aren\u2019t tracking initial reservation demand and full autonomous self-driving functionality still hasn\u2019t cleared ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Memeburn"
+                }
+            ],
+            "datePublished": "2024-11-10T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tesla debuts in Philippines",
+            "url": "https://www.philstar.com/business/2024/11/09/2398665/tesla-debuts-philippines",
+            "description": "MANILA, Philippines \u2014 Tesla made its official debut in the Philippines yesterday as it opened its showroom at the Uptown Parade in Taguig and unveiled two vehicle models. \u201cTesla is officially ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "philstar.com"
+                }
+            ],
+            "datePublished": "2024-11-09T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla Model Y Review, Colours, For Sale & News in Australia",
+            "url": "https://www.carsguide.com.au/tesla/model-y",
+            "description": "The price range for the Tesla MODEL Y varies based on the trim level you choose. Starting at $55,900 and going to $92,020 for the latest year the model was manufactured. The model range is available in the following body types starting from the engine ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Carsguide.com.au"
+                }
+            ],
+            "datePublished": "2024-11-09T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla\u2014the Trillion-Dollar Company\u2014is Finally in the Philippines",
+            "url": "https://www.esquiremag.ph/wheels/cars/tesla-opens-philippines-a4703-20241109",
+            "description": "Tesla has officially launched its first showroom in the Philippines, marking a major milestone in the country's journey toward electrified mobility. The new Tesla Experience Centre, located at Uptown Parade, represents the next step in the company\u2019s ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "esquiremag"
+                }
+            ],
+            "datePublished": "2024-11-09T00:00:00.0000000Z"
+        },
+        {
+            "name": "US agency says Tesla\u2019s public statements imply that its vehicles can drive themselves. They can\u2019t",
+            "url": "https://apnews.com/article/tesla-investigation-full-self-driving-questions-6ca8e2880af87361f3148b7e78718d52",
+            "description": "Copyright 2024 The Associated Press. All Rights Reserved. FILE - Tesla vehicles line a parking lot at the company\u2019s Fremont, Calif., factory, on Sept. 18, 2023. (AP ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Associated Press"
+                }
+            ],
+            "datePublished": "2024-11-08T22:21:00.0000000Z"
+        },
+        {
+            "name": "Tesla hits $1 trillion market value as Musk-backed Trump win fans optimism",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-hits-1-trillion-market-value-musk-backed-trump-win-fans-optimism-2024-11-08/",
+            "description": "Nov 8 (Reuters) - Tesla's (TSLA.O), opens new tab market value closed above the $1 trillion mark in a sharp rally on Friday, on expectations that CEO Elon Musk's companies will get favorable ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters"
+                }
+            ],
+            "datePublished": "2024-11-08T21:31:00.0000000Z"
+        },
+        {
+            "name": "Tesla Shares Roar Back to Trillion-Dollar Value on Trump\u2019s Win",
+            "url": "https://www.bloomberg.com/news/articles/2024-11-08/tesla-shares-roar-back-to-trillion-dollar-value-on-trump-s-win",
+            "description": "A breakneck rally in Tesla Inc. shares on Friday catapulted the electric-vehicle maker\u2019s market value back over the coveted trillion-dollar mark, as investors bet that Donald Trump\u2019s return to ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bloomberg L.P."
+                }
+            ],
+            "datePublished": "2024-11-08T21:13:00.0000000Z"
+        },
+        {
+            "name": "Tesla (TSLA) valuation surges to equal next 10 biggest automakers over Trump/Musk relationship",
+            "url": "https://electrek.co/2024/11/08/tesla-tsla-valuation-equals-next-10-biggest-automakers-over-trump-musk-relationship/",
+            "description": "Tesla\u2019s stock (TSLA) has surged to a $1 trillion valuation \u2013 seemingly over the assumption that the Trump and Musk relationship is going to benefit the automaker. The company is virtually ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Electrek"
+                }
+            ],
+            "datePublished": "2024-11-08T17:56:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tesla sets up shop in PH with cars priced at over P2 million",
+            "url": "https://www.rappler.com/business/tesla-philippines-car-prices/",
+            "description": "Among the seven vehicle models of the company, Tesla is first bringing its best sellers \u2014 Model 3 and Model Y MANILA, Philippines \u2013 Elon Musk-owned electric vehicle (EV) company Tesla is now ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Rappler"
+                }
+            ],
+            "datePublished": "2024-11-08T17:33:00.0000000Z"
+        },
+        {
+            "name": "Tesla hits a $1 trillion market cap after the stock rallies 27% following Trump's election win",
+            "url": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-trillion-valuation-donald-trump-election-win-tsla-2024-11",
+            "description": "Tesla hit a $1 trillion market valuation for the first time since April 2022. The stock surged as much as 7% on Friday to an intraday peak of $319.44, with shares soaring 27% since Donald Trump ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider"
+                }
+            ],
+            "datePublished": "2024-11-08T15:55:00.0000000Z"
+        },
+        {
+            "name": "Tesla officially debuts in the Philippines",
+            "url": "https://www.autoindustriya.com/auto-industry-news/tesla-officially-debuts-in-the-philippines.html",
+            "description": "After its first dealership was spotted being set up a few months ago, Tesla Philippines has officially started operations in the country. During a launch event held at Uptown Mall in Bonifacio ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AutoIndustriya.com"
+                }
+            ],
+            "datePublished": "2024-11-08T12:41:00.0000000Z"
+        },
+        {
+            "name": "Tesla Opens Cybertruck Lease Option For As Low As $999 Per Month",
+            "url": "https://www.benzinga.com/tech/24/11/41841181/tesla-opens-cybertruck-lease-option-for-as-low-as-999-per-month",
+            "description": "EV giant Tesla Inc TSLA has opened the option to lease a Cybertruck in the U.S. for as low as $999 a month. What Happened: The All-Wheel Drive variant of the Cybertruck starts at $79,900 in the U ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-11-08T07:28:00.0000000Z"
+        },
+        {
+            "name": "What Happened To Tesla\u2019s Promised Mexico Gigafactory?",
+            "url": "https://jalopnik.com/what-happened-to-tesla-s-promised-mexico-gigafactory-1851692836",
+            "description": "We may earn a commission from links on this page. Then-Mexican President Andr\u00e9s Manuel L\u00f3pez Obrador announced in February of 2023 that the northern state of Nuevo Le\u00f3n was going to be the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Jalopnik"
+                }
+            ],
+            "datePublished": "2024-11-08T00:00:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Tesla Stock Soars, Bucking EV Selloff",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-fed-meeting-dow-nasdaq-sp500-live-11-06-2024/card/tesla-stock-soars-premarket-bucking-wider-ev-selloff-WQ602tHDJHsL1oO0GeJF",
+            "description": "It's a bad day to be an electric-vehicle investor. That is, unless, you own Tesla stock. Shares in Elon Musk's EV company jumped 15% Wednesday, bucking a wider industry selloff. The move reflects ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Wall Street Journal"
+                }
+            ],
+            "datePublished": "2024-11-07T15:12:00.0000000Z"
+        },
+        {
+            "name": "Watch These Tesla Price Levels as Stock Surges to 15-Month High",
+            "url": "https://www.investopedia.com/watch-these-tesla-price-levels-as-stock-surges-to-15-month-high-8741202",
+            "description": "Tim Smith has 20+ years of experience in the financial services industry, both as a writer and as a trader. Tesla shares are likely to remain in the spotlight after surging to a 15-month high ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investopedia"
+                }
+            ],
+            "datePublished": "2024-11-07T03:17:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "BIZ BUZZ: Tesla is coming to town",
+            "url": "https://business.inquirer.net/488668/biz-buzz-tesla-is-coming-to-town",
+            "description": "Tesla Motors, the Elon Musk-led company that produces \u201cbad..s, zero-emission vehicles that can charge with clean energy,\u201d is making a big splash in the Philippines with the opening on Friday ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Philippine Daily Inquirer"
+                }
+            ],
+            "datePublished": "2024-11-07T02:28:00.0000000Z"
+        },
+        {
+            "name": "Tesla shares soar more than 14% as Trump win is seen boosting Elon Musk\u2019s electric vehicle company",
+            "url": "https://apnews.com/article/tesla-stock-trump-election-b54454aaabd4cbe1e1e1c9754649b869",
+            "description": "Copyright 2024 The Associated Press. All Rights Reserved. FILE - Tesla and SpaceX CEO Elon Musk listens as Republican presidential nominee former President Donald ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Associated Press"
+                }
+            ],
+            "datePublished": "2024-11-06T21:27:00.0000000Z"
+        },
+        {
+            "name": "Tesla stock surges after Trump wins presidency",
+            "url": "https://www.foxbusiness.com/markets/tesla-stock-surges-after-trump-wins-presidency",
+            "description": "Shares of electric vehicle-maker Tesla surged on Wednesday as stocks rose broadly after former President Trump prevailed in the presidential election. Tesla's stock soared as much as 14% after ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox Business"
+                }
+            ],
+            "datePublished": "2024-11-06T15:46:00.0000000Z"
+        },
+        {
+            "name": "Why Tesla Stock Is Skyrocketing Today",
+            "url": "https://www.fool.com/investing/2024/11/06/why-tesla-stock-is-skyrocketing-today/",
+            "description": "Tesla stock is making big gains on the heels of Donald Trump's election victory. The company's CEO Elon Musk was a visible supporter of Trump in the presidential race. Policy shifts under the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool"
+                }
+            ],
+            "datePublished": "2024-11-06T13:07:00.0000000Z"
+        },
+        {
+            "name": "Tesla\u2019s Stock Jumps After Trump\u2019s Victory",
+            "url": "https://www.nytimes.com/2024/11/06/business/tesla-stock-elon-musk-trump.html",
+            "description": "Now that bet has paid off, giving Mr. Musk a direct line to the White House that he may be able to use to bend policy in ways that could benefit Tesla, his electric car company. Mr. Trump has even ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla stock soars by double digits after Trump win",
+            "url": "https://finance.yahoo.com/news/tesla-stock-soars-by-double-digits-after-trump-win-133908406.html",
+            "description": "Tesla stock (TSLA) rose nearly 15% on Wednesday as investors digested Donald Trump's victory in the US presidential election. Tesla CEO Elon Musk had been a heavy supporter of Trump's campaign.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Elon Musk confirms if Tesla is making a smartphone to rival Apple and Google",
+            "url": "https://www.tweaktown.com/news/101535/elon-musk-confirms-if-tesla-is-making-smartphone-to-rival-apple-and-google/index.html",
+            "description": "TL;DR: Elon Musk, on \"The Joe Rogan Experience\" podcast, addressed rumors about Tesla developing a smartphone, stating that Tesla is not currently making a phone. He mentioned that Tesla could ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TweakTown"
+                }
+            ],
+            "datePublished": "2024-11-05T16:03:00.0000000Z"
+        },
+        {
+            "name": "What Happens To Tesla If Trump Loses?",
+            "url": "https://jalopnik.com/what-happens-to-tesla-if-trump-loses-1851689129",
+            "description": "We may earn a commission from links on this page.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Jalopnik"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "10 Of The Cheapest Tesla Insurance Companies (And What To Know Before You Buy)",
+            "url": "https://www.slashgear.com/1703372/cheapest-tesla-insurance-companies-guide/",
+            "description": "In fact, insuring a Tesla car costs 59% more than the national average. Regardless of this, getting insurance for your Tesla doesn't always have to eat into your wallet. There are loads of ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SlashGear"
+                }
+            ],
+            "datePublished": "2024-11-04T17:30:00.0000000Z"
+        },
+        {
+            "name": "With Cybertruck Price Drop, Will Tesla Have A Hit?",
+            "url": "https://www.forbes.com/sites/brookecrothers/2024/11/03/as-cybertruck-sales-surge-and-price-drops-is-tesla-on-a-roll/",
+            "description": "After Tesla dropped the price of Cybertruck last month, the pickup finally began to shed its outlandish cost stigma. No, it\u2019s not quite there yet but if you include the $7,500 Commercial Clean ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-04T04:15:00.0000000Z"
+        },
+        {
+            "name": "Elon Musk has parked his Tesla on the White House lawn",
+            "url": "https://www.ft.com/content/380598a1-3e14-439d-a66d-9ca3319351ea",
+            "description": "Or so it might seem. The Tesla boss has thrown money and airtime at Donald Trump. A Republican win could put Musk in government, while a win for Democrat Kamala Harris could \u2014 he has joked ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Financial Times"
+                }
+            ],
+            "datePublished": "2024-11-04T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla hires celebrity ambassador despite Elon Musk saying they don\u2019t pay for endorsements",
+            "url": "https://electrek.co/2024/11/01/tesla-hires-celebrity-ambassador-despite-elon-musk-saying-they-dont-pay-for-endorsements/",
+            "description": "Tesla has hired a celebrity ambassador, a departure from Elon Musk\u2019s policy of not paying for celebrity endorsements. Musk has often bragged about the fact that Tesla doesn\u2019t pay for celebrity ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Electrek"
+                }
+            ],
+            "datePublished": "2024-11-01T15:49:00.0000000Z"
+        },
+        {
+            "name": "BYD beats Tesla in quarterly sales for the first time as demand soars for hybrid EVs",
+            "url": "https://www.scmp.com/business/china-evs/article/3284573/byd-beats-tesla-quarterly-sales-first-time-demand-soars-hybrid-evs",
+            "description": "BYD overtook Tesla for the first time in quarterly sales, as customers worldwide snapped up automobiles that are driven by hybrid petroleum-electric power trains to assuage lingering concerns ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "scmp.com"
+                }
+            ],
+            "datePublished": "2024-10-31T12:57:00.0000000Z"
+        },
+        {
+            "name": "What Would Elon Musk\u2019s Tesla Gain\u2014and Lose\u2014From a Trump Presidency?",
+            "url": "https://foreignpolicy.com/2024/10/31/elon-musk-trump-tesla-electric-vehicles-mandate/",
+            "description": "This issue is preventing our website from loading properly. Please review the following troubleshooting tips or contact us at [email protected]. Your guide to the most important world stories of ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Foreign Policy"
+                }
+            ],
+            "datePublished": "2024-10-31T06:00:00.0000000Z"
+        },
+        {
+            "name": "Musk Says Tesla Robotaxi Service Could Debut in 2025, but Questions Remain",
+            "url": "https://www.cnet.com/roadshow/news/teslas-robotaxis-could-hit-texas-and-california-roads-by-2025/",
+            "description": "Tesla plans to launch its self-driving robotaxi service in California and Texas next year, CEO Elon Musk said during an earnings call Wednesday, but the effort requires regulatory approval and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNET"
+                }
+            ],
+            "datePublished": "2024-10-24T22:42:00.0000000Z"
+        },
+        {
+            "name": "Tesla car fire kills 4 in France",
+            "url": "https://www.scmp.com/news/world/europe/article/3282212/four-dead-after-tesla-car-catches-fire-france",
+            "description": "Four people were killed in western France late on Saturday when a Tesla electric car caught fire for reasons not yet determined, prosecutors said on Sunday. The accident happened outside the city ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "scmp.com"
+                }
+            ],
+            "datePublished": "2024-10-14T09:45:00.0000000Z"
+        },
+        {
+            "name": "Tesla shares slide after Cybercab robotaxi revealed",
+            "url": "https://www.bbc.com/news/articles/cm29x5ke9jdo",
+            "description": "Tesla boss Elon Musk has unveiled the firm's long-awaited robotaxi, the Cybercab, at the Warner Bros Studios in Burbank, California. The futuristic-looking vehicle, featuring two wing-like doors ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC"
+                }
+            ],
+            "datePublished": "2024-10-12T01:11:00.0000000Z"
+        },
+        {
+            "name": "Tesla Recalls",
+            "url": "https://www.cars.com/research/tesla/recalls/",
+            "description": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck vehicles. A fault in the drive inverter may cause a loss of drive power to the wheels. Tesla service will replace the drive inverter ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Cars"
+                }
+            ],
+            "datePublished": "2024-09-25T00:00:00.0000000Z"
+        },
+        {
+            "name": "Tesla Model S",
+            "url": "https://www.carscoops.com/tag/tesla-model-s/",
+            "description": "An over-air software update will fix affected Model 3, Y, S and X cars without the need for owners to head to a dealership",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Carscoops"
+                }
+            ],
+            "datePublished": "2024-09-17T11:50:00.0000000Z"
+        },
+        {
+            "name": "Tesla\u2019s Strategic Focus Shifts From Growth to Development of Affordable Vehicle and Cost Reductions",
+            "url": "https://www.morningstar.com/company-reports/1215848-teslas-strategic-focus-shifts-from-growth-to-development-of-affordable-vehicle-and-cost-reductions",
+            "description": "Tesla is one of the largest battery electric vehicle automakers in the world. In less than a decade, the company went from a startup to a globally recognized luxury automaker with its Model S and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar"
+                }
+            ],
+            "datePublished": "2024-04-02T00:00:00.0000000Z"
+        },
+        {
+            "name": "Company Reports",
+            "url": "https://www.morningstar.com/company-reports?listing=0P0000OQN8",
+            "description": "Tesla: Shares Rally on Trump Plans for Autonomous Vehicle Framework Tesla shares rallied and were up 7% at the time of writing on Nov. 18 on a Bloomberg report that President-elect Donald Trump ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar"
+                }
+            ],
+            "datePublished": "2023-10-27T07:05:00.0000000Z"
+        },
+        {
+            "name": "2025 Tesla Model S",
+            "url": "https://www.caranddriver.com/tesla/model-s",
+            "description": "The price of the 2025 Tesla Model S starts at $76,630 and goes up to $91,630 depending on the trim and options. We'd stick with the standard Model S (it used to be called the Long Range), which ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Car and Driver"
+                }
+            ],
+            "datePublished": "2022-12-31T03:40:00.0000000Z"
+        },
+        {
+            "name": "Elon Musk's Tesla sells most of its Bitcoin holdings",
+            "url": "https://www.bbc.com/news/business-62246367",
+            "description": "Tesla, which made waves last year when it revealed a major investment in Bitcoin, has now sold off most of its holdings of the cryptocurrency. The electric car firm has offloaded 75% of its ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC"
+                }
+            ],
+            "datePublished": "2022-07-22T18:00:00.0000000Z"
+        },
+        {
+            "name": "2025 Tesla Cybertruck",
+            "url": "https://www.caranddriver.com/tesla/cybertruck",
+            "description": "What's New for 2025? Tesla claims it will start producing a range extender for the Cybertruck in mid-2025. Essentially an additional battery, the unit takes up some bed space in trade for a ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Car and Driver"
+                }
+            ],
+            "datePublished": "2019-08-14T20:59:00.0000000Z"
+        }
+    ]
+}

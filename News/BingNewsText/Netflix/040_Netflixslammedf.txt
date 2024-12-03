@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Chris Coppola"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-16 02:25:39",
+    "description": "The problem with buffering started during first fight of night before Paul-Tyson bout.",
+    "filename": ".json",
+    "image_url": "https://www.azcentral.com/gcdn/authoring/authoring-images/2024/11/15/PPHX/76316395007-usatsi-24763270.jpg?crop=3009,1693,x0,y0&width=3009&height=1693&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Netflix subscribers across the country took to social media Friday evening complaining that the steaming service was buffering during the opening fight that was part of the highly touted Jake Paul-Mike Tyson card.\nThe broadcast began at 8 p.m. EST. Partway through the opening bout between Neeraj Goyat and Whindersson Nunes, which Goyat won by unanimous decision, it didn't take long for viewers to take to X (formerly Twitter) with complaints. ''#Netflix\" was trending second only to #paultyson.\nNetflix had not acknowledged the issue on its X account shortly after 9 p.m. EST, but the problem was continuing ahead of the second fight on the undercard.\nFollow our coverage:Jake Paul vs Mike Tyson live updates\n(This story was updated to add or change a gallery.)",
+    "source_domain": null,
+    "text": null,
+    "title": "Social media backlash as Netflix keeps buffering during boxing",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "The Economist"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-11 18:35:00",
+    "description": "Which businesses will thrive over the next four years? | Business",
+    "filename": ".json",
+    "image_url": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20241116_DE_US.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A PART OF Donald Trump\u2019s political genius is being all things to all people\u2014or at least to all his supporters. He has said so many contradictory things, throughout his public life and during the presidential campaign, that it is easy to latch on to the bits you like and either ignore those you don\u2019t, or dismiss them as braggadocio. Investors, it seems, are no different. The former president\u2019s decisive victory on November 5th sparked a global rally in equities, as stockpickers filled the Trump-shaped hole in their vision of the future with hopes and dreams. In those reveries, lower taxes and less red tape propel the planet\u2019s biggest economy, and with it the economy of the planet as a whole. By the end of the week stocks were up by 2.4% globally relative to election day.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla is not the only winner under Donald Trump",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

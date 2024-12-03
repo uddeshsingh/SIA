@@ -1,0 +1,17 @@
+Authors: ['Anan Ashraf', 'Benzinga Editor']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-15 08:18:20
+Description: Tesla on Thursday announced the company's new charging infrastructure called the V4 cabinet aimed at increasing charging speed and enabling sufficient charging infrastructure for the company's upcoming Tesla Semi vehicle.
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2024/11/15/Tesla-V4-Cabinet.jpeg?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla's V4 Supercharger Cabinet Can Charge Cybertruck 30% Faster, Recharge Tesla Semi And Save Annual Electricity Usage Of Over 9000 Homes
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: What Happened: The V4 Cabinet, Tesla said, supports 400V-1000V vehicle architectures and is capable of delivering up to 500kW for cars and 1.2 MW for the company’s upcoming Semi. While Tesla launched its V4 posts last year, it was still using a V3 cabinet, limiting power output. Superchargers already deliver over 5 TWh/year, 100 GWh/year in waste heat that can be saved.” This is equivalent to the annual electricity usage of over 9,000 households in the U.S. on average, according to data from the U.S. Energy Information Administration. Why It Matters: As of the end of the third quarter, Tesla had 6,706 supercharger stations around the globe and 62,421 connectors. Read Next: Ford Cuts Capri, Explorer EV Output Due To ‘Significantly Lower Than Expected Demand' After Pausing F-150 Lightning Production Photo courtesy: Tesla
+Financial_Events: []

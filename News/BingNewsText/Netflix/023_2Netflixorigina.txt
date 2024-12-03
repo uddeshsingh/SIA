@@ -1,0 +1,24 @@
+{
+    "authors": [
+        "Jacob Siegal",
+        "Andy Meek",
+        "Joshua Hawkins",
+        "Chris Smith",
+        "Jos\u00e9 Adorno"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:20:00",
+    "description": "Netflix is bringing back two original shows for new seasons this week: the anime series Beastars and The Ultimatum: Marry or Move On.",
+    "filename": ".json",
+    "image_url": "https://bgr.com/wp-content/uploads/2024/12/Beastars.jpg?quality=82&strip=all",
+    "language": "en",
+    "localpath": null,
+    "maintext": "No other streaming service releases as much original content as Netflix. In fact, it\u2019s rare even a single week passes without one of Netflix\u2019s original shows returning for a new season, but it can be difficult to keep track of them all. We try to cover each of the new releases on Netflix weekly, but today, we\u2019re also going to drill down on the returning shows.\nAs busy of a week as this is for Netflix releases, there are only a couple of shows returning. First up is the third season of the reality series The Ultimatum: Marry or Move On, which does a pretty good job of explaining itself in the title. The first part of the final season of the anime Beastars is also dropping on the streaming service this week.\nReturning Netflix shows (12/1 \u2013 12/7)\nThe Ultimatum: Marry or Move On: Season 3 (Dec. 4)\nNick and Vanessa Lachey\u2019s reality TV dynasty marches on with the third season of The Ultimatum: Marry or Move On. In this series, couples \u201cbreak up\u201d and enter into trial marriages with someone new in order to find out if their original relationship is worth fighting for.\nThe new season features couples Zaina and JR, Nick and Sandy, Mariah and Caleb, Aria and Scotty, Chanel and Micah, and David and Vanessa. If you want to learn more about everyone participating in the show this season, check out their profiles on Tudum.\nBEASTARS: Final Season: Part 1 (Dec. 5)\nLicensed by Netflix, Beastars is an anime based on a manga of the same name about a society full of walking, talking animals. There is a cultural divide between herbivores and carnivores, as eating meat is illegal. The series explores themes of prejudice, societal expectations, and fitting in over the course of its three seasons.\n\u201cFollowing the confrontation with Riz, Legoshi decides to leave school and begins living alone in Beast Apartments,\u201d reads the synopsis for season 3. \u201cMeanwhile, Louis, who has declined the Young BEASTARS and graduated from the academy, decides to finally face his father, Ogma. Haru, who is enjoying her campus life, deals with an endless series of troubles. Around this time, current BEASTAR Yahya pursues Melon, a violent criminal who seeks pleasure in murdering beasts. The fates of Legoshi and Melon, which never should have crossed paths, are intertwined by a secret held closely by Legoshi\u2019s family.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "2 Netflix original shows returning with new seasons this week",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

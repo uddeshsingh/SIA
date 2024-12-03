@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-02 16:49:42",
+    "description": "Chipmaker Nvidia will replace Intel on the Dow Jones Industrial Average on Friday as the recent emergence of artificial intelligence continues driving Nvidia's value higher.",
+    "filename": ".json",
+    "image_url": "https://cdnph.upi.com/sv/ph/og/upi/9811730571579/2024/1/1e7acf273bafddd98259d53408b3c037/v1.5/Nvidia-to-replace-Intel-on-Dow-Jones-Industrial-Average.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Nov. 2 (UPI) -- Chipmaker Nvidia will replace Intel on the Dow Jones Industrial Average on Friday as the recent emergence of artificial intelligence continues driving Nvidia's value higher.\nS&P Dow Jones made the announcement Friday.\nAdvertisement\nNvidia shares are up by 170% in 2024 and grew by 240% in 2023 as continued development of AI drives up demand for Nvidia chips, CNBC reported Friday.\nNvidia currently is valued at $3.3 trillion, making it the second-most valuable publicly traded company behind Apple, which is valued at $3.39 trillion.\nNvidia briefly overtook Apple to become the world's most valuable company in late October\nMicrosoft, Google, Meta and Amazon are among the large tech firms buying graphics processing units from Nvidia to build more computer clusters to drive their respective AI pursuits.\nNvidia's GPU chips power AI applications and enabled Nvidia's value to grow by $3.1 trillion over the past two years.\nDemand for Nvidia products have caused the company to double its valuation each of the past five quarters and triple its during three of those quarters.\nNvidia recently announced its Blackwell chip, which the tech firms says will quadruple AI training performance compared to its current Hopper chip.\nAdvertisement\nNvidia officials anticipate demand for the Blackwell chips to exceed the supply in 2025 as major tech firms transition to the new chips.\nNvidia's shares price has grown by 740% since OpenAI launched its ChatGPT generative AI program in November 2022.\nIn another Industrial Average change, Sherwin Williams will replace Dow Inc., also on Friday.\nIn April, Amazon replaced Walgreens Boots Alliance.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia to replace Intel on Dow Jones Industrial Average",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Aniket Bhor",
+        "state budgets",
+        "federal financial regulations",
+        "health care legislation"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2022-03-26 14:36:10",
+    "description": "Tesla has a reputation for innovative technology. Learn whether the cost, efficiency and installation live up to the reputation in our Tesla Solar panels review.",
+    "filename": ".json",
+    "image_url": "https://d2tez01fe91909.cloudfront.net/wp-content/uploads/2022/03/AdobeStock_309492941-1024x683.jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Advertiser Disclosure\nMarketWatch Guides may receive compensation from companies that appear on this page. The compensation may impact how, where and in what order products appear, but it does not influence the recommendations the editorial team provides. Not all companies, products, or offers were reviewed.\nTesla Solar Reviews, Services and Costs (2024)\nTesla Solar offers a combination of high-quality equipment and affordable pricing, based on the MarketWatch Guides team\u2019s review. The company\u2019s in-house solar panels and batteries are some of the most popular solar products on the market. Our team conducted a 2023 Pollfish of 1,000 solar customers in which Tesla ranked as the third most popular choice for solar services, with 13.5% of respondents choosing the company.\nWritten by Aniket Bhor Written by Aniket Bhor Contributor\nAniket Bhor is a writer and solar engineer with a decade of industry experience. Over the years, he has managed solar energy installations and marketing and has written for solar businesses and magazines all over the world.\nEdited by Tori Addison Edited by Tori Addison Editor\nTori Addison is an editor who has worked in the digital marketing industry for over five years. Her experience includes communications and marketing work in the nonprofit, governmental and academic sectors. A journalist by trade, she started her career covering politics and news in New York\u2019s Hudson Valley. Her work included coverage of local and state budgets, federal financial regulations and health care legislation.\nEdited by Tori Addison Edited by Tori Addison Editor\nTori Addison is an editor who has worked in the digital marketing industry for over five years. Her experience includes communications and marketing work in the nonprofit, governmental and academic sectors. A journalist by trade, she started her career covering politics and news in New York\u2019s Hudson Valley. Her work included coverage of local and state budgets, federal financial regulations and health care legislation.\nOur Research Process\n73 Companies Reviewed\nUsing our comprehensive methodology, we have reviewed 73 companies operating at the national and local level.\n2,000 Homeowners Surveyed\nWe have conducted 2 surveys of 1000 homeowners to gather information on system cost across different providers and states, understand how consumers use incentives and financing options to purchase panels, evaluate the use of solar batteries and get feedback on user satisfaction.\n17 Rating Factors\nOur comprehensive rating system scores providers based on 17 data points in seven weighted categories: Cost and Payment Options (20%), Services (20%), Reputation (20%), Warranty (15%), Customer Support (10%), Industry Experience (10%) and Sustainability (5%).\n43 Experts Consulted\nWe have interviewed 43 experts in the solar energy space and shadowed NC Solar Now during a solar installation to better inform our content.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla Solar Panels Cost & Services Review (December 2024)",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

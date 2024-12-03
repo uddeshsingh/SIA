@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Kelly O'Brien",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:51:00",
+    "description": "A man from Exeter who was a police officer at Endicott College is being mourned after he was killed in a crash in Massachusetts early Thanksgiving morning.",
+    "filename": ".json",
+    "image_url": "https://kubrick.htvapps.com/vidthumb/15fa4be6-c3ba-479c-a29a-2752520b8093/93a05c97-ccd5-40ce-a7f7-c1f7256e5680.jpg?crop=0.781xw:0.780xh;0.219xw,0&resize=1200:*",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Police say car drove wrong way on I-95 from New Hampshire to Massachusetts\nA man from Exeter who was a police officer at Endicott College is being mourned after he was killed in a crash in Massachusetts early Thanksgiving morning.Sgt. Jeremy Cole was on his way home when, police said, he was struck by a driver going the wrong way on Interstate 95.Police said the crash is under investigation and have not identified the other driver.Cole served as a police officer at Endicott College in Beverly, Massachusetts, for the past 15 years.>> Download the free WMUR app to get updates on the go: Apple | Google Play <<\"He was a one-of-a-kind person, and you know you'll never find someone like him ever again,\" said student Jessica Carra.Cole was nearly finished earning his criminal justice degree from the college, where he was beloved by students and staff.\"There was no one like J Cole,\" Carra said. \"I mean, his badge said, 'J Cole.' That's why we all called him that. There was nobody like him.\"New Hampshire State Police said they were notified at about 11:50 p.m. Wednesday that a Tesla was driving the wrong way on I-95. Police tried to stop the vehicle, but it continued into Massachusetts, where it ultimately collided with Cole's vehicle.Police said the Tesla driver suffered serious injuries and was flown to Boston.On Monday, Cole's Endicott family came together to honor him and send notes to his family.\"We love them, and we're here for them, and they're not grieving alone,\" said student Ava Maher. \"They have a whole community that loved him, as well.\"The college said it plans to pay for his children's tuition when the time comes.\nA man from Exeter who was a police officer at Endicott College is being mourned after he was killed in a crash in Massachusetts early Thanksgiving morning.\nSgt. Jeremy Cole was on his way home when, police said, he was struck by a driver going the wrong way on Interstate 95.\nAdvertisement\nPolice said the crash is under investigation and have not identified the other driver.\nCole served as a police officer at Endicott College in Beverly, Massachusetts, for the past 15 years.\n>> Download the free WMUR app to get updates on the go: Apple | Google Play <<\n\"He was a one-of-a-kind person, and you know you'll never find someone like him ever again,\" said student Jessica Carra.\nCole was nearly finished earning his criminal justice degree from the college, where he was beloved by students and staff.\n\"There was no one like J Cole,\" Carra said. \"I mean, his badge said, 'J Cole.' That's why we all called him that. There was nobody like him.\"\nNew Hampshire State Police said they were notified at about 11:50 p.m. Wednesday that a Tesla was driving the wrong way on I-95. Police tried to stop the vehicle, but it continued into Massachusetts, where it ultimately collided with Cole's vehicle.\nPolice said the Tesla driver suffered serious injuries and was flown to Boston.\nOn Monday, Cole's Endicott family came together to honor him and send notes to his family.\n\"We love them, and we're here for them, and they're not grieving alone,\" said student Ava Maher. \"They have a whole community that loved him, as well.\"\nThe college said it plans to pay for his children's tuition when the time comes.",
+    "source_domain": null,
+    "text": null,
+    "title": "Endicott College holds vigil for police officer from NH killed in crash",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

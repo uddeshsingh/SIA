@@ -1,0 +1,1572 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Salesforce+Inc",
+    "queryContext": {
+        "originalQuery": "Salesforce Inc",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 1530,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Salesforce+Inc"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Salesforce+Inc&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Salesforce Inc. stock underperforms Monday when compared to competitors despite daily gains",
+            "url": "https://www.marketwatch.com/data-news/salesforce-inc-stock-underperforms-monday-when-compared-to-competitors-despite-daily-gains-c30b00d7-e48c4c0003d2",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n5Kx8XH6vW6TwiPmANhTxi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Shares of Salesforce Inc. CRM inched 0.31% higher to $331.01 Monday, on what proved to be an all-around mixed trading session for the stock market, with the S&P 500 Index SPX rising 0.24% to 6,047.15 and the Dow Jones Industrial Average DJIA falling 0.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.g28MuDD8Wj91-VMHwbl7qQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:38:00.0000000Z"
+        },
+        {
+            "name": "Cyber Monday deals heat up as U.S. retailers offer deep cuts",
+            "url": "https://www.staradvertiser.com/2024/12/02/breaking-news/cyber-monday-deals-heat-up-as-u-s-retailers-offer-deep-cuts/",
+            "description": "After lackluster spending at U.S. stores on a deals-heavy Black Friday, retailers are pulling out all the stops with steep promotions and discounts on their websites and apps to entice people to buy holiday gifts and other merchandise after the long Thanksgiving weekend.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/761e2b59-dd8f-4ef9-de1c-ba7d99c46158",
+                    "name": "Thanksgiving"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798dc963-c63f-3948-1a9e-0957c2b6d1be",
+                    "name": "Target Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Honolulu Star-Advertiser",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.L7r5UMGIQVI6qe1BoRgEAg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:56:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Salesforce: Navigating Growth Challenges and Strategic AI Investments Amidst Market Uncertainty",
+            "url": "https://markets.businessinsider.com/news/stocks/salesforce-navigating-growth-challenges-and-strategic-ai-investments-amidst-market-uncertainty-1034087112",
+            "description": "Monness analyst Brian White has maintained their neutral stance on CRM stock, giving a Hold rating on November 27.Don't Miss our Black Friday",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7937edbe-840b-05b9-13d6-9fec415d8dfa",
+                    "name": "Brian J. White"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a51e6e97-e358-d3ab-c099-faa5d984ecc3",
+                    "name": "Customer relationship management"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8376b01-c707-95f4-366a-81d11767efd2",
+                    "name": "TipRanks"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LrIq_5vxtu4ONs5zIW54FA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:55:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Salesforce (CRM) Gets a Buy from Wedbush",
+            "url": "https://markets.businessinsider.com/news/stocks/salesforce-crm-gets-a-buy-from-wedbush-1034087276",
+            "description": "In a report released today, Daniel Ives from Wedbush maintained a Buy rating on Salesforce (CRM \u2013 Research Report), with a price target of",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1fc760dc-2687-305a-ff9f-20862a36ea0c",
+                    "name": "Wedbush Securities"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8376b01-c707-95f4-366a-81d11767efd2",
+                    "name": "TipRanks"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e8398f8f-9677-81c5-db16-8b32949217d5",
+                    "name": "Palantir Technologies"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1134707c-8a1b-0d48-44f1-35595a3ca1b8",
+                    "name": "Piper Sandler Companies"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LrIq_5vxtu4ONs5zIW54FA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:55:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Success Secrets from America\u2019s Best Sales Teams",
+            "url": "https://www.inc.com/inc-brandview/success-secrets-from-americas-best-sales-teams/91017855",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.RDRAb51FOrehED39eokCyi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Each year, the Inc. 5000 list showcases America\u2019s fastest growing private companies. Companies that make the list usually have a few things in common, including a visionary founder, a great product or service, and a committed, creative, successful sales team.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Inc",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.d2sNjsZFyRqPfTHuti8I3g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:34:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon Connect\u2019s New Era: AI, Omnichannel Support and Enhanced Security",
+            "url": "https://www.cmswire.com/contact-center/amazon-connects-new-era-ai-omnichannel-support-and-enhanced-security/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.kHfjmyhwoPSqhfjeM-Iw9i&pid=News",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "description": "Amazon Connect integrates generative AI, enhancing customer segmentation and interaction quality. Omnichannel expansion. New WhatsApp support and Salesfo",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0aa7e37d-2937-6d38-f54e-32ec223f7b70",
+                    "name": "PCI eXtensions for Instrumentation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e222f4ec-6195-a300-6e2a-d15093aece26",
+                    "name": "WhatsApp"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2a4f2da3-186f-a6d8-411e-584fec8185f2",
+                    "name": "Omnichannel"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CMS Wire",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6C0Tk8KIaN-l89iZRW61cg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T15:52:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Why is Salesforce, Inc. (CRM) the Top Wells Fargo\u2019s Tech Stock to Beat the S&P?",
+            "url": "https://www.insidermonkey.com/blog/why-is-salesforce-inc-crm-the-top-wells-fargos-tech-stock-to-beat-the-sp-1400914/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.CMGNpq35U2nFyW7thKjL3C&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "We recently published a list of Wells Fargo\u2019s Tech Stocks To Beat The S&P: 14 Top AI & Non-AI Stocks. In this article, we are going to take a look at where Salesforce, Inc.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f6a6f872-ee91-c98f-e44a-631c007464f3",
+                    "name": "Wells Fargo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d504280-8e5f-99e5-4688-5e3b38e4c30d",
+                    "name": "Federal Reserve"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Wells Fargo"
+                },
+                {
+                    "name": "Georgia Institute of Technology"
+                },
+                {
+                    "name": "Stock"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T15:13:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "US Retailers Aim to Cash in on Cyber Monday With Steep Online Discounts",
+            "url": "https://www.usnews.com/news/top-news/articles/2024-12-02/us-retailers-aim-to-cash-in-on-cyber-monday-with-steep-online-discounts",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.EIg3S01DWiDwwMHreLYoYC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Retailers have been coaxing cautious U.S. shoppers on Cyber Monday with push notifications, emails and other ads touting heavily discounted cosmetics, electronics, toys, clothing and other products. Many including Walmart and Amazon use AI-enabled chatbots on their websites and apps to help customers with queries and drive them to hit '\"buy.\"",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d5a6ee1b-da4b-230b-9ad0-30d222388c11",
+                    "name": "Chatbot"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798dc963-c63f-3948-1a9e-0957c2b6d1be",
+                    "name": "Target Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "U.S. News & World Report",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZUvKX7lBhXaLGhOrD6YbBg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T13:53:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Will Slower Sales Growth Dent Salesforce's Earnings This Season?",
+            "url": "https://www.msn.com/en-us/money/markets/will-slower-sales-growth-dent-salesforces-earnings-this-season/ar-AA1v81iF",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Hz6cnbvepyFe-UKiJvR-VC&pid=News",
+                    "width": 550,
+                    "height": 263
+                }
+            },
+            "description": "Salesforce, Inc. CRM is gearing up to announce its third-quarter fiscal 2025 results on Dec. 3, with the Zacks Consensus Estimate pointing to a 15.2% year-over-year rise in non-GAAP earnings per share (EPS) to $2.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Zacks.com on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.328QrvZbq50wGPYB10Gmgw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T12:59:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "OpenAI looks to add advertising to AI products, CFO tells FT",
+            "url": "https://seekingalpha.com/news/4353580-openai-looks-to-add-advertising-to-artificial-intelligence-products-cfo-tells-ft",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.vD52IrM3v4q37G4yqZDIFi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Microsoft ( NASDAQ: MSFT )-backed generative AI company OpenAI is discussing plans to introduce advertising to its range of products, as the ChatGPT maker seeks new revenue sources, chief financial officer Sarah Friar told the Financial Times.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9b131545-38a3-0bb6-c48a-345435a9a0a6",
+                    "name": "OpenAI"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/941cdc8d-95cb-5ade-d349-63dc72d17314",
+                    "name": "Financial Times"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37181124-e096-403d-a455-576a61b83525",
+                    "name": "San Francisco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27bbdf36-1d3b-f1ef-1717-2dbea977c461",
+                    "name": "Go"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T11:26:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Salesforce Analyst Says Risk-Reward On Stock \u2018Compelling\u2019 Ahead Of Q3 Print: Retail Shares The Optimism",
+            "url": "https://www.msn.com/en-in/money/markets/salesforce-analyst-says-risk-reward-on-stock-compelling-ahead-of-q3-print-retail-shares-the-optimism/ar-AA1v6R1e",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0LOmEVga4G-j9gz7A2WDxS&pid=News",
+                    "width": 700,
+                    "height": 437
+                }
+            },
+            "description": "Customer relationship software provider Salesforce. Inc. ($CRM) is scheduled to release its fiscal year 2025 third-quarter results after the market closes on Tuesday. Analysts, on average, expect the company to report non-GAAP earnings per share (EPS) of $2.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/15872ab3-639c-6615-9287-2a7fcd326206",
+                    "name": "Fiscal year"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/050cd358-5082-ae72-9834-3eeed856ba94",
+                    "name": "Earnings per share"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newsable Asianet News on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.xhZGaYLy30DsWwTRaRaPjQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T09:08:08.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Salesforce Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
+            "url": "https://www.benzinga.com/24/12/42260979/salesforce-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.M7zamqqdvzP1Bpr3jJPCDS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Analysts expect Salesforce to report quarterly earnings at $2.45 per share. That's up from $2.11 per share a year ago. The San Francisco, California-based company projects to report quarterly revenue of $9.35 billion, compared to $8.72 billion a year earlier, according to data from Benzinga Pro.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2fca69d-600b-02b5-8f8d-e5e1c5ce2ff1",
+                    "name": "South San Francisco, California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LnWAsYULk4XKw3udkffflQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T08:40:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "AWS wants to make your call center interactions less painful",
+            "url": "https://techcrunch.com/2024/12/01/aws-wants-to-make-your-call-center-interactions-less-painful/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JQDW-r5722pHY47ybkYldC&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "Slowly but surely, Amazon's AWS cloud computing unit has become a major player in the call/contact center space with its Amazon Connect cloud-based (and",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/48ecac1a-2a0c-bba6-4e4b-1851fc147968",
+                    "name": "Air Canada"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9dfb3b85-1661-0c98-62ca-cd327f2a6537",
+                    "name": "Dish Network"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b4a42249-48a3-8c2e-8e63-b5b4ae18e621",
+                    "name": "re:Invent"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Interaction"
+                },
+                {
+                    "name": "TechCrunch"
+                },
+                {
+                    "name": "Amazon Web Services"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechCrunch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.M4e-NwwkSCFuKsTp672mxA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T04:01:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Anxious retailers look to deals, doorbusters to revive sales",
+            "url": "https://www.thestar.com.my/business/business-news/2024/12/02/anxious-retailers-look-to-deals-doorbusters-to-revive-sales",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.xMYg6n4KJg7jVyb9ocoVzy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "THE lure of US$10 gift cards wasn\u2019t enough to draw big early-bird Black Friday crowds at the Macy\u2019s Inc flagship New York City location in Herald Square.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ec3679e-ec65-8662-1a8d-a6ef7c0453d9",
+                    "name": "Macy's, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/60d5dc2b-c915-460b-b722-c9e3485499ca",
+                    "name": "New York City"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3aca8299-f81d-5fba-b06e-40319509acc0",
+                    "name": "Herald Square"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Star",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.MD7PmHkCna--MdDwYFMD6A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T23:52:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Black Friday Online Sales Approach $11 Billion Up 10%, As In-Store Traffic Falls 8%",
+            "url": "https://www.forbes.com/sites/joanverdon/2024/11/30/black-friday-online-sales-up-10-as-in-store-traffic-falls-8/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.XBGNu4OLFvbkzOcuUkmTUi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Online brands saw big growth on Black Friday, but it came at the expense of in-store shopping. The extended promotional period also hurt Black Friday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T18:55:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Why Salesforce Inc (CRM) Is One of the Best Stocks to Buy For Long Term Growth?",
+            "url": "https://www.insidermonkey.com/blog/why-salesforce-inc-crm-is-one-of-the-best-stocks-to-buy-for-long-term-growth-1400853/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.CMGNpq35U2nFyW7thKjL3C&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "On November 26, Venu Krishna, head of US equity strategy at Barclays, joined Yahoo Finance to share his opinion on the stock market, particularly the tech sector. Krishna raised his S&P 500 price target for 2025 to 6,600 and shed light on why he believes such is possible.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/905b6d56-17cd-47cb-ffb9-3be4aa68f362",
+                    "name": "New York Stock Exchange"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9fb91659-3521-96df-b9d4-f4441da7efdd",
+                    "name": "Barclays"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1cb8ca46-c867-a19a-b118-0f594a12fafe",
+                    "name": "Yahoo! Finance"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Stock"
+                },
+                {
+                    "name": "Insider"
+                },
+                {
+                    "name": "Salesforce.com"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T17:29:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Shoppers Spent Over $6 Billion Online On Thanksgiving, As Cyber Week Begins",
+            "url": "https://www.forbes.com/sites/joanverdon/2024/11/29/shoppers-spent-over-6-billion-online-on-thanksgiving-as-cyber-week-begins/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.9O0rQTq7zjQoJYJHczOvUS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Online spending rose significantly on Thanksgiving Day, with more people than ever shopping on their mobile devices.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/158e7011-1097-c354-8a83-beca6ed461f1",
+                    "name": "Thanksgiving"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/708f74c2-bc54-fea5-ce74-b028b140fc03",
+                    "name": "Thanksgiving Day"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/66b70fe3-3260-a436-390e-d9ec3e1c91fb",
+                    "name": "Shopify"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T15:44:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "More retailers report this week, amid signs of solid online holiday spending",
+            "url": "https://www.morningstar.com/news/marketwatch/20241201166/more-retailers-report-this-week-amid-signs-of-solid-online-holiday-spending",
+            "description": "As a shorter holiday-shopping home stretch this year kicks into gear, more retailers - including Foot Locker Inc. and Victoria's Secret & Co. - report this week, likely offering more detail about consumer spending appetites as analysts narrow their focus on individual successes and failures from chain to chain.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/825575ab-e6ed-73a5-6a86-307a81ef0471",
+                    "name": "Ear"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a60fde09-9e5b-fa4a-a556-579e82b6f03a",
+                    "name": "Ulta Beauty"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/894dcfbb-7d8f-c22e-cbe4-eb07c2a6fe75",
+                    "name": "Salesforce Marketing Cloud"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/882f3b95-855d-c2f1-a102-fba2cd8f39a0",
+                    "name": "Foot Locker"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdhGhyibFfGjObZVPq7WEw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T15:01:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Black Friday goes digital as American rack up $10bn worth of online purchases",
+            "url": "https://www.independent.co.uk/news/world/americas/black-friday-sales-deals-purchases-b2656641.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.S06EkVMWDrLO7XpjbV3uny&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Americans spent a staggering $10bn online shopping on Black Friday while in-store purchases continued to dip, according to analysts. This year, consumers took advantage of deals from Amazon and Walmart to purchase desktops, laptops and phones, while sales at Best Buy and Target were stagnant.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/accff6a8-3045-c2ba-ebcd-469bf66b8df0",
+                    "name": "Climate"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6b7b8c50-0d5d-4a9e-7af2-0002e29e173e",
+                    "name": "The Independent"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/34638654-bb5b-0392-cacf-ffae99e6c75e",
+                    "name": "Elon Musk: The Real Life Iron Man"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a4c6e5b-00c3-abe2-1b88-4fa9bc964581",
+                    "name": "The A Word"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798dc963-c63f-3948-1a9e-0957c2b6d1be",
+                    "name": "Target Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Independent",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Itq1YaygZYquIY-bZPUV3w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T21:33:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "5 Stocks To Watch in December\u2014And What To Watch For",
+            "url": "https://www.investopedia.com/stocks-to-watch-in-december-2024-tesla-microstrategy-honeywell-salesforce-supermicro-8752999",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.nBpMXV8SXrMMEO2qz-otIC&pid=News",
+                    "width": 700,
+                    "height": 442
+                }
+            },
+            "description": "Stocks soared to record highs in November as Wall Street looked ahead to a second term for President-elect Donald Trump. Trump's incoming administration and the Fed's interest rate-cutting campaign are likely to remain in the spotlight in December.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c3ea5c5-8119-f4b3-5019-aeed4f2f1843",
+                    "name": "Nasdaq Composite"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f650419c-a0ba-a3f3-3ae9-eff8937713b1",
+                    "name": "Russell 2000 Index"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d504280-8e5f-99e5-4688-5e3b38e4c30d",
+                    "name": "Federal Reserve"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investopedia",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4MUhIIMPhIZxw6T79kKysw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T12:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Standard & Poor\u2019s 500 and Dow post gains and close out best month of 2024",
+            "url": "https://www.latimes.com/business/story/2024-11-29/standard-poors-500-and-dow-post-gains-and-close-out-best-month-of-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jteF5HY0WmVSH97v0eEVsi&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Stocks closed with solid gains as Wall Street put the finishing touches on one of its best months of the year.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caeb7b9a-f5d7-4686-8fb5-cf7628296b13",
+                    "name": "New York"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Los Angeles Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.wKX1xpM7bmNj7V_rB5JVyQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T21:51:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "How To Earn $500 A Month From Salesforce Stock Ahead Of Q3 Earnings",
+            "url": "https://www.benzinga.com/top-stories/24/11/42250059/how-to-earn-500-a-month-from-salesforce-stock-ahead-of-q3-earnings",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.s24MQT31OZTAFX7SeJrSkS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Salesforce (NYSE: CRM) will release Q3 earnings on Dec. 3. Analysts expect EPS of $2.44 and revenue of $9.35B. Dividend yield is 0.48%. To earn $500/month, one needs to own $1.2M worth of CRM.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2fca69d-600b-02b5-8f8d-e5e1c5ce2ff1",
+                    "name": "South San Francisco, California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/158c125e-b640-8633-9b83-5a0dd2a6a912",
+                    "name": "Citigroup"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LnWAsYULk4XKw3udkffflQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T18:10:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
+            "url": "https://www.marketwatch.com/data-news/salesforce-inc-stock-underperforms-tuesday-when-compared-to-competitors-despite-daily-gains-f4161815-762543297199",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n5Kx8XH6vW6TwiPmANhTxi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Salesforce Inc. closed $5.68 below its 52-week high ($348.86), which the company achieved on November 12th.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.g28MuDD8Wj91-VMHwbl7qQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-26T22:07:00.0000000Z"
+        },
+        {
+            "name": "There's a new wrinkle in the return-to-office equation",
+            "url": "https://www.bizjournals.com/southflorida/news/2024/11/26/elon-musk-donald-trump-remote-work-return-rfo.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.eegcfsZBqcblY3_MTaHBoS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Elon Musk and other Trump administration officials want to end federal remote work. Here's how that could influence the private sector.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4d65da8f-5144-739b-786e-daf47f5ebaa3",
+                    "name": "Vivek Ramaswamy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c72e1203-3e7b-3ddd-d2a0-80a1a8882d46",
+                    "name": "Roivant Sciences"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Business Journals",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.t3F4eXZUTDaqQci8YlUgMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-26T17:58:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Snowflake's stock advances on upgrade as AI 'revolution' hits its 'next gear,' one analyst says",
+            "url": "https://www.morningstar.com/news/marketwatch/2024112576/snowflakes-stock-advances-on-upgrade-as-ai-revolution-hits-its-next-gear-one-analyst-says",
+            "description": "Along with his upgrade of Snowflake, Ives raised his rating on Elastic N.V.'s stock (ESTC) to outperform from neutral and set a price target of $135 a share. Elastic's stock rose about 4.2%.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/306ddbb4-b68d-129d-2ba8-ff47ba9d662b",
+                    "name": "Snowflake"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1fc760dc-2687-305a-ff9f-20862a36ea0c",
+                    "name": "Wedbush Securities"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad14d728-c2fd-af8a-493d-bdd62d969778",
+                    "name": "Snowflake Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef7cee56-bfe8-33da-0d41-dc2a15d72d1c",
+                    "name": "Google AI"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdhGhyibFfGjObZVPq7WEw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-25T15:26:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Three Stocks: SoundHound, Chipotle Mexican Grill and Salesforce.com",
+            "url": "https://moneymorning.com/2024/11/22/three-stocks-soundhound-chipotle-mexican-grill-and-salesforce-com/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.VxUXg07y4xOd3xplLOkP-i&pid=News",
+                    "width": 700,
+                    "height": 309
+                }
+            },
+            "description": "Adding further momentum to SoundHound\u2019s stock was the news from NVIDIA\u2019s ( NVDA) recent 13F filing, which confirmed that the prominent AI chip maker continues to hold a stake in SoundHound. The disclosure on November 14 has reassured investors of NVIDIA\u2019s ongoing commitment and belief in SoundHound\u2019s potential, enhancing the stock's appeal.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/635a53f2-704a-4cf2-b29c-9de61b3fb2c5",
+                    "name": "SoundHound"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Money Morning",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.n8grVlVJ2uuPnaNSAre2aA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-22T22:12:00.0000000Z"
+        },
+        {
+            "name": "Meta Poaches Salesforce Exec to Build AI Business Tools",
+            "url": "https://www.inc.com/ben-sherry/meta-poaches-salesforce-exec-to-build-ai-business-tools/91022021",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.cFqYXsPyKzXco9KraY-dsi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Meta, the parent company of Facebook and Instagram, has hired away Salesforce\u2019s head of AI to run a new product group dedicated to developing AI-powered tools for business.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/401e29b7-e564-7d0a-69dd-4aeff23c198d",
+                    "name": "LinkedIn"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd864f57-1d14-691e-3c9d-fa670d28776b",
+                    "name": "Axios Systems"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Inc",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.d2sNjsZFyRqPfTHuti8I3g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-20T19:38:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Meta hires Salesforce's CEO of AI, Clara Shih, to lead new business AI group",
+            "url": "https://www.yahoo.com/tech/meta-hires-salesforces-ceo-ai-203307569.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.YDblzDb4ZJaLZOf50dD4MC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Meta hired Salesforce's CEO of AI, Clara Shih, to lead a new organization building AI tools for businesses that use Meta's apps to reach consumers, according to a LinkedIn post from Shih on Tuesday. Meta confirmed the appointment and the new Business AI group in a statement to TechCrunch.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/401e29b7-e564-7d0a-69dd-4aeff23c198d",
+                    "name": "LinkedIn"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/93cd6c79-a746-d559-87ed-f9312a9eb83c",
+                    "name": "TechCrunch"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-19T20:58:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Salesforce Plans Layoffs at Acquisition Own in Strategy Shift",
+            "url": "https://www.bloomberg.com/news/articles/2024-11-19/salesforce-plans-layoffs-at-acquisition-own-in-strategy-shift",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.pE73tidurAQL4fd5DlfMFC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Salesforce Inc. is planning to cut workers at Own, the data management startup it acquired for about $2 billion.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/acddf523-0180-040e-9977-087a7db2188c",
+                    "name": "Oprah Winfrey Network"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c5ad466d-fd68-f389-4727-7f3b9daaebf6",
+                    "name": "Bloomberg L.P."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/401e29b7-e564-7d0a-69dd-4aeff23c198d",
+                    "name": "LinkedIn"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bloomberg L.P.",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.yAnAsiiCHte5V2il_I5mug&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-19T19:04:00.0000000Z"
+        },
+        {
+            "name": "Front acquires Idiomatic to bolster AI-driven customer service solutions",
+            "url": "https://siliconangle.com/2024/11/19/front-acquires-idiomatic-bolster-ai-driven-customer-service-solutions/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.OhGrS2k4qzUcd8Me3X9ZMC&pid=News",
+                    "width": 700,
+                    "height": 460
+                }
+            },
+            "description": "Artificial intelligence-powered customer service platform provider FrontApp Inc. today announced it has acquired AI-powered voice-of-customer intelligence platform startup Idiomatic Inc. for an undisclosed price.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ysUeRt2Q3xQKySmZkxXQ8A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-19T14:04:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Analyst Spots \u2018Multi-Billion-Dollar\u2019 Opportunity for Salesforce (CRM), Says Stock Is Undervalued",
+            "url": "https://www.yahoo.com/finance/news/analyst-spots-multi-billion-dollar-130154663.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Vh6ex0KWq_T_4wkvUASl0S&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "We recently published a list of 10 AI Stocks to Watch on Latest News and Analyst Ratings. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other AI stocks to watch on latest news and analyst ratings.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/905b6d56-17cd-47cb-ffb9-3be4aa68f362",
+                    "name": "New York Stock Exchange"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2082d7ec-474c-71e6-a40e-f0f78cd6e864",
+                    "name": "Ben Horowitz"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9b131545-38a3-0bb6-c48a-345435a9a0a6",
+                    "name": "OpenAI"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b12531f9-1003-cb05-744e-b53baaa2ff1c",
+                    "name": "Orion"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-18T13:01:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The CRM Conundrum: Why Salesforce Inc\u2019s Stock Is Making Headlines Again",
+            "url": "https://www.bovnews.com/2024/11/18/the-crm-conundrum-why-salesforce-incs-stock-is-making-headlines-again/",
+            "description": "BMO Capital Markets has recently reiterated Salesforce Inc (CRM) stock to Outperform rating, as announced on November 15, 2024, according to Finviz. Earlier, on October 2, 2024, Northland Capital had raised the stock from a Market Perform to Outperform ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "bovnews"
+                }
+            ],
+            "datePublished": "2024-11-18T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Salesforce checks show 'improved data' going into earnings: Barclays",
+            "url": "https://seekingalpha.com/news/4294738-salesforce-checks-show-improved-data-going-into-earnings-barclays",
+            "description": "Recent checks into Salesforce (NYSE:CRM) ahead of next month's earnings report showed \"improving\" data, investment firm Barclays said. \"Our [value-added-reseller] checks indicate improved data ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha"
+                }
+            ],
+            "datePublished": "2024-11-15T14:16:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Salesforce.Com Inc (CRMm)",
+            "url": "https://www.investing.com/equities/salesforce.com-inc-news",
+            "description": "Results to be released on Dec. 3, 2024, after market close SAN FRANCISCO--(BUSINESS WIRE)--Salesforce (NYSE: CRM), the #1 AI CRM, today announced that its third quarter fiscal...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investing"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "Investors Heavily Search Salesforce Inc. (CRM): Here is What You Need to Know",
+            "url": "https://www.nasdaq.com/articles/investors-heavily-search-salesforce-inc-crm-here-what-you-need-know-2",
+            "description": "Salesforce.com (CRM) is one of the stocks most watched by Zacks.com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term performance of the stock.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nasdaq"
+                }
+            ],
+            "datePublished": "2024-11-11T13:59:00.0000000Z"
+        },
+        {
+            "name": "'Amazing Momentum': Here's Why Salesforce Is Hiring 1,000 New Employees Salesforce has over 72,000 employees globally.",
+            "url": "https://www.entrepreneur.com/business-news/salesforce-aims-to-hire-1000-new-agentforce-ai-salespeople/482704",
+            "description": "Salesforce wants to bring its latest AI agents into the hands of one billion people by the end of 2025 \u2014 with the help of 1,000 new salespeople added to its team. Agentforce AI agents can act ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Entrepreneur"
+                }
+            ],
+            "datePublished": "2024-11-11T00:00:00.0000000Z"
+        },
+        {
+            "name": "Salesforce, Inc. (CRM) Makes It On UBS\u2019 List Of Stocks For The AI, Growth & Low Rates Era",
+            "url": "https://finance.yahoo.com/news/salesforce-inc-crm-makes-ubs-202855337.html",
+            "description": "In this piece, we will take a look at where Salesforce, Inc. (NYSE:CRM) ranks on the list of the top UBS AI and growth era. The stock market at the tail end of 2024 is an evolution of the patterns ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-08T00:00:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Inc (CRM)",
+            "url": "https://www.fidelity.co.uk/factsheet-data/factsheet/US79466L3024-salesforce-inc/price-chart",
+            "description": "Salesforce.com Inc is a software-as-a-service company that provides enterprise cloud computing solutions, offering social and mobile cloud apps and platform services, as well as professional services to facilitate the adoption of its solutions.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fidelity International"
+                }
+            ],
+            "datePublished": "2024-11-07T22:22:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Inc (CRM)\u2019s AI Innovations: Why Hedge Funds Are Investing Heavily",
+            "url": "https://finance.yahoo.com/news/salesforce-inc-crm-ai-innovations-132916049.html",
+            "description": "In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other best innovative stocks to invest in according to hedge funds. The Magnificent Seven continues ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-07T00:00:00.0000000Z"
+        },
+        {
+            "name": "Salesforce (CRM) CEO In Talks to Sell Media Company Time Inc.",
+            "url": "https://www.nasdaq.com/articles/salesforce-crm-ceo-talks-sell-media-company-time-inc",
+            "description": "According to multiple reports, Salesforce (CRM) co-founder and current CEO Marc Benioff is in talks to sell media company Time Inc. to privately held Greek company Antenna Group. Time Inc. today ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nasdaq"
+                }
+            ],
+            "datePublished": "2024-11-01T16:38:00.0000000Z"
+        },
+        {
+            "name": "Marc Benioff is in talks to sell Time to Antenna Group",
+            "url": "https://www.nbcnews.com/business/business-news/time-magazine-for-sale-rcna178273",
+            "description": "The Greek media company Antenna Group is in talks to acquire Time from Salesforce co-founder Marc ... chief content officer of the Time Inc. brands at Meredith, said at the time.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NBC News"
+                }
+            ],
+            "datePublished": "2024-11-01T15:00:00.0000000Z"
+        },
+        {
+            "name": "Salesforce launches Agentforce AI agent platform into general availability",
+            "url": "https://siliconangle.com/2024/10/29/salesforce-launches-agentforce-ai-agent-platform-general-availability/",
+            "description": "Salesforce Inc. today announced the general availability of Agentforce, its suite of tools for building autonomous artificial intelligence agents to augment work for enterprise employees worldwide.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE"
+                }
+            ],
+            "datePublished": "2024-10-29T12:00:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Inc.",
+            "url": "https://www.wsj.com/market-data/quotes/mx/CRM",
+            "description": "The Price to Earnings (P/E) ratio, a key valuation measure, is calculated by dividing the stock's most recent closing price by the sum of the diluted earnings per share from continuing operations ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Wall Street Journal"
+                }
+            ],
+            "datePublished": "2024-10-09T00:00:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Inc. (CRM) Price Prediction and Forecast 2025-2030",
+            "url": "https://247wallst.com/forecasts/2024/12/02/salesforce-inc-crm-price-prediction-and-forecast-2025-2030/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4BNHEeESnZDC7y2EqAI7fi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Salesforce has defined the SaaS model with its CRM suite of digital tools, applicable to a multitude of businesses.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a51e6e97-e358-d3ab-c099-faa5d984ecc3",
+                    "name": "Customer relationship management"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/48c4cc1d-b031-f815-251c-52a5dc0a9575",
+                    "name": "Software as a service"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37181124-e096-403d-a455-576a61b83525",
+                    "name": "San Francisco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/905b6d56-17cd-47cb-ffb9-3be4aa68f362",
+                    "name": "New York Stock Exchange"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "24/7 Wall St",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UXQYVlGwvlS5FAOttXEFmw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-09-10T14:25:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Salesforce com Inc DRC (SSFO34)",
+            "url": "https://www.investing.com/equities/salesforce-com-inc-news",
+            "description": "Salesforce Inc. (CRM) has reached a remarkable milestone, with its stock price soaring to an all-time high of $318.91. This peak represents a significant achievement for the... SAN FRANCISCO ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investing"
+                }
+            ],
+            "datePublished": "2024-07-31T22:25:00.0000000Z"
+        },
+        {
+            "name": "Salesforce, Inc. (CRM)",
+            "url": "https://sg.finance.yahoo.com/quote/CRM/news/",
+            "description": "Salesforce Inc\u2019s (NYSE:CRM) AI head, Clara Shih, has departed to pursue another opportunity, the Information cited a report from JMP Securities analyst Patrick Walravens. The departure coincides with Salesforce\u2019s Agentforce gaining traction ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-07-19T14:28:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Extensions for VS Code",
+            "url": "https://github.com/forcedotcom/salesforcedx-vscode",
+            "description": "This repository contains the source code for Salesforce Extensions for VS Code: the Visual Studio Code (VS Code) extensions for Salesforce DX. This extension interacts with the Salesforce CLI to provide basic Salesforce DX functionality. salesforcedx ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2023-11-16T22:53:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Consulting Services",
+            "url": "https://cynoteck.com/salesforce-consulting-service/",
+            "description": "With Cynoteck at your side, you can choose from a wide range of innovative and comprehensive SF solutions, whether you are starting with Salesforce or want to optimize your existing SF solution. We offer the best-in-class Salesforce services that are ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "cynoteck"
+                }
+            ],
+            "datePublished": "2021-10-07T09:59:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Professional Services",
+            "url": "https://cynoteck.com/salesforce-professional-services/",
+            "description": "As a certified Salesforce consultant and a proud Salesforce Ridge Partner, we are dedicated to leveraging the best practices, innovative tools, and advanced technology platforms to provide exceptional Salesforce solutions. We understand customer needs ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "cynoteck"
+                }
+            ],
+            "datePublished": "2021-10-06T19:00:00.0000000Z"
+        },
+        {
+            "name": "Salesforce Pricing: How Much Does Salesforce Cost in 2024?",
+            "url": "https://tech.co/crm-software/salesforce-pricing-how-much-does-salesforce-cost",
+            "description": "Salesforce pricing starts at $25 per user, per month for its Sales Cloud and Service Cloud platforms, as well as the small business Starter Suite plan that offers marketing, sales, service, and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tech.co"
+                }
+            ],
+            "datePublished": "2018-10-22T16:28:00.0000000Z"
+        }
+    ]
+}

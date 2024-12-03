@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Natalie Venegas"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 17:41:29",
+    "description": "Representative Raskin announced he will seek the top House Judiciary Committee position, challenging Jerry Nadler.",
+    "filename": ".json",
+    "image_url": "https://d.newsweek.com/en/full/2534459/jamie-raskin.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Democratic Representative Jamie Raskin of Maryland announced on Monday his candidacy to be the top Democrat on the House Judiciary Committee next year.\nRaskin's Announcement\nThe move positions Raskin, a prominent constitutional law expert, as a pivotal figure in the Democratic Party's preparations to fight a second Donald Trump presidency and a fortified Republican-controlled Congress.\nIn a letter shared with colleagues and obtained by The Associated Press (AP), Raskin said, \"House Democrats must stand in the breach to defend the principles and institutions of constitutional democracy. That is our historic assignment now. We dare not fail.\"\nRaskin's announcement comes after what he described as a week of consultation with fellow House Democrats and personal reflection on the party's path forward following its significant electoral losses last month that handed Republicans control of Congress and the White House.\nWhat Does Raskin Aim to Do?\nCurrently serving as the top Democrat on the House Oversight Committee, Raskin outlined his vision for a Judiciary Committee under his leadership. He pledged it would serve as \"the headquarters of Congressional opposition to authoritarianism\" and safeguard constitutional norms amid potential challenges from a second Trump administration.\nThis isn't Raskin's first time at the forefront of Democratic resistance against Trump. He previously helped draft articles of impeachment against the incoming president for his encouragement of the violent mob on January 6, 2021, attack on the U.S. Capitol and led the impeachment prosecution in the Senate.\nHe has also been a staunch defender of President Joe Biden against Republican-led probes over the past two years into Biden family business dealings.\nOpponent for the Position\nHowever, Raskin's decision sets up a potential clash with Judiciary Committee veteran and fellow Democratic Representative Jerry Nadler. The 17-term New York congressman has held the committee's top spot since 2019.\nHistorically, House Democrats have rarely deviated from seniority-based assignments, making the outcome of this race uncertain.\nBoth lawmakers remained tight-lipped about the looming contest as they did not respond to requests for comment, according to the AP.\nRaskin, however, expressed deep respect for Nadler in his letter, saying that he made this decision \"with respect and boundless admiration.\"\nIn addition, should he secure the post, Raskin pledged to seek Nadler's guidance in navigating the challenges ahead.\n\"If I'm lucky enough to be chosen for this responsibility in the 119th Congress, I will turn to Jerry first and throughout for his always wise counsel and political judgment,\" Raskin added.\nThis article includes reporting from The Associated Press.",
+    "source_domain": null,
+    "text": null,
+    "title": "Jamie Raskin Launches Bid for Top House Judiciary Post",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "David Price",
+        "Author: David Price"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 00:00:00",
+    "description": "You might even see it pop up on your iPad and Mac.",
+    "filename": ".json",
+    "image_url": "https://www.macworld.com/wp-content/uploads/2024/12/iphone-15-pro-action-button.jpg?quality=50&strip=all&w=1024",
+    "language": "en",
+    "localpath": null,
+    "maintext": "If you\u2019re still struggling to get used to the Action button which Apple brought to its Pro iPhones in late 2023 and to the standard models earlier this year, we have bad news: the discovery of a surprising patent application suggests future versions of the iPhone may be equipped with multiple such buttons. We might even get Action buttons on the iPad and Mac.\nPatent application 20240393933 was filed by Apple back in May but was only published (and promptly spotted by Patently Apple) at the end of November. It covers what it cryptically refers to as \u201cDevices, methods, and graphical user interfaces for configuring configurable input region,\u201d but it becomes apparent upon further investigation that this means customizable handset buttons.\n[ ]\nAccompanying illustrations show the three hardware buttons running down the lefthand edge of what appears to be an iPhone. At present, only the topmost of these (the Action button) is user-configurable, while the volume-up and -down buttons are (mostly) locked to those functions. But in the drawings, all three offer this capability: in this image, for example, the volume-down button is being used to call a contact.\nApple\nBut there\u2019s an interesting bonus to this story, which is that the Action button may cease to be an iPhone exclusive. \u201cIn some embodiments,\u201d the patent reads, \u201cthe device is a portable communications device [such as] the iPhone\u2026 and iPad. Other portable electronic devices, such as laptops or tablet computers with touch-sensitive surfaces\u2026 are, optionally, used.\u201d\nIn other words, get ready Action buttons everywhere! Or not, as patent activity, as ever, is not necessarily an indicator of future decisions, but merely shows one path the company has considered (and wishes to block its competitors from pursuing). It may decide that the upgrade would be too costly, or take up too many developmental resources that could be better deployed elsewhere. Or the change may come but take several years to arrive.",
+    "source_domain": null,
+    "text": null,
+    "title": "Wild Apple patent hints at an iPhone with multiple customizable action buttons",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

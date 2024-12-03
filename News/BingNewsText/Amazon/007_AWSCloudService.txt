@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Joseph F. Kovar"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "None",
+    "description": "CDW has acquired Mission Cloud Services, a leading AWS MSP and cloud services provider, in a move to increase its cloud business.",
+    "filename": ".json",
+    "image_url": "https://www.crn.com/news/cloud/2024/media_11c3212ce5712f4daeb5b926817b186c0b4593d02.png?width=1200&format=pjpg&optimize=medium",
+    "language": "en",
+    "localpath": null,
+    "maintext": "'As an AWS Premier Tier Partner, we are strategically positioned to help CDW's extensive customer network embrace and accelerate building on AWS and optimize their technology investments and AI-driven innovation,\u2019 says Mission Cloud founder and CEO Simon Anderson.\nIT solution provider heavyweight CDW Monday said it has acquired Mission Cloud Services in a move to expand its partnership with Amazon Web Services.\nWith the acquisition, CDW, ranked No. 5 on the CRN 2024 Solution Provider 500, and Mission Cloud Services, ranked No. 108, will complement CDW Digital Velocity, which is the company\u2019s cloud, data, AI, and software platform engineering organization.\nMission Cloud Services and CDW\u2019s existing expertise together will form CDW\u2019s dedicated AWS practice, CDW said.\n[Related: Panelists Offer Tips For MSPs Eyeing A Sale Of Their Business]\nCDW was not able to provide more information on the transaction in response to a CRN inquiry.\nThe CDW Digital Velocity business currently provides services around automated infrastructure, practical DevOps, modern cloud, software and enterprise architecture, agile team integration, and rapid resourcing of necessary talent.\nMission Cloud Services, which was founded seven years ago, provides SMB and midmarket AWS customers with custom solutions and guidance for professional services, end-to-end cloud services, and security. The company is also an AWS-certified GenAI partner, helping its customers transform customer data with AI and machine learning with comprehensive security for AWS environments, CDW said.\nNo dollar value for the acquisition was provided.\nUntil its acquisition by CDW, Mission Cloud Services was owned by Great Hill Partners, a Boston-based private equity firm that has raised over $12 billion of commitments and invested in over 100 companies.\nGreat Hill Partners first invested in Mission Cloud Services in 2017, and in the next two years acquired three other IT firms to build what the private equity company called in a statement \u201cthe largest independent AWS managed services company in the United States.\u201d\nCDW Chair and CEO Christine Leahy said in a prepared statement that Mission Cloud Services will accelerate CDW\u2019s own cloud services business.\n\u201cThe acquisition of Mission accelerates our three-part growth strategy by augmenting our cloud services and enhancing our ability to deliver customer-centric outcomes across the full technology solutions stack and lifecycle. We look forward to welcoming the talented Mission team to CDW and leveraging their robust cloud, security, and AI expertise to lead the market and deliver on our purpose \u2013 to make technology work so people can do great things.\u201d\nBecoming part of CDW is an important part of scaling Mission Cloud Services\u2019 dedicated AWS practice, said Simon Anderson, chairman, founder, and CEO of the Los Angeles area-based company (pictured above), in a prepared statement: \u201cAs an AWS Premier Tier Partner, we are strategically positioned to help CDW's extensive customer network embrace and accelerate building on AWS and optimize their technology investments and AI-driven innovation.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "AWS Cloud Services Play: CDW Acquires Mission Cloud Services",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

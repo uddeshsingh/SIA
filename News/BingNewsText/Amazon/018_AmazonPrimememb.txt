@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Michael Bizzaco"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:23:36",
+    "description": "Take all the back-breaking labor out of snow shoveling when you purchase the MZK 20V 13-inch Electric Snow Shovel, now on sale for Cyber Monday.",
+    "filename": ".json",
+    "image_url": "https://www.digitaltrends.com/wp-content/uploads/2024/12/mzk-20v-13-inch-cordless-shovel-lifestyle-1.jpg?resize=1200%2C630&p=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Snow shoveling is one of the biggest bummers of the winter season, especially if you\u2019re a person who despises the cold. Thankfully, we\u2019ve been seeing a lot of great Cyber Monday discounts on outdoor tech (including a ton of great Cyber Monday snow blower deals). And if you\u2019ve been looking for a way to take some of the strain out of shoveling the front walk, today is your lucky day:\nRight now, when you purchase the MZK 20V 13-inch Electric Snow Shovel, you\u2019ll save either $40 or $73 (Amazon Prime members receive the maximum $73 discount).\nWhy you should buy the MZK 20V 13-inch Electric Snow Shovel\nSay goodbye to hours of digging your old shovel into heavy snow on cold days! This MZK shovel has a 12-inch clearance width and a massive 20-foot-throwing distance. At just 17.6 pounds, it\u2019s super-easy to cart the shovel around your property, and you can expect up to 25 minutes of performance with a fully charged battery. We were also glad to see that MZK thought to include a built-in LED for tackling snowfall once the sun goes down.\nWhether you\u2019re short or tall, the MZK features an adjustable handle to properly align with your standing height, too. You\u2019ll also be able to rotate the snow chute by up to 30 degrees, ensuring you don\u2019t get the white stuff anywhere it\u2019s not supposed to land. Besides the electric shovel, this MZK product comes with a rechargeable battery, a battery charger, and a pair of MZK-branded gloves.",
+    "source_domain": null,
+    "text": null,
+    "title": "This electric shovel is 36% off for Cyber Monday, but hurry!",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

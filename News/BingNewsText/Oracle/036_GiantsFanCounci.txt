@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "None",
+    "description": "The Official Site of Major League Baseball",
+    "filename": ".json",
+    "image_url": "https://www.mlbstatic.com/team-logos/share/137.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tickets purchased through promotional ticket offers are not available to ticket brokers or ticket resellers. Tickets may not be resold or otherwise distributed to individuals not personally associated with the ticket purchaser. The sale, attempted sale or transfer of tickets purchased through this offer in violation of this policy is prohibited. Tickets purchased in violation of this policy will be revoked without refund.\nYour Giants Fan Council offer is eligible for select 2025 regular season games, subject to availability, except the following:",
+    "source_domain": null,
+    "text": null,
+    "title": "San Francisco Giants",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

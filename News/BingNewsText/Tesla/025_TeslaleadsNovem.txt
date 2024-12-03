@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Patturaja Murugaboopathy and Gaurav Dogra",
+        "Patturaja Murugaboopathy",
+        "Gaurav Dogra"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 17:50:48",
+    "description": "The company's market value surged on reports that Donald Trump's transition team plans to relax federal regulations on self-driving cars.",
+    "filename": ".json",
+    "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/18/USAT/76413844007-1507655001.jpg?crop=6047,3402,x0,y402&width=3200&height=1801&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla's TSLA.O market capitalization increased by the most among top global companies in November, boosted by expectations the automaker will benefit from CEO Elon Musk\u2019s close ties with U.S. President-elect Donald Trump.\nThe company's market value surged 38.1% to $1.1 trillion last month on reports that Donald Trump's transition team plans to relax federal regulations on self-driving cars, potentially simplifying the rollout of autonomous vehicles.\nOptimism around holiday shopping helped boost Walmart's WMT.N market value by 12.9% to $743.5 billion, following the company's third upward revision of its annual sales and profit forecasts, driven by increased online and in-store purchases of groceries and merchandise.\nJPMorgan Chase\u2019s JPM.N market value rose 12.5% to $703 billion, as it was announced that CEO Jamie Dimon will continue leading the bank and with investors confident that Trump will bring favorable policies for lenders.\nMore:Tesla would likely be excluded from new California EV tax credits, Newsom's office says\nInvest wisely: Best online brokers\nImproving retail sales pushed Amazon.com's AMZN.O market value up 11.5% to $2.2 trillion, after it reported higher-than-expected profit growth. Similarly, Visa saw its market value increase by 8.3% to $617.5 billion, as resilient consumer spending pushed it to a strong fourth-quarter profit.\nReports that U.S. authorities ordered Taiwan Semiconductor Manufacturing Company 2330.TW to halt shipments of advanced chips to China, a move aimed at curbing exports of critical technologies, helped wipe 5.1% off its market cap, which fell to $793.5 billion.\nAI bellwether Nvidia's NVDA.O market value rose by a modest 3.9%, slowing from October's 9.3% increase as its revenue growth forecast failed to excite investors.\nReporting By Patturaja Murugaboopathy and Gaurav Dogra in Bengaluru; Editing by Kirsten Donovan",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla leads November's global market value surge",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

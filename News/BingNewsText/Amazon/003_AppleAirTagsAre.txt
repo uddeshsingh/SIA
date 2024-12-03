@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Brittany Vincent"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:00:34",
+    "description": "Samsung SmartTags are better and cheaper than AirTags.",
+    "filename": ".json",
+    "image_url": "https://gizmodo.com/app/uploads/2024/12/galaxy-smarttag-2.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "How many times have you lost something important to you? If you\u2019re human, like the rest of us, we\u2019re willing to bet many, many times. That\u2019s where a smart tracker can come in and save the day. If you have an Apple device, you need an AirTag. But if you have an Android phone, namely a Samsung model, you\u2019ll want one of the Samsung Galaxy SmartTag 2 devices that you can get on sale today for Cyber Monday.\nSee at Amazon\nAmazon\u2019s dropped this tracker to $20, saving you $10 off its usual $30 price tag. At 35% off, Samsung\u2019s latest tracker becomes an even more useful addition to your smart home ecosystem. It also means you won\u2019t be losing your keys anymore, hopefully. You\u2019ve really got to stop doing that.\nYour key to finding anything and everything in minutes\nThe Samsung Galaxy SmartTag 2 transforms everyday items into findable treasures. Its completely redesigned form factor and extended battery life make it a great option as far as smart trackers go. And it\u2019s super useful, no matter what you need to find, like having a tireless search party in your pocket that runs for up to 500 days on a single charge.\nIts IP67 water and dust resistance means it can handle life\u2019s mishaps, while the integration with SmartThings Find feature gives you an intuitive tracking experience. The Compass View feature is particularly impressive \u2013 it doesn\u2019t just tell you something is nearby, it guides you right to it.\nThis isn\u2019t just a simple tracker \u2013 it\u2019s also a smart home companion. Beyond finding lost items, it can trigger your compatible IoT devices, adding another layer of automation to your daily routine. The Power Saving Mode extends battery life by up to 40%, ensuring your tagged items stay findable even longer.\nAt $20, this represents Samsung\u2019s vision of what item tracking should be. Think about it \u2013 you\u2019re getting robust water resistance, extended battery life, and smart home integration in a compact device that\u2019s both stylish and functional. The optional Silicone and Rugged cases add both protection and personality.\nNext time you think you\u2019ve lost something, don\u2019t freak out. Remember you have a SmartTag 2, knowing you\u2019ve got Samsung\u2019s most advanced tracking technology keeping tabs on your valuable items, and just start your search. And if you aren\u2019t the forgetful one in your family, pass one on to someone who is. Cyber Monday is the perfect time to do it. You may as well stock up while they\u2019re at the lowest price ever.",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple AirTags Are Not Part of Cyber Monday Deals, But Samsung SmartTag2 Is Just $20 (35% off)",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

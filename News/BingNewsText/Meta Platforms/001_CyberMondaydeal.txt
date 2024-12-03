@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Mashable"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 11:48:58",
+    "description": "Meta Quest 3 128GB is $299 at Amazon for Cyber Monday, now with 'Batman: Arkham Shadow' and 3 months of Meta Quest+.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/DiZThj6yfWHKuXxct7eCZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mashable_articles_863/f3779840526533acd54fd17960d17e8d",
+    "language": "en",
+    "localpath": null,
+    "maintext": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission.\nEditor's note: The free $100 credit is no longer available. This Cyber Monday deal has expired.\nTL;DR: As of Nov. 30, the Meta Quest 3 128GB is $299 at Amazon for Cyber Monday. Now with $100 credit (previously $70), Batman: Arkham Shadow, and a 3-month Meta Quest+ trial included.\nOpens in a new window\nCredit: Meta\nMeta Quest 3 + $100 Free Credit\nIt's your last chance to snag one of the year's best VR deals, and it just got even better. Meta Quest 3 128GB is still priced at $299 for Cyber Monday. But today only, Amazon has boosted its digital credit offer to $100 (up from the usual $70), with the bundle still including Batman: Arkham Shadow and a three-month trial of Meta Quest+ (a $70 combined value). There's no time to do a Penguin waddle over to this deal; this Cyber Monday offer is on fire.\nMeta Quest 3 is the best and most accessible option for taking the leap into VR gaming and apps. Its mixed-reality function allows users to blend reality with virtual setups. From the usual VR gaming offerings to streaming your desktop PC onto massive virtual monitors, this is the digital place to be in 2024. You can even arrange watch parties with your friendslist. How awesome is that?\nSEE ALSO: The best Cyber Monday deals are live at Amazon \u2014 check out our top picks\nWith its Qualcomm Snapdragon XR2 Gen 2 platform, the Quest 3 delivers 2X the graphical processing power of the Meta Quest 2. Every virtual object looks sharper, more vivid, and more realistic. Touch Plus Controllers enhance immersion with realistic sensations and precise controls, so you'll feel part of the action. We recommend trying out Vader Immortal for some lightsaber action and Super Hot for a unique take on first-person action.\nSEE ALSO: The Cyber Monday deals we're obsessing over\nThis Cyber Monday Quest 3 deal isn't just for gamers, though. Its multitasking features allow users to surf the web, watch YouTube, or message friends simultaneously while keeping their surroundings in view. Need some downtime? Transform any room into your personal cinema with its vibrant virtual screen and support for USB-C, Bluetooth, and 3.5mm headphones.\nParental controls, multi-user support, and tools for sharing content with everyone in the house make Meta Quest 3 a solid fit for any family member. Its lightweight design and endless improvements over Quest 2 make it a great choice.",
+    "source_domain": null,
+    "text": null,
+    "title": "Cyber Monday deal: Meta Quest 3 bundle deal for gamers",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

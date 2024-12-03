@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Julius Whigham II"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 19:42:42",
+    "description": "Derek Hedrill Machin of The Acreage died in the wreck Saturday night along Seminole Pratt Whitney Road, deputies said.",
+    "filename": ".json",
+    "image_url": "https://www.freep.com/gcdn/presto/2022/05/12/NPPP/851c72d5-9ae1-4cf0-98e8-484f5a808232-STOCK_fire_rescue_siren.JPG?crop=1279,720,x0,y118&width=1279&height=720&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "An 18-year-old motorcycle driver was killed Saturday night in a collision with another vehicle in Westlake, the Palm Beach County Sheriff's Office reports.\nInvestigators said Derek Hedrill Machin died after he was thrown from a 2018 Kawasaki Ninja shortly before 8 p.m. Saturday in a collision at Seminole Pratt Whitney Road and Town Center Parkway North.\nAccording to a sheriff's office crash report, Machin, an Acreage resident, was traveling north on Seminole Pratt Whitney at a high rate of speed just moments before the crash.\nAs he approached Town Center Parkway North, the driver of a southbound 2023 Tesla sedan began making a left turn, crossing into the Kawasaki's path. The front of the motorcycle struck the passenger side of the Tesla's front fender, ejecting Machin from his vehicle.\nThe collision caused the Tesla to rotate counterclockwise before coming to a stop in a northbound lane, the crash report said. Palm Beach County Fire Rescue medics pronounced Machin dead at the scene.\nThe Tesla's driver, identified as a 28-year-old Riviera Beach man, was taken to St. Mary's Medical Center in West Palm Beach with minor injuries.\nThe crash report indicates that Machin was not wearing safety equipment. Neither drugs nor alcohol were believed to be factors in the crash.\nThe report did not indicate whether any charges or citations are pending.",
+    "source_domain": null,
+    "text": null,
+    "title": "Acreage man, 18, dies when motorcycle, Tesla crash in Westlake",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

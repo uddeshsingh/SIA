@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Sherin Shibu"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-11 18:59:45",
+    "description": "Salesforce is hiring 1,000 new employees to make the most out of momentum for Agentforce, its recently released AI agent technology.",
+    "filename": ".json",
+    "image_url": "https://assets.entrepreneur.com/content/3x2/2000/1731342148-Marc-Benioff-GettyImages-1787317826.jpg?format=pjeg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Salesforce wants to bring its latest AI agents into the hands of one billion people by the end of 2025 \u2014 with the help of 1,000 new salespeople added to its team.\nA new Bloomberg report reveals Salesforce's plan to hire a thousand new employees to sell Agentforce, the AI agent technology Salesforce made public last month. Salesforce has more than 72,000 employees globally.\nAgentforce AI agents can act independently to complete tasks like answering questions from customers and evaluating sales leads. The technology is already in use at Saks, Wiley, and OpenTable.\nRelated: Can Anyone Beat Microsoft at AI? The CEO of Salesforce Thinks His Company Can.\n\"Agentforce became available just two weeks ago and we're already hearing incredible feedback from our customers,\" Salesforce CEO Marc Benioff wrote in a message seen by Bloomberg. Benioff further said that Agentforce had \"amazing momentum.\"\nSalesforce CEO Marc Benioff. Photographer: David Paul Morris/Bloomberg via Getty Images\nBenioff has been publicly differentiating Agentforce from competing offerings on the market, such as Microsoft's Copilot.\nIn late October, Benioff wrote in a post X that \"Copilot's a flop because Microsoft lacks the data, metadata, and enterprise security models to create real corporate intelligence\" while Agentforce \"is transforming businesses now... This is what AI was meant to be.\"\nEarlier that month, Benioff said in an episode of the Masters of Scale Rapid Response podcast that Copilot is \"disappointing\" and \"I don't think Copilot will be around, I don't think customers will use it.\"\nRelated: 'A Flop': Salesforce's CEO Keeps Comparing Microsoft AI to Clippy, Calls It 'Inaccurate'\nMeanwhile, Salesforce touts Agentforce's results. In a September announcement of the technology, Salesforce stated that one of its clients, Wiley, had seen a 40% increase in cases resolved after using a customer service AI agent.",
+    "source_domain": null,
+    "text": null,
+    "title": "Salesforce Aims to Hire 1,000 New Agentforce AI Salespeople",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

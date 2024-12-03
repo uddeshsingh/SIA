@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Stephen Biddix",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:37:00",
+    "description": "Last year's letter projected an 18.5% increase before the legislative session when it was brought down to 13.8%.",
+    "filename": ".json",
+    "image_url": "https://kubrick.htvapps.com/vidthumb/7a215af3-48f3-4a83-bd37-308c66114604/05a78688-f36f-4b81-aa5c-8d21935ae552.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Last year's letter projected an 18.5% increase before the legislative session when it was brought down to 13.8%.\nVermont Tax Commissioner Craig Bolio released the December Education Tax Rate Letter on Monday afternoon. The department projected that statewide, on average, there will be a 5.9% increase in property taxes.\u201cWe know Vermonters are already struggling to pay for this year\u2019s unprecedented increase in property taxes. I expect another projected increase will be difficult to hear,\u201d said Bolio. \u201cIt\u2019s important that we continue to work together to find solutions to make our education funding system sustainable.\"Last year's letter projected an 18.5% increase before the legislative session when it was in part brought down to 13.8% in the final version of the yield bill that was vetoed by Gov. Phil Scott, he was overridden in the veto session. Phil Baruth a Democrat and Senate pro tem, said in a statement, \"The news in this year's December 1st letter could have been much, much worse, but make no mistake: a 5.9% projected rise in property taxes next year would come on top of a nearly 14% rise this year, making for an average of double-digit increases in a world of high inflation more generally speaking,\" he said. This article will be updated.\nVermont Tax Commissioner Craig Bolio released the December Education Tax Rate Letter on Monday afternoon. The department projected that statewide, on average, there will be a 5.9% increase in property taxes.\n\u201cWe know Vermonters are already struggling to pay for this year\u2019s unprecedented increase in property taxes. I expect another projected increase will be difficult to hear,\u201d said Bolio. \u201cIt\u2019s important that we continue to work together to find solutions to make our education funding system sustainable.\"\nAdvertisement\nLast year's letter projected an 18.5% increase before the legislative session when it was in part brought down to 13.8% in the final version of the yield bill that was vetoed by Gov. Phil Scott, he was overridden in the veto session.\nPhil Baruth a Democrat and Senate pro tem, said in a statement, \"The news in this year's December 1st letter could have been much, much worse, but make no mistake: a 5.9% projected rise in property taxes next year would come on top of a nearly 14% rise this year, making for an average of double-digit increases in a world of high inflation more generally speaking,\" he said.\nThis article will be updated.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tax Department projects Vermonters to face 5.9% property tax increase",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

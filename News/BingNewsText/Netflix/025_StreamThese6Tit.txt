@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Jason Bailey",
+        "www.nytimes.com",
+        "jason-bailey"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 19:05:45",
+    "description": "A bunch of movies and TV shows are leaving for U.S. subscribers by the end of December. Here\u2019s a roundup of the best.",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/images/2024/12/02/multimedia/02netflix-expiring-qpjg/02netflix-expiring-qpjg-facebookJumbo.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Two excellent independent dramas leave Netflix in the United States early this month, so get on them while you can; other present-wrapping background possibilities include a Liam Neeson action flick, two animated comedies and an easy-breezy comedy-drama about the rich and the doctor who serves them. (Dates indicate the final day a title is available.)\n\u2018White Girl\u2019 (Dec. 2)\nStream it here.\nMorgan Saylor, best known at the time this movie was released, in 2016, for her work as an all-American teen daughter on \u201cHomeland,\u201d raised some eyebrows when this sexually frank and pharmaceutically candid indie drama debuted. She stars here as Leah, a New York City college student whose adventures in casual sex and recreational drugs take up much of the picture\u2019s running time. But this is no lazy exercise in shock value; the writer-director Elizabeth Wood based her script on her own rocky youth and treats her protagonist with an expected, but still refreshing, nonjudgmental sympathy. It\u2019s a vivid and occasionally troubling movie, but it never feels forced or inauthentic.\n\u2018The Commuter\u2019 (Dec. 3)\nStream it here.\nThis 2018 action drama was an early entry in a seemingly endless line of late-period action vehicles for Liam Neeson, the Oscar-nominated star of \u201cSchindler\u2019s List.\u201d Here, he plays Michael MacCauley, an ex-cop who just lost his job as a life insurance salesman; on the commuter train home, he is drawn into a complicated scheme involving contract killers, dirty federal agents and the would-be witness they\u2019re supposed to protect. Jaume Collet-Serra directed several of Neeson\u2019s action pictures before this one, and he had already figured out how to play to his strengths, even if this one is essentially a relocated remake of their earlier film \u201cnonstop.\u201d And Collet-Serra handles the big set pieces with flair, particularly a long fight scene between Neeson and a hit man, in which the two men demolish each other and their train car using their fists, glass and, at one point, an electric guitar.\n\u2018Trolls\u2019 (Dec. 7)\nStream it here.\nSome family movies \u2014 like, say, \u201cWild Robot,\u201d or \u201cInside Out\u201d \u2014 truly offer fun for the whole family. So let\u2019s clear this up right away: \u201cTrolls\u201d is not one of those movies. It\u2019s an aggressively over-the-top experience, big and broad and loud and frequently obnoxious. But kids absolutely love it (take it from a father of two), and it\u2019s not hard to see why: The songs are catchy, the performers \u2014 especially the leads, Anna Kendrick and Justin Timberlake \u2014 are having a good time, and the never-give-up messaging is valuable (particularly in Kendrick\u2019s charming solo number \u201cGet Back Up Again\u201d).",
+    "source_domain": null,
+    "text": null,
+    "title": "Stream These Movies and Shows Before They Leave Netflix in December",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Eric Revell"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 10:46:50",
+    "description": "Tesla shares surged on Wednesday after former President Trump secured a return to the White House, with Tesla CEO Elon Musk a prominent supporter of his campaign and agenda.",
+    "filename": ".json",
+    "image_url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/elon-musk-donald-trump.jpg?ve=1&tl=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Shares of electric vehicle-maker Tesla surged on Wednesday as stocks rose broadly after former President Trump prevailed in the presidential election.\nTesla's stock soared as much as 14% after the market opened, and was up more than 12.8% in late morning trading.\nTesla CEO Elon Musk endorsed Trump's bid to return to the White House and was a prominent financial backer of his campaign.\nTrump has been critical of incentives and subsidies for EVs, but has commended Musk's work with Tesla and praised him as a \"super genius\" during his victory speech early Wednesday morning.\nTRUMP'S WHITE HOUSE WIN SENDS DOW UP 1,000 POINTS\nWall Street anticipates the incoming Trump administration will cut taxes and pursue a deregulatory agenda similar to the former president's first term in office.\nTicker Security Last Change Change % TSLA TESLA INC. 357.09 +11.93 +3.46%\nWedbush Securities analyst Dan Ives said in a note to investors that the \"biggest positive from a Trump win would be for Tesla and Musk.\"\nHe explained that while the firm thinks a Trump presidency \"would be an overall negative for the EV industry\" due to EV rebates and tax incentives being eliminated, that could be a \"huge positive\" for Tesla.\nKEVIN O'LEARY DECLARES TRUMP \u2018SAVED ENTREPRENEURSHIP\u2019 AND THE \u2018ENTIRE\u2019 S&P MODEL\n\"Tesla has the scale and scope that is unmatched in the EV industry and this dynamic could give Musk and Tesla a clear competitive advantage in a non-EV subsidy environment, coupled by likely higher China tariffs that would continue to push away cheaper Chinese EV players (BYD, Nio, etc.) from flooding the U.S. market over the coming years,\" Ives wrote.\nIves explained that Tesla may accelerate some of its 2026 and 2027 autonomous driving initiatives to stay on track with the autonomous driving push by Chinese automakers.\n\"We believe a Trump win could add $40-$50 per share to Tesla's stock and exceed $1 trillion in market cap if autonomous/FSD is accelerated starting in 2025 and a tailwind for Cybercab,\" he added.\nGET FOX BUSINESS ON THE GO BY CLICKING HERE",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla stock surges after Trump wins presidency",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Oliver Haslam",
+        "https://www.redmondpie.com/author/oliver.haslam/#author"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:54:48",
+    "description": "If you're the driver of a Tesla EV you have some new software features to look forward to after the company's holiday update was announced. The new software will also bring with it the long-awaited Apple Watch app, too.",
+    "filename": ".json",
+    "image_url": "https://cdn.redmondpie.com/wp-content/uploads/2024/12/tesla-update.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "If you\u2019re the driver of a Tesla EV you have some new software features to look forward to after the company\u2019s holiday update was announced. The new software will also bring with it the long-awaited Apple Watch app, too.\nAnnounced via the Tesla X account, the new Apple Watch app will allow people to use their wearable as their key while also being able to see the current battery charge, open the frunk, and even turn on climate control.\nOther features that are set to be added as part of this software update include the ability to watch dashcam and Sentry Mode clips from within the Tesla app and then save them to a phone. The new Tesla update will also add support for SiriusXM to the Model 3, Model Y, and Cybertruck.\nFor drivers who find themselves reversing regularly, a new cross-traffic alert feature will warn drivers when the rear-view camera is engaged and a vehicle or pedestrian is detected crossing the EV\u2019s path.\nLess notable improvements include a new Cybertruck Santa Mode, the ability to play games from the backseat of the Cybertruck, and the ability to \u201cRemotely schedule Light Shows from the Tesla app, including the two new Light Shows in the 2024 Holiday Update\u201d.\nThere are more improvements here as well, and you can check out the full rundown in the Tesla X post announcing the update. The new software will begin rolling out next week.\nYou may also like to check out:\niOS 18.1.1 Jailbreak Status Update On iPhone\niOS 18 Hidden Features For iPhone And iPad [100+ List]\nDownload: iOS 18.1.1 IPSW Links And OTA Update Out For iPhone\nDownload: iOS 18.2 Beta 4 OTA Profile Update, IPSW Links Out For iPhone\nHow To Fix Bad iOS 18 Battery Life Drain On iPhone\nFix iOS 18 WiFi: Keeps Dropping, Not Working, Disconnecting Or Slow? Here\u2019s What To Do",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla Announces 2024 Holiday Update Features And An Apple Watch App",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

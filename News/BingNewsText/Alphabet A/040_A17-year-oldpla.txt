@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 16:27:01",
+    "description": "A 17-year-old hockey player collapsed during a charity game in New York and later died. Authorities on Long Island say Connor Kasin lost consciousness during a game Saturday night. The Nassau County Police Department says people at the skating rink in Bethpage were performing CPR when officers and medics arrived. Kasin was pronounced dead after being taken to a hospital. A police spokesperson says no information on his cause of death is available. Massapequa High School announced Kasin\u2019s death in a letter to students and families. The New York Islanders High School Hockey League canceled all games scheduled for Sunday.",
+    "filename": ".json",
+    "image_url": "https://www.kob.com/wp-content/uploads/2022/04/DEFAULT_THUMBNAIL.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "BETHPAGE, N.Y. (AP) \u2014 A 17-year-old hockey player collapsed during a charity game in New York and later died, authorities said.\nConnor Kasin, a senior at Massapequa High School on Long Island, lost consciousness during a game Saturday night benefiting a foundation that was set up by the parents of another area teen, 19-year-old Sabrina Navaretta, who died in an April 2023 car crash.\nThe Nassau County Police Department said in a news release that people at the skating rink in Bethpage, New York, were performing CPR when officers and medics arrived.\nKasin was taken to a hospital, where he was pronounced dead. A police spokesperson said Monday that no information on his cause of death was available.\nMassapequa High School announced Kasin\u2019s death in a letter to students and families, the New York Post reported.\n\u201cIt is heartbreaking to report that Connor did not survive. His passing is devastating to the Massapequa community, and we offer our deepest condolences to Connor\u2019s family and friends,\u201d the letter says.\nThe New York Islanders High School Hockey League, which organizes high school hockey competitions for Long Island schools, canceled all games scheduled for Sunday out of respect for Kasin\u2019s family.\nCopyright 2024 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+    "source_domain": null,
+    "text": null,
+    "title": "A 17-year-old player dies after collapsing during a charity hockey game in New York",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

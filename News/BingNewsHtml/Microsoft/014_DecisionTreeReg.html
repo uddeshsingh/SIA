@@ -1,0 +1,2182 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+
+<head>
+
+    
+<title>Decision Tree Regression from Scratch Using C# -- Visual Studio Magazine</title>
+<meta name="description" content="Dr. James McCaffrey from Microsoft Research presents a complete end-to-end demonstration of decision tree regression using the C# language. Unlike most implementations, this one does not use recursion or pointers, which makes the code easy to understand and modify.">
+<meta name="keywords" content="Azure, Visual Studio, Visual Studio Code, Blazor/ASP.NET, .NET, C#/VB/TypeScript, Xamarin/Mobile, AI/Machine Learning, Agile, Edge Computing, Copilot, GitHub">
+
+<meta property="og:title" content="Decision Tree Regression from Scratch Using C# -- Visual Studio Magazine" />
+<meta property="og:description" content="Dr. James McCaffrey from Microsoft Research presents a complete end-to-end demonstration of decision tree regression using the C# language. Unlike most implementations, this one does not use recursion or pointers, which makes the code easy to understand and modify." />
+<meta property="og:url" content="https://visualstudiomagazine.com/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx" />
+<meta property="og:image" content="https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/ml.jpg" />
+<meta property="og:site_name" content="Visual Studio Magazine" />
+   
+    
+<meta name="oc:keywords" content="AI,GenAI" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PZD7BZQ');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- ONECount Widget -->
+<script async id="oc-widget-main" src="https://validate.onecount.net/js/oc.min.js#613726a56f7efd2631012f4f77d7051cd79f1dbe&1"></script>
+<!-- End ONECount Widget -->
+
+<!-- BEGIN Google Partner Tag HEAD CODE -->
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js">
+</script>
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+  googletag.cmd.push(function() {
+                googletag.defineSlot('/5978/eof.vsm', [['fluid'],[1800,450]], 'div-gpt-ad-billboard-0001')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['billboard'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[728,90],[970,250]], 'div-gpt-ad-lead_t1-0002')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['lead_t1'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[152,600],[152,650]], 'div-gpt-ad-wallpaper_left-0003')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['wallpaper_left'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[152,600],[152,650]], 'div-gpt-ad-wallpaper_right-0004')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['wallpaper_right'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250]], 'div-gpt-ad-box_c1-0005')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['box_c1'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250]], 'div-gpt-ad-mobileflyout-0006')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['mobileflyout'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250],[1,1],[300,600]], 'div-gpt-ad-box_r1-0007')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['box_r1'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250],[1,1],[300,600]], 'div-gpt-ad-box_r2-0008')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['box_r2'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250],[1,1],[300,600]], 'div-gpt-ad-box_r3-0009')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['box_r3'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,370]], 'div-gpt-ad-right_300x150-0010')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['right_300x150'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250],[1,1],[300,600]], 'div-gpt-ad-box_r4-0011')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['box_r4'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250],[1,1],[300,600]], 'div-gpt-ad-box_r5-0012')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['box_r5'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[300,250],[1,1],[300,600]], 'div-gpt-ad-box_r6-0013')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['box_r6'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[250,90]], 'div-gpt-ad-boot_desktop-0014')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['boot_desktop'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[1024,90],[1,1]], 'div-gpt-ad-boot_mobile-0015')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['boot_mobile'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+                googletag.defineSlot('/5978/eof.vsm', [[1,1]], 'div-gpt-ad-pixel-0016')
+                .addService(googletag.pubads())
+                .setTargeting('item',['972d6e84_b311_47f5_886c_0e49aebd48ee'])
+                .setTargeting('pos',['pixel'])
+                .setTargeting('Topic',['AI','GenAI'])
+                .setCollapseEmptyDiv(true);
+    googletag.pubads().addEventListener('slotRenderEnded', function (e) {
+            if (!e.isEmpty) {   // If the ad is not empty
+                document.getElementById(e.slot.getSlotElementId()).setAttribute('class', 'ad-loaded');
+            }
+        });
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- END Google Partner Tag HEAD CODE -->
+
+
+<!-- BEGIN Olytics HEAD CODE -->
+<link rel="stylesheet" href="https://olytics.omeda.com/olytics/css/v3/p/olytics.css" />
+
+<script type="text/javascript">
+window.olytics||(window.olytics=[]),window.olytics.methods=["fire","confirm"],window.olytics.factory=function(i){return function(){var t=Array.prototype.slice.call(arguments);return t.unshift(i),window.olytics.push(t),window.olytics}};for(var i=0;i<window.olytics.methods.length;i++){var method=window.olytics.methods[i];window.olytics[method]=window.olytics.factory(method)}olytics.load=function(i){if(!document.getElementById("olyticsImport")){window.a=window.olytics;var t=document.createElement("script");t.async=!0,t.id="olyticsImport",t.type="text/javascript";var o="";void 0!==i&&void 0!==i.oid&&(o=i.oid),t.setAttribute("data-oid",o),t.src="https://olytics.omeda.com/olytics/js/v3/p/olytics.min.js",t.addEventListener("load",function(t){for(olytics.initialize({Olytics:i});window.a.length>0;){var o=window.a.shift(),s=o.shift();olytics[s]&&olytics[s].apply(olytics,o)}},!1);var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}},olytics.load({oid:"d158cf08e5844cba89cc42fe00c7776d"});
+</script>
+
+<script>
+olytics.fire(
+{
+behaviorId: '3237B5780812A4C',
+topic: 'AI,GenAI'
+}
+);
+</script>
+<!-- END Olytics HEAD CODE -->
+
+
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="shortcut icon" href="/design/ECG/VisualStudioMagazine/img/favicon-vsm.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="192x192" type="image/png" href="/design/ECG/VisualStudioMagazine/img/vsm_apple_icon.png">
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="~/media/ECG/visualstudiomagazine/design/css/style.css?v=17">
+<link rel="stylesheet" href="~/media/ECG/shared/css/shared.css?v=2" media="print" onload="this.media='all'">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@VSMdev">
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+
+<script> (function () {  _ml = window._ml || {};  _ml.eid = '50202';  _ml.ht = 'shex';  _ml.em = '';  _ml.dm = '';  _ml.informer = { enable: true };  var s = document.getElementsByTagName('script')[0], cd = new Date(), mltag = document.createElement('script');  mltag.type = 'text/javascript'; mltag.async = true;  mltag.src = 'https://ml314.com/tag.aspx?' + cd.getDate() + cd.getMonth() + cd.getFullYear();  s.parentNode.insertBefore(mltag, s);  })(); </script>
+ 
+</head>
+
+<body id="Body1">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <form method="post" action="/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1" novalidate="">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="GTR9ELlck8NFmE1Z+pgYg+cjHp2dhM6fyU3O2++IzoYYe3EX9FB+TBaLDR6ygbzoi0yxF/d4RVLLMUYOSJfdRTc61hKZnQuDdre9+ElWL5k8pDWtDmeh7igCMOy1JuRHeTU2I8dnpJT3eGfYZXcvv/s2dvDuz3ZgueA4e4I/r+VBwjghgaAYKcHLXqdW09XJUDVaYU4k2UrC5q8nsvv16konhWrltFjvUgD4Vanlu3+aWz9XEc4Ej42eR608nGfwBmfhHzqdjL3vkQgYtQaEudGsosXGekQbTEVH8udXpjlxbeMzcUeyIXPTScZTNKOcZvczthvH3F3mMckhD2pMUHvPn6xgY1W+v0gOx3/OhvGLCJAt1CSysjOJtMlkHwT86+L7fPJCQC5mXsFI0XggqEwcWWhXIPxtooSnDbPaSbiWUhpHFh3YC1T1mKQE4B62gZP/TEWGwfd6OsaQldx2+a0EVEjS7Mlb5OkQw4fDm5+ngE9egMjC7XY8AGKMYfRYYFXaGC0JirDlto9cq1KOpNKYYnN478cohLjRXdSJJIGxkvAsnjNCJEk4dkZ+7aOGRhDiLVTzysdJ+YOulw5rxF6YLLpE1AtJh1j1myWNdkOeIySA9oyVPr0mQqapfcnm7L6gdOEKqIQLd6lFSEYLMgGhVDnLccj4yFMKsFtSici8gvdKOJkjMqtrLqkyTz2JB+Nb8yCBOQ7hxsjV0ifo8/9iMGI/fQg2CBXFoAqiRDXUZcainbqyzk+QdMaQaXvwr8wAsz7blRAJqc7qJzntWCraOZFvswKgyilCY34XSBSrsxbOmvByu7FlGYro9BBv7T6d0nTfD4Lv/44qlXSDFUB5tFCGsGZJHKMV6F8Ok3aSoyyAtlS7TwdgC8E5FQTzsR4dsEBKUrsbQrWn2fmDzixRWiqotMKRH94c9h4JIouCcRYZ3y/obAiaNw7jUAjYmGO46s5hU1r9BEYV2FjpekA4e/YUuGqZ9+25o7u822ni9uY3eCNGGdb4O7U+6dJvUVSY7yKOYUOquO0bbhoGOlHhrNlIVE+q9PQ9ARU2JSgYzzoMVSuGgHavY7Ox8r7gUr02CTuUD17huP0NHvrMIBdy26PTbnE7/DqHZXMEZ1o6O+qgTBGUt6r66X68dv8kujHM/HYDhp1Tolt/lYHtBydkYSCARzRyy3HgW9L7ynO32wX1DtuDapD2RpEQLpBCcwO/ixHE5lD8fPpL4+xHxgHasRjsjAKR4c3er2IZvVmfg02H02a2uAvYMsgZgoXQtDvOdejZN4BcJJ5q7+EDe+TsSzIpAqrCOTPXbIRkp7D0BWXOP0MB7+74EKfgYDGNiUIl+DU19IJZAIhJHnn8nXer07JmkJn25HXgsxiM7FnGgnOttQyd5LxfrtS59h3KJUmNtWPES3/nhTx/AeP4FbMsYcptWk8PQHZKhYFz1lKJHAPt0G1Iz5JPDQRhNrtbhLo5K+n07SANcKM5dUYA8GzeMrgRmAIDymV4Y3KEpWfb38sv/5YpBb32tdMbJBSq5IRBUD0yLLRChfXNkSs+SWLMSRVLCZfO3iS0PD+utoXTl4kXSwQCdkYkZWLknukjJNGJ5Tf4mJhPTIsg3CFWFqvVxSLgpklrcaHRF4r6m+GsysiQIPtMmHT+BV9VdnQFqd9crN35EsG0mHHpKcqHNEXxU5ty8HK+jtwwS6c2FYm8Z5uU+39oSdU3bI9ved0RH6NofRSbTjqAgvRo//J1lsdy8fZcpJ3Nuegibhl7OsBHVU/AJ8g/PsxuE2UNfVk/sst9pT7N/sK6vd4vjUE7J/iQjrtRjRw+aUmB6DjdcghuwD3peFl8ean1PS1wfXc13nfUnL0d5nmV67swwpq5XqF0sZTdgvh17X1fm+mi5igcmkeIz0nvE0Y9TSeXUXnbxIxvCyUOh0GVnzyr6S8XGBfNd2g3cEsx5rHHWnfBMAX4bj7yJtK3UPdpaLVnMIj2V3RmoiTJ4qe9REjS1lilmcQAhClwbRa6eqRymnTg5LKrZkCjXHpeec8sikFHERmbWV4Y/XjVPcUZONy1G3ZWDvBviW5A3ZcFHBsImyEpyYfdIuMfwh67mwKiRCws9I+Pn4JjaChR7hv64T9NNUgDnysXKiHrke8MMgR7qTNV1jMVlei7FoDh4zfYXLx2qzGmjV6FaJ7YwOimb9nDqYizffCM+LUvXp8IrpuqYROvYFb0qxa5OcJVunlfhT0qP7Wb3DfXwwElv39gsf3M4KgpUDE1O9ZTfU5XRDcGe8HqrC5mok2WGjB13JsNUmurIDpKKf4MqPwl+jWbN5c+Oth+6hhHCFQ6LK9Mf98L00MI59Lfvd3gfmkq6ikcqnUsUN1Of4ug3v8SEImQmMtDthUsrszvQEv6vuS9QQtRJGMDbkPx8UixZp09c9AeAb2L5omecrNelcObC+UZowzVSAZ+RbQcOVr8G5AoqOXLO4x7R9CPVcWOj6QCKtgSZAW17culHwyhEKxuAPUe7OStA9MNVs9Hrs6L43pZo0dKTf8v4NEZlMivSyRaLPw2toqYrLV3+S/egjTeuG6dsC4NhY0S9P5XGKzW3POV0l3pCtajI4tAzEt6qGLC/IuDWmxOdiTccLdnSNkcOP4GvBFnHyHfE1pbGbDzNHEqiyHbu1QHJFOo2i9mgJU5Z9+rivTr5kzWd3JsUJd2PlZryc3IQkyFf+6qU8NcBvDVjyeLkaV/SbqCWISn3CAXaaII0+pCPjRitvddGK75qAKIuKa4fIpfS9mQScA1jyRHNh/xF1lxI6cFetuHku1WWP2kIHqOQCL7U6b/TAbnkUzPWTyldUaS4kwmttTSew3jU2bUFKNwlS0k9ZaGv9hIJqGgjYg2L26KPGr5qj0p2CZTqeronhuPpROnxWihEz7Qtv2lCUa0lTAzxbtJD6EO/O55kYcglHAEfo5qbUyVV/LRYgbOwg38EYUoGGlJSCjzz9+HKKzuBjpmX7efLVAc0HlcyD461Z4Ny2dc+z/CLAxO28lWUGJAd6ms3yHiAJAWeSW1VRGlSUEOc48GhbCOzwUdPZliWXD8sjD0aZUCFl3aFd5EtJwIp6x90CiOiZnKuAn1gEsgwXJmwZrRnxlZwm3ruJrxVa6Hl0euBjiKMhU7rMfWqtubHZFNiJEvnFcN4pS8GTmQu2ZDGQGsFbBVYHtrM0IVN6ARkwK5HOj6NSvMvRciFsw5ZHG1sG+YrQ6vqhhQDlzds+ypZfj3kgFQU/WFq7R46h2y8MBv2pdomd9L+qyBp2s5Sy3aPDrfiWocWehg5++UVULFFon14nfqQ90FnwnjsPpT8PnxOZfJPu/soqvs5fOP0B+T0Cm7e5Ppmr1tpONLM5VnjySMmxYi1TI80cB34mb5eCZcDTzqf4KwvbN3mKlyUQNY/53LONKxxT+v7Lr6s7s9ay2th7Q5FWUlKfcdAgT7ZbMizHRmyqyPK7sReO/zSPmLgC0RSgS+PXuhhHuvaqzW66FqVBmd3cQ0XCcg78XqDbznUlkR1qmdm0IdSEZqhUNv4Y27pkeqQkO3TPopUH4/1pATR436Y4GZVrGU05238F9eY0jpPI/hpo/wENxhA+Ejx2qIiNvXpgGrUOr6+pgVvmu+9XEjdWjFTXsTTszCXDbSh4Rb4HfwjP4uKijGN7TLdbYHS537lunyPbyky7E/wHrK8C8Vwq9/LFArn0NCgtJYBHlXd4RjN+u2+ebgfoCNK1J2OFxqm5Fyg6C0G2u8rkpZ/4k2CNZsxzYVBeg2Uabd08C99ZpTn+Dhddjo/k/r/V9xfFRTRT/sp0GdK3i0AylC/FGWD2aSuFskjgDJqXwf1MVpsjQ2R/AEu8VXln1Fl4fNj7yyTIgrIqfoUyIJIjMFDMazL4+JFRzlbGvKlXIlP8pGt9saCZGDHEqvcQEVnNiPLxdgLVaoTH55E82ZSTVViaCbpenO+x2FJb3NWpRGU4ZEGk4VDuwKo50m1+9hJ88LOFJHPEQLuZGYb6HejzQ7CiTGxHwM0TnAMlGnY/OGgBeHQ0jun2h/c99k8Wnjntiriz9U8ChnZh30IEyH8PtTdjwYV5TeROYNF1ZGAlc+615NT+KvmZ93yR+S6j06kJmsGsIeS6Gjlqibjkl06uTuKCrt0WSx5kpeSdGAl2lWVkRjUs4SHJFiIxEJcciyjU6XdBs4b8YYf3/Ofa5VE3oAZhNUgB3svE+bNVDIYajwNSTsgPpoEbRGSlgtCjsB8VLsc4Cnf0vxTFSZrypkpyf6wlatLT+PbUpbH0ngmzZEx4B/D+5Y3YU6UsunIu4CtICwhpHKIoFJVnDtHPHx6YWxM/BFyjp8gqxrTOxwOn6jC8hmXXjyzvrocftHfYH7oS9H08fJOAtnkF7q55LrZTWUJhh4NFxeaPhnwhBmNIdu9R1iUCipo2PhSquyvwK9qJ3hCQqanFpsT06bvxW906yFdF7SgJnTgm1Ta2ivAr5lzh1bpw5ewYvTv5we411rNI7nVtSt5bUd4T/4QWSFzVDy0uM3YFi6BHYl2a0GcsW0yVn+gYzpVKf5YE521gj1nIpW7F2q8Iv9u1+0Vj+gWbQT1Z3Xx50bJxq0YgoCJCht6YGOsqc859BbesIrqXMWaJygBKJ7Ov2X3F1NCnmDcoYGy4NH5m+chOswXi/+cMbQeNSYFxY4A8pHXwk4u9xHUgEIRX/+j9r6qMvUmP5yf9paKvMZ4Q5zcgFDY2IPaJA72K4qmXjYpaQRIC8j19qLjL/PLHcW0RqH53FChn7WxOVu" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZCBIjC6zCiEqmi_kDcnpBDGtmmPBmv3CrteKCAgzbUk5eSixZw2&amp;t=638568352745067788" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript">
+var id = ''; 
+
+function FocusSearchBox(ctl) {
+id = ctl;}
+
+function BlurSearchBox() {
+id = '';}
+
+document.onkeypress = function disableKey(e) { var evtobj = window.event ? event : e;var unicode = evtobj.charCode ? evtobj.charCode : evtobj.keyCode;if (unicode == 13) {if (id == '') {window.event.keyCode = 0;} else {document.getElementById("hdnSearch").value = id;document.getElementById(id.replace("txt", "btn")).click();} } }
+</script>
+<script src="/ScriptResource.axd?d=1HpV3OVB0CaEXoaafcqmhuV7MqD2kehRE4uU7zqn2VWaxa3qsEQalzHrhJunmxyCbVQ8blwGpLTHxt0JY0LPF-JdXItlw2vQCnNSI3BpUqnD1C-1wpC993mlLP3-WUMurk49aQ2&amp;t=7266186d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yKIbsogxsARipyAFZ-QiowLKCn8ZX1JtCja1u0RrZEEZKxAM5FV4haytxitTtZqqNpmPcKKA3BLDLu9ZENuGQ1JqfEWiAMP7CsbJ3uYqnV6u0i-h3IJxflq0io8vjqviaFadW7U1&amp;t=ffffffffc820c398" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadN4Tys6-s5-_WQA4GHsOVV0smV8btazs5-wG80pIg34-K80z7kuUkkVeuSqYVFgCETCeBJoAtRyb5fRiJArxgrrd7216Oo0fMsCemOyr51zDhUCnVS9jBHdvOboecnJG2jfa2V41&amp;t=ffffffffc820c398" type="text/javascript"></script>
+<script src="../../../../sitecore/shell/Controls/Lib/jQuery/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A9DC696D" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'form1', ['tph_scontent1_2$OmedaDynamicFormPanel','ph_scontent1_2_OmedaDynamicFormPanel'], [], ['ph_scontent1_2$btnSubmit','ph_scontent1_2_btnSubmit'], 90, '');
+//]]>
+</script>
+
+         
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZD7BZQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+ 
+ 
+
+
+
+    
+        <div class="wrapper">
+            
+    <div class="ad">
+        <div id="div-gpt-ad-billboard-0001">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-billboard-0001');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbillboard%26Topic%253dAI%252cGenAI&sz=1800x450&tile=1&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbillboard%26Topic%253dAI%252cGenAI&sz=1800x450&tile=1&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+            
+
+<NOINDEX>
+
+<div id="ph_wrapper2_0_pnlSearch" class="search">
+	
+    <fieldset>
+        <input name="ph_wrapper2_0$txtSearch" type="text" id="ph_wrapper2_0_txtSearch" onFocus="FocusSearchBox(&#39;ph_wrapper2_0_txtSearch&#39;)" onBlur="BlurSearchBox()" />        
+        
+        <input type="submit" name="ph_wrapper2_0$btnSearch" value="Search" id="ph_wrapper2_0_btnSearch" class="submit" formnovalidate="" />
+        
+	    <input type="hidden" id="hdnSearch" name="hdnSearch" visible="false" />
+	</fieldset>
+
+</div>
+
+</NOINDEX>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="leaderboard">
+                <div class="top-ads">
+
+
+
+    <div class="ad">
+        <div id="div-gpt-ad-lead_t1-0002">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-lead_t1-0002');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dlead_t1%26Topic%253dAI%252cGenAI&sz=728x90|970x250&tile=2&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dlead_t1%26Topic%253dAI%252cGenAI&sz=728x90|970x250&tile=2&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+</div><!-- closing div -->
+
+
+
+                <div class="leaderboardinner">
+
+
+
+                <h1>
+ <a href="/" aria-label="Go to Visual Studio Magazine Home Page">
+  <img src="/~/media/ECG/visualstudiomagazine/design/vsmlogowhite.ashx" aria-hidden="true" alt="Visual Studio Magazine - Expert Solutions for .NET Development" width="445" height="105" fetchpriority="high">
+</a>
+</h1>
+
+<button id="menu-toggle" class="menu-toggle" aria-label="Expand menu"></button> 
+
+
+
+
+<NOINDEX>
+
+<!-- component markup start -->
+<div class='topnav nav no-js'>
+    <ul class="topnavlist"><li class=" home"><a href="/Home.aspx">Home</a></li><li><a href="/Articles/List/News.aspx">News</a></li><li><a href="/Pages/Topic-Pages/Tips-and-How-To.aspx">Tips & How-To</a></li><li><a href="/newslettersub">Newsletters</a></li><li><a href="/Whitepapers/List/VSM-Tech-Library-List.aspx">White Papers</a></li><li><a href="/Webcasts/List/Webcast-List.aspx">Webcasts</a></li><li><a href="https://converge360.com/Pages/Advertising/VSM.aspx">Advertise</a></li><li><a href="/Pages/Contact-Us.aspx">About Us</a></li><li><a href="/ECG/live360events/Home.aspx">Training</a></li><li><a class="hasChild" href="javascript:void(0);">More</a><ul><li><a href="/Blogs/Tool-Tracker/List/Blog-List.aspx">.NET Tips and Tricks</a></li><li><a href="/Articles/List/Neural-Network-Lab.aspx">The Data Science Lab</a></li><li><a href="/Articles/List/Practical-ASPNET.aspx">Practical .NET</a></li><li><a href="/Articles/List/Practical-JavaScript.aspx">The Practical Client</a></li><li><a href="/Blogs/Data-Driver/List/Blog-List.aspx">Data Driver</a></li><li><a href="/Articles/List/C-Sharp-Corner.aspx">C# Corner</a></li><li><a href="/Articles/List/Features.aspx">In-Depth</a></li><li><a href="/Research/List/Back-Issues.aspx">PDF Back Issues</a></li><li><a href="/Issues/Issue-Archive.aspx">HTML Issue Archive</a></li><li><a href="/Pages/Topic-Pages/Archive.aspx">Archive</a></li><li><a href="/Articles/List/Code.aspx">Code Samples</a></li><li><a href="/Pages/Topic-Pages/NET-Tutorials.aspx">.NET</a></li><li><a href="/Articles/List/Agile-and-Scrum.aspx">Agile/Scrum</a></li><li><a href="/Articles/List/ALM.aspx">ALM</a></li><li><a href="/Articles/List/Open-Source.aspx">Open Source</a></li><li><a href="/Articles/List/SharePoint.aspx">SharePoint</a></li><li><a href="/Articles/List/Mono-for-Android.aspx">Cross-Platform C#</a></li><li><a href="/Articles/List/Mobile-Corner.aspx">Mobile Corner</a></li><li><a href="/Blogs/VS-Live-Video/List/Blog-List.aspx">Live! Video</a></li></ul></li></ul>
+    <br class="clear" />
+</div>
+<!-- component markup end -->
+
+</NOINDEX>
+
+
+                <div id="ph_leaderboard4_0_divBlockBox" class="social-top">
+	
+	<div id="ph_leaderboard4_0_divBody" class="summary"><ul>
+          <li class="social-icon linkedin"><a href="https://linkedin.com/company/visual-studio-magazine" target="_blank" aria-label="Follow Visual Studio Magazine on LinkedIn">
+              <img src="~/media/ECG/shared/img/socialmedia/linkedin_light.ashx" aria-hidden="true" alt="" width="20" height="20" fetchpriority="high"></a>
+          </li> 
+
+          <li class="social-icon twitter"><a href="https://twitter.com/VSMdev" target="_blank" aria-label="Follow Visual Studio Magazine on Twitter">
+              <img src="~/media/ECG/shared/img/socialmedia/twitter_x_light.ashx" aria-hidden="true" alt="" width="16" height="16" fetchpriority="high"></a>
+          </li>
+
+          <li class="social-icon youtube"><a href="https://youtube.com/@converge360" target="_blank" aria-label="Follow Visual Studio Magazine on YouTube">
+              <img src="~/media/ECG/shared/img/socialmedia/youtube_light.ashx" aria-hidden="true" alt="" width="20" height="20" fetchpriority="high"></a>
+         </li>
+
+         <li class="search-icon"><img src="/~/media/ECG/redmondmag/design/2019/search.svg" class="search-button" alt="Search" width="16" height="14" fetchpriority="high"></li>
+         <li class="search-icon-close"><img src="/~/media/ECG/redmondmag/design/2019/searchclose.svg" class="search-button-close" alt="Close Search" width="16" height="14"></li>
+</ul>
+
+</div>
+	
+</div>
+                </div><!-- closing div -->
+
+
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+<NOINDEX>
+
+<!-- component markup start -->
+<div class='sidenav'>
+    <ul class="topnavlist"><li><a href="/Pages/Topic-Pages/Azure.aspx">Azure</a></li><li><a href="/Pages/Topic-Pages/Visual-Studio-Tutorials.aspx">Visual Studio</a></li><li><a href="/Pages/Topic-Pages/Visual-Studio-Code-News-and-How-To.aspx">Visual Studio Code</a></li><li><a href="/Pages/Topic-Pages/HTML5-Javascript-Tutorials.aspx">Blazor/ASP.NET</a></li><li><a href="/Pages/Topic-Pages/NET-Core.aspx">.NET</a></li><li><a href="/Pages/Topic-Pages/C-Sharp-VB-Tutorials.aspx">C#/VB/TypeScript</a></li><li><a href="/Pages/Topic-Pages/Mobile-How-To.aspx">Xamarin/Mobile</a></li><li><a href="/Pages/Topic-Pages/AI-and-Machine-Learning.aspx">AI/Machine Learning</a></li></ul>
+    <br class="clear" />
+</div>
+<!-- component markup end -->
+
+</NOINDEX>
+
+
+            </div>		            
+
+            <header role="banner" class="header">            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            </header>
+                
+
+            <div id="main">
+    		
+                
+    <div class="ad">
+        <div id="div-gpt-ad-wallpaper_left-0003">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-wallpaper_left-0003');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dwallpaper_left%26Topic%253dAI%252cGenAI&sz=152x600|152x650&tile=3&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dwallpaper_left%26Topic%253dAI%252cGenAI&sz=152x600|152x650&tile=3&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+                
+    <div class="ad">
+        <div id="div-gpt-ad-wallpaper_right-0004">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-wallpaper_right-0004');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dwallpaper_right%26Topic%253dAI%252cGenAI&sz=152x600|152x650&tile=4&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dwallpaper_right%26Topic%253dAI%252cGenAI&sz=152x600|152x650&tile=4&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+                 <div class="sideBar">
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                
+                <div class="pContent">
+                    
+                    
+
+<div id='level0'>
+    <div id="article"> 
+        
+        <p id="ph_pcontent2_0_KickerText" class="kicker"><a href='https://visualstudiomagazine.com/Articles/List/Neural-Network-Lab.aspx'>The Data Science Lab</a></p>
+        
+        <h3 id="ph_pcontent2_0_MainHeading" class="title">Decision Tree Regression from Scratch Using C#</h3>
+        <p id="ph_pcontent2_0_Deck" class="deck">Dr. James McCaffrey from Microsoft Research presents a complete end-to-end demonstration of decision tree regression using the C# language. Unlike most implementations, this one does not use recursion or pointers, which makes the code easy to understand and modify.</p>
+        
+        <ul id="ph_pcontent2_0_ByAuthor" class="byline">
+			<li class="author">By <a href="https://visualstudiomagazine.com/Forms/EmailToAuthor.aspx?AuthorItem={ACEDC2E2-EF62-4F3D-A452-58FCAEB55039}&ArticleItem={972D6E84-B311-47F5-886C-0E49AEBD48EE}">James McCaffrey</a></li><li class="date">12/02/2024</li>
+		</ul>
+
+        <p>
+  Decision tree regression is a machine learning technique . To predict the output y for an input vector X, the tree structure encodes a set of if-then rules such as, "If the value of X at index [2] is less than or equal to 0.44 and the value at index [0] is greater than 0.63 then the predicted y value is 0.58."
+  
+</p>
+
+
+
+<p>
+  Decision tree regression is a fundamental technique that can be used by itself, and is also the basis for powerful ensemble techniques (a collection of many decision trees), notably, AdaBoost (adaptive boosting regression), random forest regression (which includes bagging regression), and gradient boosting regression.
+  
+</p>
+
+
+
+<p>
+  This article presents a demo of decision tree regression, implemented from scratch, using the C# language. The concepts underlying decision tree regression are relatively simple, but implementation is tricky. This article uses a tree design that does not use recursion or pointers/references. Recursion is beautiful intellectually, but code that uses recursion is difficult to debug or modify -- so much so that the majority of the product teams I've worked in, do not allow recursive code.
+  
+</p>
+
+
+
+<p>
+  A good way to see where this article is headed is to take a look at the screenshot in <b>Figure 1</b> and the diagram in <b>Figure 2</b>. The demo program begins by loading synthetic training and test data into memory. The data looks like:
+  
+</p>
+
+
+
+<pre class="codesnippet">-0.1660,  0.4406, -0.9998, -0.3953, -0.7065,  0.4840
+ 0.0776, -0.1616,  0.3704, -0.5911,  0.7562,  0.1568
+-0.9452,  0.3409, -0.1654,  0.1174, -0.7192,  0.8054
+ 0.9365, -0.3732,  0.3846,  0.7528,  0.7892,  0.1345
+. . .</pre>
+
+
+
+
+
+<div><figure> <a href="~/media/ECG/visualstudiomagazine/Images/2024/12/fig_1_decision_tree_regression_demo.ashx" target="_blank">
+<img alt="Figure 1: Decision Tree Regression in Action on Synthetic Data" src="~/media/ECG/visualstudiomagazine/Images/2024/12/fig_1_decision_tree_regression_demo_s.ashx" height="208" width="300"></a>
+<figcaption> <b>[Click on image for larger view.]</b> <em>Figure 1:</em> Decision Tree Regression in Action on Synthetic Data</figcaption>
+</figure></div>
+
+
+
+
+<p>
+  The first five values on each line are the x predictors. The last value on each line is the target y variable to predict. The demo creates a decision tree model, evaluates the model accuracy on the training and test data, and then uses the model to predict the target y value for x = [-0.1660, 0.4406, -0.9998, -0.3953, -0.7065]. The key parts of the demo output are:
+  
+</p>
+
+    <div class="ad">
+        <div id="div-gpt-ad-box_c1-0005">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-box_c1-0005');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_c1%26Topic%253dAI%252cGenAI&sz=300x250&tile=5&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_c1%26Topic%253dAI%252cGenAI&sz=300x250&tile=5&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+<br />
+
+
+<pre class="codesnippet">Loading synthetic train (200) and test (40) data
+Set maxDepth = 6
+Set minSamples = 2
+Creating regression tree
+Done
+Accuracy train (within 0.15) = 0.8850
+Accuracy test (within 0.15) = 0.5500
+
+Predicting for x =
+  -0.1660   0.4406  -0.9998  -0.3953  -0.7065
+y = 0.4909</pre>
+
+
+
+
+<p>
+  The two parameters that control the behavior of the demo decision tree are maxDepth and minSamples. The maxDepth parameter specifies the number of levels of the decision tree. If maxDepth = 1, the decision tree has three nodes: a root node, a left child and a right child. If maxDepth = 2, the tree has seven nodes. In general, if maxDepth = n, the resulting tree has 2^(n+1) - 1 nodes. The demo tree shown in <b>Figure 1</b> has maxDepth = 6, so the tree has 2^7 - 1 = 128 - 1 = 127 nodes.
+  
+</p>
+
+The minSamples parameter specifies the fewest number of associated data items in a node necessary to allow the node to be split into a left and right child. The demo tree uses minSamples = 2, which is the fewest possible because if a node has only one associated item, it can't be split any further.
+
+
+
+<p>
+  This article assumes you have intermediate or better programming skill but doesn't assume you know anything about decision tree regression. The demo is implemented using C#, but you should be able to refactor the demo code to another C-family language if you wish. All normal error checking has been removed to keep the main ideas as clear as possible.
+  
+</p>
+
+
+
+<p>
+  The source code for the demo program is too long to be presented in its entirety in this article. The complete code and data are available in the accompanying file download, and they're also available <a href="https://jamesmccaffrey.wordpress.com/2024/11/25/refactoring-my-csharp-decision-tree-regression-no-recursion-system/" target="_blank">online</a>.
+  
+</p>
+
+
+
+<p><span class="a12blub"><b>The Demo Data</b></span><br>The demo data is synthetic. It was generated by a 5-10-1 neural network with random weights and bias values. The idea here is that the synthetic data does have an underlying, but complex, structure which can be predicted.</p>
+
+
+
+
+<p>
+  All of the predictor values are between -1 and +1. There are 200 training/reference data items and 40 test items. When using decision tree regression, it's not necessary to normalize the training data predictor values because no distance between data items is computed. However, it's not a bad idea to normalize the predictors just in case you want to send the data to other regression algorithms that require normalization (for example, k-nearest neighbor regression).
+  
+</p>
+
+
+
+<p>
+  In practice, decision tree regression is most often used with data that has strictly numeric predictor variables. It is possible to use decision regression with mixed categorical and numeric data, by using ordinal encoding on the categorical data. However, this is a subtle topic that I'll explain at the end of this article. 
+  
+</p>
+
+
+
+<p><span class="a12blub"><b>Understanding Decision Tree Regression - Prediction</b></span><br>The two most important aspects of decision tree regression are understanding how to use the tree to make a prediction, and how to create the tree from the training data. <b>Figure 2</b> shows a small decision tree with maxDepth = 2 and minSamples = 2, which was created using a tiny set of 10 training items. Each training item is a vector with three elements, at indices [0], [1], and [2].</p>
+
+
+
+
+
+<div><figure> <a href="~/media/ECG/visualstudiomagazine/Images/2024/12/fig_2_decision_tree_architecture_diagram.ashx" target="_blank">
+<img alt="Figure 2: Decision Tree Architecture (No Recursion, No Pointers/References)" src="~/media/ECG/visualstudiomagazine/Images/2024/12/fig_2_decision_tree_architecture_diagram_s.ashx" height="180" width="300"></a>
+<figcaption> <b>[Click on image for larger view.]</b> <em>Figure 2:</em> Decision Tree Architecture (No Recursion, No Pointers/References)</figcaption>
+</figure></div>
+
+ 
+
+
+
+<p>
+  To predict the y value for an input of X = (0.17, 0.96, 0.44), the algorithm starts at the root node. If the X element at the split column ([1]) is less than or equal to the split value (0.64), a virtual indicator moves to the left sub-tree. Otherwise, the virtual indicator moves to the right sub-tree. For X = (0.17, 0.96, 0.44), because 0.96 is greater than 0.64, the indicator moves to the right. In the same way, at the next node, the indicator moves to the left sub-tree because the X element 0.17 is less than or equal to the split value 0.38.
+  
+</p>
+
+
+
+<p>
+  At this point, the virtual indicator is at a terminal/leaf node. The predicted value is y = 0.24, which is the average of the y values associated with data rows 1, 5, 8. In short, after a decision tree has been created, a prediction is made by walking down the tree, advancing left or right according to node split column and split value, until a leaf node is reached, and the predicted y value is the prediction value in the leaf node. OK, but how is the tree constructed from the training data?
+  
+</p>
+
+
+
+<p><span class="a12blub"><b>Understanding Decision Tree Regression - Construction</b></span><br>Tree construction for a non-recursive, no-pointer design starts by creating an array or list set of empty nodes. If maxDepth = n, then the number of nodes in the tree is 2^(n+1) - 1. For the tree in <b>Figure 2</b>, maxDepth is set to 2 so the number of nodes is 2^3 - 1 = 7. The nodes are 0-based indexed from 0 to 6.</p>
+
+
+
+
+<p>
+  During tree construction, also known as training, or fitting, each node is associated with certain rows of the training data. The root node is associated with all 10 rows of the tiny dataset. If a prediction was made based just on the root node, the predicted y value would be the average of all 10 target y values in the training data.
+  
+</p>
+
+
+
+<p>
+  At each node, all of the x values in the associated rows in the training data are examined to find the one x value (the split value) and its column (the split column) that would separate the training data into two subsets that have the smallest amount of variability of y values. For example, if a node had only four associated rows, [1], [5], [8], [9], and the corresponding y values were 0.25, 0.76, 0.73, 0.28, the split that would create smallest variability would be ([1], [9]) and ([5], [8]). There are several ways to measure variability. The demo implementation uses weighted statistical variance, which is the most common technique.
+  
+</p>
+
+
+
+<p>
+  The splitting process continues until a node is too deep to have children (nodes 3 through 6) in <b>Figure 2</b>, or if a node has fewer than the required minSamples associated rows / y values. Some nodes may have no associated rows in which case they are tagged with isEmpty = true. Nodes that are not empty but have no children are tagged with isLeaf = true. The predicted y value for a leaf node is the average of the y values of the training data rows associated with the node.
+  
+</p>
+
+
+
+<p>
+  The demo program Train() method calls helper method GetSplitInfo(). Notice that at each level of a tree, all x-values in the training data are examined. For large datasets, this could be a large number of examinations of candidate split values. In the early days of machine learning, with limited computer memory and slow CPU processing speeds, various sampling techniques were used to reduce the number of candidate split value examinations. But those techniques introduce non-reproducibility and so with modern computing systems, sampling techniques to find the split column and split value are rarely used.
+  
+</p>
+
+
+
+<p>
+  If you search the internet for examples of decision tree regression implementations, the vast majority of examples you'll find use recursion to construct and make predictions, and use pointers/references to store tree nodes. When I was a university professor, I taught my students using this design in sophomore-level data structures classes (with the Pascal language in those days). But recursion can be a nightmare in a production environment, so I prefer storing tree nodes in a fixed list or array. With a list/array storage design, for a node i, its left child is located at index [(2*i) + 1] and its right child is located at index [(2*i) + 2]. The minor downside to using list/array storage is that empty nodes are explicitly stored, but in my opinion that's a small price to pay for greatly increased ease of debugging, interpretability, and customization.
+  
+</p>
+
+
+
+<p><span class="a12blub"><b>The Demo Program</b></span><br>I used Visual Studio 2022 (Community Free Edition) for the demo program. I created a new C# console application and checked the "Place solution and project in the same directory" option. I specified .NET version 8.0. I named the project the rather wordy DecisionTreeRegressionNoRecursion. I checked the "Do not use top-level statements" option to avoid the program entry point shortcut syntax.</p>
+
+
+
+
+<p>
+  The demo has no significant .NET dependencies and any relatively recent version of Visual Studio with .NET (Core) or the older .NET Framework will work fine. You can also use the Visual Studio Code program if you like.
+  
+</p>
+
+
+
+<p>
+  After the template code loaded into the editor, I right-clicked on file Program.cs in the Solution Explorer window and renamed the file to the slightly more descriptive TreeRegressionProgram.cs. I allowed Visual Studio to automatically rename class Program.
+  
+</p>
+
+
+
+<p>
+  The overall program structure is presented in <b>Listing 1</b>. All the control logic is in the Main() method in the Program class. The Program class also holds helper functions to load data from file into memory and display data. All of the decision tree regression functionality is in a DecisionTreeRegressor class, which contains a nested TreeNode container class. The DecisionTreeRegressor class exposes a constructor and five methods: Train(), Predict(), Accuracy(), Show(), and ShowNode().
+  
+</p>
+
+
+
+
+<p>
+  <b>Listing 1:</b> Overall Program Structure
+  
+</p>
+
+
+
+<pre class="codesnippet">using System;
+using System.IO;
+using System.Collections.Generic;
+
+namespace DecisionTreeRegressionNoRecursion
+{
+  internal class TreeRegressionProgram
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Begin regression tree" +
+        " (no recursion) demo ");
+
+      // 1. load data
+      // 2. create and train decision tree
+      // 3. show (part of) decision tree
+      // 4. evaluate decision tree
+      // 5. use tree to make prediction
+
+      Console.WriteLine("End demo ");
+      Console.ReadLine();
+    } // Main
+
+    // helpers for Main()
+
+    static double[][] MatLoad(string fn, int[] usecols,
+      char sep, string comment) { . . }
+ 
+    static double[] MatToVec(double[][] mat) { . . }
+
+    static void VecShow(double[] vec, int dec,
+      int wid) { . . }
+
+  // --------------------------------------------------------
+
+  public class DecisionTreeRegressor
+  {
+    public int maxDepth;  // depth = 0 is just a root node
+    public int minSamples; // must be at least 2
+    public List&lt;TreeNode&gt; tree;  // not recursive
+
+    public DecisionTreeRegressor(int maxDepth,
+      int minSamples) { . . }
+
+    // ------------------------------------------------------
+
+    public class TreeNode  // nested container class
+    {
+      public int nodeID;
+      public int splitCol;
+      public double splitVal;
+      public bool isEmpty;
+      public bool isLeaf;
+      public double predictedY;
+
+      public TreeNode(int id)
+      {
+        this.nodeID = id;
+        this.splitCol = -1;      // invalid
+        this.splitVal = -99.99;  // invalid
+        this.isEmpty = true;
+        this.isLeaf = false;
+        this.predictedY = 0.0;
+      }
+    }
+
+    // ------------------------------------------------------
+
+    public void Train(double[][] dataX,
+      double[] dataY) { . . }
+ 
+    private static void GetSplitInfo(double[][] dataX,
+      double[] dataY, List&lt;int&gt; nodeRows,
+      out int splitCol, out double splitVal) { . . }
+
+    public double Predict(double[] x) { . . }
+
+    private void Validate() { . . }
+ 
+    public double Accuracy(double[][] dataX, double[] dataY,
+      double pctClose) { . . }
+
+    public void Show() { . . }
+
+    public void ShowNode(int nodeID) { . . }
+
+    private static double Mean(List&lt;double&gt; yValues) { . . }
+
+    private static double Variance(List&lt;double&gt; yValues) { . . }
+ 
+  } // class DecisionTreeRegressor
+} // ns</pre>
+<br />
+        
+        
+        
+        
+        
+        
+        
+        <!-- pager start -->
+        <div class="pagination"><ul>
+<li><a href="#" class="prev disablelink">&laquo; previous</a></li>
+<li><a href="#" class="currentpage">1</a></li>
+<li><a href="https://visualstudiomagazine.com/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx?Page=2">2</a></li>
+
+<li><a href="https://visualstudiomagazine.com/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx?Page=2" class="next">next &raquo;</a></li>
+</ul>
+</div>
+
+        <!-- pager end -->
+        
+        
+            
+        
+                <ul class="associatedFiles">
+                    
+                <li>
+                    <a id="ph_pcontent2_0_ListViewAssociatedFiles_AssociatedURL_0" href="/~/media/ECG/visualstudiomagazine/Code%20Download/2024/12/TreeRegressionProgram.zip">Get Code Download</a>                               
+                    <p>                                    
+                        <span>
+                            <em></em>
+                        </span>
+                        <span>
+                            <em></em>
+                        </span>                                    
+                    </p>
+                </li>
+            
+                </ul>
+            
+
+        
+    </div>
+</div><div class="pagetools">
+
+
+
+                    
+                    
+                    
+<NOINDEX>
+<div id="ph_pcontent5_0_PrintFormat" class="print">
+	
+	<p><a id="ph_pcontent5_0_Print" href="https://visualstudiomagazine.com/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx?p=1" target="_blank">Printable Format</a></p>
+
+</div>
+</NOINDEX> <div id="disqus_thread"></div>
+
+<script>
+const element = document.getElementById('disqus_thread');
+
+const checkIf = function() {
+  if (element === null)
+    return;
+}
+checkIf;
+
+let isLoaded = false;
+
+window.addEventListener('scroll', function (e) {
+    var currentScroll = document.scrollingElement.scrollTop;
+
+    if (!isLoaded && (currentScroll > element.getBoundingClientRect().top - 100)) {
+        isLoaded = true;
+
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        const disqus_shortname = 'vsmag'; // required: replace example with your forum shortname
+        const yoink = document.title;
+
+        const disqus_identifier = 'Title:' + yoink;
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        }
+}, false);
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+ <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>  
+
+
+
+<div id="ph_pcontent5_2_divListBox" class="bottomarticles">
+    <h4 id="ph_pcontent5_2_h4Header" class="L1CommonDLBheader">Featured</h4>
+    
+    <ul>
+                    
+                
+                <li id="ph_pcontent5_2_lvItemList_liListItem_0">
+                    
+                    
+                    <a href="https://visualstudiomagazine.com/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx"><img src='-/media/ECG/visualstudiomagazine/Images/introimages/ml.jpg' /></a>
+                    <h3 id="ph_pcontent5_2_lvItemList_h3Title_0"><a href="https://visualstudiomagazine.com/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx">Decision Tree Regression from Scratch Using C#</a></h3>
+                    
+                    
+                    
+                    <p id="ph_pcontent5_2_lvItemList_pSummary_0" class="summary">
+                        Dr. James McCaffrey from Microsoft Research presents a complete end-to-end demonstration of decision tree regression using the C# language. Unlike most implementations, this one does not use recursion or pointers, which makes the code easy to understand and modify.
+                        
+                        
+                        
+                    </p>
+                    
+                    <div class="MemberContentDescription"></div> 
+                    <div class="MemberContentPurchase"></div> 
+                    
+                    
+                </li>
+                
+            
+                <li id="ph_pcontent5_2_lvItemList_liListItem_1">
+                    
+                    
+                    <a href="https://visualstudiomagazine.com/Articles/2024/11/22/Visual-Studios-AI-Future-Copilot-NET-Upgrades-and-More.aspx"><img src='-/media/ECG/visualstudiomagazine/Images/introimages/Copilot4.jpg' /></a>
+                    <h3 id="ph_pcontent5_2_lvItemList_h3Title_1"><a href="https://visualstudiomagazine.com/Articles/2024/11/22/Visual-Studios-AI-Future-Copilot-NET-Upgrades-and-More.aspx">Visual Studio's AI Future: Copilot .NET Upgrades and More</a></h3>
+                    
+                    
+                    
+                    <p id="ph_pcontent5_2_lvItemList_pSummary_1" class="summary">
+                        At this week's Microsoft Ignite conference, the Visual Studio team showed off a future AI-powered IDE that will leverage GitHub Copilot for legacy app .NET upgrades, along with several more cutting-edge features.
+                        
+                        
+                        
+                    </p>
+                    
+                    <div class="MemberContentDescription"></div> 
+                    <div class="MemberContentPurchase"></div> 
+                    
+                    
+                </li>
+                
+            
+                <li id="ph_pcontent5_2_lvItemList_liListItem_2">
+                    
+                    
+                    <a href="https://visualstudiomagazine.com/Articles/2024/11/22/PowerShell-Gets-AI-ified-in-AI-Shell-Preview.aspx"><img src='-/media/ECG/redmondmag/Images/introimages/120725REDPowerShellScript_v2.jpg' /></a>
+                    <h3 id="ph_pcontent5_2_lvItemList_h3Title_2"><a href="https://visualstudiomagazine.com/Articles/2024/11/22/PowerShell-Gets-AI-ified-in-AI-Shell-Preview.aspx">PowerShell Gets AI-ified in 'AI Shell' Preview</a></h3>
+                    
+                    
+                    
+                    <p id="ph_pcontent5_2_lvItemList_pSummary_2" class="summary">
+                        Eschewing the term "Copilot," Microsoft introduced a new AI-powered tool for PowerShell called "AI Shell," available in preview.
+                        
+                        
+                        
+                    </p>
+                    
+                    <div class="MemberContentDescription"></div> 
+                    <div class="MemberContentPurchase"></div> 
+                    
+                    
+                </li>
+                
+            
+                <li id="ph_pcontent5_2_lvItemList_liListItem_3">
+                    
+                    
+                    <a href="https://visualstudiomagazine.com/Articles/2024/11/22/Article_0GitHub-Copilot-Research-Claims-Code-Quality-Gains-in-Addition-to-Productivity.aspx"><img src='-/media/ECG/visualstudiomagazine/Images/introimages/Copilot1.jpg' /></a>
+                    <h3 id="ph_pcontent5_2_lvItemList_h3Title_3"><a href="https://visualstudiomagazine.com/Articles/2024/11/22/Article_0GitHub-Copilot-Research-Claims-Code-Quality-Gains-in-Addition-to-Productivity.aspx">GitHub Research Claims Copilot Code Quality Gains in Addition to Productivity</a></h3>
+                    
+                    
+                    
+                    <p id="ph_pcontent5_2_lvItemList_pSummary_3" class="summary">
+                        GitHub says new research proves its Copilot AI tool can improve code quality, following earlier reports that said it boosts developer productivity -- and has a retort for contrarian studies.
+                        
+                        
+                        
+                    </p>
+                    
+                    <div class="MemberContentDescription"></div> 
+                    <div class="MemberContentPurchase"></div> 
+                    
+                    
+                </li>
+                
+            
+                <li id="ph_pcontent5_2_lvItemList_liListItem_4">
+                    
+                    
+                    <a href="https://visualstudiomagazine.com/Articles/2024/11/20/Visual-Studio-Devs-Demand-Claude-3-5-Sonnet-AI-Why-Is-VSC-Always-Preferred.aspx"><img src='-/media/ECG/visualstudiomagazine/Images/introimages/ChoosingAI.jpg' /></a>
+                    <h3 id="ph_pcontent5_2_lvItemList_h3Title_4"><a href="https://visualstudiomagazine.com/Articles/2024/11/20/Visual-Studio-Devs-Demand-Claude-3-5-Sonnet-AI-Why-Is-VSC-Always-Preferred.aspx">Visual Studio Devs Demand Claude 3.5 Sonnet AI: 'Why Is VSC Always Preferred?'</a></h3>
+                    
+                    
+                    
+                    <p id="ph_pcontent5_2_lvItemList_pSummary_4" class="summary">
+                        The brand-new Visual Studio 2022 v17.12 lets devs specify the AI model they want to use with the baked-in GitHub Copilot, but some are clamoring for more options, such as the latest/greatest Claude 3.5 Sonnet model from Anthropic that is available in VS Code.
+                        
+                        
+                        
+                    </p>
+                    
+                    <div class="MemberContentDescription"></div> 
+                    <div class="MemberContentPurchase"></div> 
+                    
+                    
+                </li>
+                
+            
+            
+    </ul>
+    <div id="ph_pcontent5_2_dvPagination" class="pagination">
+        <ul>
+            
+        </ul>
+    </div>
+    
+</div>
+                    
+                    
+                    
+                    
+                    <div class="mobile-flyout">
+    <div class="mobile-flyout-button">Most &nbsp; Popular</div>
+        <div class="flyout-mask"></div>
+
+        <div class="flyout-list">
+          <a class="flyout-close"></a>
+
+
+
+
+<NOINDEX>
+<!-- component markup start -->
+<div id="popular">
+    <div class="tabbedFields">
+        <ul class="tabMenu">
+            <li><a href="javascript:;">Most Popular Articles</a></li>
+            <li><a href="javascript:;">Most Emailed Articles</a></li>
+        </ul>
+        <!-- content 1 -->
+        <div class="tabContent">
+            
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_0" href="https://visualstudiomagazine.com/Articles/2024/11/22/Visual-Studios-AI-Future-Copilot-NET-Upgrades-and-More.aspx">Visual Studio's AI Future: Copilot .NET Upgrades and More</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_1" href="https://visualstudiomagazine.com/Articles/2024/11/20/Visual-Studio-Devs-Demand-Claude-3-5-Sonnet-AI-Why-Is-VSC-Always-Preferred.aspx">Visual Studio Devs Demand Claude 3.5 Sonnet AI: 'Why Is VSC Always Preferred?'</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_2" href="https://visualstudiomagazine.com/Articles/2024/11/22/Article_0GitHub-Copilot-Research-Claims-Code-Quality-Gains-in-Addition-to-Productivity.aspx">GitHub Research Claims Copilot Code Quality Gains in Addition to Productivity</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_3" href="https://visualstudiomagazine.com/Articles/2024/11/15/Simple-k-NN-Regression-Using-Csharp.aspx">Simple k-NN Regression Using C#</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_4" href="https://visualstudiomagazine.com/Articles/2024/11/06/DBSCAN-Clustering-and-Anomaly-Detection-Using-CSharp.aspx">DBSCAN Clustering and Anomaly Detection Using C#</a></h3>
+                
+        </div>
+        <!-- content 2 -->
+        <div class="tabContent">
+            
+        </div>
+    </div>
+</div>
+<!-- component markup end -->
+</NOINDEX>
+    <div class="ad">
+        <div id="div-gpt-ad-mobileflyout-0006">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-mobileflyout-0006');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dmobileflyout%26Topic%253dAI%252cGenAI&sz=300x250&tile=6&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dmobileflyout%26Topic%253dAI%252cGenAI&sz=300x250&tile=6&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+</div><!-- closing div -->
+
+
+</div><!-- closing div -->
+
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    </div><!-- closing div -->
+
+
+
+                </div>
+                
+                <div class="sContent">
+                    <div class="youtubesubscribe" id="youtubesubscribe"><p>Subscribe on YouTube</p>
+<!--<div class="g-ytsubscribe" data-channelid="UCdvQHB5bDzZrlBuAYC5EiXw" data-layout="full" data-count="hidden"></div>
+
+
+<br><br>-->
+
+<a href="https://www.youtube.com/channel/UCdvQHB5bDzZrlBuAYC5EiXw?sub_confirmation=1" target="_blank" aria-label="Subscribe on our YouTube"> 
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 475 150.51701" aria-hidden="true"><circle cx="75.2585" cy="75.2585" r="75.2585" fill="#7f3f97"/><path d="m31.48666,48.46549l.01849.05711c.02559,1.30071-.4312,2.39023-1.37029,3.26896-.93861.87873-2.17896,1.31788-3.72062,1.31788-1.56713,0-2.84398-.55497-3.83039-1.66534-.98637-1.11013-1.47962-2.51857-1.47962-4.22522v-2.46471c0-1.70637.49325-3.11673,1.47962-4.22983.98641-1.11366,2.26326-1.67023,3.83039-1.67023,1.56668,0,2.81358.41737,3.74015,1.25154.92609.83413,1.37635,1.9397,1.35076,3.31625l-.01849.05715h-1.79885c0-.97069-.28542-1.73825-.85639-2.30296-.57097-.56443-1.37691-.84697-2.41718-.84697-1.04673,0-1.8809.42146-2.50244,1.26457-.6221.84317-.93315,1.88913-.93315,3.13767v2.48178c0,1.26138.31105,2.31356.93315,3.15672.62154.84312,1.45572,1.26458,2.50244,1.26458,1.04027,0,1.84621-.28057,2.41718-.84232.57097-.56118.85639-1.33693.85639-2.32663h1.79885Z" fill="#fff"/><path d="m45.57615,47.21888c0,1.69389-.52533,3.09932-1.57483,4.21571-1.05006,1.11663-2.41277,1.67485-4.08761,1.67485-1.61722,0-2.93265-.55822-3.94409-1.67485-1.012-1.11639-1.51768-2.52182-1.51768-4.21571v-2.46471c0-1.68736.50568-3.09278,1.51768-4.21567,1.01144-1.12293,2.32687-1.68439,3.94409-1.68439,1.67484,0,3.03756.56014,4.08761,1.6795,1.0495,1.11988,1.57483,2.52667,1.57483,4.22056v2.46471Zm-1.87449-2.48376c0-1.26863-.34253-2.30914-1.02772-3.12126-.68515-.81192-1.60527-1.2181-2.76023-1.2181-1.09084,0-1.96196.40619-2.61177,1.2181-.65042.81212-.97558,1.85263-.97558,3.12126v2.48376c0,1.2817.32516,2.32847.97558,3.14035.64981.81216,1.52093,1.21806,2.61177,1.21806,1.1615,0,2.08267-.40453,2.76456-1.21316.68194-.80915,1.02339-1.85728,1.02339-3.14524v-2.48376Z" fill="#fff"/><path d="m59.90375,52.90959h-1.87497l-6.67111-10.71529-.05659.01905v10.69624h-1.87496v-13.8556h1.87496l6.67059,10.69621.05711-.01901v-10.6772h1.87497v13.8556Z" fill="#fff"/><path d="m68.49282,49.46473l.3143,1.09433h.05655l.3143-1.09433,3.57813-10.41074h2.02721l-5.14854,13.8556h-1.60855l-5.14799-13.8556h2.03647l3.57813,10.41074Z" fill="#fff"/><path d="m85.97982,46.48617h-6.34703v4.94842h7.31768v1.475h-9.19265v-13.8556h9.08769v1.47497h-7.21273v4.48217h6.34703v1.47505Z" fill="#fff"/><path d="m92.07619,46.90486v6.00473h-1.87496v-13.8461h5.01475c1.51663,0,2.67437.33632,3.4737,1.00872.7994.67263,1.19905,1.64958,1.19905,2.931,0,.71069-.18544,1.32927-.55685,1.85564-.37085.52669-.91194.94534-1.62207,1.2562.76126.24741,1.30833.64869,1.64112,1.20394.33331.55513.49974,1.24167.49974,2.06009v1.30372c0,.43149.04728.81837.14301,1.16095.09461.34261.25992.62182.49485.83742v.22843h-1.93204c-.24749-.2156-.40622-.5329-.47584-.95163-.07014-.41869-.10439-.84994-.10439-1.29422v-1.26565c0-.74851-.21917-1.35128-.65691-1.80803-.43778-.45679-1.02451-.68519-1.76075-.68519h-3.4824Zm0-1.47501h2.94945c1.05988,0,1.82279-.20096,2.28881-.60305.46658-.40217.69982-1.01473.69982-1.83799,0-.77872-.22727-1.3818-.68078-1.80916-.45354-.42743-1.15938-.64115-2.11752-.64115h-3.13979v4.89135Z" fill="#fff"/><path d="m114.20654,51.07296c-.32954.5076-.90211.9739-1.71728,1.39889-.81564.42519-1.87008.63758-3.16425.63758-1.65583,0-3.02453-.52966-4.10611-1.58922-1.08214-1.05932-1.62267-2.42961-1.62267-4.111v-2.85488c0-1.6811.50464-3.05144,1.51278-4.111,1.00927-1.05928,2.30951-1.58922,3.90221-1.58922,1.58569,0,2.83206.39018,3.73963,1.17053.90704.78031,1.37034,1.78606,1.38934,3.01659l-.019.05715h-1.78906c-.05707-.80562-.36323-1.46847-.91844-1.98891-.55521-.52012-1.35618-.78035-2.40246-.78035-1.05984,0-1.91303.39619-2.56012,1.18874-.64709.79227-.97069,1.79693-.97069,3.01394v2.87141c0,1.22977.36162,2.24261,1.08491,3.03788.72321.79555,1.64276,1.19335,2.75968,1.19335.78629,0,1.43073-.10439,1.93208-.31322.50083-.20882.85916-.4462,1.07505-.7121v-3.14283h-3.03592v-1.47497h4.91032v5.08165Z" fill="#fff"/><path d="m126.7261,46.48617h-6.34703v4.94842h7.31768v1.475h-9.19265v-13.8556h9.08769v1.47497h-7.21273v4.48217h6.34703v1.47505Z" fill="#fff"/><path d="m33.11061,87.81649h4.06143c4.46412,0,7.97744-1.10985,10.53908-3.32996,2.56168-2.21963,3.84174-4.95192,3.84174-8.19673,0-3.58607-1.10344-6.53761-3.31116-8.85557-2.20852-2.31756-5.45891-3.47654-9.7521-3.47654-3.9519,0-7.23354,1.15898-9.84391,3.47654-2.61041,2.31796-3.91525,5.40381-3.91525,9.2579h-1.68355l-.07267-.21933c-.12224-4.31794,1.32317-7.81289,4.33631-10.48402,3.01225-2.67116,6.73893-4.00709,11.17907-4.00709,4.58563,0,8.23872,1.29919,10.95941,3.8972,2.71989,2.59805,4.0806,6.11731,4.0806,10.55713,0,2.8058-.88447,5.31871-2.65352,7.53838-1.76905,2.22011-4.15335,3.81815-7.15365,4.79374,3.46371.85415,6.15966,2.40303,8.08688,4.64716,1.92727,2.24481,2.89086,5.07451,2.89086,8.48958,0,4.63553-1.47661,8.2767-4.42738,10.92304-2.95234,2.64758-6.77013,3.97031-11.45398,3.97031-4.51365,0-8.50241-1.33553-11.9662-4.00665-3.46455-2.67153-5.13527-6.45892-5.01303-11.3621l.07351-.21977h1.68279c0,3.95198,1.44541,7.20884,4.33623,9.77051,2.89086,2.56164,6.51924,3.8421,10.88671,3.8421,4.39141,0,7.80647-1.12783,10.24587-3.38466,2.43944-2.25648,3.65954-5.385,3.65954-9.38611,0-4.14737-1.39668-7.21481-4.19008-9.2032-2.7934-1.98834-6.58076-2.98234-11.3621-2.98234h-4.06143v-2.0495Z" fill="#fff"/><path d="m77.33488,61.98169c1.85375,0,3.66507.20137,5.43412.6041,1.76826.40225,3.4334,1.05547,4.9947,1.95758l-.7686,1.86611c-1.61003-.92686-3.10429-1.56729-4.48257-1.92085-1.37831-.3536-3.10421-.53094-5.17766-.53094-4.07427,0-7.52599,1.54968-10.35617,4.64748-2.8301,3.09823-4.24439,7.18481-4.24439,12.25864v9.3314c1.14579-2.65881,2.98198-4.85449,5.50688-6.58677,2.5249-1.73191,5.44608-2.59805,8.76445-2.59805,4.80533,0,8.57432,1.6592,11.30696,4.97674,2.73184,3.31793,4.09825,7.72097,4.09825,13.20984,0,5.04985-1.48142,9.24627-4.44579,12.58822-2.96441,3.34272-6.73977,5.01303-11.32537,5.01303-4.63589,0-8.44165-1.77455-11.4172-5.32424-2.97636-3.54925-4.46416-8.27546-4.46416-14.17989v-16.39351c0-5.53764,1.60362-10.0753,4.81171-13.61261,3.20724-3.53722,7.12971-5.30628,11.76484-5.30628Zm-14.60055,33.70235v1.57374c0,5.2691,1.29281,9.5203,3.87843,12.75273,2.58566,3.23251,5.92798,4.84852,10.02694,4.84852,4.07338,0,7.39179-1.53697,9.95343-4.61078,2.56088-3.07381,3.84174-6.7573,3.84174-11.05129,0-4.92721-1.17057-8.86114-3.51252-11.80117-2.34195-2.93958-5.73302-4.40942-10.17316-4.40942-3.73225,0-6.99548,1.25054-9.7888,3.75066-2.79344,2.50096-4.19013,5.4833-4.19013,8.94701h-.03593Z" fill="#fff"/><path d="m130.27976,95.02568c0,6.95269-1.40867,12.31972-4.22682,16.1007-2.81735,3.78178-6.80049,5.67183-11.94698,5.67183-5.14811,0-9.14882-1.89642-12.00294-5.6902-2.85412-3.79298-4.28112-9.15403-4.28112-16.08233v-11.27103c0-6.92794,1.41424-12.289,4.24434-16.08269,2.83018-3.79301,6.81894-5.69028,11.9662-5.69028s9.14164,1.89727,11.98453,5.69028c2.84137,3.79369,4.26279,9.15475,4.26279,16.08269v11.27103Zm-1.97591-11.27103c0-6.19604-1.22014-11.04488-3.65958-14.54581-2.4394-3.50013-5.97747-5.25117-10.61183-5.25117-4.63513,0-8.16681,1.75105-10.59342,5.25117-2.42821,3.50093-3.64113,8.34977-3.64113,14.54581v11.19752c0,6.14771,1.22564,10.99655,3.67703,14.54581,2.45223,3.5497,5.99515,5.32432,10.63104,5.32432,4.61034,0,8.12931-1.76825,10.55668-5.30595,2.42745-3.53686,3.64121-8.39176,3.64121-14.56417v-11.19752Z" fill="#fff"/><rect x="162" y="29.35766" width="313" height="95" rx="12" ry="12" fill="red"/><path d="m261.3519,51.97668c-1.06668-4.18203-4.19901-7.4685-8.18448-8.58797-7.21631-2.03104-36.16675-2.03104-36.16675-2.03104,0,0-28.95005,0-36.16665,2.03104-3.98548,1.11947-7.1175,4.40594-8.18437,8.58797-1.9356,7.57241-1.9356,23.38098-1.9356,23.38098,0,0,0,15.80864,1.9356,23.38112,1.06687,4.182,4.19889,7.46844,8.18437,8.58772,7.2166,2.03116,36.16665,2.03116,36.16665,2.03116,0,0,28.95044,0,36.16675-2.03116,3.98548-1.11928,7.1178-4.40572,8.18448-8.58772,1.93571-7.57248,1.93571-23.38112,1.93571-23.38112,0,0-.00778-15.80857-1.93571-23.38098Z" fill="#fff"/><path d="m207.7346,89.92803l24.05025-14.569-24.05025-14.56924v29.13824Z" fill="red"/><g id="youtube-paths"><path d="m282.83362,85.5699l-10.39432-39.38948h9.06841l3.64267,17.85558c.92962,4.39793,1.60779,8.14817,2.04976,11.2507h.26666c.30491-2.22295.99087-5.94918,2.0501-11.18671l3.77195-17.91956h9.06841l-10.52392,39.38948v18.89516h-9.00718v-18.89516h.00745Z" fill="#fff"/><path d="m305.08522,103.21625c-1.82878-1.2954-3.132-3.31059-3.90933-6.0452-.76955-2.73462-1.15805-6.3648-1.15805-10.90686v-6.1812c0-4.58184.44196-8.26795,1.3259-11.04266.88393-2.77467,2.2633-4.80573,4.13777-6.07713,1.8748-1.2714,4.33607-1.91111,7.38447-1.91111,3.0024,0,5.40275.6477,7.21631,1.9431,1.8061,1.29537,3.13201,3.32642,3.97025,6.07713.83825,2.75869,1.25753,6.42882,1.25753,11.01066v6.1812c0,4.54206-.41151,8.18822-1.22674,10.93882-.81557,2.75876-2.14147,4.77394-3.97058,6.0452-1.82878,1.2716-4.31305,1.91114-7.44506,1.91114-3.23115.00782-5.75335-.6477-7.58245-1.9431Zm10.25726-6.66876c.50289-1.39128.7621-3.65432.7621-6.80476v-13.26578c0-3.05466-.25144-5.29363-.7621-6.70096-.51066-1.41532-1.40205-2.11898-2.68258-2.11898-1.23421,0-2.11069.70366-2.61356,2.11898-.51066,1.41535-.76211,3.6463-.76211,6.70096v13.26578c0,3.15044.24367,5.4213.73165,6.80476.48765,1.39128,1.36381,2.08692,2.64402,2.08692,1.28053,0,2.17192-.69564,2.68258-2.08692Z" fill="#fff"/><path d="m354.80874,104.47323h-7.14793l-.79257-5.21356h-.19798c-1.94349,3.93414-4.8545,5.90104-8.74084,5.90104-2.69002,0-4.67887-.92752-5.9591-2.7744-1.28021-1.85538-1.92047-4.7498-1.92047-8.68394v-31.81717h9.13711v31.25719c0,1.90332.19798,3.25448.59425,4.06232.39628.8075,1.05923,1.21516,1.98885,1.21516.79255,0,1.55465-.25568,2.28631-.76738.73164-.51204,1.26498-1.15974,1.62302-1.9431v-33.83218h9.12934v42.59602Z" fill="#fff"/><path d="m379.62919,53.89544h-9.06843v50.57609h-8.93881v-50.57609h-9.06841v-7.70838h27.07565v7.70838Z" fill="#fff"/><path d="m401.66694,104.47323h-7.14794l-.79255-5.21356h-.19799c-1.94317,3.93414-4.85418,5.90104-8.74084,5.90104-2.69004,0-4.67889-.92752-5.95909-2.7744-1.28021-1.85538-1.92048-4.7498-1.92048-8.68394v-31.81717h9.1371v31.25719c0,1.90332.19799,3.25448.59427,4.06232.39628.8075,1.05922,1.21516,1.98917,1.21516.79223,0,1.55433-.25568,2.28597-.76738.73164-.51204,1.265-1.15974,1.62303-1.9431v-33.83218h9.12935v42.59602Z" fill="#fff"/><path d="m431.90536,68.68924c-.55635-2.68671-1.44805-4.62981-2.68227-5.83726-1.23452-1.20741-2.93401-1.80713-5.09815-1.80713-1.6765,0-3.24638.49575-4.7019,1.49529-1.4555.99953-2.58344,2.30292-3.37599,3.92615h-.06835v-22.43743h-8.80175v60.43553h7.54422l.92961-4.03002h.19831c.70863,1.43922,1.76787,2.56666,3.17768,3.40646,1.40984.83164,2.97972,1.24746,4.7019,1.24746,3.08631,0,5.36484-1.49532,6.82034-4.47814,1.45552-2.99064,2.18684-7.65238,2.18684-14.0012v-6.74084c0-4.75789-.28192-8.49211-.83048-11.17886Zm-8.37501,17.3757c0,3.1025-.12182,5.5335-.36582,7.29266-.24367,1.75916-.64771,3.01478-1.22675,3.7502-.57157.74358-1.3489,1.11146-2.31675,1.11146-.75434,0-1.44773-.18394-2.08801-.55964-.63995-.36788-1.15805-.92752-1.55433-1.66328v-24.17257c.30456-1.15947.83824-2.103,1.59257-2.84665.74687-.74365,1.56988-1.11149,2.44604-1.11149.92993,0,1.64602.38383,2.14924,1.14349.51034.76762.86093,2.04704,1.05922,3.85417.19799,1.80713.29715,4.3739.29715,7.70827v5.49338h.00744Z" fill="#fff"/><path d="m445.69803,88.51974c0,2.73462.07614,4.78176.22877,6.14924.15228,1.36714.47242,2.35892.96006,2.99064.48767.62356,1.23454.93534,2.24807.93534,1.36413,0,2.30899-.55963,2.81186-1.6711.51066-1.11146.78511-2.9665.8308-5.5573l7.87958.48756c.04568.36788.06838.87958.06838,1.52728,0,3.93414-1.02879,6.87684-3.07855,8.81994-2.04976,1.9431-4.95334,2.91855-8.70259,2.91855-4.50359,0-7.6586-1.47934-9.46469-4.44584-1.81355-2.9665-2.71273-7.54834-2.71273-13.75368v-7.43648c0-6.38887.93739-11.05867,2.81189-14.00127,1.87479-2.94263,5.08293-4.41395,9.6322-4.41395,3.132,0,5.54014.59973,7.21664,1.80717,1.6765,1.20741,2.85754,3.07853,3.5435,5.62935.68596,2.55078,1.02879,6.06914,1.02879,10.56288v7.29266h-15.30197v2.159Zm1.15837-20.0705c-.46498.59969-.76954,1.58324-.92961,2.95059-.15263,1.36738-.22877,3.43839-.22877,6.22122v3.05456h6.68329v-3.05456c0-2.73486-.09137-4.80587-.26666-6.22122-.1753-1.41532-.49543-2.40686-.96041-2.99057-.46466-.57572-1.18107-.87159-2.14892-.87159-.97529.00799-1.6917.31185-2.14892.91157Z" fill="#fff"/></g></svg></a>
+
+
+</div>
+
+
+<div id="ph_scontent1_1_divBlockBox" class="readers-choice">
+	
+	<div id="ph_scontent1_1_divBody" class="summary">
+
+<a href="/microsites/readers-choice-awards/2024/home.aspx" aria-label="Go to Visual Studio Magazine Readers Choice Awards"><img src="~/media/ECG/visualstudiomagazine/Microsites/2023/readersChoiceAwards/readersChoiceAwards2024647.jpg?source=homepage_readerschoice" alt="Visual Studio Magazine Readers Choice Awards" aria-hidden="true" width="647" height="450">
+</a></div>
+	
+</div>
+<script type="text/javascript">
+
+    (function () {
+        var originalValidationSummaryOnSubmit = window.ValidationSummaryOnSubmit;
+        window.ValidationSummaryOnSubmit = function (validationGroup) {
+            var originalScrollTo = window.scrollTo;
+            window.scrollTo = function () { };
+            originalValidationSummaryOnSubmit(validationGroup);
+            window.scrollTo = originalScrollTo;
+        } 
+    } ());
+
+    function ValidateCheckBoxList(sender, args) {
+        var checkBoxList = document.getElementById(sender.attributes.checkboxlistclientid.nodeValue);
+        var checkboxes = checkBoxList.getElementsByTagName("input");
+        var isValid = false;
+        for (var i = 0; i < checkboxes.length; i++) {
+            if (checkboxes[i].checked) {
+                isValid = true;
+                break;
+            }
+        }
+        args.IsValid = isValid;
+    }
+
+    function GDPRValidation(oSrouce, args) {
+         var rb = document.getElementById("ph_scontent1_2_rblGDPR");
+         var radio = rb.getElementsByTagName("input");
+         args.IsValid = false;
+         for (var i = 0; i < radio.length; i++) {
+             if (radio[i].checked) {
+                 args.IsValid = true;
+                 break;
+             }
+         }
+     }
+</script>
+
+
+<div id="omedaDynamicForm">
+     <div id="ph_scontent1_2_OmedaDynamicFormPanel">
+	
+		    <div id="ph_scontent1_2_dvOmedaDynamicForm" class="newsletter-form">
+			    <div data-val-validationGroup="OmedaDynamicForm" id="ph_scontent1_2_vlSummary" class="omedaDynamicFormErrorList" data-valsummary="true" style="display:none;">
+
+	</div>
+			    
+
+                <div id="ph_scontent1_2_dvOmedaDynamicFormFields" class="omedaDynamicFormFields">
+                    <div id="form-header">
+
+<div class="pubname">.NET Insight</div>
+<div class="signupheader">Sign up for our newsletter.</div>
+
+</div>
+
+
+<span id="ph_scontent1_2_lblEmail_Address01" class="omedaDynamicFormLabel" for="txtEmail_Address01">Email Address*</span><input name="ph_scontent1_2$txtEmail_Address01" type="text" id="ph_scontent1_2_txtEmail_Address01" class="omedaDynamicFormInput" placeholder="Email Address*" LCSQuestionId="1" /><span data-val-controltovalidate="ph_scontent1_2_txtEmail_Address01" data-val-errormessage="Email Address is a required field. " data-val-display="Dynamic" data-val-validationGroup="OmedaDynamicForm" id="ph_scontent1_2_requiredEmail_Address01" class="omedaDynamicFormRequires" data-val="true" data-val-evaluationfunction="RequiredFieldValidatorEvaluateIsValid" data-val-initialvalue="" style="display:none;">*</span><span data-val-controltovalidate="ph_scontent1_2_txtEmail_Address01" data-val-errormessage="Please enter a valid Email" data-val-display="Dynamic" data-val-validationGroup="OmedaDynamicForm" id="ph_scontent1_2_validationEmail_Address01" class="omedaDynamicFormValidation" data-val="true" data-val-evaluationfunction="RegularExpressionValidatorEvaluateIsValid" data-val-validationexpression="\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" style="display:none;">*</span><span id="ph_scontent1_2_lblCountry02" class="omedaDynamicFormLabel" for="ddlCountry02">Country*</span><select name="ph_scontent1_2$ddlCountry02" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ph_scontent1_2$ddlCountry02\&#39;,\&#39;\&#39;)&#39;, 0)" id="ph_scontent1_2_ddlCountry02" class="omedaDynamicFormDropDown" placeholder="Country*" LCSQuestionId="3">
+		<option selected="selected" value="" isGDPR="False" isUS="False" isCA="False"></option>
+		<option value="United States" isGDPR="False" isUS="True" isCA="False">United States of America</option>
+		<option value="Afghanistan" isGDPR="False" isUS="False" isCA="False">Afghanistan</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">&#197;land Islands</option>
+		<option value="Albania" isGDPR="False" isUS="False" isCA="False">Albania</option>
+		<option value="Algeria" isGDPR="False" isUS="False" isCA="False">Algeria</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">American Samoa</option>
+		<option value="Andorra" isGDPR="False" isUS="False" isCA="False">Andorra</option>
+		<option value="Angola" isGDPR="False" isUS="False" isCA="False">Angola</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Anguilla</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Antarctica</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Antigua and Barbuda</option>
+		<option value="Argentina" isGDPR="False" isUS="False" isCA="False">Argentina</option>
+		<option value="Armenia" isGDPR="False" isUS="False" isCA="False">Armenia</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Aruba</option>
+		<option value="Australia" isGDPR="False" isUS="False" isCA="False">Australia</option>
+		<option value="Azerbaijan" isGDPR="False" isUS="False" isCA="False">Azerbaijan</option>
+		<option value="Austria" isGDPR="True" isUS="False" isCA="False">Austria</option>
+		<option value="Bahamas" isGDPR="False" isUS="False" isCA="False">Bahamas</option>
+		<option value="Bahrain" isGDPR="False" isUS="False" isCA="False">Bahrain</option>
+		<option value="Bangladesh" isGDPR="False" isUS="False" isCA="False">Bangladesh</option>
+		<option value="Barbados" isGDPR="False" isUS="False" isCA="False">Barbados</option>
+		<option value="Belarus" isGDPR="False" isUS="False" isCA="False">Belarus</option>
+		<option value="Belgium" isGDPR="True" isUS="False" isCA="False">Belgium</option>
+		<option value="Belize" isGDPR="False" isUS="False" isCA="False">Belize</option>
+		<option value="Benin" isGDPR="False" isUS="False" isCA="False">Benin</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Bermuda</option>
+		<option value="Bhutan" isGDPR="False" isUS="False" isCA="False">Bhutan</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Bolivia, Plurinational State of</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Bonaire, Sint Eustatius and Saba</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Bosnia and Herzegovina</option>
+		<option value="Botswana" isGDPR="False" isUS="False" isCA="False">Botswana</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Bouvet Island</option>
+		<option value="Brazil" isGDPR="False" isUS="False" isCA="False">Brazil</option>
+		<option value="British Indian Ocean Territory" isGDPR="False" isUS="False" isCA="False">British Indian Ocean Territory</option>
+		<option value="Brunei Darussalam" isGDPR="False" isUS="False" isCA="False">Brunei Darussalam</option>
+		<option value="Bulgaria" isGDPR="True" isUS="False" isCA="False">Bulgaria</option>
+		<option value="Burkina Faso" isGDPR="False" isUS="False" isCA="False">Burkina Faso</option>
+		<option value="Burundi" isGDPR="False" isUS="False" isCA="False">Burundi</option>
+		<option value="Cambodia" isGDPR="False" isUS="False" isCA="False">Cambodia</option>
+		<option value="Cameroon" isGDPR="False" isUS="False" isCA="False">Cameroon</option>
+		<option value="Canada" isGDPR="False" isUS="False" isCA="True">Canada</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Cape Verde (Cabo Verde)</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Cayman Islands</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Cura&#231;ao</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Central African Republic</option>
+		<option value="Chad" isGDPR="False" isUS="False" isCA="False">Chad</option>
+		<option value="Chile" isGDPR="False" isUS="False" isCA="False">Chile</option>
+		<option value="China" isGDPR="False" isUS="False" isCA="False">China</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Christmas Island</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Cocos (Keeling) Islands</option>
+		<option value="Colombia" isGDPR="False" isUS="False" isCA="False">Colombia</option>
+		<option value="Comoros" isGDPR="False" isUS="False" isCA="False">Comoros</option>
+		<option value="Congo" isGDPR="False" isUS="False" isCA="False">Congo</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Congo, the Democratic Republic of the</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Cook Islands</option>
+		<option value="Costa Rica" isGDPR="False" isUS="False" isCA="False">Costa Rica</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">C&#244;te d&#39;Ivoire</option>
+		<option value="Croatia" isGDPR="True" isUS="False" isCA="False">Croatia</option>
+		<option value="Cuba" isGDPR="False" isUS="False" isCA="False">Cuba</option>
+		<option value="Cyprus" isGDPR="True" isUS="False" isCA="False">Cyprus</option>
+		<option value="Czech Republic" isGDPR="True" isUS="False" isCA="False">Czech Republic</option>
+		<option value="Denmark" isGDPR="True" isUS="False" isCA="False">Denmark</option>
+		<option value="Djibouti" isGDPR="False" isUS="False" isCA="False">Djibouti</option>
+		<option value="Dominica" isGDPR="False" isUS="False" isCA="False">Dominica</option>
+		<option value="Dominican Republic" isGDPR="False" isUS="False" isCA="False">Dominican Republic</option>
+		<option value="Ecuador" isGDPR="False" isUS="False" isCA="False">Ecuador</option>
+		<option value="Egypt" isGDPR="False" isUS="False" isCA="False">Egypt</option>
+		<option value="El Salvador" isGDPR="False" isUS="False" isCA="False">El Salvador</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Equatorial Guinea</option>
+		<option value="Eritrea" isGDPR="False" isUS="False" isCA="False">Eritrea</option>
+		<option value="Estonia" isGDPR="True" isUS="False" isCA="False">Estonia</option>
+		<option value="Ethiopia" isGDPR="False" isUS="False" isCA="False">Ethiopia</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Falkland Islands (Malvinas)</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Faroe Islands</option>
+		<option value="Fiji" isGDPR="False" isUS="False" isCA="False">Fiji</option>
+		<option value="Finland" isGDPR="True" isUS="False" isCA="False">Finland</option>
+		<option value="France" isGDPR="True" isUS="False" isCA="False">France</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">French Guiana</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">French Polynesia</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">French Southern Territories</option>
+		<option value="Gabon" isGDPR="False" isUS="False" isCA="False">Gabon</option>
+		<option value="Gambia, The" isGDPR="False" isUS="False" isCA="False">Gambia</option>
+		<option value="Georgia" isGDPR="False" isUS="False" isCA="False">Georgia</option>
+		<option value="Germany" isGDPR="True" isUS="False" isCA="False">Germany</option>
+		<option value="Ghana" isGDPR="False" isUS="False" isCA="False">Ghana</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Gibraltar</option>
+		<option value="Greece" isGDPR="True" isUS="False" isCA="False">Greece</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Greenland</option>
+		<option value="Grenada" isGDPR="False" isUS="False" isCA="False">Grenada</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Guadeloupe</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Guam</option>
+		<option value="Guatemala" isGDPR="False" isUS="False" isCA="False">Guatemala</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Guernsey</option>
+		<option value="Guinea" isGDPR="False" isUS="False" isCA="False">Guinea</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Guinea-Bissau</option>
+		<option value="Guyana" isGDPR="False" isUS="False" isCA="False">Guyana</option>
+		<option value="Haiti" isGDPR="False" isUS="False" isCA="False">Haiti</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Heard Island and McDonald Islands</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Holy See (Vatican City State)</option>
+		<option value="Honduras" isGDPR="False" isUS="False" isCA="False">Honduras</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Hong Kong</option>
+		<option value="Hungary" isGDPR="True" isUS="False" isCA="False">Hungary</option>
+		<option value="Iceland" isGDPR="True" isUS="False" isCA="False">Iceland</option>
+		<option value="India" isGDPR="False" isUS="False" isCA="False">India</option>
+		<option value="Indonesia" isGDPR="False" isUS="False" isCA="False">Indonesia</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Iran, Islamic Republic of</option>
+		<option value="Iraq" isGDPR="False" isUS="False" isCA="False">Iraq</option>
+		<option value="Ireland" isGDPR="True" isUS="False" isCA="False">Ireland</option>
+		<option value="Isle of Man" isGDPR="True" isUS="False" isCA="False">Isle of Man</option>
+		<option value="Israel" isGDPR="False" isUS="False" isCA="False">Israel</option>
+		<option value="Italy" isGDPR="True" isUS="False" isCA="False">Italy</option>
+		<option value="Jamaica" isGDPR="False" isUS="False" isCA="False">Jamaica</option>
+		<option value="Japan" isGDPR="False" isUS="False" isCA="False">Japan</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Jersey</option>
+		<option value="Jordan" isGDPR="False" isUS="False" isCA="False">Jordan</option>
+		<option value="Kazakhstan" isGDPR="False" isUS="False" isCA="False">Kazakhstan</option>
+		<option value="Kenya" isGDPR="False" isUS="False" isCA="False">Kenya</option>
+		<option value="Kiribati" isGDPR="False" isUS="False" isCA="False">Kiribati</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Korea, Democratic People&#39;s Republic of</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Korea, Republic of</option>
+		<option value="Kuwait" isGDPR="False" isUS="False" isCA="False">Kuwait</option>
+		<option value="Kyrgyzstan" isGDPR="False" isUS="False" isCA="False">Kyrgyzstan</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Lao People&#39;s Democratic Republic</option>
+		<option value="Latvia" isGDPR="True" isUS="False" isCA="False">Latvia</option>
+		<option value="Lebanon" isGDPR="False" isUS="False" isCA="False">Lebanon</option>
+		<option value="Lesotho" isGDPR="False" isUS="False" isCA="False">Lesotho</option>
+		<option value="Liberia" isGDPR="False" isUS="False" isCA="False">Liberia</option>
+		<option value="Libya" isGDPR="False" isUS="False" isCA="False">Libya</option>
+		<option value="Liechtenstein" isGDPR="True" isUS="False" isCA="False">Liechtenstein</option>
+		<option value="Lithuania" isGDPR="True" isUS="False" isCA="False">Lithuania</option>
+		<option value="Luxembourg" isGDPR="True" isUS="False" isCA="False">Luxembourg</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Macao</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Macedonia, the former Yugoslav Republic of</option>
+		<option value="Madagascar" isGDPR="False" isUS="False" isCA="False">Madagascar</option>
+		<option value="Malawi" isGDPR="False" isUS="False" isCA="False">Malawi</option>
+		<option value="Malaysia" isGDPR="False" isUS="False" isCA="False">Malaysia</option>
+		<option value="Maldives" isGDPR="False" isUS="False" isCA="False">Maldives</option>
+		<option value="Mali" isGDPR="False" isUS="False" isCA="False">Mali</option>
+		<option value="Malta" isGDPR="True" isUS="False" isCA="False">Malta</option>
+		<option value="Marshall Islands" isGDPR="False" isUS="False" isCA="False">Marshall Islands</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Martinique</option>
+		<option value="Mauritania" isGDPR="False" isUS="False" isCA="False">Mauritania</option>
+		<option value="Mauritius" isGDPR="False" isUS="False" isCA="False">Mauritius</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Mayotte</option>
+		<option value="Mexico" isGDPR="False" isUS="False" isCA="False">Mexico</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Micronesia, Federated States of</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Moldova, Republic of</option>
+		<option value="Monaco" isGDPR="False" isUS="False" isCA="False">Monaco</option>
+		<option value="Mongolia" isGDPR="False" isUS="False" isCA="False">Mongolia</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Montenegro</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Montserrat</option>
+		<option value="Morocco" isGDPR="False" isUS="False" isCA="False">Morocco</option>
+		<option value="Mozambique" isGDPR="False" isUS="False" isCA="False">Mozambique</option>
+		<option value="Myanmar" isGDPR="False" isUS="False" isCA="False">Myanmar</option>
+		<option value="Namibia" isGDPR="False" isUS="False" isCA="False">Namibia</option>
+		<option value="Nauru" isGDPR="False" isUS="False" isCA="False">Nauru</option>
+		<option value="Nepa" isGDPR="False" isUS="False" isCA="False">Nepal</option>
+		<option value="Netherlands" isGDPR="True" isUS="False" isCA="False">Netherlands</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">New Caledonia</option>
+		<option value="New Zealand" isGDPR="False" isUS="False" isCA="False">New Zealand</option>
+		<option value="Nicaragua" isGDPR="False" isUS="False" isCA="False">Nicaragua</option>
+		<option value="Niger" isGDPR="False" isUS="False" isCA="False">Niger</option>
+		<option value="Nigeria" isGDPR="False" isUS="False" isCA="False">Nigeria</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Niue</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Norfolk Island</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Northern Mariana Islands</option>
+		<option value="Norway" isGDPR="True" isUS="False" isCA="False">Norway</option>
+		<option value="Pakistan" isGDPR="False" isUS="False" isCA="False">Pakistan</option>
+		<option value="Oman" isGDPR="False" isUS="False" isCA="False">Oman</option>
+		<option value="Palau" isGDPR="False" isUS="False" isCA="False">Palau</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Palestinian Territory, Occupied</option>
+		<option value="Panama" isGDPR="False" isUS="False" isCA="False">Panama</option>
+		<option value="Paraguay" isGDPR="False" isUS="False" isCA="False">Paraguay</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Papua New Guinea</option>
+		<option value="Peru" isGDPR="False" isUS="False" isCA="False">Peru</option>
+		<option value="Philippines" isGDPR="False" isUS="False" isCA="False">Philippines</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Pitcairn</option>
+		<option value="Poland" isGDPR="True" isUS="False" isCA="False">Poland</option>
+		<option value="Portugal" isGDPR="True" isUS="False" isCA="False">Portugal</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Puerto Rico</option>
+		<option value="Qatar" isGDPR="False" isUS="False" isCA="False">Qatar</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">R&#233;union</option>
+		<option value="Romania" isGDPR="True" isUS="False" isCA="False">Romania</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Russian Federation</option>
+		<option value="Rwanda" isGDPR="False" isUS="False" isCA="False">Rwanda</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Saint Barth&#233;lemy</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Saint Helena, Ascension and Tristan da Cunha</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Saint Kitts and Nevis</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Saint Lucia</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Saint Martin (French part)</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Saint Pierre and Miquelon</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Saint Vincent and the Grenadines</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Samoa</option>
+		<option value="San Marino" isGDPR="False" isUS="False" isCA="False">San Marino</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Sao Tome and Principe</option>
+		<option value="Saudi Arabia" isGDPR="False" isUS="False" isCA="False">Saudi Arabia</option>
+		<option value="Senegal" isGDPR="False" isUS="False" isCA="False">Senegal</option>
+		<option value="Serbia and Montenegro" isGDPR="False" isUS="False" isCA="False">Serbia</option>
+		<option value="Seychelles" isGDPR="False" isUS="False" isCA="False">Seychelles</option>
+		<option value="Sierra Leone" isGDPR="False" isUS="False" isCA="False">Sierra Leone</option>
+		<option value="Singapore" isGDPR="False" isUS="False" isCA="False">Singapore</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Sint Maarten (Dutch part)</option>
+		<option value="Slovakia" isGDPR="True" isUS="False" isCA="False">Slovakia</option>
+		<option value="Slovenia" isGDPR="True" isUS="False" isCA="False">Slovenia</option>
+		<option value="Solomon Islands" isGDPR="False" isUS="False" isCA="False">Solomon Islands</option>
+		<option value="Somalia" isGDPR="False" isUS="False" isCA="False">Somalia</option>
+		<option value="South Africa" isGDPR="False" isUS="False" isCA="False">South Africa</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">South Georgia and the South Sandwich Islands</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">South Sudan</option>
+		<option value="Spain" isGDPR="False" isUS="False" isCA="False">Spain</option>
+		<option value="Sri Lanka" isGDPR="False" isUS="False" isCA="False">Sri Lanka</option>
+		<option value="Sudan" isGDPR="False" isUS="False" isCA="False">Sudan</option>
+		<option value="Suriname" isGDPR="False" isUS="False" isCA="False">Suriname</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Svalbard and Jan Mayen</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Eswatini (Swaziland)</option>
+		<option value="Sweden" isGDPR="False" isUS="False" isCA="False">Sweden</option>
+		<option value="Switzerland" isGDPR="False" isUS="False" isCA="False">Switzerland</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Syrian Arab Republic</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Taiwan, Province of China</option>
+		<option value="Tajikistan" isGDPR="False" isUS="False" isCA="False">Tajikistan</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Tanzania, United Republic of</option>
+		<option value="Thailand" isGDPR="False" isUS="False" isCA="False">Thailand</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Timor-Leste</option>
+		<option value="Togo" isGDPR="False" isUS="False" isCA="False">Togo</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Tokelau</option>
+		<option value="Tonga" isGDPR="False" isUS="False" isCA="False">Tonga</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Trinidad and Tobago</option>
+		<option value="Tunisia" isGDPR="False" isUS="False" isCA="False">Tunisia</option>
+		<option value="Turkey" isGDPR="False" isUS="False" isCA="False">Turkey</option>
+		<option value="Turkmenistan" isGDPR="False" isUS="False" isCA="False">Turkmenistan</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Turks and Caicos Islands</option>
+		<option value="Tuvalu" isGDPR="False" isUS="False" isCA="False">Tuvalu</option>
+		<option value="Uganda" isGDPR="False" isUS="False" isCA="False">Uganda</option>
+		<option value="Ukraine" isGDPR="False" isUS="False" isCA="False">Ukraine</option>
+		<option value="United Arab Emirates" isGDPR="False" isUS="False" isCA="False">United Arab Emirates</option>
+		<option value="United Kingdom" isGDPR="True" isUS="False" isCA="False">United Kingdom</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">United States Minor Outlying Islands</option>
+		<option value="Uruguay" isGDPR="False" isUS="False" isCA="False">Uruguay</option>
+		<option value="Uzbekistan" isGDPR="False" isUS="False" isCA="False">Uzbekistan</option>
+		<option value="Vanuatu" isGDPR="False" isUS="False" isCA="False">Vanuatu</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Viet Nam</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Venezuela, Bolivarian Republic of</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Virgin Islands, British</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Virgin Islands, U.S.</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Wallis and Futuna</option>
+		<option value="" isGDPR="False" isUS="False" isCA="False">Western Sahara</option>
+		<option value="Yemen" isGDPR="False" isUS="False" isCA="False">Yemen</option>
+		<option value="Zambia" isGDPR="False" isUS="False" isCA="False">Zambia</option>
+		<option value="Zimbabwe" isGDPR="False" isUS="False" isCA="False">Zimbabwe</option>
+
+	</select><span data-val-controltovalidate="ph_scontent1_2_ddlCountry02" data-val-errormessage="Country is a required field. " data-val-display="Dynamic" data-val-validationGroup="OmedaDynamicForm" id="ph_scontent1_2_requiredCountry02" class="omedaDynamicFormRequires" data-val="true" data-val-evaluationfunction="RequiredFieldValidatorEvaluateIsValid" data-val-initialvalue="" style="display:none;">*</span><div id="form-footer">
+
+<div class="agreement">I agree to this site's <a href="https://1105media.com/pages/privacy-policy.aspx" target="_blank">Privacy Policy</a></div>
+
+</div>
+
+
+
+
+                     
+                    
+                    
+                    
+                </div>
+
+                
+<div class="captcha">
+    <img id="ph_scontent1_2_OmedaDynamicFormCaptcha_CaptchaImage6BDB" src="/Captcha.ashx?id=6BDB20D4094D4BB8874C6E78E54F6FCA" />
+    <span style="display:block;">Please type the letters/numbers you see above.</span>
+    <input name="ph_scontent1_2$OmedaDynamicFormCaptcha$CaptchaGuess" type="text" id="ph_scontent1_2_OmedaDynamicFormCaptcha_CaptchaGuess" />
+</div>
+            
+                <input type="submit" name="ph_scontent1_2$btnSubmit" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ph_scontent1_2$btnSubmit&quot;, &quot;&quot;, true, &quot;OmedaDynamicForm&quot;, &quot;&quot;, false, false))" id="ph_scontent1_2_btnSubmit" />
+		    </div>
+        
+</div>
+
+	
+	
+</div>
+    <div class="ad">
+        <div id="div-gpt-ad-box_r1-0007">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-box_r1-0007');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r1%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=7&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r1%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=7&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+                    
+
+<NOINDEX>
+<!-- component markup start -->
+<div id="popular">
+    <div class="tabbedFields">
+        <ul class="tabMenu">
+            <li><a href="javascript:;">Most Popular Articles</a></li>
+            <li><a href="javascript:;">Most Emailed Articles</a></li>
+        </ul>
+        <!-- content 1 -->
+        <div class="tabContent">
+            
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_0" href="https://visualstudiomagazine.com/Articles/2024/11/22/Visual-Studios-AI-Future-Copilot-NET-Upgrades-and-More.aspx">Visual Studio's AI Future: Copilot .NET Upgrades and More</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_1" href="https://visualstudiomagazine.com/Articles/2024/11/20/Visual-Studio-Devs-Demand-Claude-3-5-Sonnet-AI-Why-Is-VSC-Always-Preferred.aspx">Visual Studio Devs Demand Claude 3.5 Sonnet AI: 'Why Is VSC Always Preferred?'</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_2" href="https://visualstudiomagazine.com/Articles/2024/11/22/Article_0GitHub-Copilot-Research-Claims-Code-Quality-Gains-in-Addition-to-Productivity.aspx">GitHub Research Claims Copilot Code Quality Gains in Addition to Productivity</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_3" href="https://visualstudiomagazine.com/Articles/2024/11/15/Simple-k-NN-Regression-Using-Csharp.aspx">Simple k-NN Regression Using C#</a></h3>
+                
+                    <h3><a id="ph_pcontent10_1_PopularItemsRepeater_StoryHeadlineHyperLink_4" href="https://visualstudiomagazine.com/Articles/2024/11/06/DBSCAN-Clustering-and-Anomaly-Detection-Using-CSharp.aspx">DBSCAN Clustering and Anomaly Detection Using C#</a></h3>
+                
+        </div>
+        <!-- content 2 -->
+        <div class="tabContent">
+            
+        </div>
+    </div>
+</div>
+<!-- component markup end -->
+</NOINDEX><div id="ph_scontent2_1_divEventAgenda" class="calendar-listing"> 
+    
+    <div class="daycalendar">
+        <h2 id="ph_scontent2_1_AgendaTitle" class="agenda-title">Upcoming Training Events</h2>
+        
+        
+        
+
+        <div class="sessionlistcalendar monday">
+        <div class="sessionlistcalendar-times">
+            
+        <div id="ph_scontent2_1_ctl01_ListViewCalendarTimes_sessionListCalendarTimeslot_0" class="sessionlistcalendar-timeslot" style="height:80px;min-height:80px;">            0
+            <span>
+                AM
+            </span>
+        </div>
+    
+        </div>
+    
+        <div id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionListCalendarEvent" class="sessionlistcalendar-events" style="height:80px;">            
+       
+    <div id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionEvent_0" style="position:absolute;top:0px;height:80px;min-height:80px;width:25%;left:0%;" class="sessionlistcalendar-event colorx Events_ECG VSLive ">
+        <span id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionField1_0" class="sessionlistcalendar-field1"><a href="https://vslive.com/events/training-seminars/2024/dec10/home.aspx" target="_blank" class="event-title">VSLive! 4-Day Hands-On Training Seminar: Full Stack Hands-On Development with .NET (Core)</a></br>December 10-13, 2024</span>
+        
+        
+        
+        
+        
+        
+        
+						
+         
+                        
+        
+
+
+     
+						
+        
+
+        
+        
+         
+    </div>
+    
+       
+    <div id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionEvent_1" style="position:absolute;top:0px;height:80px;min-height:80px;width:25%;left:25%;" class="sessionlistcalendar-event colorx Events_ECG VSLive ">
+        <span id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionField1_1" class="sessionlistcalendar-field1"><a href="//vslive.com/Events/las-vegas-2025/home.aspx" target="_blank" class="event-title">Visual Studio Live! Las Vegas</a></br>March 10-14, 2025</span>
+        
+        
+        
+        
+        
+        
+        
+						
+         
+                        
+        
+
+
+     
+						
+        
+
+        
+        
+         
+    </div>
+    
+       
+    <div id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionEvent_2" style="position:absolute;top:0px;height:80px;min-height:80px;width:25%;left:50%;" class="sessionlistcalendar-event colorx Events_ECG VSLive ">
+        <span id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionField1_2" class="sessionlistcalendar-field1"><a href="//vslive.com/Events/microsofthq-2025/home.aspx" target="_blank" class="event-title">Visual Studio Live! @ Microsoft HQ</a></br>August 4-8, 2025</span>
+        
+        
+        
+        
+        
+        
+        
+						
+         
+                        
+        
+
+
+     
+						
+        
+
+        
+        
+         
+    </div>
+    
+       
+    <div id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionEvent_3" style="position:absolute;top:0px;height:80px;min-height:80px;width:25%;left:75%;" class="sessionlistcalendar-event colorx Events_ECG VSLive ">
+        <span id="ph_scontent2_1_ctl02_ListViewSessionListCalendar_SessionField1_3" class="sessionlistcalendar-field1"><a href="//vslive.com/Events/san-diego-2025/home.aspx" target="_blank" class="event-title">Visual Studio Live! San Diego</a></br>September 8-12, 2025</span>
+        
+        
+        
+        
+        
+        
+        
+						
+         
+                        
+        
+
+
+     
+						
+        
+
+        
+        
+         
+    </div>
+    
+        </div>
+    </div>  
+    </div>
+</div>
+    <div class="ad">
+        <div id="div-gpt-ad-box_r2-0008">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-box_r2-0008');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r2%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=8&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r2%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=8&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+                    
+    <div class="ad">
+        <div id="div-gpt-ad-box_r3-0009">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-box_r3-0009');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r3%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=9&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r3%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=9&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+    <div class="ad">
+        <div id="div-gpt-ad-right_300x150-0010">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-right_300x150-0010');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dright_300x150%26Topic%253dAI%252cGenAI&sz=300x370&tile=10&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dright_300x150%26Topic%253dAI%252cGenAI&sz=300x370&tile=10&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+<div id="ph_scontent3_2_divListBox" class="featured-free-whitepapers module">
+    
+    <h3 id="ph_scontent3_2_h3Header">Free Webcasts</h3>
+                
+            
+            
+            <ul id="ph_scontent3_2_lvOuterList_ulListItem_0">
+                        
+                    
+                    <li id="ph_scontent3_2_lvOuterList_lvItemList_0_liListItem_0">
+                        
+                        
+    		            
+    		            <a href="https://visualstudiomagazine.com/Webcasts/2024/12/Blazor-Beyond-the-Basics-Summit-December-3.aspx">Blazor Beyond the Basics: Advanced Techniques and Innovations</a>
+    		            
+    		            
+    		            
+	                    
+				        
+                    </li>
+                
+                    <li id="ph_scontent3_2_lvOuterList_lvItemList_0_liListItem_1">
+                        
+                        
+    		            
+    		            <a href="https://visualstudiomagazine.com/Webcasts/2024/12/NUTANIX-Microsoft-Ignite-2024-Top-Announcements-and-Takeaways.aspx">Microsoft Ignite 2024: Top Announcements and Takeaways</a>
+    		            
+    		            
+    		            
+	                    
+				        
+                    </li>
+                
+                    <li id="ph_scontent3_2_lvOuterList_lvItemList_0_liListItem_2">
+                        
+                        
+    		            
+    		            <a href="https://visualstudiomagazine.com/Webcasts/2024/02/MEZMO-Myths-and-Realities-in-Telemetry-Data-Handling.aspx">Myths and Realities in Telemetry Data Handling</a>
+    		            
+    		            
+    		            
+	                    
+				        
+                    </li>
+                
+                    <li id="ph_scontent3_2_lvOuterList_lvItemList_0_liListItem_3">
+                        
+                        
+    		            
+    		            <a href="https://visualstudiomagazine.com/Webcasts/2023/11/How-NET-MAUI-Changes-the-Cross-Platform-Game-Summit-november-29.aspx">How .NET MAUI Changes the Cross-Platform Game Summit</a>
+    		            
+    		            
+    		            
+	                    
+				        
+                    </li>
+                
+                
+            </ul>
+        
+        
+    <p id="ph_scontent3_2_pFooter" class="footer"><a href="https://visualstudiomagazine.com/Webcasts/List/Webcast-List.aspx">> More Webcasts</a></p>
+</div>
+
+    <div class="ad">
+        <div id="div-gpt-ad-box_r4-0011">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-box_r4-0011');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r4%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=11&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r4%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=11&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+                    
+                    
+                    
+                    
+    <div class="ad">
+        <div id="div-gpt-ad-box_r5-0012">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-box_r5-0012');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r5%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=12&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r5%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=12&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+                    
+    <div class="ad">
+        <div id="div-gpt-ad-box_r6-0013">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-box_r6-0013');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r6%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=13&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dbox_r6%26Topic%253dAI%252cGenAI&sz=300x250|1x1|300x600&tile=13&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                
+                <div class="xContent">
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+    		
+            </div>
+
+            <footer role="contentinfo" class="footer">
+                
+                
+                
+                
+
+<NOINDEX>
+
+<!-- component markup start -->
+<div class='footer1 nav'>
+    <ul class="footerlist"><li><a href="/Pages/Contact-Us.aspx">Contact Us</a></li><li><a href="https://converge360.com/Pages/Advertising/VSM.aspx">Advertise</a></li><li><a href="/ECG/live360events/Home.aspx">Training</a></li><li><a href="/Issues/Issue-Archive.aspx">Print Issues Online</a></li><li><a href="/newslettersub">Free Newsletters</a></li><li><a href="/Pages/Sitemap.aspx">Site Map</a></li><li><a href="https://1105Reprints.com">Reprints</a></li><li><a href="https://1105media.com/Pages/List-Rental.aspx">List Rental</a></li></ul>
+    <br class="clear" />
+</div>
+<!-- component markup end -->
+
+</NOINDEX>
+
+
+                
+    <div class="ad">
+        <div id="div-gpt-ad-boot_desktop-0014">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-boot_desktop-0014');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dboot_desktop%26Topic%253dAI%252cGenAI&sz=250x90&tile=14&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dboot_desktop%26Topic%253dAI%252cGenAI&sz=250x90&tile=14&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+    <div class="ad">
+        <div id="div-gpt-ad-boot_mobile-0015">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-boot_mobile-0015');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dboot_mobile%26Topic%253dAI%252cGenAI&sz=1024x90|1x1&tile=15&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dboot_mobile%26Topic%253dAI%252cGenAI&sz=1024x90|1x1&tile=15&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+<div class="footer-inner">
+
+
+ <!--THIS FOOTER LOGO BOX IS LOCATED HERE AND IS SHARED ACROSS ALL 1105 MEDIA CONVERGE SITES: /sitecore/content/Home/ECG/Converge360/Content Blocks/Site Scripts/footer logos-->
+
+<a href="https://converge360.com/Home.aspx" class="converge-logo" target="_blank" aria-label="Converge 360">
+ <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 275 122.40842" width="225" height="100"><defs><style>.cls-1{fill:url(#linear-gradient);}.cls-1,.cls-2{stroke-width:0px;}.cls-3{opacity:.5;}.cls-2{fill:#fff;}</style><linearGradient id="linear-gradient" x1="-672.62923" y1="595.37" x2="-672.62923" y2="472.96157" gradientTransform="translate(729.28003 595.37) scale(1 -1)" gradientUnits="userSpaceOnUse"><stop offset=".15" stop-color="#fff"/><stop offset=".85" stop-color="#fff" stop-opacity=".5"/></linearGradient></defs><path class="cls-2" d="M41.03142,71.62011c-1.73549-1.2226-2.94615-2.87458-3.62603-4.95597-.495-1.39554-.74548-3.25627-.74548-5.58218s.25048-4.06139.74548-5.48676c.65006-2.04561,1.85476-3.66778,3.60218-4.86055,1.75338-1.19277,3.82284-1.78916,6.20839-1.78916s4.52657.60235,6.32767,1.81302c1.80109,1.21066,2.99386,2.73145,3.58429,4.5564.15506.495.26241.99.32801,1.49097v.09542c0,.31012-.17295.495-.51289.56061l-4.18663.60235h-.09542c-.2803,0-.46518-.15506-.56061-.46518,0-.15506-.01789-.2803-.04771-.36976-.05964-.25048-.12524-.46518-.18488-.65006-.2803-.87072-.83494-1.58043-1.67585-2.14103-.83494-.56061-1.83091-.83494-2.97597-.83494s-2.17681.30416-2.99983.90651c-.82301.60235-1.37169,1.43729-1.65199,2.48693-.31012.99-.46518,2.37362-.46518,4.13893s.13717,3.08332.41747,4.13893c.31012,1.08542.87072,1.94422,1.67585,2.58236s1.81302.95422,3.02368.95422,2.1947-.30416,3.04754-.90651c.85283-.60235,1.40151-1.4194,1.65199-2.44519.02982-.05964.04771-.13717.04771-.23259.02982-.02982.04771-.07753.04771-.13717.09542-.36976.31012-.52482.65006-.46518l4.18663.65006c.15506.02982.28627.10138.39362.20873s.1491.25645.11928.44133c-.09542.495-.17295.85283-.23259,1.06753-.59042,1.98597-1.7832,3.56043-3.58429,4.72338-1.80109,1.16295-3.90634,1.74145-6.32767,1.74145s-4.44905-.61428-6.18453-1.83688Z"/><path class="cls-2" d="M64.37997,71.59626c-1.75338-1.24049-2.9879-2.96404-3.6976-5.16471-.52482-1.67585-.7932-3.44115-.7932-5.30188,0-1.98597.25048-3.75127.74548-5.30188.71566-2.17085,1.95615-3.85862,3.72145-5.06929s3.89441-1.81302,6.37538-1.81302,4.39537.60235,6.11893,1.81302,2.94018,2.88651,3.64989,5.02158c.56061,1.49097.83494,3.25627.83494,5.30188s-.26241,3.72145-.7932,5.30188c-.71566,2.20067-1.93826,3.93019-3.67375,5.18856s-3.79899,1.88458-6.18453,1.88458-4.55043-.62024-6.30381-1.86073h0ZM73.6359,67.83305c.82301-.65006,1.4194-1.56254,1.78916-2.74338.31012-1.02579.46518-2.32591.46518-3.90634,0-1.67585-.15506-2.97597-.46518-3.90634-.33994-1.18085-.93036-2.08735-1.7653-2.71952s-1.86073-.95422-3.07139-.95422-2.14103.31608-2.97597.95422-1.44326,1.54464-1.81302,2.71952c-.31012,1.08542-.46518,2.38555-.46518,3.90634s.15506,2.82091.46518,3.90634c.33994,1.18085.93633,2.09332,1.78916,2.74338s1.88458.97807,3.09525.97807c1.14506,0,2.1291-.32801,2.95211-.97807Z"/><path class="cls-2" d="M102.54874,51.17596c1.5029,1.49097,2.25434,3.51868,2.25434,6.09508v15.25558c0,.15506-.05367.28627-.16103.39362-.10735.10735-.23855.16102-.39362.16102h-4.28205c-.15506,0-.28626-.05367-.39362-.16102-.10735-.10735-.16103-.23856-.16103-.39362v-14.14033c0-1.42536-.40554-2.58236-1.21066-3.46501-.80513-.88265-1.87862-1.32398-3.20856-1.32398s-2.4094.43536-3.23242,1.30012c-.82302.87072-1.23453,2.01579-1.23453,3.44115v14.18805c0,.15506-.05367.28627-.16103.39362s-.23855.16102-.39362.16102h-4.28205c-.15506,0-.28626-.05367-.39362-.16102-.10735-.10735-.16103-.23856-.16103-.39362v-22.65674c0-.15506.05367-.28627.16103-.39362s.23855-.16102.39362-.16102h4.28205c.15506,0,.28626.05367.39362.16102.10735.10735.16103.23856.16103.39362v1.49097c0,.09542.02982.15506.09542.18488.05964.02982.10735,0,.13717-.09542,1.27031-1.67585,3.19663-2.51079,5.76706-2.51079s4.52061.74548,6.02351,2.23049v.00597Z"/><path class="cls-2" d="M114.12461,72.62204l-7.49062-22.69849c-.02982-.05964-.04771-.13717-.04771-.23259,0-.2803.17295-.41747.51289-.41747h4.74724c.33994,0,.56061.15506.65006.46518l4.51465,15.53588c.02982.09542.07753.13717.13717.13717s.10735-.04771.13717-.13717l4.51465-15.53588c.09542-.31012.31012-.46518.65006-.46518l4.74724.09542c.18488,0,.32801.05367.41747.16102.09542.10735.10735.27434.04771.48904l-7.44291,22.60903c-.09542.31012-.29819.46518-.60235.46518h-4.88441c-.31012,0-.51289-.15506-.60235-.46518l-.00598-.00597Z"/><path class="cls-2" d="M149.66928,61.12966l-.04771,1.44326c0,.36976-.18488.56061-.56061.56061h-14.55781c-.15506,0-.23259.07753-.23259.23259.09542,1.02579.23259,1.72356.41747,2.09332.74548,2.23049,2.5585,3.36362,5.44502,3.39344,2.11121,0,3.78109-.87072,5.02158-2.60621.12525-.18488.2803-.2803.46518-.2803.12525,0,.23259.04771.32801.13717l2.88651,2.37362c.2803.2147.32801.46518.13717.74548-.96018,1.36573-2.24241,2.42133-3.84073,3.16085-1.59831.74548-3.37555,1.11525-5.32574,1.11525-2.42133,0-4.4729-.54271-6.16068-1.62814s-2.92229-2.60621-3.6976-4.5564c-.71566-1.67585-1.06753-4.00176-1.06753-6.97773,0-1.80109.18488-3.25627.56061-4.37152.62024-2.17085,1.78916-3.88248,3.51272-5.14086s3.79302-1.88458,6.20839-1.88458c6.10701,0,9.55412,3.19663,10.32943,9.58394.12525.7753.18488,1.64603.18488,2.60621h-.00596ZM136.29231,54.45609c-.75741.57253-1.29416,1.37169-1.60428,2.39747-.18488.52482-.31012,1.21066-.36976,2.04561-.05964.15506,0,.23259.18488.23259h9.44081c.15506,0,.23259-.07753.23259-.23259-.05964-.7753-.15506-1.36573-.2803-1.7653-.2803-1.11525-.82898-1.98597-1.65199-2.60621s-1.85476-.93036-3.09525-.93036c-1.14506,0-2.09928.28627-2.86266.8588h.00597Z"/><path class="cls-2" d="M167.02413,49.64325c.25049.12524.33994.35783.2803.69777l-.79319,4.18663c-.02981.36976-.25049.48307-.65006.32801-.46518-.15506-1.0079-.23259-1.62814-.23259-.40554,0-.71567.01789-.93036.04771-1.30012.05964-2.38555.51886-3.25627,1.37169s-1.30012,1.96211-1.30012,3.32784v13.16226c0,.15506-.05367.28627-.16102.39362s-.23855.16102-.39362.16102h-4.28205c-.15507,0-.28627-.05367-.39362-.16102s-.16102-.23856-.16102-.39362v-22.65674c0-.15506.05367-.28627.16102-.39362s.23855-.16102.39362-.16102h4.28205c.15507,0,.28627.05367.39362.16102s.16102.23856.16102.39362v2.09332c0,.12524.02386.19681.07156.20873.0477.01789.10139-.02386.16102-.11331,1.30012-2.01579,3.11911-3.02368,5.44502-3.02368.99,0,1.86072.20277,2.60621.60235h-.00597Z"/><path class="cls-2" d="M184.05694,49.47626c.10735-.10735.23855-.16102.39362-.16102h4.28205c.15507,0,.28627.05367.39362.16102s.16102.23856.16102.39362v21.63095c0,3.87652-1.10927,6.64375-3.32783,8.30171s-5.12296,2.48693-8.71917,2.48693c-.96017,0-1.90845-.04771-2.83881-.13717-.33994-.02982-.51288-.23259-.51288-.60235l.13718-3.81687c0-.33994.21469-.51289.65006-.51289.90055.09542,1.70566.13717,2.42133.13717,2.32591,0,4.03753-.45922,5.14085-1.37169s1.65199-2.45712,1.65199-4.62796v-.36976c0-.09542-.02981-.1491-.09542-.16102-.05964-.01789-.12524.00597-.18488.07157-1.27031,1.36573-3.07139,2.04561-5.39729,2.04561-2.01579,0-3.85862-.51289-5.53447-1.53271-1.67585-1.02579-2.83881-2.58832-3.48887-4.69953-.40554-1.45519-.60236-3.33381-.60236-5.62989,0-2.57639.25049-4.54447.74548-5.91019.62025-1.89055,1.68777-3.40537,3.20856-4.53254,1.52078-1.13314,3.30399-1.6997,5.34959-1.6997,2.45114,0,4.35959.71566,5.71935,2.14103.05964.09542.12524.12524.18488.09542.05964-.02982.09542-.09542.09542-.18488v-1.11525c0-.15506.05367-.28627.16102-.39362l.00597-.00597ZM183.82436,63.66431c.0477-.54271.07156-1.4194.07156-2.63007s-.02386-2.02175-.07156-2.53464-.1491-1.01386-.30416-1.50886c-.25049-1.02579-.75145-1.84283-1.51483-2.46308-.7574-.62024-1.72952-.93036-2.91037-.93036-1.11524,0-2.06349.31012-2.83881.93036-.7753.62024-1.3359,1.44326-1.67585,2.46308-.36976.87072-.56061,2.23049-.56061,4.09121s.15507,3.27416.46518,4.04947c.31011.99.87669,1.80705,1.69971,2.43923.82302.63813,1.80705.95422,2.95212.95422,1.21066,0,2.18875-.31012,2.92826-.93036.74548-.62024,1.24048-1.42536,1.49097-2.42133.12524-.46518.20874-.96615.25644-1.51482l.01194.00596Z"/><path class="cls-2" d="M213.91207,61.12966l-.0477,1.44326c0,.36976-.18488.56061-.56061.56061h-14.55781c-.15507,0-.2326.07753-.2326.23259.09542,1.02579.2326,1.72356.41748,2.09332.74548,2.23049,2.55851,3.36362,5.44502,3.39344,2.11121,0,3.78109-.87072,5.02159-2.60621.12524-.18488.2803-.2803.46518-.2803.12524,0,.2326.04771.32801.13717l2.88651,2.37362c.2803.2147.32801.46518.13718.74548-.96017,1.36573-2.24242,2.42133-3.84073,3.16085-1.59831.74548-3.37555,1.11525-5.32573,1.11525-2.42133,0-4.4729-.54271-6.16067-1.62814s-2.92229-2.60621-3.69761-4.5564c-.71567-1.67585-1.06754-4.00176-1.06754-6.97773,0-1.80109.18488-3.25627.56061-4.37152.62025-2.17085,1.78916-3.88248,3.51273-5.14086s3.79301-1.88458,6.20839-1.88458c6.107,0,9.55411,3.19663,10.32943,9.58394.12524.7753.18488,1.64603.18488,2.60621h-.00599ZM200.53511,54.45609c-.7574.57253-1.29417,1.37169-1.60428,2.39747-.18488.52482-.31011,1.21066-.36976,2.04561-.05964.15506,0,.23259.18488.23259h9.4408c.15507,0,.2326-.07753.2326-.23259-.05964-.7753-.15507-1.36573-.2803-1.7653-.2803-1.11525-.82899-1.98597-1.65199-2.60621-.82302-.62024-1.85475-.93036-3.09525-.93036-1.14507,0-2.09928.28627-2.86265.8588h.00595Z"/><g class="cls-3"><path class="cls-2" d="M235.13153,66.47926c0,3.72742-3.25032,7.04333-8.43292,7.04333s-8.36731-3.38748-8.67147-7.2461h4.84266c.13718,1.21663,1.42537,2.77916,3.79301,2.77916s3.62602-1.2882,3.62602-3.04754-1.2882-3.01176-3.79301-3.01176h-1.89651v-3.99579h1.72952c2.23645,0,3.42326-1.18681,3.42326-2.77917s-1.21663-2.80898-3.14892-2.80898c-2.13506,0-3.32188,1.2882-3.52465,2.57639h-4.84266c.26838-3.69164,3.52465-7.04333,8.29574-7.04333s8.06315,3.25031,8.06315,6.81074c0,2.16488-1.25242,3.89441-3.11911,4.94405,1.96212.91247,3.65585,2.7076,3.65585,5.79092l.00004-.01192Z"/><path class="cls-2" d="M254.54392,65.09564c0,4.67568-3.59024,8.43291-8.80863,8.43291s-8.80863-3.75724-8.80863-8.43291c0-2.7076,1.59236-5.1826,2.77917-6.94194l5.82669-8.77285h5.14682l-5.04543,7.44887c.20277,0,.40554-.03578.64409-.03578,4.77707,0,8.26591,3.62603,8.26591,8.29574v.00597ZM249.70126,65.09564c0-2.37362-1.79513-3.96001-3.96597-3.96001s-3.96002,1.59235-3.96002,3.96001,1.72952,3.96597,3.96002,3.96597,3.96597-1.59235,3.96597-3.96597Z"/><path class="cls-2" d="M256.23765,61.23105c0-8.09297,4.29994-12.2975,9.38117-12.2975s9.38117,4.19856,9.38117,12.2975-4.29994,12.2975-9.38117,12.2975-9.38117-4.19856-9.38117-12.2975ZM270.16329,61.23105c0-5.45098-2.20067-7.62182-4.5385-7.62182s-4.5385,2.16488-4.5385,7.62182,2.20067,7.62182,4.5385,7.62182,4.5385-2.16488,4.5385-7.62182Z"/></g><path class="cls-1" d="M13.36503,78.4726l-9.75689,3.50676c.31608.88265.66199,1.77127,1.01982,2.64796l9.57797-3.96001c-.29819-.72163-.58446-1.46115-.84687-2.1947h.00596ZM17.35486,86.97707l-8.93984,5.24821c.47711.81109.97807,1.61621,1.49097,2.40344l8.68936-5.65375c-.42343-.65603-.84091-1.32994-1.24048-1.9979ZM22.84162,94.61083l-7.8246,6.79881c.61428.7097,1.25838,1.41343,1.90247,2.09331l7.50851-7.15068c-.53675-.56657-1.0735-1.15102-1.58639-1.74145h0ZM23.29488,13.07877l6.43502,8.12875c.61428-.48904,1.24645-.96615,1.87862-1.4194l-6.05333-8.41502c-.75741.54868-1.52079,1.12121-2.26031,1.70567ZM23.18753,109.23424c.73952.58446,1.49693,1.16295,2.26031,1.71163l6.07122-8.40309c-.63217-.45922-1.26434-.93633-1.87862-1.42536l-6.45291,8.11087v.00596ZM32.65815,115.43666c.83494.44133,1.68777.87073,2.53464,1.27031l4.42519-9.3752c-.70374-.33398-1.41344-.68584-2.11121-1.05561l-4.85459,9.1605h.00596ZM11.02123,69.37173l-10.234,1.64603c.1491.93036.32205,1.86669.51289,2.78513l10.14454-2.11718c-.16102-.76337-.30416-1.54464-.4294-2.31398h.00596ZM99.45349,13.12648c-.73355-.58446-1.49693-1.15699-2.2603-1.71163l-6.06525,8.40906c.63814.45922,1.27031.93633,1.87862,1.4194l6.44098-8.12279.00596.00596ZM11.46256,50.63325l-10.14454-2.13507c-.19084.91844-.36976,1.85476-.51886,2.78513l10.234,1.66392c.12524-.7753.27434-1.55061.4294-2.31398ZM113.30159,37.97792l-.59639-10.37713-8.68935,5.70742,9.28575,4.67567v-.00596ZM99.81728,27.74988l7.81863-6.80478c-.61428-.70374-1.25838-1.40747-1.90844-2.09332l-7.49659,7.15664c.54271.56657,1.0735,1.15103,1.58639,1.74145ZM14.24768,41.6457l-9.57201-3.9779c-.3638.87072-.7097,1.7653-1.03175,2.64796l9.74496,3.53061c.26837-.73356.55464-1.47308.85283-2.1947l.00596-.00597ZM18.65498,33.33207l-8.67743-5.67164c-.51289.78723-1.01982,1.59832-1.49693,2.4094l8.92791,5.2661c.39958-.67392.81705-1.34783,1.24645-2.00386ZM24.50554,25.96072l-7.49062-7.16857c-.65006.67988-1.29416,1.38362-1.90844,2.09332l7.81267,6.81074c.51289-.59042,1.04964-1.17488,1.58639-1.74145v.00597ZM10.3652,61.17738c0-.39958,0-.79916.01193-1.19874L.01789,59.73412c-.01789.48307-.01789.96018-.01789,1.44326,0,.44133,0,.88265.01193,1.2882v.13717l10.36521-.32205c-.00596-.36976-.01193-.73952-.01193-1.10332ZM82.93954,107.39736l4.39537,9.38713c.84687-.39958,1.69971-.82302,2.53464-1.25838l-4.82477-9.17243c-.69181.3638-1.40151.71566-2.10525,1.04368ZM74.09511,110.57611l2.58235,10.03719c.90651-.23259,1.82494-.495,2.73145-.76934l-3.04754-9.90599c-.74548.23259-1.50886.44729-2.26031.63814h-.00596ZM74.17861,11.85021c.75145.19681,1.51482.41151,2.26627.6441l3.06543-9.90599c-.90054-.2803-1.81898-.53675-2.72549-.7753l-2.60621,10.03123v.00596ZM83.02303,15.04684c.7097.33398,1.4194.68584,2.10525,1.05561l4.84266-9.16647c-.83494-.44133-1.68778-.86476-2.54061-1.2703l-4.41326,9.38117h.00596ZM112.7231,94.82553l.5785-10.3831-9.27978,4.6876,8.70128,5.68953v.00597ZM91.04444,102.64416l6.04736,8.42098c.76337-.54867,1.52079-1.12121,2.2603-1.70567l-6.42905-8.13472c-.61428.48307-1.24645.96018-1.87862,1.41343v.00597ZM98.14741,96.47752l7.48466,7.16857c.65006-.67988,1.29416-1.38362,1.90844-2.08735l-7.80074-6.82267c-.51289.59043-1.04964,1.17488-1.59235,1.74145ZM43.22613,2.57639l3.0535,9.90599c.74548-.23259,1.50886-.44729,2.26031-.63813l-2.58832-10.03719c-.90651.23259-1.82494.495-2.73145.7753l.00597-.00596ZM32.7655,6.90616l4.8367,9.17243c.69181-.3638,1.40151-.71566,2.09928-1.04368l-4.40134-9.38713c-.84687.39958-1.6997.82301-2.53464,1.26434v-.00596ZM54.19368,122.13408c.93036.10735,1.88458.19681,2.82091.26241l.72163-10.34135c-.78127-.05367-1.5685-.12525-2.3438-.2147l-1.19277,10.29961-.00597-.00597ZM43.11878,119.79028c.90055.2803,1.81302.54271,2.72549.7753l2.61217-10.03123c-.75741-.19681-1.51482-.41747-2.26031-.6441l-3.07735,9.90003ZM64.89883,10.34135c.7753.05367,1.5685.12524,2.3438.2147l1.18085-10.2996C67.48715.1491,66.53889.05964,65.60257,0l-.7097,10.34135h.00597ZM54.307.25645l1.18085,10.2996c.7753-.08946,1.56254-.16102,2.34977-.2147l-.70374-10.34135c-.94229.0656-1.89055.1491-2.82091.25645h-.00597ZM64.80341,112.06708l.69777,10.34135c.94229-.0656,1.89055-.1491,2.82091-.25644l-1.16892-10.29961c-.7753.08945-1.56254.16103-2.34977.20874v.00596Z"/></svg>
+ </a>
+<a href="https://1105media.com/Home.aspx" class="corporate-logo" target="_blank" aria-label="1105 Media">
+  <img src="~/media/ECG/Converge360/design/1105companylogo.png" width="155" height="20" loading="lazy" alt=""> 
+</a>
+
+
+
+
+
+
+<NOINDEX>
+
+<!-- component markup start -->
+<div class='footer-sites nav'>
+    <ul class="footerlist"><li class=" aiboardroom-nav-link"><a href="https://aiboardroom.com/Home.aspx">AI Boardroom</a></li><li class=" adtmag-nav-link"><a href="https://adtmag.com/Home.aspx">ADTmag</a></li><li class=" awsinsider-nav-link"><a href="https://awsinsider.net/Home.aspx">AWS Insider</a></li><li class=" cst-nav-link"><a href="https://campussecuritytoday.com/Home.aspx">Campus Security Today</a></li><li class=" ct-nav-link"><a href="https://campustechnology.com/Home.aspx">Campus Technology</a></li><li><a href="https://eponline.com/Home.aspx">Environmental Protection</a></li><li class=" live360-nav-link"><a href="/ECG/live360events/Home.aspx">Live! 360</a></li><li class=" mcp-nav-link"><a href="https://mcpmag.com/Home.aspx">MCPmag</a></li><li class=" mci-nav-link"><a href="https://medcloudinsider.com/Home.aspx">MedCloudInsider</a></li><li class=" ohs-nav-link"><a href="https://ohsonline.com/Home.aspx">Occupational Health & Safety</a></li><li class=" pureai-nav-link"><a href="https://pureai.com/Home.aspx">Pure AI</a></li><li class=" redmond-nav-link"><a href="https://redmondmag.com/Home.aspx">Redmond    </a></li><li class=" rcp-nav-link"><a href="https://rcpmag.com/Home.aspx">Redmond&nbsp;Channel&nbsp;Partner</a></li><li class=" sectoday-nav-link"><a href="https://securitytoday.com/Home.aspx">Security Today</a></li><li class=" s4l-nav-link"><a href="https://spaces4learning.com/Home.aspx">Spaces 4 Learning</a></li><li class=" techmentor-nav-link"><a href="https://techmentorevents.com/Home.aspx">TechMentor</a></li><li><a href="https://techtacticsineducation.com/Home.aspx">Tech Tactics in Education</a></li><li class=" the-nav-link"><a href="https://thejournal.com/Home.aspx">THE Journal</a></li><li class=" virt-nav-link"><a href="https://virtualizationreview.com/Home.aspx">Virtualization & Cloud Review</a></li><li class=" vsm-nav-link"><a href="/Home.aspx">Visual Studio Magazine</a></li><li class=" vslive-nav-link"><a href="https://vslive.com/Home.aspx">Visual Studio Live!</a></li></ul>
+    <br class="clear" />
+</div>
+<!-- component markup end -->
+
+</NOINDEX>
+
+
+                
+                
+                
+                
+                <div class="skinad"></div>
+
+
+</div><!-- closing div -->
+
+
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <div id="Copyright_copyright" class="copyright">
+    <div class="copyright-inner">
+&copy  <script type="text/javascript">
+  var cur = 1996; var year = new Date(); if(cur == year.getFullYear()) year = year.getFullYear(); else year = cur + '-' + year.getFullYear(); 
+  document.querySelector(".copyright-inner").innerText += year;
+</script>
+
+<a href="https://1105media.com/home.aspx" target="_blank">1105 Media Inc</a>. See our <a href="https://1105media.com/pages/privacy-policy.aspx" target="_blank">Privacy Policy</a>, <a href="https://1105media.com/pages/cookie-policy.aspx" target="_blank">Cookie Policy</a> and <a href="https://1105media.com/pages/terms-of-use.aspx" target="_blank">Terms of Use</a>.  <a href="https://1105media.com/pages/privacy-policy.aspx#_Toc520738059">CA: Do Not Sell My Personal Info</a><br>
+<p align="center"><b><a href="/cdn-cgi/l/email-protection#f4d49386959995b4c5c5c4c19991909d95da979b99cb8781969e919780c9a691939586909d9a93d4a29d87819598878081909d9b999593958e9d9a91da979b99">Problems? Questions? Feedback? E-mail us.</a></b></p>
+</div>
+</div>
+            </footer>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+    	            
+    </div>
+
+    
+    
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="~/media/ECG/visualstudiomagazine/design/js/scriptsmin.js?v=5"></script>
+<script>var canRunAds = true;</script>
+
+<!--AdDAPTIVE SCRIPT-->
+<script>
+   (function() {
+       var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
+   s.type='text/javascript';
+   s.async=true;
+   s.src=sc+'s.dpmsrv.com/dpm_a93c168323147d1135503939396cac628dc194c5.min.js';
+   h.appendChild(s);
+   })();
+</script>
+<!-- END AdDAPTIVE SCRIPT-->
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="ad">
+        <div id="div-gpt-ad-pixel-0016">
+            <script type="text/javascript">
+                googletag.cmd.push(function() {
+                    googletag.display('div-gpt-ad-pixel-0016');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dpixel%26Topic%253dAI%252cGenAI&sz=1x1&tile=16&c=123456789" target="_blank" >
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/5978/eof.vsm&t=item%253d972d6e84_b311_47f5_886c_0e49aebd48ee%26pos%253dpixel%26Topic%253dAI%252cGenAI&sz=1x1&tile=16&c=123456789" border="0" alt="" />
+                </a>
+            </noscript>
+        </div>
+    </div>
+
+
+
+     
+<!-- ONECount Automation Widget -->
+<script>GCN.onecount.setTargeting()</script>
+<!-- End ONECount Automation Widget -->
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+            var postbackElement = null;
+
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_endRequest(RestoreFocus);
+            prm.add_beginRequest(SavePostbackElement);
+
+            function RestoreFocus(source, args)
+            {
+                document.getElementById(postbackElement.id).focus();
+            }
+            function SavePostbackElement(source, args)
+            {
+                postbackElement = args.get_postBackElement();
+            }
+            
+            function fireFoxFix(e){
+                if( navigator.userAgent.toLowerCase().indexOf('firefox') > -1 ){
+                  var KeyCode = (e.which) ? e.which : e.keyCode;
+                  if (KeyCode != 9) {
+                    var controll = e.currentTarget;
+                    controll.blur();
+                    controll.focus();                    
+                  }
+                }       
+            }//]]>
+</script>
+</form>
+</body>
+
+</html>

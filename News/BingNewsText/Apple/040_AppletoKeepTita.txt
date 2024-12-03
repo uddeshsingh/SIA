@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Tim Hardwick",
+        "Mitchel Broussard",
+        "Joe Rossignol",
+        "Hartley Charlton"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 07:57:38",
+    "description": "Next year's iPhone 17 Pro and iPhone 17 Pro Max will feature a titanium chassis just like the current Pro models, contrary to reports of Apple...",
+    "filename": ".json",
+    "image_url": "https://images.macrumors.com/t/0Rutap6SxySNPzIp14RrHUq9Uec=/1600x/article-new/2023/09/iphone-15-pro-titanium-ad.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Next year's iPhone 17 Pro and iPhone 17 Pro Max will feature a titanium chassis just like the current Pro models, contrary to reports of Apple adopting aluminum across its 2025 lineup, claims the Weibo leaker known as \"Instant Digital.\"\nLast month, The Information's Wayne Ma reported that Apple's two flagship \u200ciPhone 17\u200c Pro models would be the first high-end iPhones to feature an aluminum frame since the delineation of the iPhone lineup into Pro and non-Pro models.\nPrior to the iPhone 15 Pro, high-end \u200ciPhone\u200c models used stainless steel frames. Then Apple introduced a titanium chassis to the iPhone 15 Pro, touting it as a major upgrade. However, Ma reports that with the \u200ciPhone 17\u200c lineup, Apple is planning to transition the entire range of devices back to aluminum.\nInstant Digital doesn't agree, though. \"Of course the iPhone 17 Pro will still use titanium,\" said the leaker in a Weibo post (machine translation). \"Why would anyone believe it would switch to aluminum? Think about it \u2014 it's just not possible. Looking back at recent iPhone models, Apple has consistently emphasized the premium frame materials of the Pro series as one of its key selling points, from 'surgical-grade stainless steel' to 'titanium.' If they switched to aluminum, how could they even market it?\"\nIt's unclear if the Weibo leaker has supply chain information to back up their claim, but as a standalone argument, it's not particularly water-tight. The Information's Ma reported that the switch to aluminum is part of a major design change that includes an aluminum upper back with a \"rectangular camera bump made of aluminum rather than traditional 3D glass,\" with the bottom half of the device's back continuing to be made of glass to support wireless charging.\nApple is also no stranger to touting breakthrough iPhone features only to remove them in later models. In 2015, for example, 3D Touch was introduced with the iPhone 6s as a revolutionary way to interact with the iPhone through pressure-sensitive gestures like Peek and Pop. Apple unceremoniously ditched 3D Touch and the capacitive sensors that enabled it with the iPhone 11 in 2019.\nInstant Digital has a mixed reputation for accuracy with Apple rumors but has delivered some notably precise predictions. These include the 2023 launch of the Yellow iPhone 14, the frosted back glass on the iPhone 15 and \u200ciPhone 15\u200c Plus, the Apple Watch Series 9 being a minor refresh, spatial video capture on the \u200ciPhone 15\u200c Pro, the addition of a landscape front-facing camera to the iPad Air and iPad Pro, and the \u200ciPad Pro\u200c's nano-texture display option.\nThe iPhone 17 series is expected to launch as usual in the fall, with new display sizes, a rumored new ultra-thin model, ProMotion displays across the lineup, and more.\nRelated Roundup: iPhone 17",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple to Keep Titanium Chassis for iPhone 17 Pro Models, Claims Leaker",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

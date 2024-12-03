@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Umar Shakir"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:28:59",
+    "description": "Tesla\u2019s 2024 holiday update includes Apple Watch phone key support, rear cross-traffic alerts, remote access to Sentry recordings, Cybertruck Santa mode, and more.",
+    "filename": ".json",
+    "image_url": "https://cdn.vox-cdn.com/thumbor/b3tfByYqBw4dcCl40GeRaLHmGkE=/0x0:4267x2845/1200x628/filters:focal(2134x1423:2135x1424)/cdn.vox-cdn.com/uploads/chorus_asset/file/25769021/Screenshot_2024_12_02_at_9.10.08_AM.jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla is packing some big features into this year\u2019s Holiday Update, including a digital phone key for Apple Watch, Sentry Mode security video access from your phone, reverse cross-traffic alert safety add-in, a \u201cSanta Mode\u201d for Cybertruck, and more.\nTesla\u2019s update will start rolling out next week and will finally bring Apple Watch support to the Tesla app, including native phone key access. That means you can leave your smartphone behind to run errands or quickly pop your trunk to grab something after running outside without realizing you don\u2019t have your phone or wallet on you (I\u2019ve done this too many times with my Model 3 than I care to admit.)\nThe native Apple Watch experience lets you view the charge status, pop the frunk, and remotely warm up your car. Third-party smartwatch apps such as \u201cWatch for Tesla\u201d added this functionality in the absence of a first-party solution, but now Tesla has Sherlocked them all.\nAnother big new feature is the ability to view Dashcam and Sentry Mode recordings from your phone and save clips to your device to share crash footage with insurance or law enforcement quickly.\nIt wouldn\u2019t be a holiday update without the return of Tesla\u2019s light show that syncs the lights, sounds, and more between a number of vehicles. Tesla made two new shows this year and is also giving Cybertrucks a new Santa mode that turns the onscreen 3D Cybertruck into a Tesla Bot riding in a cyber sleigh. If Santa isn\u2019t your thing you can also now add wraps and custom plates to your onscreen Cybertruck. The truck is also getting Arcade games in the rear seat screen and a larger onscreen rear camera feed with pinch-to-zoom support.\nA couple other big features include bringing Model S and X\u2019s auto-shift feature to stalk-free Model 3 vehicles that attempts to guess when you want to shift between drive and reverse. It\u2019s a solution to a problem the automaker shoved onto customers as an apparent cost-cutting measure that is somehow not officially a safety concern.\nTesla does balance that out with a new and valuable safety update. There\u2019s now a rear cross-traffic alert feature that gives drivers an audible warning and a red bar on their rearview camera feed if it detects cars or pedestrians coming from behind while in reverse. Music can also now reduce volume automatically when in reverse, a feature that has long been available from other automakers.\nThe update also lets you set \u201carrival energy at destination,\u201d which means you can tell the Tesla how much battery charge you want at the end of the trip. That\u2019s useful if you know you can\u2019t charge at your destination and need to have reserve energy when you\u2019re ready for your next drive.\nFinally, there\u2019s the ability to search for places on your route with detour time estimates, weather and precipitation indicators on the map for your destination, a new Sirius XM app (for Model 3, Y, Cybertruck), TuneIn app improvements, in-vehicle maintenance summaries, the ability to adjust unoccupied passenger seats from the screen, door handle pull alert notifications, and a new party game called Boomerang Fu among other features. Oh, and the fart app can now go off as soon as someone sits down on a seat. Whoopie!",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla is launching an Apple Watch app",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

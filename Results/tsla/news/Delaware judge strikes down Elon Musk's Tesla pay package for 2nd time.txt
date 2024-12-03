@@ -1,0 +1,17 @@
+Authors: ['Grace Kay,Katherine Tangalakis-Lippert']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:41:14
+Description: Tesla shareholders approved Elon Musk's pay package in June, after it was voided by a judge in January. But that wasn't enough, the court ruled.
+Filename: .json
+Image_Url: https://media.zenfs.com/en/business_insider_articles_888/49d67882bda1daee89e984592ab7a8d4
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Delaware judge strikes down Elon Musk's Tesla pay package for 2nd time
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: "The large and talented group of defense firms got creative with the ratification argument, but their unprecedented theories go against multiple strains of settled law," a Monday filing from Delaware Chancellor Kathaleen St. J. McCormick reads. At the time, McCormick said Musk had too much power over the agreement due to his close relationships with board members and the ties led to an "unfair price." In late November, Business Insider reported that he'd broken his previous $340 billion wealth record after a Tesla stock surge following the presidential election. "Contrary to how some have read the Post-Trial Opinion, the court did not find that the Board should have paid Musk nothing," McCormick wrote in her Monday filing. In the months that followed the judge's original ruling, Tesla campaigned for Musk's pay and eventually came away with approval from over 70% of the voting shares.
+Financial_Events: []

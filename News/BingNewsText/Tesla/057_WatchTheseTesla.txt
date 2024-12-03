@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Timothy Smith"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:17:00",
+    "description": "Tesla shares are likely to remain in the spotlight after surging to a 15-month high Wednesday amid investor expectations that the EV maker could benefit from Donald Trump's win in the presidential election. Monitor these important chart levels.",
+    "filename": ".json",
+    "image_url": "https://www.investopedia.com/thmb/1Lf1ojh9nB-JQUMxTDp3VjWL41Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TSLAChart-3a2ad7865bc9471b97fdf410b9c1869a.gif",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla (TSLA) shares are likely to remain in the spotlight after surging Wednesday amid investor expectations that the EV maker could benefit from Donald Trump's return to the presidency, as CEO Elon Musk has been one of the former president's most prominent supporters.\nThe stock jumped 15% to $288.53, its highest level in 15 months, to lead Nasdaq Composite gainers on Wednesday. Tesla shares have more than doubled from their April low, boosted in part by optimism surrounding the automaker\u2019s robotaxi ambitions and plans to start production next year on a lower cost model vehicle.\nBelow, we take a closer look at Tesla's chart and use technical analysis to identify important price levels worth watching out for.\nAscending Triangle Breakout\nSince reaching their 2024 high in July, Tesla shares have traded within an ascending triangle, a bullish chart pattern that indicates a continuation of the stock\u2019s uptrend that started in April.\nTo be sure, the price staged a decisive volume-backed breakout on Wednesday, signaling conviction behind the move and potentially opening the door for further upside.\nMoreover, the relative strength index (RSI) confirms bullish price momentum with a reading approaching 70, but also points to nearing overbought conditions that could lead to short-term profit taking.\nLet\u2019s look at key overhead price levels on Tesla\u2019s chart that could come into play and also identify a couple of important support areas to monitor.\nKey Overhead Levels to Watch\nFirstly, it\u2019s worth keeping an eye on the $300 level, a location on the chart where the shares could run into selling pressure near the psychological round number and prominent July 2023 swing high.\nTo project an overhead level above this area, we can apply the measuring principle. We do this by calculating the depth of the ascending triangle near its widest point and adding that amount to the pattern\u2019s top trendline. In this case, we add $85 and $265, which forecasts an upside target of $350, an area where chart-based investors may consider locking in profits.\nImportant Support Areas to Monitor\nDuring declines, investors should initially monitor the $265 level, where the shares could attract buying interest near the ascending triangle\u2019s top trendline, a chart region that may flip from an area of prior resistance into future support.\nFinally, a deeper retracement could see Tesla shares revisit lower support around $230. Investors could seek buying opportunities in this area near a horizontal line connecting a range of comparable price action on the chart between November 2023 and September this year.\nThe comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info.",
+    "source_domain": null,
+    "text": null,
+    "title": "Watch These Tesla Price Levels as Stock Surges to 15-Month High",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Rebecca Bellan"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-13 13:45:39",
+    "description": "Tesla\u2019s Cybertruck is facing its sixth recall since its launch a year ago.\u00a0 The recall affects 2,431 units, including certain 2024 Cybertrucks built",
+    "filename": ".json",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2160758782.jpg?resize=1200,749",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla\u2019s Cybertruck is facing its sixth recall since its launch a year ago.\nThe recall affects 2,431 units, including certain 2024 Cybertrucks built between November 6, 2023 and July 30, 2024. A report from Tesla found that those trucks are or were equipped with a faulty drive inverter.\n\u201cIf the inverter stops producing torque, the driver loses the ability to apply torque to the vehicle using the accelerator pedal resulting in a loss of propulsion, which may increase the risk of a collision,\u201d reads Tesla\u2019s report.\nIn October, Tesla recalled 27,185 Cybertrucks due to a delay in the rearview camera image that could impair driver visibility. Unlike that recall, which required an over-the-air update, Tesla will need to physically replace the recalled drive inverter, which the EV-maker said it would do free of charge.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla issues sixth Cybertruck recall in a year",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

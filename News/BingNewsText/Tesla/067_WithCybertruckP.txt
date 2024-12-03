@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Brooke Crothers"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-03 23:16:05",
+    "description": "After Tesla dropped the price of Cybertruck last month, the pickup finally began to shed its outlandish cost stigma.",
+    "filename": ".json",
+    "image_url": "https://secure.gravatar.com/avatar/48b729581bf21a98a52694370573c39f?s=400&d=mm&r=g",
+    "language": "en",
+    "localpath": null,
+    "maintext": "After Tesla dropped the price of Cybertruck last month, the pickup finally began to shed its outlandish cost stigma.\nNo, it\u2019s not quite there yet but if you include the $7,500 Commercial Clean Vehicle Credit, an AWD Cybertruck can be had for $72,490 before taxes and fees. That\u2019s a vast improvement over the Foundation Series pricing that persisted for most of this year. Until October, prices for a Cybertruck that had any hope for delivery this year were astronomical. At least, $100,000.\nFor real?\nThe head-scratching, counterintuitive part of all of this is that the Cybertruck was the No.3 best selling EV in the U.S. in the third quarter, according to Cox Automotive (Cox\u2019s numbers represent Cybertruck sales pre price drop). Topping even the popular Ford F150 Lightning, Ford Mustang Mach-E, and Hyundai Ioniq. Yes, Tesla is still filling backorders. But you\u2019ve got to ask yourself, does that mean Tesla has another hit on its hands? And, if that\u2019s the case, does the lower price mean even higher demand going forward? After all, Tesla has promised an even cheaper trim for $60,990, which was listed on its website until August.\n\u201cThe Cybertruck is so unique and unprecedented that there is no benchmark for it and no way of knowing what its potential is,\u201d Tom Libby, an analyst at S&P Global Mobility, told me. \u201cIf its functionality is indeed competitive, which is my impression, then it has to be taken seriously in this category, even with the unique styling \u2014 which I think will be increasingly accepted as we move forward.\u201d\nCelebrity sales\nOne supernatural force driving CT sales is celebrities. The Cybertruck is now the status car in Los Angeles. And it is even becoming a common sight in suburban Los Angeles, where I live. (My neighbor a few doors down now owns one.) Plus the fact that it was initially impossible to get because of the long wait times, which added to the vibe of exclusivity. Throw in the insatiable appetite for Cybertruck chatter on social media and you have a cultural phenomenon. The point is, despite its polarizing design and high price, it\u2019s become a coveted American status symbol. Arguably the Model 3 and Model Y had similar cult followings which blossomed into mass appeal.\n\u201cI will say that I think people who dismiss it as being a fad and fading as soon as all the households with reservations have one, need to bear in mind that the Tesla brand remains very strong in the US market and needs to be taken seriously,\u201d Libby said.\nBut the Cybertruck alone is likely not going to carry Tesla like the Model 3 or Model Y could. Tesla\u2019s market share was down in the third quarter 4.5%, according to Cox. \u201cRecently Tesla has indeed been underperforming the rest of the EVs in the market,\u201d Libby said. \u201cIn August three of the four ongoing Tesla models were down and the fourth was up a hair. Tesla\u2019s August year-over-year increase was due almost entirely to the Cybertruck,\u201d he said.",
+    "source_domain": null,
+    "text": null,
+    "title": "With Cybertruck Price Drop, Will Tesla Have A Hit?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

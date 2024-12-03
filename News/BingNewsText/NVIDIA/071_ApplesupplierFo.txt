@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Gavin Bonshor"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-08 15:57:16",
+    "description": "How does 90 exaFLOPS sound?",
+    "filename": ".json",
+    "image_url": "https://regmedia.co.uk/2024/03/18/nvidia_blackwell_package.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Nvidia has confirmed it will be working with mega electronics contractor Foxconn to construct Taiwan's most powerful AI supercomputer.\nThe project, centered on the Hon Hai Kaohsiung Supercomputing Center, will be underpinned by Nvidia's Blackwell architecture to deliver over 90 exaFLOPS of \"AI computing power\" which these days is code for \"ever-lower precision\". In this case, FP4.\nThe system is expected to support a range of AI-driven applications across industries such as smart manufacturing, healthcare, robotics, and autonomous driving. For Foxconn, this move signifies its growing ambitions in high-performance computing (HPC), particularly in smart vehicles and electric vehicles (EVs) as it increasingly integrates AI into its business operations.\nThe system will host over 2,000 GB200 NVL graphics cards designed for advanced AI model training. As expected, the Nvidia-driven architecture will support up to 130 TBps of bandwidth for comms and is expected to incorporate Nvidia's DGX Cloud Infrastructure and Spectrum-X networking frameworks to support scalable AI model training.\nChina reportedly tells local AI buyers to ignore Nvidia\nInflection AI Enterprise offering ditches Nvidia GPUs for Intel's Gaudi 3\nTwo years after entering the graphics card game, Intel has nothing to show for it\nPatch now: Critical Nvidia bug allows container escape, complete host takeover\nFoxconn, the world's largest contract electronics manufacturer and iPhone supplier, has been diversifying into semiconductor packaging and EVs, among other sectors, and with the collab announced today will be hoping to reinforce Taiwan's growing importance in the global AI and HPC sectors. Industries ranging from robotics to medical research are poised to benefit from the new supercomputing resources, positioning Taiwan as an important player in the future of large-scale AI development, the company says.\n\"Powered by Nvidia's Blackwell platform, Foxconn's new AI supercomputer is one of the most powerful in the world, representing a significant leap forward in AI computing and efficiency,\" said Foxconn VP James Wu.\nThe partnership reflects broader industry trends, with more manufacturers seeking to dominate in AI and HPC. Taiwan, already a leader in these areas, is cementing its role as a global hub for advanced computing. The Hon Hai Kaohsiung Center is slated to begin deployment in 2025, with full operations expected by 2026. \u00ae",
+    "source_domain": null,
+    "text": null,
+    "title": "Foxconn, Nvidia to deploy Taiwan's fastest AI supercomputer",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,1434 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-f190a1aa51390321b51",applicationID:"818884498"};;/*! For license information please see nr-loader-rum-1.274.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{if(null===e[a]){r[a]=null;continue}Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},2555:(e,t,r)=>{"use strict";r.d(t,{Vp:()=>c,fn:()=>s,x1:()=>u});var n=r(384),i=r(8122);const o={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){try{const t=c(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}function c(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function u(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.a)(t,o);const r=(0,n.nY)(e);r&&(r.info=a[e])}},9417:(e,t,r)=>{"use strict";r.d(t,{D0:()=>g,gD:()=>h,xN:()=>p});var n=r(993);const i=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var o=r(2614),a=r(944),s=r(384),c=r(8122);const u="[data-nr-mask]",d=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},feature_flags:[],generic_events:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},harvest:{tooManyRequestsDelay:60},jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},logging:{enabled:!0,harvestTimeSeconds:10,autoStart:!0,level:n.p_.INFO},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},performance:{capture_marks:!1,capture_measures:!1},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:o.wk,inactiveMs:o.BB},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){i(t)?e.mask_selector="".concat(t,",").concat(u):""===t||null===t?e.mask_selector=u:(0,a.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){i(t)?e.block_selector+=",".concat(t):""!==t&&(0,a.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,a.R)(7,t)}},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},soft_navigations:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},ssl:void 0,user_actions:{enabled:!0}}},l={},f="All configuration objects require an agent identifier!";function g(e){if(!e)throw new Error(f);if(!l[e])throw new Error("Configuration for ".concat(e," was never set"));return l[e]}function p(e,t){if(!e)throw new Error(f);l[e]=(0,c.a)(t,d());const r=(0,s.nY)(e);r&&(r.init=l[e])}function h(e,t){if(!e)throw new Error(f);var r=g(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}},3371:(e,t,r)=>{"use strict";r.d(t,{V:()=>f,f:()=>l});var n=r(8122),i=r(384),o=r(6154),a=r(9324);let s=0;const c={buildEnv:a.F3,distMethod:a.Xs,version:a.xv,originTime:o.WN},u={customTransaction:void 0,disabled:!1,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,onerror:void 0,ptid:void 0,releaseIds:{},appMetadata:{},session:void 0,denyList:void 0,timeKeeper:void 0,obfuscator:void 0},d={};function l(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!d[e])throw new Error("Runtime for ".concat(e," was never set"));return d[e]}function f(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");d[e]={...(0,n.a)(t,u),...c},Object.hasOwnProperty.call(d[e],"harvestCount")||Object.defineProperty(d[e],"harvestCount",{get:()=>++s});const r=(0,i.nY)(e);r&&(r.runtime=d[e])}},9324:(e,t,r)=>{"use strict";r.d(t,{F3:()=>i,Xs:()=>o,xv:()=>n});const n="1.274.0",i="PROD",o="CDN"},6154:(e,t,r)=>{"use strict";r.d(t,{OF:()=>c,RI:()=>i,WN:()=>d,bv:()=>o,gm:()=>a,mw:()=>s,sb:()=>u});var n=r(1863);const i="undefined"!=typeof window&&!!window.document,o="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),s=Boolean("hidden"===a?.document?.visibilityState),c=/iPad|iPhone|iPod/.test(a.navigator?.userAgent),u=c&&"undefined"==typeof SharedWorker,d=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Date.now()-(0,n.t)())},1687:(e,t,r)=>{"use strict";r.d(t,{Ak:()=>c,Ze:()=>l,x3:()=>u});var n=r(7836),i=r(3606),o=r(860),a=r(2646);const s={};function c(e,t){const r={staged:!1,priority:o.P3[t]||0};d(e),s[e].get(t)||s[e].set(t,r)}function u(e,t){e&&s[e]&&(s[e].get(t)&&s[e].delete(t),g(e,t,!1),s[e].size&&f(e))}function d(e){if(!e)throw new Error("agentIdentifier required");s[e]||(s[e]=new Map)}function l(e="",t="feature",r=!1){if(d(e),!e||!s[e].get(t)||r)return g(e,t);s[e].get(t).staged=!0,f(e)}function f(e){const t=Array.from(s[e]);t.every((([e,t])=>t.staged))&&(t.sort(((e,t)=>e[1].priority-t[1].priority)),t.forEach((([t])=>{s[e].delete(t),g(e,t)})))}function g(e,t,r=!0){const o=e?n.ee.get(e):n.ee,s=i.i.handlers;if(!o.aborted&&o.backlog&&s){if(r){const e=o.backlog[t],r=s[t];if(r){for(let t=0;e&&t<e.length;++t)p(e[t],r);Object.entries(r).forEach((([e,t])=>{Object.values(t||{}).forEach((t=>{t[0]?.on&&t[0]?.context()instanceof a.y&&t[0].on(e,t[1])}))}))}}o.isolatedBacklog||delete s[t],o.backlog[t]=null,o.emit("drain-"+t,[])}}function p(e,t){var r=e[1];Object.values(t[r]||{}).forEach((t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],o=e[2];n.apply(i,o)}}))}},7836:(e,t,r)=>{"use strict";r.d(t,{P:()=>c,ee:()=>u});var n=r(384),i=r(8990),o=r(3371),a=r(2646),s=r(5607);const c="nr@context:".concat(s.W),u=function e(t,r){var n={},s={},d={},l=!1;try{l=16===r.length&&(0,o.f)(r).isolatedBacklog}catch(e){}var f={on:p,addEventListener:p,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=g(n),c=h(e),d=c.length,l=0;l<d;l++)c[l].apply(a,r);var p=m()[s[e]];p&&p.push([f,e,r,a]);return a},get:v,listeners:h,context:g,buffer:function(e,t){const r=m();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach((([e,n])=>{s[n]=t,t in r||(r[t]=[])}))},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach((e=>{delete f.backlog[e]}))},isBuffering:function(e){return!!m()[s[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function g(e){return e&&e instanceof a.y?e:e?(0,i.I)(e,c,(()=>new a.y(c))):new a.y(c)}function p(e,t){n[e]=h(e).concat(t)}function h(e){return n[e]||[]}function v(t){return d[t]=d[t]||e(f,t)}function m(){return f.backlog}}(void 0,"globalEE"),d=(0,n.Zm)();d.ee||(d.ee=u)},2646:(e,t,r)=>{"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},9908:(e,t,r)=>{"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},3606:(e,t,r)=>{"use strict";r.d(t,{i:()=>o});var n=r(9908);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.d,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.d);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3878:(e,t,r)=>{"use strict";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function o(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>o,jT:()=>n,sp:()=>i})},5607:(e,t,r)=>{"use strict";r.d(t,{W:()=>n});const n=(0,r(9566).bz)()},9566:(e,t,r)=>{"use strict";r.d(t,{LA:()=>s,bz:()=>a});var n=r(6154);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}},2614:(e,t,r)=>{"use strict";r.d(t,{BB:()=>a,H3:()=>n,g:()=>u,iL:()=>c,tS:()=>s,uh:()=>i,wk:()=>o});const n="NRBA",i="SESSION",o=144e5,a=18e5,s={STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},c={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},u={OFF:0,FULL:1,ERROR:2}},1863:(e,t,r)=>{"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},944:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.debug&&console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},5284:(e,t,r)=>{"use strict";r.d(t,{t:()=>c,B:()=>s});var n=r(7836),i=r(6154);const o="newrelic";const a=new Set,s={};function c(e,t){const r=n.ee.get(t);s[t]??={},e&&"object"==typeof e&&(a.has(t)||(r.emit("rumresp",[e]),s[t]=e,a.add(t),function(e={}){try{i.gm.dispatchEvent(new CustomEvent(o,{detail:e}))}catch(e){}}({loaded:!0})))}},8990:(e,t,r)=>{"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},6389:(e,t,r)=>{"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout((()=>{i=clearTimeout(i)}),t)),n||(clearTimeout(i),i=setTimeout((()=>{e.apply(this,r)}),t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},5289:(e,t,r)=>{"use strict";r.d(t,{GG:()=>o,sB:()=>a});var n=r(3878);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.sp)("load",e,t)}function a(e){if(i())return e();(0,n.DD)("DOMContentLoaded",e)}},384:(e,t,r)=>{"use strict";r.d(t,{NT:()=>o,US:()=>d,Zm:()=>a,bQ:()=>c,dV:()=>s,nY:()=>u,pV:()=>l});var n=r(6154),i=r(1863);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function s(){let e=a();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function d(e,t){a()[e]=t}function l(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},2843:(e,t,r)=>{"use strict";r.d(t,{u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3434:(e,t,r)=>{"use strict";r.d(t,{YM:()=>c});var n=r(7836),i=r(5607);const o="nr@original:".concat(i.W);var a=Object.prototype.hasOwnProperty,s=!1;function c(e,t){return e||(e=n.ee),r.inPlace=function(e,t,n,i,o){n||(n="");const a="-"===n.charAt(0);for(let s=0;s<t.length;s++){const c=t[s],u=e[c];d(u)||(e[c]=r(u,a?c+n:n,i,c,o))}},r.flag=o,r;function r(t,r,n,s,c){return d(t)?t:(r||(r=""),nrWrapper[o]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach((function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})})),t}catch(e){u([e],r)}for(var n in e)a.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function nrWrapper(){var o,a,d,l;try{a=this,o=[...arguments],d="function"==typeof n?n(o,a):n||{}}catch(t){u([t,"",[o,a,s],d],e)}i(r+"start",[o,a,s],d,c);try{return l=t.apply(a,o)}catch(e){throw i(r+"err",[o,a,e],d,c),e}finally{i(r+"end",[o,a,l],d,c)}}}function i(r,n,i,o){if(!s||t){var a=s;s=!0;try{e.emit(r,n,i,t,o)}catch(t){u([t,r,n,i],e)}s=a}}}function u(e,t){t||(t=n.ee);try{t.emit("internal-error",e)}catch(e){}}function d(e){return!(e&&"function"==typeof e&&e.apply&&!e[o])}},993:(e,t,r)=>{"use strict";r.d(t,{ET:()=>o,p_:()=>i});var n=r(860);const i={ERROR:"ERROR",WARN:"WARN",INFO:"INFO",DEBUG:"DEBUG",TRACE:"TRACE"},o="log";n.K7.logging},3969:(e,t,r)=>{"use strict";r.d(t,{TZ:()=>n,XG:()=>s,rs:()=>i,xV:()=>a,z_:()=>o});const n=r(860).K7.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},6630:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.pageViewEvent},782:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.pageViewTiming},6344:(e,t,r)=>{"use strict";r.d(t,{G4:()=>i});var n=r(2614);r(860).K7.sessionReplay;const i={RECORD:"recordReplay",PAUSE:"pauseReplay",REPLAY_RUNNING:"replayRunning",ERROR_DURING_REPLAY:"errorDuringReplay"};n.g.ERROR,n.g.FULL,n.g.OFF},4234:(e,t,r)=>{"use strict";r.d(t,{W:()=>o});var n=r(7836),i=r(1687);class o{constructor(e,t){this.agentIdentifier=e,this.ee=n.ee.get(e),this.featureName=t,this.blocked=!1}deregisterDrain(){(0,i.x3)(this.agentIdentifier,this.featureName)}}},7603:(e,t,r)=>{"use strict";r.d(t,{j:()=>P});var n=r(860),i=r(2555),o=r(3371),a=r(9908),s=r(7836),c=r(1687),u=r(5289),d=r(6154),l=r(944),f=r(3969),g=r(384),p=r(6344);const h=["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start",p.G4.RECORD,p.G4.PAUSE,"log","wrapLogger"],v=["setErrorHandler","finished","addToTrace","addRelease"];var m=r(1863),b=r(2614),y=r(993);var w=r(2646),A=r(3434);function R(e,t,r,n){if("object"!=typeof t||!t||"string"!=typeof r||!r||"function"!=typeof t[r])return(0,l.R)(29);const i=function(e){return(e||s.ee).get("logger")}(e),o=(0,A.YM)(i),a=new w.y(s.P);return a.level=n.level,a.customAttributes=n.customAttributes,o.inPlace(t,[r],"wrap-logger-",a),i}function E(){const e=(0,g.pV)();h.forEach((t=>{e[t]=(...r)=>function(t,...r){let n=[];return Object.values(e.initializedAgents).forEach((e=>{e&&e.api?e.exposed&&e.api[t]&&n.push(e.api[t](...r)):(0,l.R)(38,t)})),n.length>1?n:n[0]}(t,...r)}))}const x={};function _(e,t,g=!1){t||(0,c.Ak)(e,"api");const h={};var w=s.ee.get(e),A=w.get("tracer");x[e]=b.g.OFF,w.on(p.G4.REPLAY_RUNNING,(t=>{x[e]=t}));var E="api-",_=E+"ixn-";function N(t,r,n,o){const a=(0,i.Vp)(e);return null===r?delete a.jsAttributes[t]:(0,i.x1)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),j(E,n,!0,o||null===r?"session":void 0)(t,r)}function T(){}h.log=function(e,{customAttributes:t={},level:r=y.p_.INFO}={}){(0,a.p)(f.xV,["API/log/called"],void 0,n.K7.metrics,w),function(e,t,r={},i=y.p_.INFO){(0,a.p)(f.xV,["API/logging/".concat(i.toLowerCase(),"/called")],void 0,n.K7.metrics,e),(0,a.p)(y.ET,[(0,m.t)(),t,r,i],void 0,n.K7.logging,e)}(w,e,t,r)},h.wrapLogger=(e,t,{customAttributes:r={},level:i=y.p_.INFO}={})=>{(0,a.p)(f.xV,["API/wrapLogger/called"],void 0,n.K7.metrics,w),R(w,e,t,{customAttributes:r,level:i})},v.forEach((e=>{h[e]=j(E,e,!0,"api")})),h.addPageAction=j(E,"addPageAction",!0,n.K7.genericEvents),h.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,o.f)(e).customTransaction=(r||"http://custom.transaction")+t,j(E,"setPageViewName",!0)()},h.setCustomAttribute=function(e,t,r=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return N(e,t,"setCustomAttribute",r);(0,l.R)(40,typeof t)}else(0,l.R)(39,typeof e)},h.setUserId=function(e){if("string"==typeof e||null===e)return N("enduser.id",e,"setUserId",!0);(0,l.R)(41,typeof e)},h.setApplicationVersion=function(e){if("string"==typeof e||null===e)return N("application.version",e,"setApplicationVersion",!1);(0,l.R)(42,typeof e)},h.start=()=>{try{(0,a.p)(f.xV,["API/start/called"],void 0,n.K7.metrics,w),w.emit("manual-start-all")}catch(e){(0,l.R)(23,e)}},h[p.G4.RECORD]=function(){(0,a.p)(f.xV,["API/recordReplay/called"],void 0,n.K7.metrics,w),(0,a.p)(p.G4.RECORD,[],void 0,n.K7.sessionReplay,w)},h[p.G4.PAUSE]=function(){(0,a.p)(f.xV,["API/pauseReplay/called"],void 0,n.K7.metrics,w),(0,a.p)(p.G4.PAUSE,[],void 0,n.K7.sessionReplay,w)},h.interaction=function(e){return(new T).get("object"==typeof e?e:{})};const S=T.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xV,["API/createTracer/called"],void 0,n.K7.metrics,w),g||(0,a.p)(_+"tracer",[(0,m.t)(),e,r],i,n.K7.spa,w),function(){if(A.emit((o?"":"no-")+"fn-start",[(0,m.t)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){const t="string"==typeof e?new Error(e):e;throw A.emit("fn-err",[arguments,this,t],r),t}finally{A.emit("fn-end",[(0,m.t)()],r)}}}};function j(e,t,r,i){return function(){return(0,a.p)(f.xV,["API/"+t+"/called"],void 0,n.K7.metrics,w),i&&(0,a.p)(e+t,[(0,m.t)(),...arguments],r?null:this,i,w),r?void 0:this}}function k(){r.e(296).then(r.bind(r,8778)).then((({setAPI:t})=>{t(e),(0,c.Ze)(e,"api")})).catch((e=>{(0,l.R)(27,e),w.abort()}))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{S[e]=j(_,e,void 0,g?n.K7.softNav:n.K7.spa)})),h.setCurrentRouteName=g?j(_,"routeName",void 0,n.K7.softNav):j(E,"routeName",!0,n.K7.spa),h.noticeError=function(t,r){"string"==typeof t&&(t=new Error(t)),(0,a.p)(f.xV,["API/noticeError/called"],void 0,n.K7.metrics,w),(0,a.p)("err",[t,(0,m.t)(),!1,r,!!x[e]],void 0,n.K7.jserrors,w)},d.RI?(0,u.GG)((()=>k()),!0):k(),h}var N=r(9417),T=r(8122);const S={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},j={};var k=r(5284);const I=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let O=!1;function P(e,t={},r,n){let{init:a,info:c,loader_config:u,runtime:l={},exposed:f=!0}=t;l.loaderType=r;const p=(0,g.pV)();c||(a=p.init,c=p.info,u=p.loader_config),(0,N.xN)(e.agentIdentifier,a||{}),function(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");j[e]=(0,T.a)(t,S);const r=(0,g.nY)(e);r&&(r.loader_config=j[e])}(e.agentIdentifier,u||{}),c.jsAttributes??={},d.bv&&(c.jsAttributes.isWorker=!0),(0,i.x1)(e.agentIdentifier,c);const h=(0,N.D0)(e.agentIdentifier),v=[c.beacon,c.errorBeacon];O||(h.proxy.assets&&(I(h.proxy.assets),v.push(h.proxy.assets)),h.proxy.beacon&&v.push(h.proxy.beacon),E(),(0,g.US)("activatedFeatures",k.B),e.runSoftNavOverSpa&&=!0===h.soft_navigations.enabled&&h.feature_flags.includes("soft_nav")),l.denyList=[...h.ajax.deny_list||[],...h.ajax.block_internal?v:[]],l.ptid=e.agentIdentifier,(0,o.V)(e.agentIdentifier,l),e.ee=s.ee.get(e.agentIdentifier),void 0===e.api&&(e.api=_(e.agentIdentifier,n,e.runSoftNavOverSpa)),void 0===e.exposed&&(e.exposed=f),O=!0}},8374:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},860:(e,t,r)=>{"use strict";r.d(t,{$J:()=>o,K7:()=>n,P3:()=>i});const n={ajax:"ajax",genericEvents:"generic_events",jserrors:"jserrors",logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.spa]:5,[n.ajax]:6,[n.sessionTrace]:7,[n.softNav]:8,[n.sessionReplay]:9,[n.logging]:10,[n.genericEvents]:11},o={[n.pageViewTiming]:"events",[n.ajax]:"events",[n.spa]:"events",[n.softNav]:"events",[n.metrics]:"jserrors",[n.jserrors]:"jserrors",[n.sessionTrace]:"browser/blobs",[n.sessionReplay]:"browser/blobs",[n.logging]:"browser/logs",[n.genericEvents]:"ins"}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.274.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.274.0.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={296:"sha512-gkYkZDAwQ9PwaDXs2YM+rNIdRej1Ac1mupWobRJ8eahQcXz6/sunGZCKklrzi5kWxhOGRZr2tn0rEKuLTXzfAA=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={840:0,374:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.274.0.PROD"]=self["webpackChunk:NRBA-1.274.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(8374);var e=i(944),t=i(6344),r=i(9566);class n{agentIdentifier;constructor(e=(0,r.LA)(16)){this.agentIdentifier=e}#e(t,...r){if("function"==typeof this.api?.[t])return this.api[t](...r);(0,e.R)(35,t)}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}addRelease(e,t){return this.#e("addRelease",e,t)}log(e,t){return this.#e("log",e,t)}}class o extends n{#e(t,...r){if("function"==typeof this.api?.[t])return this.api[t](...r);(0,e.R)(35,t)}start(){return this.#e("start")}finished(e){return this.#e("finished",e)}recordReplay(){return this.#e(t.G4.RECORD)}pauseReplay(){return this.#e(t.G4.PAUSE)}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}wrapLogger(e,t,r){return this.#e("wrapLogger",e,t,r)}}var a=i(860),s=i(9417);const c=Object.values(a.K7);function u(e){const t={};return c.forEach((r=>{t[r]=function(e,t){return!0===(0,s.gD)(t,"".concat(e,".enabled"))}(r,e)})),t}var d=i(7603);var l=i(1687),f=i(4234),g=i(5289),p=i(6154),h=i(384);const v=e=>p.RI&&!0===(0,s.gD)(e,"privacy.cookies_enabled");function m(e){return!!(0,h.dV)().o.MO&&v(e)&&!0===(0,s.gD)(e,"session_trace.enabled")}var b=i(6389);class y extends f.W{constructor(e,t,r=!0){super(e.agentIdentifier,t),this.auto=r,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===e.init[this.featureName].autoStart&&(this.auto=!1),this.auto?(0,l.Ak)(e.agentIdentifier,t):this.ee.on("manual-start-all",(0,b.J)((()=>{(0,l.Ak)(e.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator(e)})))}importAggregator(t,r={}){if(this.featAggregate||!this.auto)return;let n;this.onAggregateImported=new Promise((e=>{n=e}));const o=async()=>{let o;try{if(v(this.agentIdentifier)){const{setupAgentSession:e}=await i.e(296).then(i.bind(i,3861));o=e(t)}}catch(t){(0,e.R)(20,t),this.ee.emit("internal-error",[t]),this.featureName===a.K7.sessionReplay&&this.abortHandler?.()}try{if(t.sharedAggregator)await t.sharedAggregator;else{t.sharedAggregator=i.e(296).then(i.bind(i,9337));const{EventAggregator:e}=await t.sharedAggregator;t.sharedAggregator=new e}if(!this.#t(this.featureName,o))return(0,l.Ze)(this.agentIdentifier,this.featureName),void n(!1);const{lazyFeatureLoader:e}=await i.e(296).then(i.bind(i,6103)),{Aggregate:a}=await e(this.featureName,"aggregate");this.featAggregate=new a(t,r),n(!0)}catch(t){(0,e.R)(34,t),this.abortHandler?.(),(0,l.Ze)(this.agentIdentifier,this.featureName,!0),n(!1),this.ee&&this.ee.abort()}};p.RI?(0,g.GG)((()=>o()),!0):o()}#t(e,t){switch(e){case a.K7.sessionReplay:return m(this.agentIdentifier)&&!!t;case a.K7.sessionTrace:return!!t;default:return!0}}}var w=i(6630);class A extends y{static featureName=w.T;constructor(e,t=!0){super(e,w.T,t),this.importAggregator(e)}}var R=i(9908),E=i(2843),x=i(3878),_=i(782),N=i(1863);class T extends y{static featureName=_.T;constructor(e,t=!0){super(e,_.T,t),p.RI&&((0,E.u)((()=>(0,R.p)("docHidden",[(0,N.t)()],void 0,_.T,this.ee)),!0),(0,x.sp)("pagehide",(()=>(0,R.p)("winPagehide",[(0,N.t)()],void 0,_.T,this.ee))),this.importAggregator(e))}}var S=i(3969);class j extends y{static featureName=S.TZ;constructor(e,t=!0){super(e,S.TZ,t),this.importAggregator(e)}}new class extends o{constructor(t,r){super(r),p.gm?(this.features={},(0,h.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(A),this.runSoftNavOverSpa=[...this.desiredFeatures].some((e=>e.featureName===a.K7.softNav)),(0,d.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}run(){try{const t=u(this.agentIdentifier),r=[...this.desiredFeatures];r.sort(((e,t)=>a.P3[e.featureName]-a.P3[t.featureName])),r.forEach((r=>{if(!t[r.featureName]&&r.featureName!==a.K7.pageViewEvent)return;if(this.runSoftNavOverSpa&&r.featureName===a.K7.spa)return;if(!this.runSoftNavOverSpa&&r.featureName===a.K7.softNav)return;const n=function(e){switch(e){case a.K7.ajax:return[a.K7.jserrors];case a.K7.sessionTrace:return[a.K7.ajax,a.K7.pageViewEvent];case a.K7.sessionReplay:return[a.K7.sessionTrace];case a.K7.pageViewTiming:return[a.K7.pageViewEvent];default:return[]}}(r.featureName).filter((e=>!(e in this.features)));n.length>0&&(0,e.R)(36,{targetFeature:r.featureName,missingDependencies:n}),this.features[r.featureName]=new r(this)}))}catch(t){(0,e.R)(22,t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,h.Zm)();delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return r.ee.get(this.agentIdentifier).abort(),!1}}}({features:[A,T,j],loaderType:"lite"})})()})();</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.5 (Yoast SEO v23.5) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations | KRDO</title>
+	<meta name="description" content="A live TV news station covering breaking news and traffic for Colorado Springs, Pueblo, and Southern Colorado with a strong investigative team" />
+	<link rel="canonical" href="https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations" />
+	<meta property="og:description" content="A live TV news station covering breaking news and traffic for Colorado Springs, Pueblo, and Southern Colorado with a strong investigative team" />
+	<meta property="og:url" content="https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/" />
+	<meta property="og:site_name" content="KRDO" />
+	<meta property="article:published_time" content="2024-12-02T21:56:02+00:00" />
+	<meta property="article:modified_time" content="2024-12-02T18:25:25+00:00" />
+	<meta name="author" content="CNN Newssource" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/#article","isPartOf":{"@id":"https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/"},"author":{"name":"CNN Newssource","@id":"https://krdo.com/#/schema/person/525a576114d4f0bd27df9749d504f02f"},"headline":"After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations","datePublished":"2024-12-02T21:56:02+00:00","dateModified":"2024-12-02T18:25:25+00:00","mainEntityOfPage":{"@id":"https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/"},"wordCount":950,"publisher":{"@id":"https://krdo.com/#organization"},"articleSection":["CNN - World","News"],"inLanguage":"en-US","copyrightYear":"2024","copyrightHolder":{"@id":"https://krdo.com/#organization"}},{"@type":"WebPage","@id":"https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/","url":"https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/","name":"After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations | KRDO","isPartOf":{"@id":"https://krdo.com/#website"},"datePublished":"2024-12-02T21:56:02+00:00","dateModified":"2024-12-02T18:25:25+00:00","description":"A live TV news station covering breaking news and traffic for Colorado Springs, Pueblo, and Southern Colorado with a strong investigative team","breadcrumb":{"@id":"https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/"]}]},{"@type":"BreadcrumbList","@id":"https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://krdo.com/"},{"@type":"ListItem","position":2,"name":"After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations"}]},{"@type":"WebSite","@id":"https://krdo.com/#website","url":"https://krdo.com/","name":"KRDO","description":"Where the News Comes First","publisher":{"@id":"https://krdo.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://krdo.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://krdo.com/#organization","name":"KRDO13","url":"https://krdo.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://krdo.com/#/schema/logo/image/","url":"https://krdo.b-cdn.net/2019/12/krdo_logo_xxsm.png","contentUrl":"https://krdo.b-cdn.net/2019/12/krdo_logo_xxsm.png","width":120,"height":45,"caption":"KRDO13"},"image":{"@id":"https://krdo.com/#/schema/logo/image/"}},{"@type":"Person","@id":"https://krdo.com/#/schema/person/525a576114d4f0bd27df9749d504f02f","name":"CNN Newssource","url":"https://krdo.com/author/cnn-newsource/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//krdo.com' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel="alternate" type="application/rss+xml" title="KRDO &raquo; Feed" href="https://krdo.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KRDO &raquo; Comments Feed" href="https://krdo.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/krdo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://krdo.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='https://krdo.com/wp-includes/css/dist/components/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='https://krdo.com/wp-includes/css/dist/preferences/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://krdo.com/wp-includes/css/dist/block-editor/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css' href='https://krdo.com/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-patterns-css' href='https://krdo.com/wp-includes/css/dist/patterns/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css' href='https://krdo.com/wp-includes/css/dist/editor/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mux_video_block_style-css' href='https://krdo.com/wp-content/plugins/ilab-media-tools-premium/public/blocks/mediacloud-mux.blocks.style.css' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='npg-styles-css' href='https://krdo.com/wp-content/themes/storymate-npg/build/css/theme.min.css?ver=1.4.21' type='text/css' media='all' />
+<link rel='stylesheet' id='ad-styles-css' href='https://krdo.com/wp-content/themes/storymate-theme/build/css/theme.min.css?ver=1.4.21' type='text/css' media='all' />
+<link rel='stylesheet' id='style_login_widget-css' href='https://krdo.com/wp-content/plugins/miniorange-oauth-oidc-single-sign-on/resources/css/style_login_widget.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-a11y-css' href='https://krdo.com/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<script type="text/javascript" src="https://krdo.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://krdo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js" id="gpt-js"></script>
+<link rel="https://api.w.org/" href="https://krdo.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://krdo.com/wp-json/wp/v2/posts/1444976" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://krdo.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.2" />
+<link rel='shortlink' href='https://krdo.com/?p=1444976' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://krdo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkrdo.com%2Fnews%2F2024%2F12%2F02%2Fafter-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://krdo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkrdo.com%2Fnews%2F2024%2F12%2F02%2Fafter-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations%2F&#038;format=xml" />
+<style type="text/css">
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{ background-color: #4054b2;	color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{ border-color: #4054b2;}
+body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width: 1px !important;	outline-color: #FF0000 !important;}
+#pojo-a11y-toolbar{ top: 100px !important;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay{ background-color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title{ color: #333333;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active{ background-color: #4054b2;	color: #ffffff;}
+@media (max-width: 767px) { #pojo-a11y-toolbar { top: 150px !important; } }</style><link rel="icon" href="https://krdo.b-cdn.net/2019/11/cropped-krdo-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://krdo.b-cdn.net/2019/11/cropped-krdo-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://krdo.b-cdn.net/2019/11/cropped-krdo-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://krdo.b-cdn.net/2019/11/cropped-krdo-logo-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			body {
+    font-family: Verdana !important;
+}
+
+#related_posts, #related-posts{
+	min-height:20px;
+	margin:10px 0px;
+}
+
+article > a:nth-child(2) {
+	display:none;
+}
+
+.code-block {
+	background-color:#ffffff;
+}
+
+@media (min-width: 1200px) {
+.container {
+    max-width: 1260px;
+	}
+}
+
+.code-block-1 {
+    padding: 18px;
+    margin: 0px !important;
+    z-index: 1;
+    position: relative;
+}
+
+#x-reveal-ad .row {
+flex-wrap:inherit;
+}
+
+.header .menu-search {
+    display: block !important;
+}
+
+.footer.panel-group {
+		margin: 0px auto;
+		padding: 10px 0px 0px 0px !important;
+    background-color: #ebebeb;
+    max-width: none !important;
+}
+
+.video-responsive {
+    height: 100%;
+}
+
+iframe#x-reveal-yt-frame {
+    height: 100%;
+width:100%
+}
+
+.reveal-col {
+    max-width: none !important;
+}
+
+@media screen and (max-width: 480px)
+{
+#pojo-a11y-toolbar {
+    position: absolute;
+}
+}
+figcaption {
+    font-size: 16px;
+    font-style: italic;
+}
+
+@media (min-width: 992px) {
+
+.related-posts .col-lg-6 {
+    flex: 0 0 25% !important;
+    max-width: 25% !important;
+	}
+}
+
+.related-posts .story__title a {
+    font-size: 16px;
+    font-weight: bold;
+}
+	
+figcaption.photo-credit {
+    font-style: normal;
+}
+#variant-0 #story-columns-2 {
+	
+	min-height:670px;
+}
+
+.story__title {
+	hyphens: none !important;	
+}
+
+.sidebar__story .story--md .hdg {
+    font-size: 1rem;
+}
+
+.mediaitem--image {
+	padding-bottom:16px;
+}
+
+.twitter-tweet-rendered {
+margin: 0px auto;
+}
+
+.wp-block-image {
+    text-align:center;
+}
+
+.wp-block-embed__wrapper {
+    text-align: center;
+}
+
+.instagram-media-rendered  {
+margin: 0px auto !important;
+}
+
+div.entry__content > iframe {
+    margin: 0px auto;
+    display: block;
+}
+
+figcaption {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+@media (max-width: 991.98px) {
+img.navbar__logo {
+    width: 90%;
+    height: auto;
+}
+	
+.navbar .navbar__menu-wrapper .navbar__menu li a {
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.navbar__menu-wrapper {
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    visibility: hidden;
+    opacity: 100;
+}
+
+.navbar__menu>li {
+    border-top: 0px;
+}
+
+}
+
+figcaption.blocks-gallery-caption {
+    text-align: center;
+    width: 100%;
+}
+
+ul.blocks-gallery-grid {
+    margin: 20px 0px 0px 0px;
+}
+
+.navbar {
+    position: relative;
+    padding: 0px !important;
+}
+
+button.hamburger::after {
+    content: "MENU";
+	  font-size:9px;
+	  font-weight:bold;
+	position:relative;
+	top:16px;
+	left:-25px;
+	width:30px;
+}
+
+.navbar__toggle[data-toggle='off-canvas-menu'] {
+margin-right: -16px;
+}
+
+img.gs-image {
+    max-width: 120px !important;
+}
+
+.gs-bidi-start-align.gs-snippet {
+    font-size: 14px;
+    font-family: Verdana;
+    font-weight: 400;
+}
+
+.gs-web-image-box, .gs-promotion-image-box {
+    width: 129px !important;
+}
+
+.gsc-control-cse .gs-spelling, .gsc-control-cse .gs-result .gs-title, .gsc-control-cse .gs-result .gs-title * {
+    font-size: 18px !important;
+    font-family: Verdana;
+}
+
+.gsc-control-cse .gsc-option-menu-container {
+    min-width: 120px;
+}
+
+.gsc-above-wrapper-area-container {
+    width: 95% !important;
+}
+
+.gs-bidi-start-align.gs-visibleUrl.gs-visibleUrl-breadcrumb {
+    font-family: Verdana;
+	  padding:6px 0px;
+}
+
+.gsc-webResult.gsc-result {
+    margin: 0;
+    padding: 10px 0;
+    border: 1px solid #fff;
+border-bottom: 1px solid #e4e4e4 !important; 
+}
+		</style>
+		<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+<link rel="stylesheet" type="text/css" href="https://htlbid.com/v3/krdo.com/htlbid.css" />
+
+<script async src="https://htlbid.com/v3/krdo.com/htlbid.js" ></script>
+
+
+<script>
+  window.htlbid = window.htlbid || {};
+  htlbid.cmd = htlbid.cmd || [];
+  htlbid.cmd.push(function() {
+    htlbid.layout('universal'); 
+    htlbid.setTargeting("is_home", "no"); 
+    htlbid.setTargeting("wp_category", "cnn-world, news"); 
+    htlbid.setTargeting("category", "cnn-world"); 
+    htlbid.setTargeting("post_id", "1444976");
+    htlbid.setTargeting("page_type", "article"); 
+    htlbid.setTargeting("is_testing","no");
+
+  });
+</script>
+<script>
+function doBcApiThings() {
+       var profile = blueConicClient.profile.getProfile();
+       var profileId = profile.getId(); 
+       googletag.pubads().setPublisherProvidedId(profileId);
+       console.log('profile_id:'+profileId);
+}
+
+if (typeof window.blueConicClient !== 'undefined' &&
+    typeof window.blueConicClient.event !== 'undefined' &&
+    typeof window.blueConicClient.event.subscribe !== 'undefined') {
+    doBcApiThings();
+} else {
+  window.addEventListener('onBlueConicLoaded', function () {
+    doBcApiThings();
+  }, false);
+}
+</script><!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+            new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+            "https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,"script","dataLayer","GTM-PDK3J36");</script>
+            <!-- End Google Tag Manager --><!-- Begin SmartBanner configuration -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    if (document.body.classList.contains('single-post')) {
+        const metaTags = [
+            { name: "smartbanner:title", content: "KRDO13 News App" },
+            { name: "smartbanner:author", content: "Breaking News Alerts" },
+            { name: "smartbanner:price", content: " & Video " },
+            { name: "smartbanner:price-suffix-apple", content: " On Demand" },
+            { name: "smartbanner:price-suffix-google", content: " On Demand" },
+            { name: "smartbanner:icon-apple", content: "https://krdo.b-cdn.net/2024/03/460x0w-2.webp" },
+            { name: "smartbanner:icon-google", content: "https://krdo.b-cdn.net/2024/03/460x0w-2.webp" },
+            { name: "smartbanner:button", content: "DOWNLOAD" },
+            { name: "smartbanner:button-url-apple", content: "https://apps.apple.com/us/app/newschannel-13-krdo-com/id386843706" },
+            { name: "smartbanner:button-url-google", content: "https://play.google.com/store/apps/details?id=com.mylocaltv.krdo" },
+            { name: "smartbanner:enabled-platforms", content: "android,ios" },
+            { name: "smartbanner:close-label", content: "Close" }
+        ];
+
+        metaTags.forEach(tag => {
+            let meta = document.createElement('meta');
+            meta.name = tag.name;
+            meta.content = tag.content;
+            document.head.appendChild(meta);
+        });
+
+        console.log('Meta tags added to single post');
+    }
+});
+</script>
+<style>
+.smartbanner {
+    top: -84px !important;
+}
+</style>
+
+<link rel="stylesheet" href="/wp-content/uploads/smartbanner/smartbanner.min.css">
+<script src="/wp-content/uploads/smartbanner/smartbanner.min.js"></script>
+<!-- End SmartBanner configuration -->
+
+
+<link rel="manifest" href="/manifest.json">
+
+
+<script>/*<![CDATA[*/ 
+    window.__tnt = window.__tnt || {};
+    __tnt.ads = __tnt.ads || {};
+    __tnt.ads.dfp = __tnt.ads.dfp || {};
+       __tnt.ads.dfp.templates = __tnt.ads.dfp.templates || {};
+    __tnt.ads.dfp.templates = {
+        reveal:"https:\/\/ktvzwx.b-cdn.net\/marquee5.js"
+    }; /*]]>*/</script>
+
+ <script type="module" crossorigin="anonymous" src="https://embedded-player.aws.syncbak.com/2.2.0/player.js" integrity="sha384-TpR0BmrjS8YVPqrptncgn4+0yR9+XjYFvqSSka+NtKq0ZlGGPMDRRVwEQWMVkX3m"></script>
+  <link rel="modulepreload" crossorigin="anonymous" href="https://embedded-player.aws.syncbak.com/2.2.0/libs.js" integrity="sha384-KPAp1FluJc1zZF1HP8BGpSGouaPHOlEOz4Vu6QJaVln2Y2YpDMhOUSogc4D2GWMD">
+
+<!--Admiral-->
+<script type="text/javascript">!(function(o,_name){function $(){($.q=$.q||[]).push(arguments)}$.v=1,o[_name]=o[_name]||$;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting(_name+"-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://aspiringapples.com/build/7c30141f51d13a3e5da4a29787cbc4c2649d-prod.js",t.parentNode.insertBefore(i,t)})(document,"script");</script>
+
+<!--Minute.ly-->
+<script src="//apv-launcher.minute.ly/api/launcher/MIN-30460.js" async></script>
+
+<!--Nativo-->
+<script type="text/javascript" src="//s.ntv.io/serve/load.js"></script>
+
+<!--BLUECONIC-->
+    <script src="//cdn.blueconic.net/npgco.js"></script>
+
+<script>
+       if (typeof Storage !== "undefined") {
+  var targetingParamStr = localStorage.getItem("bcDFPTargetingParams");
+
+  if (targetingParamStr) {
+    var targetingParameters = JSON.parse(targetingParamStr);
+
+    // set page-level targeting parameters
+    jQuery.each(targetingParameters, function (index, param) {
+      window.googletag.pubads().setTargeting(param.key, param.value);
+    });
+            googletag.enableServices();
+  }
+}
+    </script>
+
+         <!-- Global Site Tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19609167-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'UA-19609167-1');
+            </script><style type="text/css">.story__category-tag {
+                background-color: #282861;
+                color: #FFFFFF;
+            }.header .navbar .menu-livestream-button a {
+                background-color: #b2b2b2;
+                color: #000000;
+            }
+            .header .navbar .menu-livestream-button.active a {
+                background-color: #CC3927;
+                color: #FFFFFF;
+            }</style><style type="text/css">body { font-family: Verdana; }
+            .hdg { font-family: Verdana; }.header { background-color: #FFFFFF; }
+            .header, .navbar-brand, .navbar__menu a, .header .navbar a { color: #000000; }
+            @media only screen and (min-width: 960px) {
+                .header .dropdown__menu > li { background-color: #FFFFFF; }
+                .header .dropdown__menu > li:hover { background-color: #f5f5f5; }
+                .header .dropdown__menu a { color: #000000; }
+            }
+            .header__utility { background-color: #000000; }
+            .header__utility a { color: #FFFFFF; }
+            .header__search { background-color: #E4E4E4; }
+            .header__search .icon { color: #000000; }
+            .header__search input { color: #000000; }
+            .header__search input::placeholder { color: #999999 }.footer { background-color: #ebebeb; }
+            .footer, .footer__widgets a { color: #000000; }.primary h1, .primary h1 a, .sidebar h1, .sidebar h1 a { color: #000000; }
+            .primary h2, .primary h2 a, .sidebar h2, .sidebar h2 a { color: #000000; }
+            .primary h3, .primary h3 a, .sidebar h3, .sidebar h3 a { color: #000000; }
+            .primary h4, .primary h4 a, .sidebar h4, .sidebar h4 a { color: #000000; }
+            .primary h5, .primary h5 a, .sidebar h5, .sidebar h5 a { color: #000000; }
+            .primary h6, .primary h6 a, .sidebar h6, .sidebar h6 a { color: #000000; }
+            .primary, .sidebar { color: #000000; }.btn.btn-primary { background-color: #777777; }
+            .btn.btn-primary:hover { background-color: #595959; }
+            .btn.btn-primary { color: #FFFFFF; }
+            .btn.btn-secondary { background-color: #777777; }
+            .btn.btn-secondary:hover { background-color: #595959; }
+            .btn.btn-secondary { color: #FFFFFF; }</style></head>
+
+<body class="post-template-default single single-post postid-1444976 single-format-standard">
+
+<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDK3J36"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true"
+     style="position: absolute; width: 0; height: 0; overflow: hidden;"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="icon-circle-arrow" viewBox="0 0 40 40">
+          <title>circle-arrow</title>
+          <path fill="#FFF" fill-rule="nonzero" d="M0 20C0 8.953 8.953 0 20 0s20 8.953 20 20-8.953 20-20 20S0 31.047 0 20zm16.526 9.204l12.367-9.402L16.526 10.4v6.392H11.2v6.021h5.326v6.392-.001z"/>
+        </symbol>
+        <symbol id="icon-play" viewBox="0 0 32 32">
+            <title>Play Button</title>
+            <path fill="#fff" fill-rule="nonzero" d="M6 4l20 12-20 12z"/>
+        </symbol>
+        <symbol id="icon-stop" viewBox="0 0 32 32">
+            <title>Stop Button</title>
+            <path fill="#fff" fill-rule="nonzero" d="M4 4h24v24h-24z"/>
+        </symbol>
+    </defs>
+</svg>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true"
+     style="position: absolute; width: 0; height: 0; overflow: hidden;"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="icon-chevron-right" viewBox="0 0 19 28">
+            <title>chevron-right</title>
+            <path d="M17.297 13.703l-11.594 11.594c-0.391 0.391-1.016 0.391-1.406 0l-2.594-2.594c-0.391-0.391-0.391-1.016 0-1.406l8.297-8.297-8.297-8.297c-0.391-0.391-0.391-1.016 0-1.406l2.594-2.594c0.391-0.391 1.016-0.391 1.406 0l11.594 11.594c0.391 0.391 0.391 1.016 0 1.406z"></path>
+        </symbol>
+        <symbol id="icon-chevron-left" viewBox="0 0 21 28">
+            <title>chevron-left</title>
+            <path d="M18.297 4.703l-8.297 8.297 8.297 8.297c0.391 0.391 0.391 1.016 0 1.406l-2.594 2.594c-0.391 0.391-1.016 0.391-1.406 0l-11.594-11.594c-0.391-0.391-0.391-1.016 0-1.406l11.594-11.594c0.391-0.391 1.016-0.391 1.406 0l2.594 2.594c0.391 0.391 0.391 1.016 0 1.406z"></path>
+        </symbol>
+        <symbol id="icon-chevron-up" viewBox="0 0 20 20">
+            <title>chevron-up</title>
+            <path d="M15.825 12.82c-.104.113-.25.18-.397.18-.145 0-.292-.067-.396-.18l-5.03-5.392L4.95 12.82c-.104.113-.25.18-.397.18-.145 0-.292-.067-.396-.18-.21-.222-.21-.6 0-.846L9.584 6.18C9.688 6.066 9.856 6 10 6c.147 0 .294.044.42.18l5.426 5.794c.21.224.21.602-.02.847z"></path>
+        </symbol>
+        <symbol id="icon-search" viewBox="0 0 32 32">
+            <title>search</title>
+            <path d="M31.008 27.231l-7.58-6.447c-0.784-0.705-1.622-1.029-2.299-0.998 1.789-2.096 2.87-4.815 2.87-7.787 0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-0.031 0.677 0.293 1.515 0.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007 0.23s0.997-2.903-0.23-4.007zM12 20c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"></path>
+        </symbol>
+        <symbol id="icon-warning" viewBox="0 0 12 10">
+            <title>warning</title>
+            <path fill="#FFF" fill-rule="nonzero"
+                  d="M11.912 9.328L6.378.227A.455.455 0 0 0 6 0a.448.448 0 0 0-.377.227L.089 9.328c-.075.13-.129.339-.051.466.078.128.22.206.375.206h11.172a.437.437 0 0 0 .375-.206c.08-.127.027-.338-.048-.466zM6.857 8.75H5.143V7.5h1.714v1.25zm0-2.083H5.143v-3.75h1.714v3.75z"/>
+        </symbol>
+        <symbol id="icon-chevron-left-skinny" viewBox="0 0 24 24">
+            <title>chevron-left-skinny</title>
+            <path d="M15.707 17.293l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-6 6c-0.391 0.391-0.391 1.024 0 1.414l6 6c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414z"></path>
+        </symbol>
+        <symbol id="icon-chevron-right-skinny" viewBox="0 0 24 24">
+            <title>chevron-right-skinny</title>
+            <path d="M9.707 18.707l6-6c0.391-0.391 0.391-1.024 0-1.414l-6-6c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0z"></path>
+        </symbol>
+        <symbol id="icon-x" viewBox="0 0 24 24">
+            <title>x</title>
+            <path d="M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
+        </symbol>
+        <symbol id="icon-clock" viewBox="0 0 32 32">
+            <title>clock</title>
+            <path d="M17.44 16.32v1.76h-8.64v-1.76h6.88v-10.56h1.76v10.56zM16 32c-8.837 0-16-7.163-16-16s7.163-16 16-16c8.837 0 16 7.163 16 16s-7.163 16-16 16zM16 28.8c7.069 0 12.8-5.731 12.8-12.8s-5.731-12.8-12.8-12.8c-7.069 0-12.8 5.731-12.8 12.8s5.731 12.8 12.8 12.8z"></path>
+        </symbol>
+        <symbol id="icon-calendar" viewBox="0 0 32 32">
+            <title>calendar</title>
+            <path d="M18.982 7.19v-5.958c0-0.68 0.548-1.232 1.225-1.232h3.674c0.676 0 1.225 0.552 1.225 1.232v3.388h5.455c0.707 0 1.28 0.573 1.28 1.28v24.255c0 1.019-0.822 1.845-1.837 1.845h-28.166c-1.014 0-1.837-0.826-1.837-1.845v-24.255c0-0.707 0.573-1.28 1.28-1.28h5.455v1.285-4.673c0-0.68 0.548-1.232 1.225-1.232h3.674c0.676 0 1.225 0.552 1.225 1.232v3.388h6.123v2.57zM12.32 30.77v-5.090h-5.12v5.090h5.12zM13.28 30.77h5.28v-5.090h-5.28v5.090zM19.52 30.77h5.12v-5.090h-5.12v5.090zM25.6 30.77h4.403c0.338 0 0.612-0.275 0.612-0.615v-4.475h-5.015v5.090zM30.615 24.72v-5.28h-5.015v5.28h5.015zM30.615 18.48v-4.93h-5.015v4.93h5.015zM24.64 13.55h-5.12v4.93h5.12v-4.93zM18.56 13.55h-5.28v4.93h5.28v-4.93zM12.32 13.55h-5.12v4.93h5.12v-4.93zM6.24 13.55h-5.015v4.93h5.015v-4.93zM1.225 19.44v5.28h5.015v-5.28h-5.015zM1.225 25.68v4.475c0 0.34 0.274 0.615 0.612 0.615h4.403v-5.090h-5.015zM7.2 24.72h5.12v-5.28h-5.12v5.28zM24.64 19.44h-5.12v5.28h5.12v-5.28zM18.56 19.44h-5.28v5.28h5.28v-5.28zM8.113 1.386v6.468h3.368v-6.468h-3.368zM20.359 1.386v6.468h3.368v-6.468h-3.368z"></path>
+        </symbol>
+        <symbol id="icon-play-button" viewBox="0 0 32 32">
+            <title>play-button</title>
+            <path d="M16 32c-8.837 0-16-7.163-16-16s7.163-16 16-16c8.837 0 16 7.163 16 16s-7.163 16-16 16zM22.88 16l-11.2-7.040v14.080l11.2-7.040z"></path>
+        </symbol>
+        <symbol id="icon-cancel-circle" viewBox="0 0 32 32">
+            <title>cancel-circle</title>
+            <path d="M16 0c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zM16 29c-7.18 0-13-5.82-13-13s5.82-13 13-13 13 5.82 13 13-5.82 13-13 13z"></path>
+            <path d="M21 8l-5 5-5-5-3 3 5 5-5 5 3 3 5-5 5 5 3-3-5-5 5-5z"></path>
+        </symbol>
+        <symbol id="icon-user" viewBox="0 0 32 32">
+            <title>user</title>
+            <path d="M18 22.082v-1.649c2.203-1.241 4-4.337 4-7.432 0-4.971 0-9-6-9s-6 4.029-6 9c0 3.096 1.797 6.191 4 7.432v1.649c-6.784 0.555-12 3.888-12 7.918h28c0-4.030-5.216-7.364-12-7.918z"></path>
+        </symbol>
+    </defs>
+</svg>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="icon-twitter" viewBox="0 0 512 512">
+            <title>twitter</title>
+            <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+        </symbol>
+        <symbol id="icon-facebook" viewBox="0 0 16 28">
+            <title>facebook</title>
+            <path d="M14.984 0.187v4.125h-2.453c-1.922 0-2.281 0.922-2.281 2.25v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406c0-3.953 2.422-6.109 5.953-6.109 1.687 0 3.141 0.125 3.563 0.187z"></path>
+        </symbol>
+        <symbol id="icon-youtube" viewBox="0 0 28 28">
+            <title>youtube</title>
+            <path d="M11.109 17.625l7.562-3.906-7.562-3.953v7.859zM14 4.156c5.891 0 9.797 0.281 9.797 0.281 0.547 0.063 1.75 0.063 2.812 1.188 0 0 0.859 0.844 1.109 2.781 0.297 2.266 0.281 4.531 0.281 4.531v2.125s0.016 2.266-0.281 4.531c-0.25 1.922-1.109 2.781-1.109 2.781-1.062 1.109-2.266 1.109-2.812 1.172 0 0-3.906 0.297-9.797 0.297v0c-7.281-0.063-9.516-0.281-9.516-0.281-0.625-0.109-2.031-0.078-3.094-1.188 0 0-0.859-0.859-1.109-2.781-0.297-2.266-0.281-4.531-0.281-4.531v-2.125s-0.016-2.266 0.281-4.531c0.25-1.937 1.109-2.781 1.109-2.781 1.062-1.125 2.266-1.125 2.812-1.188 0 0 3.906-0.281 9.797-0.281v0z"></path>
+        </symbol>
+        <symbol id="icon-instagram" viewBox="0 0 24 28">
+            <title>instagram</title>
+            <path d="M16 14c0-2.203-1.797-4-4-4s-4 1.797-4 4 1.797 4 4 4 4-1.797 4-4zM18.156 14c0 3.406-2.75 6.156-6.156 6.156s-6.156-2.75-6.156-6.156 2.75-6.156 6.156-6.156 6.156 2.75 6.156 6.156zM19.844 7.594c0 0.797-0.641 1.437-1.437 1.437s-1.437-0.641-1.437-1.437 0.641-1.437 1.437-1.437 1.437 0.641 1.437 1.437zM12 4.156c-1.75 0-5.5-0.141-7.078 0.484-0.547 0.219-0.953 0.484-1.375 0.906s-0.688 0.828-0.906 1.375c-0.625 1.578-0.484 5.328-0.484 7.078s-0.141 5.5 0.484 7.078c0.219 0.547 0.484 0.953 0.906 1.375s0.828 0.688 1.375 0.906c1.578 0.625 5.328 0.484 7.078 0.484s5.5 0.141 7.078-0.484c0.547-0.219 0.953-0.484 1.375-0.906s0.688-0.828 0.906-1.375c0.625-1.578 0.484-5.328 0.484-7.078s0.141-5.5-0.484-7.078c-0.219-0.547-0.484-0.953-0.906-1.375s-0.828-0.688-1.375-0.906c-1.578-0.625-5.328-0.484-7.078-0.484zM24 14c0 1.656 0.016 3.297-0.078 4.953-0.094 1.922-0.531 3.625-1.937 5.031s-3.109 1.844-5.031 1.937c-1.656 0.094-3.297 0.078-4.953 0.078s-3.297 0.016-4.953-0.078c-1.922-0.094-3.625-0.531-5.031-1.937s-1.844-3.109-1.937-5.031c-0.094-1.656-0.078-3.297-0.078-4.953s-0.016-3.297 0.078-4.953c0.094-1.922 0.531-3.625 1.937-5.031s3.109-1.844 5.031-1.937c1.656-0.094 3.297-0.078 4.953-0.078s3.297-0.016 4.953 0.078c1.922 0.094 3.625 0.531 5.031 1.937s1.844 3.109 1.937 5.031c0.094 1.656 0.078 3.297 0.078 4.953z"></path>
+        </symbol>
+        <symbol id="icon-email" viewBox="0 0 28 28">
+            <title>email</title>
+            <path d="M28 11.094v12.406c0 1.375-1.125 2.5-2.5 2.5h-23c-1.375 0-2.5-1.125-2.5-2.5v-12.406c0.469 0.516 1 0.969 1.578 1.359 2.594 1.766 5.219 3.531 7.766 5.391 1.313 0.969 2.938 2.156 4.641 2.156h0.031c1.703 0 3.328-1.188 4.641-2.156 2.547-1.844 5.172-3.625 7.781-5.391 0.562-0.391 1.094-0.844 1.563-1.359zM28 6.5c0 1.75-1.297 3.328-2.672 4.281-2.438 1.687-4.891 3.375-7.313 5.078-1.016 0.703-2.734 2.141-4 2.141h-0.031c-1.266 0-2.984-1.437-4-2.141-2.422-1.703-4.875-3.391-7.297-5.078-1.109-0.75-2.688-2.516-2.688-3.938 0-1.531 0.828-2.844 2.5-2.844h23c1.359 0 2.5 1.125 2.5 2.5z"></path>
+        </symbol>
+        <symbol id="icon-linkedin" viewBox="0 0 382 382">
+            <title>linkedin</title>
+            <path d="M347.445 0H34.555C15.471 0 0 15.471 0 34.555v312.889C0 366.529 15.471 382 34.555 382h312.889C366.529 382 382 366.529 382 347.444V34.555C382 15.471 366.529 0 347.445 0zM118.207 329.844c0 5.554-4.502 10.056-10.056 10.056H65.345c-5.554 0-10.056-4.502-10.056-10.056V150.403c0-5.554 4.502-10.056 10.056-10.056h42.806c5.554 0 10.056 4.502 10.056 10.056v179.441zM86.748 123.432c-22.459 0-40.666-18.207-40.666-40.666S64.289 42.1 86.748 42.1s40.666 18.207 40.666 40.666-18.206 40.666-40.666 40.666zM341.91 330.654a9.247 9.247 0 01-9.246 9.246H286.73a9.247 9.247 0 01-9.246-9.246v-84.168c0-12.556 3.683-55.021-32.813-55.021-28.309 0-34.051 29.066-35.204 42.11v97.079a9.246 9.246 0 01-9.246 9.246h-44.426a9.247 9.247 0 01-9.246-9.246V149.593a9.247 9.247 0 019.246-9.246h44.426a9.247 9.247 0 019.246 9.246v15.655c10.497-15.753 26.097-27.912 59.312-27.912 73.552 0 73.131 68.716 73.131 106.472v86.846z" fill="#0077b7"/>
+        </symbol>
+    </defs>
+</svg>
+
+<div id="secondary-menu" class="navbar-collapse navbar__off-canvas"><ul id="menu-hamburger-menu" class="navbar__menu"><li id="menu-item-2106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2106 nav-item dropdown"><a href="https://krdo.com/news/">News</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-9488" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9488 nav-item"><a href="https://krdo.com/category/news/colorado-springs/">Colorado Springs News</a></li>
+	<li id="menu-item-9491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9491 nav-item"><a href="https://krdo.com/category/news/pueblo/">Pueblo News</a></li>
+	<li id="menu-item-20256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20256 nav-item"><a href="https://krdo.com/absolutely-colorado/">Absolutely Colorado</a></li>
+	<li id="menu-item-1304592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1304592 nav-item"><a href="https://krdo.com/13-investigates/">13 Investigates</a></li>
+	<li id="menu-item-755326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-755326 nav-item"><a href="https://krdo.com/category/news/crime/on-the-lookout/">On the Lookout</a></li>
+	<li id="menu-item-755327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-755327 nav-item"><a href="https://krdo.com/category/news/school-buzz/">School Buzz</a></li>
+	<li id="menu-item-9492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9492 nav-item"><a href="https://krdo.com/category/news/state-regional-news/">Colorado</a></li>
+	<li id="menu-item-570785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570785 nav-item"><a href="https://krdo.com/news/crime/">Crime</a></li>
+	<li id="menu-item-9489" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9489 nav-item"><a href="https://krdo.com/category/news/military/">Military</a></li>
+	<li id="menu-item-1113298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113298 nav-item"><a href="https://krdo.com/news/national-world/">US/World</a></li>
+	<li id="menu-item-60462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60462 nav-item"><a href="https://krdo.com/category/politics/">Politics</a></li>
+</ul>
+</li>
+<li id="menu-item-1304591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1304591 nav-item dropdown"><a href="https://krdo.com/13-investigates/">13 Investigates</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-1200653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1200653 nav-item"><a href="https://krdo.com/body-of-lies-2/">Body of Lies</a></li>
+	<li id="menu-item-1083941" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1083941 nav-item"><a href="https://krdo.com/category/news/13-investigations/back-to-nature-funeral-home-investigation/">Funeral Home Investigation</a></li>
+	<li id="menu-item-1191876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1191876 nav-item"><a href="https://krdo.com/identity-crisis-olympic-city-usa/">Identity Crisis: Olympic City USA</a></li>
+	<li id="menu-item-1112570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1112570 nav-item"><a href="https://krdo.com/club-q-one-year-later/">Club Q: One Year Later</a></li>
+	<li id="menu-item-805774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-805774 nav-item"><a href="https://krdo.com/illicit-spas-2/">Illicit Spas: Hiding In Plain Sight</a></li>
+	<li id="menu-item-977705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-977705 nav-item"><a href="https://krdo.com/black-forest-fire-special/">Black Forest Fire: 10 Years Later</a></li>
+	<li id="menu-item-798573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798573 nav-item"><a href="https://krdo.com/waldos-inferno-10-years-later/">Waldo’s Inferno: 10 Years Later</a></li>
+</ul>
+</li>
+<li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2105 nav-item dropdown"><a href="https://krdo.com/weather/">Weather</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-14185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14185 nav-item"><a href="https://krdo.com/closures-delays/">Closures &#038; Delays</a></li>
+	<li id="menu-item-10321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10321 nav-item"><a href="https://krdo.com/weather/weather-maps-and-forecasts/">Weather Maps and Forecasts</a></li>
+	<li id="menu-item-1412896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1412896 nav-item"><a href="https://krdo.com/weather-visits/">School Visits with Chevy</a></li>
+	<li id="menu-item-14164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14164 nav-item"><a href="https://krdo.com/weather/live-hd-doppler/">Live HD Doppler</a></li>
+	<li id="menu-item-10323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10323 nav-item"><a href="https://krdo.com/weather/neighborhood-weather-network/">Neighborhood Weather Network</a></li>
+	<li id="menu-item-10322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10322 nav-item"><a href="https://krdo.com/weather/viaero-wireless-network-cameras/">Viaero Wireless Network Cameras</a></li>
+	<li id="menu-item-13772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13772 nav-item"><a href="https://krdo.com/category/video/weather-video/">Weather Video</a></li>
+	<li id="menu-item-369166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369166 nav-item"><a href="https://krdo.com/weather/ski-report/">Ski Report</a></li>
+	<li id="menu-item-13773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13773 nav-item"><a href="https://krdo.com/category/weather/photo-galleries/">Weather Photo Galleries</a></li>
+</ul>
+</li>
+<li id="menu-item-12830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12830 nav-item dropdown"><a href="https://krdo.com/sports/">Sports</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-13852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13852 nav-item"><a href="https://krdo.com/friday-night-blitz/">Friday Night Blitz</a></li>
+</ul>
+</li>
+<li id="menu-item-13315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13315 nav-item dropdown"><a href="https://krdo.com/videos-and-galleries/">Livestreams</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-14168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14168 nav-item"><a href="https://krdo.com/livestream/">Live Newscasts</a></li>
+	<li id="menu-item-14167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14167 nav-item"><a href="https://krdo.com/event-livestreams/">Livestream Special Coverage</a></li>
+</ul>
+</li>
+<li id="menu-item-1308464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1308464 nav-item dropdown"><a href="https://krdo.com/noticias-krdo13/">Noticias KRDO13</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-1308463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1308463 nav-item"><a href="https://krdo.com/telemundo-3/">Telemundo</a></li>
+	<li id="menu-item-13660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13660 nav-item"><a href="https://krdo.com/telemundo-programacion/">Telemundo Programacion</a></li>
+	<li id="menu-item-1433853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1433853 nav-item"><a href="https://krdo.com/tu-salud/">Tu Salud</a></li>
+</ul>
+</li>
+<li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2102 nav-item dropdown"><a href="https://krdo.com/radio/">Radio</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-13317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13317 nav-item"><a href="https://krdo.com/radio/traffic/">KRDO NewsRadio Traffic</a></li>
+	<li id="menu-item-346684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346684 nav-item"><a href="https://krdo.com/weather/weather-maps-and-forecasts/">Weather Maps and Forecasts</a></li>
+	<li id="menu-item-12088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12088 nav-item"><a href="http://radio.securenetsystems.net/v5/KRDO">Listen Live</a></li>
+	<li id="menu-item-13320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13320 nav-item"><a href="https://krdo.com/radio/program-guide/">Radio Program Guide</a></li>
+	<li id="menu-item-12087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12087 nav-item"><a href="https://krdonewsradio.podbean.com">Podcasts</a></li>
+	<li id="menu-item-19087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19087 nav-item"><a href="https://krdo.com/radio-contests/">Radio Contests</a></li>
+	<li id="menu-item-181599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181599 nav-item"><a href="https://krdo.com/colorado-living/pets/pet-of-the-week/">Pet of the Week</a></li>
+</ul>
+</li>
+<li id="menu-item-1179808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1179808 nav-item"><a href="https://krdo.com/road-warrior/">Road Warrior</a></li>
+<li id="menu-item-1319855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1319855 nav-item"><a href="https://promodeals.app/HwEyR7OV4J/">Patriot Perks</a></li>
+<li id="menu-item-2104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2104 nav-item dropdown"><a href="https://krdo.com/traffic/">Traffic</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-1206737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1206737 nav-item"><a href="https://krdo.com/traffic/">Traffic Tracker</a></li>
+	<li id="menu-item-13696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13696 nav-item"><a href="https://krdo.com/gas-prices/">Gas Prices</a></li>
+</ul>
+</li>
+<li id="menu-item-13912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13912 nav-item dropdown"><a href="https://krdo.com/health/">Health</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-1164805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164805 nav-item"><a href="https://krdo.com/health2/">Healthy Colorado</a></li>
+	<li id="menu-item-1068689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1068689 nav-item"><a href="https://krdo.com/breast-cancer-awareness/">Breast Cancer Awareness</a></li>
+</ul>
+</li>
+<li id="menu-item-2101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2101 nav-item dropdown"><a href="https://krdo.com/colorado-living/">Colorado Living</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-1173060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1173060 nav-item"><a href="https://krdo.com/cooking-tips/">Cooking Tips</a></li>
+	<li id="menu-item-850731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-850731 nav-item"><a href="https://krdo.com/colorado-living/veterans/">Next Chapter</a></li>
+	<li id="menu-item-1004715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004715 nav-item"><a href="https://krdo.com/colorado-living/military-family/">The Military Family</a></li>
+	<li id="menu-item-594429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-594429 nav-item"><a href="https://events.krdo.com">Events</a></li>
+	<li id="menu-item-1041193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1041193 nav-item"><a href="https://krdo.com/calendar/#!/">Calendar</a></li>
+	<li id="menu-item-924129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-924129 nav-item"><a href="https://krdo.com/your-house-home/">Your House &#038; Home</a></li>
+	<li id="menu-item-894325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894325 nav-item"><a href="https://krdo.com/weather/ski-report/">Ski Report</a></li>
+	<li id="menu-item-315200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315200 nav-item"><a href="https://jobs.krdo.com">Southern Colorado Jobs</a></li>
+	<li id="menu-item-634429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-634429 nav-item"><a href="https://krdo.com/colorado-living/red-friday/">Wear Red Friday&#8217;s</a></li>
+</ul>
+</li>
+<li id="menu-item-13379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13379 nav-item dropdown"><a href="https://krdo.com/your-voice-your-vote/">Your Voice Your Vote</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-1421787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1421787 nav-item"><a href="https://krdo.com/2024-november-election-results/">2024 November Election Results</a></li>
+	<li id="menu-item-1412897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1412897 nav-item"><a href="https://krdo.com/full-on-air-nov-2024-maps-2/">November 2024 Election Results Maps</a></li>
+	<li id="menu-item-1354362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1354362 nav-item"><a href="https://krdo.com/2024-voter-guide/">2024 Voter Guide</a></li>
+</ul>
+</li>
+<li id="menu-item-2099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2099 nav-item dropdown"><a href="https://krdo.com/contests/">Contests</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-12215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12215 nav-item"><a href="https://krdo.com/contests/">Broadcast Contests</a></li>
+	<li id="menu-item-19097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19097 nav-item"><a href="https://krdo.com/radio-contests/">Radio Contests</a></li>
+	<li id="menu-item-12095" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12095 nav-item"><a href="https://krdo.com/category/entertainment/">Entertainment</a></li>
+</ul>
+</li>
+<li id="menu-item-1080158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080158 nav-item"><a href="https://krdo.com/share/">Share</a></li>
+<li id="menu-item-12202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12202 nav-item dropdown"><a href="https://krdo.com/about-us/">About Us</a><button class="dropdown__submenu-toggle btn btn--default" data-toggle="off-canvas-submenu-dropdown" role="button" aria-haspopup="true" aria-expanded="true"><svg class="icon icon-chevron-up"><use xlink:href="#icon-chevron-up"></use></svg></button>
+<ul role="menu" class="dropdown__menu ">
+	<li id="menu-item-12203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12203 nav-item"><a href="https://krdo.com/about-us/advertise-with-us/">Advertise with Us</a></li>
+	<li id="menu-item-13444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13444 nav-item"><a href="https://krdo.com/about-us/contact-krdo/">Contact KRDO</a></li>
+	<li id="menu-item-13929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13929 nav-item"><a href="https://krdo.com/meet-the-team/">Meet the Team</a></li>
+	<li id="menu-item-13541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13541 nav-item"><a href="https://myjobs.adp.com/npgexternalcareers/cx/job-listing?FIELD2=Colorado%20Springs">Careers</a></li>
+	<li id="menu-item-13539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13539 nav-item"><a href="https://krdo.com/about-us/closed-captioning/">Closed Captioning</a></li>
+	<li id="menu-item-13538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13538 nav-item"><a href="https://krdo.com/about-us/download-our-apps/">Download our Apps</a></li>
+	<li id="menu-item-13540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13540 nav-item"><a target="_blank" rel="noopener" href="https://krdo.b-cdn.net/2023/12/KRDO-EEO-Public-File-Report-12.1.22-11.30.23-4895-2829-4207.pdf">EEO Public Filing</a></li>
+	<li id="menu-item-13537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13537 nav-item"><a href="https://krdo.com/about-us/fcc-public-file/">FCC Public File</a></li>
+	<li id="menu-item-12212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12212 nav-item"><a href="https://krdo.com/newsletters-alerts/">Newsletters/Alerts</a></li>
+	<li id="menu-item-13588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13588 nav-item"><a href="https://krdo.com/radio/program-guide/">Radio Program Guide</a></li>
+	<li id="menu-item-12211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12211 nav-item"><a href="https://krdo.com/tv-listings/">TV Listings</a></li>
+</ul>
+</li>
+</ul></div>
+<a href="#primary" class="screen-reader-text">Skip to Content</a>
+
+<header id="masthead" class="header header--default" role="banner">
+        <div class="header__wrapper">
+        <div class="container">
+            <nav class="navbar navbar--with-current-conditions">
+                <div class="navbar__wrapper">
+                    <button class="navbar__toggle off-canvas-toggle hamburger hamburger--slider" type="button"
+                            aria-label="Secondary Menu" aria-controls="navigation"
+                            data-toggle="off-canvas-menu">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </button>
+                    <a class="navbar__brand" href="https://krdo.com/" title="KRDO">
+                        <img src="https://krdo.com/wp-content/uploads/2020/05/krdo_logo_100px_width.png" alt="KRDO" width="100" height="42" class="navbar__logo">                    </a><img src="https://krdo.b-cdn.net/2023/10/krdo_site_default-1.jpg" width="1" height="1" style="width:1px; height:1px"/>
+                    <button class="navbar__toggle hamburger hamburger--slider" type="button"
+                            aria-label="Menu" aria-controls="navigation"
+                            data-toggle="mobile-menu">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </button>
+                    <div id="primary-menu" class="navbar__menu-wrapper"><ul id="menu-main-menu" class="navbar__menu navbar__menu--has-search"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41 nav-item"><a href="https://krdo.com/news/">News</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40 nav-item"><a href="https://krdo.com/weather/">Weather</a></li>
+<li id="menu-item-1042487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1042487 nav-item"><a href="https://krdo.com/radio/">Radio</a></li>
+<li id="menu-item-1301254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301254 nav-item"><a href="https://krdo.com/noticias-krdo13/">Noticias</a></li>
+<li id="menu-item-1349030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349030 nav-item"><a href="https://krdo.com/health2/">Health</a></li>
+<li id="menu-item-762279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762279 nav-item"><a href="https://krdo.com/contests/">Contests</a></li>
+<li id="menu-item-1186307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1186307 nav-item"><a href="https://krdo.com/road-warrior/">Road Warrior</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33 nav-item"><a href="https://krdo.com/share/">Share</a></li>
+<li class="menu-item menu-livestream-button menu-livestream-button--not-live">
+                <a href="https://krdo.com/livestream/">Watch</a>
+            </li></ul></div>                    
+<div class="current-conditions current-conditions--header">
+    <div class="current-conditions__slides">
+
+                    <a href="http://krdo.com/weather" target="_blank" class="current-conditions__location">
+                <div class="current-conditions__content" data-slide-number="0" data-location-id="kcos">
+                    <div class="current-conditions__condition">
+
+                                                                                <div class="current-conditions__condition-icon">
+                               <img src="https://krdo.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9002_mostly%20clear_day.png" alt="mostly clear"> 
+                            </div>
+                        
+                    </div>
+                    <div class="current-conditions__title" style="color:#212121">
+                        Colorado Springs                    </div>
+                                            <div class="current-conditions__temperature" style="color:#212121">
+                            42&deg;
+                        </div>
+                                    </div>
+            </a>
+        
+    </div>
+</div>
+
+                    <div class="menu-user-search-wrapper">
+                                                <div class="menu-search">
+                            <a href="#" id="search-btn" class="search__button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg><svg class="icon icon-x"><use xlink:href="#icon-x"></use></svg></a>                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="header__search" id="search-form">
+    <div class="container">
+        <script async src="https://cse.google.com/cse.js?cx=009724153284045582420:zv7a08cu6ag">
+</script>
+<div class="gcse-searchbox-only"></div>    </div>
+</div>
+    </div>
+</header><!-- .header -->
+
+
+    <div class="container">
+        <div class="row">
+            
+<aside id="secondary" class="sidebar col-lg-4" role="complementary">
+    <div id="ai_widget-20" class="sidebar__widget-item ai_widget">
+</div><div id="posts_by_category-32" class="sidebar__widget-item widget_posts_by_category"><h3 class="sidebar__widget-title hdg hdg--6">Today&#8217;s Forecast</h3><div class="sidebar__story">
+<article class="story story--sm story--card">
+    
+        <a href="https://krdo.com/video/weather-video/2024/12/02/warm-start-to-december/" class="story__thumb-link">
+            <div class="story__thumb">
+                                <img width="375" height="225" src="https://krdo.b-cdn.net/2024/12/december-2-375x225.png" class="attachment-story--sm size-story--sm wp-post-image" alt="" decoding="async" fetchpriority="high" />            </div>
+        </a>
+
+        
+    <div class="story__content">
+        
+        <header class="story__header">
+            <h3 class="story__title hdg hdg--4">
+                <a href="https://krdo.com/video/weather-video/2024/12/02/warm-start-to-december/" rel="bookmark">
+                    <svg class="icon icon-play-button"><use xlink:href="#icon-play-button"></use></svg>Warm Start to December                </a>
+            </h3>
+
+                    </header>
+
+            </div>
+</article>
+</div></div><div id="search-5" class="sidebar__widget-item widget_search"><h3 class="sidebar__widget-title hdg hdg--6">Search:</h3><script async src="https://cse.google.com/cse.js?cx=009724153284045582420:zv7a08cu6ag">
+</script>
+<div class="gcse-searchbox-only"></div></div><div id="ai_widget-2" class="sidebar__widget-item ai_widget"><div class='code-block code-block-5' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-mr_2' data-unit='krdo/video/weather-video'></div></div>
+</div><div id="promo_box_widget-4" class="sidebar__widget-item widget_promo_box_widget">
+<article class="story story--story--sm story--card">
+
+    <a href="https://krdo.com/about-us/download-our-apps/" class="story__thumb-link">        <div class="story__thumb">
+            <img src="https://krdo.b-cdn.net/2021/06/49643-news-app-button_B.jpg" alt="49643 - news-app-button_B" width="1024" height="576">        </div>
+    </a>
+            <div class="story__content">
+            <header class="story__header">
+                <h3 class="story__title hdg hdg--4">
+                    <a href="https://krdo.com/about-us/download-our-apps/" class="story__thumb-link">                        Download Our Apps                    </a>                </h3>
+            </header>
+        </div>
+    
+</article>
+</div><div id="block-2" class="sidebar__widget-item widget_block"></div></aside><!-- #secondary -->
+            <div id="primary" class="primary col-lg-8">
+                <style>
+		/* VF Share Bar CSS */
+	.vf-widget.vf-share-bar-square.vf-share-bar {
+    padding-top: 0px !important;
+}
+	.viafoura .vf-share-bar li {
+    font-size: 24px;
+}
+	.viafoura .vf-share-bar.vf-share-bar-square .vf-share-icon {
+    line-height: 1.2em;
+}
+	.viafoura .vf-share-bar .vf-share-icon, .viafoura .vf-share-bar .vf-share-show-more {
+    height: 45px;
+    width: 45px;
+}
+	
+	.viafoura .test .vf-share-bar li, .viafoura .vf-share-bar li {
+    margin: 0 5px;
+    padding: 0;
+}
+		/* End VF Share Bar CSS */
+	.meta__secondary-categories {
+    padding: 8px 0px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+	element.style {
+    font-size: 12px;
+}
+
+.topictag {
+    display: inline-block;
+    text-transform: capitalize;
+}
+	strong {
+    font-weight: 700;
+	}
+.viafoura img {
+    border: 0;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    top: -6px;
+}
+	.vfauthor {
+    display: inline-block;
+    margin-left: 6px;
+	}
+
+span.vf-comments-count.vf-body-text--deprecated {
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding-right: 10px;
+    font-size: 24px;
+}
+
+.meta__social .viafoura {
+	margin-right:8px;
+	margin-top:5px;
+}
+
+.meta__social {
+    display: flex;
+}	
+
+@media only screen and (min-width: 768px) {
+ .meta__social {
+    justify-content: flex-end;
+}
+}
+
+.viafoura .vf-button.is-size-medium {
+    padding: 0.2em 0em !important;
+}
+
+.meta__secondary-categories .viafoura {
+    display: inline-block;
+    margin: 0px 15px 10px 5px;
+}
+
+.meta__category .viafoura {
+    display: inline-block;
+}
+
+.viafoura .vf-button.is-size-medium {
+    padding: 0.3em;
+    min-width: 95px;
+    Font-size:11px;
+}
+
+	.cg_container p {
+    margin: 10px 0px;
+}
+	.cg_container {
+    border: 1px solid #e6e6e6;
+    padding: 20px;
+    background-color: #f2f7ff;
+    margin: 12px 0px;
+}
+
+.post .entry__meta .meta__social .ss-social-sharing {
+    width: 100%;
+}
+	}
+</style>
+<article id="post-1444976" class="panel-group post-1444976 post type-post status-publish format-standard hentry category-cnn-world category-news">
+    <div class="meta__category">
+        <a href="https://krdo.com/category/news/national-world/cnn-world/"><strong>CNN - World</strong></a>
+		<div class="viafoura">
+   <vf-topic-follow topic-id="https://krdo.com/category/news/national-world/cnn-world/" topic-name="CNN - World" topic-type="topic" show-count="true" minimum-count="0"></vf-topic-follow>
+</div>
+    </div>
+
+    
+   
+
+    <header class="entry__header">
+        <h1 class="hdg hdg--3">After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations</h1>    </header><!-- .entry__header -->
+
+        <div class="mediaitem mediaitem--image"><figure class="image__caption"><img src="" class="media__image" alt="" style="max-width:100%" /><figcaption class="photo-credit"></figcaption><figcaption></figcaption></figure></div> <div class="entry__meta meta">
+        <div class="meta__info">
+            <div class="meta__user vcard author">
+                By <a href="https://krdo.com/author/cnn-newsource/" title="Posts by CNN Newssource" rel="author">CNN Newssource</a><div class="viafoura vfauthor">
+   <vf-topic-follow topic-id="" topic-name="" topic-type="author" show-count="true" minimum-count="0"></vf-topic-follow>
+</div>
+            </div>
+            <div class="meta__date">
+                                                    <div class="meta__updated">
+                        <span class="meta__date-time-updated">today at 11:25 AM</span>                    </div>
+                                <div class="meta__published">
+                    <span>Published</span>
+                    <span>
+                    <a href="https://krdo.com/2024/12/">
+                        <time datetime="2024-12-02">
+                            December 2, 2024                        </time>
+                    </a>
+                </span>
+                    <span>
+                    2:56 PM                </span>
+                </div>
+            </div>
+        </div>
+
+            <div class="meta__social"><div class="viafoura">
+				<vf-conversations-count vf-container-id="vf-1444976"></vf-conversations-count><a href="#vf-conversations-container"><img src="https://ktvz.b-cdn.net/2022/06/comment_icon.png"></a></div>
+<!-- VF Share Bar Code -->				
+<div class="viafoura">
+    <div class="vf-widget vf-share-bar-square"
+    data-widget="sharebar"
+    data-button-view="false"
+    data-show-labels="false"
+    data-show-counters="false"
+    data-show-total="false"
+    data-share-current-page-url	="true">
+    </div>
+</div>
+<!-- End VF Share Bar Code -->				
+
+            </div>
+
+    </div>
+    <div class="entry__content">
+        
+<p>By Mick Krever, Charbel Mallo, Ruba Alhenawi, Tamara Qiblawi and Lauren Izso, CNN</p>
+
+
+<p><b>(CNN) &#8212; </b>For the first time since a ceasefire went into effect last week, Hezbollah has fired two projectiles toward Israeli-occupied territory, responding to repeated Israeli strikes since the agreement.</p><div class='code-block code-block-10' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  
+  <div class='htlad-in_article_1' data-unit='krdo/news/national-world/cnn-world'></div></div>
+
+
+
+<p>Israel has carried out daily strikes in Lebanon since Thursday, the day after a ceasefire <a href="https://www.cnn.com/2024/11/27/middleeast/israel-northern-residents-ceasefire-hezbollah-intl">went into effect</a>. One person was killed in a strike in southern Lebanon, according to the Lebanese Ministry of Health.</p>
+
+
+<p>Hezbollah had fired two projectiles, which landed in an open area on Monday, according to the Israeli military, which said no one was injured. The military did not specify the type of projectile fired.</p>
+
+
+<p>Hours later, Israel’s military said it began striking “terror targets” in Lebanon after Israeli Prime Minister Benjamin Netanyahu vowed to retaliate in a statement, calling Hezbollah’s attack “a serious violation of the ceasefire.”</p><div class='code-block code-block-20' style='margin: 8px 0; clear: both;'>
+<div class="viafoura">
+    <vf-conversation-starter
+        target="vf-conversations-container"
+        title="Have your say."
+        description="Leave a comment below and let us know what you think."
+        vf-container-id="vf-1444976"
+    >
+    </vf-conversation-starter>
+</div></div>
+
+
+
+<p>The Israel Defense Forces (IDF) said earlier on Monday that its own cross-border strikes, despite the ceasefire, had been “in response to several acts by Hezbollah in Lebanon that posed a threat to Israeli civilians, in violation of the understandings between Israel and Lebanon.” It said it had struck military vehicles at a Hezbollah missile manufacturing site in the Beqaa Valley and tunnels near the Syrian border in northern Lebanon.</p><div class='code-block code-block-11' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-in_article_2' data-unit='krdo/news/national-world/cnn-world'></div></div>
+
+
+
+<p>Both the United States and French governments have warned Israel that they believe the Israeli military has violated the terms of the ceasefire, according to CNN affiliate <a href="https://x.com/AmichaiStein1/status/1863533597044375987">Kan</a> and Israeli news outlet Ynet.</p>
+
+
+<p>A source with the United Nations peacekeeping force in Lebanon, UNIFIL, says Israel has breached its ceasefire agreement with Lebanon “approximately 100” times since the truce went into effect last week. CNN has asked the IDF for comment.</p>
+
+
+<p>Israeli Foreign Minister Gideon Sa’ar told his French counterpart in a phone call that his country is, in fact, enforcing the ceasefire – which stipulates Hezbollah’s withdrawal from the Israel-Lebanon border area – rather than violating it, <a href="https://x.com/gidonsaar/status/1863515637659644357?s=48&#038;t=V1DS20HsqU36dsgLH6S0tA">Sa’ar said on X</a> on Monday.</p><div class='code-block code-block-12' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-in_article_3' data-unit='krdo/news/national-world/cnn-world'></div></div>
+
+
+
+<p>“The presence of Hezbollah operatives south of (Lebanon’s) Litani is a fundamental violation of the agreement and they must move north,” Sa’ar said, adding that Israel is “committed to the successful implementation of the ceasefire understandings.”</p>
+
+
+<p>Hezbollah, in a statement, said that it targeted Israeli military positions “in light of the repeated violations initiated by the Israeli enemy of the ceasefire agreement.” Hezbollah accused Israel of breaking the ceasefire by “firing on civilians and airstrikes in different parts of Lebanon, resulting in the martyrdom of citizens and injuries to others, in addition to the continued violation of Lebanese airspace by hostile Israeli aircraft reaching the capital, Beirut.”</p>
+
+
+<p>The IDF said the two Hezbollah projectiles were fired toward Shebaa Farms, known in Israel as Har Dov (Mount Dov), which under international law is considered occupied Syrian territory. Israel seized Shebaa Farms, along with the Golan Heights, from Syria after it was attacked in 1967. The U.S. recognized Israel’s sovereignty over the Golan Heights in 2019.</p><div class='code-block code-block-13' style='margin: 8px 0; clear: both;'>
+  
+  <div class='htlad-in_article_4' data-unit='krdo/news/national-world/cnn-world'></div></div>
+
+
+
+<p>After Israeli officials threatened retaliation to Hezbollah’s projectiles, Lebanese state media said Israeli airstrikes hit the Al-Tuffah district in the south and the southern Nabatiyeh Governorate,<strong> </strong>which the Lebanese health ministry says killed nine people and injured at least three more. The Israeli military said the launcher that fired two projectiles into Mount Dov were among the targets it struck in Lebanon.</p>
+
+
+<p><h2>A shaky start</h2>
+</p>
+
+
+<p>Both sides have, since the early hours of last week’s ceasefire, accused each other of violations, and the escalating tensions risk endangering the agreement altogether.</p>
+
+
+<p>A senior Israeli official said Friday that the military intends to aggressively and unilaterally act against any ceasefire violations by Hezbollah.</p>
+
+
+<p>Unilateral Israeli military action to enforce the ceasefire was not enshrined in the agreement between Israel and Lebanon, but the US provided Israel with a separate letter that provided assurances about Israel’s right to act under certain scenarios, Israeli officials told CNN earlier.</p>
+
+
+<p>US State Department spokesperson Matthew Miller said Monday that the ceasefire has not broken down. “Broadly speaking,” the ceasefire “has been successful,” he said.</p>
+
+
+<p>“Obviously, when you have any ceasefire, you can see violations of it,” Miller acknowledged. He noted that the US and France had set up a mechanism “to look at all of these reports of violations of the ceasefire and deal with them through the channels that the mechanisms set up, and that’s what we’ll do over the coming days.”</p>
+
+
+<p>The State Department official would not say whether the US had determined that any of the alleged violations were violations, saying that the work was ongoing. He also would not comment on reports that US envoy Amos Hochstein had raised violations in a letter to the Israeli government.</p>
+
+
+<p>The ceasefire deal stipulates a 60-day cessation of hostilities, which negotiators have described as the foundation of a lasting truce. During that time, Hezbollah fighters are expected to retreat some 40 kilometers (25 miles) from the Israel-Lebanon border, while Israeli ground forces withdraw from Lebanese territory.</p>
+
+
+<p>UN Security Council Resolution 1701, which ended the last all-out war between the two countries in 2006, has been the basis of the deal and the negotiations have mainly revolved around the treaty’s enforcement.</p>
+
+
+<p>Under the agreement, Lebanon would implement a more rigorous supervision of Hezbollah’s movements south of the country’s Litani river, to prevent militants from regrouping there.</p>
+
+
+<p>United Nations peacekeeping troops, the Lebanese military, and a multinational committee will be tasked with supervising the Iran-backed group’s movements.</p>
+
+
+<p>The-CNN-Wire<br />&trade; &amp; &copy; 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.</p>
+
+
+<p>CNN’s Jennifer Hansler contributed to this report</p>
+
+<!-- AI CONTENT END 1 -->
+    </div><!-- .entry__content -->
+	<div class="meta__secondary-categories"><span class"atf_title">Article Topic Follows:</span> <a href="https://krdo.com/category/news/national-world/cnn-world/">CNN - World</a>
+	<div class="viafoura">
+   <vf-topic-follow topic-id="https://krdo.com/category/news/national-world/cnn-world/" topic-name="CNN - World" topic-type="topic" show-count="true" minimum-count="0"></vf-topic-follow>
+</div>
+	</div>
+<div style="padding-top:10px;">
+	<p>
+		<a href="#vf-conversations-container">Jump to comments &darr;</a>
+	</p>
+	</div>
+</article><!-- #post-## -->
+
+<div class="author author--flex author-1 panel-group">
+            <div class="author__image"><img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;f=y&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;f=y&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/></div>    
+    <div class="author__info">
+        <h3 class="author__name">CNN Newssource</h3>
+
+        
+            </div>
+</div>
+<div id="related-posts"></div>
+<div id="nativo_below_article"></div>
+<div id="minutely_below_article"></div>
+<div id="rc-widget-8c10b8" data-rc-widget data-widget-host="habitat" data-endpoint="//trends.revcontent.com" data-widget-id="249703"></div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    if (!window.location.href.includes('/contests/')) {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://assets.revcontent.com/master/delivery.js';
+        script.defer = true;
+        document.head.appendChild(script);
+    }
+});
+</script><a name="vf-conversations-container"></a>
+<div class="cg_container">
+<strong>BE PART OF THE CONVERSATION</strong>
+<p>KRDO NewsChannel 13 is committed to providing a forum for civil and constructive conversation.</p>
+<p>Please keep your comments respectful and relevant. You can review our Community Guidelines by <a href="https://krdo.com/about-us/2022/07/15/community-guidelines/" target="_blank">clicking here </a></p>
+<p>If you would like to share a story idea, please submit it <a href="/share" target="_blank">here</a>.</p></div>
+<div class="viafoura">
+<vf-conversations vf-container-id="vf-1444976"></vf-conversations>
+	</div>
+<div class="viafoura"><vf-tray-trigger floating="true"></vf-tray-trigger></div>
+
+            </div><!-- /#primary -->
+        </div>
+    </div>
+
+
+<footer class="footer panel-group" role="contentinfo">
+    <div class="container">
+                    <aside class="row footer__widgets footer__widgets--4" role="complementary">
+                <div id="media_image-2" class="footer__widget-item widget_media_image"><a href="https://krdo.com/meet-the-team/"><img width="300" height="150" src="https://krdo.b-cdn.net/2023/10/KRDO-Talent-Footer-1.png" class="image wp-image-1086167  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" /></a></div><div id="text-2" class="footer__widget-item widget_text">			<div class="textwidget"><p><a href="/terms-of-use">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="https://krdo.com/about-us/2022/07/15/community-guidelines/">Community Guidelines</a> | <a href="https://recruiting.adp.com/srccar/public/RTI.home?c=1059541&amp;d=External-Corporate&amp;city=%22Colorado%20Springs%22">KRDO Jobs</a> | <a href="/fcc-applications">FCC Applications</a> |</p>
+<p><a href="/about-us/fcc-public-file/">KRDO FCC Public File</a> | <a href="https://krdo.com/fcc-applications/">KRDO FCC Applications</a></p>
+<p>| <a href="https://www.npgco.com/ccpa-privacy-request/">Do Not Sell My Personal Information</a></p>
+<p>| <a href="https://krdo.com/contests/radio-contests/2019/11/20/contest-rules/">Contest Rules</a></p>
+</div>
+		</div><div id="text-3" class="footer__widget-item widget_text"><h3 class="footer__widget-title hdg hdg--6">Subscribe to our Email Alerts</h3>			<div class="textwidget"><p><a href="/newsletters-alerts/#//">Breaking News<br />
+Severe Weather<br />
+Morning Forecast<br />
+Daily Briefing<br />
+Contests &amp; Promotions</a></p>
+</div>
+		</div><div id="custom_html-23" class="widget_text footer__widget-item widget_custom_html"><h3 class="footer__widget-title hdg hdg--6">Download Our Apps</h3><div class="textwidget custom-html-widget"><div align="center">
+	Available for iOS and Android <br>
+<a href="/about-us/download-our-apps/"><img src="https://s3.us-east-1.wasabisys.com/krdo.com/2019/10/krdo-news-app-icon.jpg" width="80" alt="KRDO News App">
+&#160; &#160; 
+<img src="https://s3.us-east-1.wasabisys.com/krdo.com/2019/10/krdo-weather-app-icon.jpg" width="80" alt="KRDO Weather App">
+</a>
+</div></div></div>            </aside><!-- #secondary -->
+        
+        <div class="footer__socials socials">
+                    </div>
+
+        <div class="footer__copyright">
+            © 2024, Pikes Peak Television, Inc. Colorado Springs, CO, USA        </div>
+    </div>
+</footer>
+
+
+
+
+			<script>
+				function convert_to_url(obj) {
+					return Object
+					.keys(obj)
+					.map(k => `${encodeURIComponent(k)}=${encodeURIComponent(obj[k])}`)
+					.join('&');
+				}
+
+				function pass_to_backend() {
+					if(window.location.hash) {
+						var hash = window.location.hash;
+						var elements = {};
+						hash.split("#")[1].split("&").forEach(element => {
+							var vars = element.split("=");
+							elements[vars[0]] = vars[1];
+						});
+						if(("access_token" in elements) || ("id_token" in elements) || ("token" in elements)) {
+							if(window.location.href.indexOf("?") !== -1) {
+								window.location = (window.location.href.split("?")[0] + window.location.hash).split('#')[0] + "?" + convert_to_url(elements);
+							} else {
+								window.location = window.location.href.split('#')[0] + "?" + convert_to_url(elements);
+							}
+						}
+					}
+				}
+
+				pass_to_backend();
+			</script>
+
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js?ver=2.24.0" id="momentjs-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.26/moment-timezone-with-data.min.js?ver=0.5.26" id="moment-timezone-js"></script>
+<script type="text/javascript" src="https://krdo.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="https://krdo.com/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" id="wp-api-request-js-extra">
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/krdo.com\/wp-json\/","nonce":"596bda5806","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://krdo.com/wp-includes/js/api-request.min.js?ver=6.6.2" id="wp-api-request-js"></script>
+<script type="text/javascript" src="https://krdo.com/wp-includes/js/wp-api.min.js?ver=6.6.2" id="wp-api-js"></script>
+<script type="text/javascript" src="https://krdo.com/wp-content/themes/storymate-npg/build/js/theme.min.js?ver=1.4.21" id="npg-theme-js"></script>
+<script type="text/javascript" src="https://krdo.com/wp-content/themes/storymate-theme/build/js/vendor.min.js?ver=1.4.21" id="ad-vendors-js"></script>
+<script type="text/javascript" src="https://krdo.com/wp-content/themes/storymate-theme/build/js/theme.min.js?ver=1.4.21" id="ad-theme-js"></script>
+<script type="text/javascript" id="pojo-a11y-js-extra">
+/* <![CDATA[ */
+var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"","enable_save":"","save_expiration":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://krdo.com/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0" id="pojo-a11y-js"></script>
+		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Skip to content</a>
+				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-right pojo-a11y-" role="navigation">
+			<div class="pojo-a11y-toolbar-toggle">
+				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Accessibility Tools" role="button">
+					<span class="pojo-sr-only sr-only">Open toolbar</span>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" width="1em">
+						<title>Accessibility Tools</title>
+						<g><path d="M60.4,78.9c-2.2,4.1-5.3,7.4-9.2,9.8c-4,2.4-8.3,3.6-13,3.6c-6.9,0-12.8-2.4-17.7-7.3c-4.9-4.9-7.3-10.8-7.3-17.7c0-5,1.4-9.5,4.1-13.7c2.7-4.2,6.4-7.2,10.9-9.2l-0.9-7.3c-6.3,2.3-11.4,6.2-15.3,11.8C7.9,54.4,6,60.6,6,67.3c0,5.8,1.4,11.2,4.3,16.1s6.8,8.8,11.7,11.7c4.9,2.9,10.3,4.3,16.1,4.3c7,0,13.3-2.1,18.9-6.2c5.7-4.1,9.6-9.5,11.7-16.2l-5.7-11.4C63.5,70.4,62.5,74.8,60.4,78.9z"/><path d="M93.8,71.3l-11.1,5.5L70,51.4c-0.6-1.3-1.7-2-3.2-2H41.3l-0.9-7.2h22.7v-7.2H39.6L37.5,19c2.5,0.3,4.8-0.5,6.7-2.3c1.9-1.8,2.9-4,2.9-6.6c0-2.5-0.9-4.6-2.6-6.3c-1.8-1.8-3.9-2.6-6.3-2.6c-2,0-3.8,0.6-5.4,1.8c-1.6,1.2-2.7,2.7-3.2,4.6c-0.3,1-0.4,1.8-0.3,2.3l5.4,43.5c0.1,0.9,0.5,1.6,1.2,2.3c0.7,0.6,1.5,0.9,2.4,0.9h26.4l13.4,26.7c0.6,1.3,1.7,2,3.2,2c0.6,0,1.1-0.1,1.6-0.4L97,77.7L93.8,71.3z"/></g>					</svg>
+				</a>
+			</div>
+			<div class="pojo-a11y-toolbar-overlay">
+				<div class="pojo-a11y-toolbar-inner">
+					<p class="pojo-a11y-toolbar-title">Accessibility Tools</p>
+					
+					<ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+																			<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Increase Text</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Increase Text</span>								</a>
+							</li>
+							
+							<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Decrease Text</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Decrease Text</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Grayscale</title><path fill="currentColor" d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z"></path></svg></span><span class="pojo-a11y-toolbar-text">Grayscale</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>High Contrast</title><path fill="currentColor" d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z"></path></svg></span><span class="pojo-a11y-toolbar-text">High Contrast</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" tabindex="-1" role="button">
+
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Negative Contrast</title><path fill="currentColor" d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z"></path></svg></span><span class="pojo-a11y-toolbar-text">Negative Contrast</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Light Background</title><path fill="currentColor" d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z"></path></svg></span><span class="pojo-a11y-toolbar-text">Light Background</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Links Underline</title><path fill="currentColor" d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z"></path></svg></span><span class="pojo-a11y-toolbar-text">Links Underline</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Readable Font</title><path fill="currentColor" d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Readable Font</span>								</a>
+							</li>
+																		<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1" role="button">
+								<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Reset</title><path fill="currentColor" d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z"></path></svg></span>
+								<span class="pojo-a11y-toolbar-text">Reset</span>
+							</a>
+						</li>
+					</ul>
+									</div>
+			</div>
+		</nav>
+		<script>
+function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e<<16|h<<8|k;e=63&d>>18;h=63&d>>12;k=63&d>>6;d&=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c<
+a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g<<6)+b,e+=6;8<=e;)((l=255&g>>>(e-=8))||d-2>c)&&(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
+b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+/* <![CDATA[ */
+ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","visible":"VISIBLE","hidden":"HIDDEN","fallback":"FALLBACK","automatically_placed":"Automatically placed by AdSense Auto ads code","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR"};
+/* ]]> */
+function ai_run_scripts(){(function(a){if("function"===typeof define&&define.amd){define(a);var c=!0}"object"===typeof exports&&(module.exports=a(),c=!0);if(!c){var d=window.Cookies,b=window.Cookies=a();b.noConflict=function(){window.Cookies=d;return b}}})(function(){function a(){for(var d=0,b={};d<arguments.length;d++){var f=arguments[d],e;for(e in f)b[e]=f[e]}return b}function c(d){function b(){}function f(h,k,g){if("undefined"!==typeof document){g=a({path:"/",sameSite:"Lax"},b.defaults,g);"number"===typeof g.expires&&(g.expires=
+new Date(1*new Date+864E5*g.expires));g.expires=g.expires?g.expires.toUTCString():"";try{var l=JSON.stringify(k);/^[\{\[]/.test(l)&&(k=l)}catch(p){}k=d.write?d.write(k,h):encodeURIComponent(String(k)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);h=encodeURIComponent(String(h)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);l="";for(var n in g)g[n]&&(l+="; "+n,!0!==g[n]&&(l+="="+g[n].split(";")[0]));return document.cookie=
+h+"="+k+l}}function e(h,k){if("undefined"!==typeof document){for(var g={},l=document.cookie?document.cookie.split("; "):[],n=0;n<l.length;n++){var p=l[n].split("="),m=p.slice(1).join("=");k||'"'!==m.charAt(0)||(m=m.slice(1,-1));try{var q=p[0].replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);m=(d.read||d)(m,q)||m.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);if(k)try{m=JSON.parse(m)}catch(r){}g[q]=m;if(h===q)break}catch(r){}}return h?g[h]:g}}b.set=f;b.get=function(h){return e(h,!1)};b.getJSON=function(h){return e(h,
+!0)};b.remove=function(h,k){f(h,"",a(k,{expires:-1}))};b.defaults={};b.withConverter=c;return b}return c(function(){})});AiCookies=Cookies.noConflict();
+ai_check_block=function(a){if(null==a)return!0;var c=AiCookies.getJSON("aiBLOCKS");ai_debug_cookie_status="";null==c&&(c={});"undefined"!==typeof ai_delay_showing_pageviews&&(c.hasOwnProperty(a)||(c[a]={}),c[a].hasOwnProperty("d")||(c[a].d=ai_delay_showing_pageviews));if(c.hasOwnProperty(a)){for(var d in c[a]){if("x"==d){var b="",f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);var e=new Date;e=c[a][d]-
+Math.round(e.getTime()/1E3);if(0<e&&f==b)return ai_debug_cookie_status=a="closed for "+e+" s = "+Math.round(1E4*e/3600/24)/1E4+" days",!1;ai_set_cookie(a,"x","");c[a].hasOwnProperty("i")||c[a].hasOwnProperty("c")||ai_set_cookie(a,"h","")}else if("d"==d){if(0!=c[a][d])return ai_debug_cookie_status=a="delayed for "+c[a][d]+" pageviews",!1}else if("i"==d){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);
+if(0==c[a][d]&&f==b)return ai_debug_cookie_status=a="max impressions reached",!1;if(0>c[a][d]&&f==b){e=new Date;e=-c[a][d]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max imp. reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"i","");c[a].hasOwnProperty("c")||c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("ipt"==d&&0==c[a][d]&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c[a].it-b,0<e))return ai_debug_cookie_status=a="max imp. per time reached ("+
+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;if("c"==d){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);if(0==c[a][d]&&f==b)return ai_debug_cookie_status=a="max clicks reached",!1;if(0>c[a][d]&&f==b){e=new Date;e=-c[a][d]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max clicks reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"c","");c[a].hasOwnProperty("i")||
+c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("cpt"==d&&0==c[a][d]&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c[a].ct-b,0<e))return ai_debug_cookie_status=a="max clicks per time reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1}if(c.hasOwnProperty("G")&&c.G.hasOwnProperty("cpt")&&0==c.G.cpt&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c.G.ct-b,0<e))return ai_debug_cookie_status=a="max global clicks per time reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1}ai_debug_cookie_status=
+"OK";return!0};
+ai_check_and_insert_block=function(a,c){if(null==a)return!0;var d=document.getElementsByClassName(c);if(d.length){d=d[0];var b=d.closest(".code-block"),f=ai_check_block(a);!f&&0!=parseInt(d.getAttribute("limits-fallback"))&&d.hasAttribute("data-fallback-code")&&(d.setAttribute("data-code",d.getAttribute("data-fallback-code")),b.hasAttribute("data-ai")&&d.hasAttribute("fallback-tracking")&&d.hasAttribute("fallback_level")&&b.setAttribute("data-ai-"+d.getAttribute("fallback_level"),d.getAttribute("fallback-tracking")),
+f=!0);if(f)ai_insert_code(d),b&&(f=b.querySelectorAll(".ai-debug-block"),b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.classList.remove("ai-list-block-filter"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position="")));else{f=d.closest("div[data-ai]");if(null!=f&&"undefined"!=typeof f.getAttribute("data-ai")){var e=JSON.parse(b64d(f.getAttribute("data-ai")));"undefined"!==typeof e&&e.constructor===Array&&(e[1]="",f.setAttribute("data-ai",
+b64e(JSON.stringify(e))))}f=b.querySelectorAll(".ai-debug-block");b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.classList.remove("ai-list-block-filter"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position=""))}d.classList.remove(c)}d=document.querySelectorAll("."+c+"-dbg");b=0;for(f=d.length;b<f;b++)e=d[b],e.querySelector(".ai-status").textContent=ai_debug_cookie_status,e.querySelector(".ai-cookie-data").textContent=ai_get_cookie_text(a),
+e.classList.remove(c+"-dbg")};function ai_load_cookie(){var a=AiCookies.getJSON("aiBLOCKS");null==a&&(a={});return a}function ai_get_cookie(a,c){var d="",b=ai_load_cookie();b.hasOwnProperty(a)&&b[a].hasOwnProperty(c)&&(d=b[a][c]);return d}
+function ai_set_cookie(a,c,d){var b=ai_load_cookie();if(""===d){if(b.hasOwnProperty(a)){delete b[a][c];a:{c=b[a];for(f in c)if(c.hasOwnProperty(f)){var f=!1;break a}f=!0}f&&delete b[a]}}else b.hasOwnProperty(a)||(b[a]={}),b[a][c]=d;0===Object.keys(b).length&&b.constructor===Object?AiCookies.remove("aiBLOCKS"):AiCookies.set("aiBLOCKS",b,{expires:365,path:"/"});return b}
+ai_get_cookie_text=function(a){var c=AiCookies.getJSON("aiBLOCKS");null==c&&(c={});var d="";c.hasOwnProperty("G")&&(d="G["+JSON.stringify(c.G).replace(/"/g,"").replace("{","").replace("}","")+"] ");var b="";c.hasOwnProperty(a)&&(b=JSON.stringify(c[a]).replace(/"/g,"").replace("{","").replace("}",""));return d+b};
+ai_insert=function(c,h,t){for(var n=-1!=h.indexOf(":eq")?jQuery(h):document.querySelectorAll(h),u=0,y=n.length;u<y;u++){var b=n[u];selector_string=b.hasAttribute("id")?"#"+b.getAttribute("id"):b.hasAttribute("class")?"."+b.getAttribute("class").replace(RegExp(" ","g"),"."):"";var v=document.createElement("div");v.innerHTML=t;var m=v.getElementsByClassName("ai-selector-counter")[0];null!=m&&(m.innerText=u+1);m=v.getElementsByClassName("ai-debug-name ai-main")[0];if(null!=m){var l="";"before"==c?l=
+ai_front.insertion_before:"after"==c?l=ai_front.insertion_after:"prepend"==c?l=ai_front.insertion_prepend:"append"==c?l=ai_front.insertion_append:"replace-content"==c?l=ai_front.insertion_replace_content:"replace-element"==c&&(l=ai_front.insertion_replace_element);-1==selector_string.indexOf(".ai-viewports")&&(m.innerText=l+" "+h+" ("+b.tagName.toLowerCase()+selector_string+")")}m=document.createRange();l=!0;try{var w=m.createContextualFragment(v.innerHTML)}catch(r){l=!1}"before"==c?l?b.parentNode.insertBefore(w,
+b):jQuery(v.innerHTML).insertBefore(jQuery(b)):"after"==c?l?b.parentNode.insertBefore(w,b.nextSibling):jQuery(v.innerHTML).insertBefore(jQuery(b.nextSibling)):"prepend"==c?l?b.insertBefore(w,b.firstChild):jQuery(v.innerHTML).insertBefore(jQuery(b.firstChild)):"append"==c?l?b.insertBefore(w,null):jQuery(v.innerHTML).appendTo(jQuery(b)):"replace-content"==c?(b.innerHTML="",l?b.insertBefore(w,null):jQuery(v.innerHTML).appendTo(jQuery(b))):"replace-element"==c&&(l?b.parentNode.insertBefore(w,b):jQuery(v.innerHTML).insertBefore(jQuery(b)),
+b.parentNode.removeChild(b))}};
+ai_insert_code=function(c){function h(m,l){return null==m?!1:m.classList?m.classList.contains(l):-1<(" "+m.className+" ").indexOf(" "+l+" ")}function t(m,l){null!=m&&(m.classList?m.classList.add(l):m.className+=" "+l)}function n(m,l){null!=m&&(m.classList?m.classList.remove(l):m.className=m.className.replace(new RegExp("(^|\\b)"+l.split(" ").join("|")+"(\\b|$)","gi")," "))}if("undefined"!=typeof c){var u=!1;if(h(c,"no-visibility-check")||c.offsetWidth||c.offsetHeight||c.getClientRects().length){u=
+c.getAttribute("data-code");var y=c.getAttribute("data-insertion"),b=c.getAttribute("data-selector");if(null!=u)if(null!=y&&null!=b){if(-1!=b.indexOf(":eq")?jQuery(b).length:document.querySelectorAll(b).length)ai_insert(y,b,b64d(u)),n(c,"ai-viewports")}else{y=document.createRange();b=!0;try{var v=y.createContextualFragment(b64d(u))}catch(m){b=!1}b?c.parentNode.insertBefore(v,c.nextSibling):jQuery(b64d(u)).insertBefore(jQuery(c.nextSibling));n(c,"ai-viewports")}u=!0}else v=c.previousElementSibling,
+h(v,"ai-debug-bar")&&h(v,"ai-debug-script")&&(n(v,"ai-debug-script"),t(v,"ai-debug-viewport-invisible")),n(c,"ai-viewports");return u}};
+ai_insert_list_code=function(c){var h=document.getElementsByClassName(c)[0];if("undefined"!=typeof h){var t=ai_insert_code(h),n=h.closest("div.code-block");if(n){t||n.removeAttribute("data-ai");var u=n.querySelectorAll(".ai-debug-block");n&&u.length&&(n.classList.remove("ai-list-block"),n.classList.remove("ai-list-block-ip"),n.classList.remove("ai-list-block-filter"),n.style.visibility="",n.classList.contains("ai-remove-position")&&(n.style.position=""))}h.classList.remove(c);t&&
+ai_process_elements()}};ai_insert_viewport_code=function(c){var h=document.getElementsByClassName(c)[0];if("undefined"!=typeof h){var t=ai_insert_code(h);h.classList.remove(c);t&&(c=h.closest("div.code-block"),null!=c&&(t=h.getAttribute("style"),null!=t&&c.setAttribute("style",c.getAttribute("style")+" "+t)));setTimeout(function(){h.removeAttribute("style")},2);ai_process_elements()}};
+ai_insert_code_by_class=function(c){var h=document.getElementsByClassName(c)[0];"undefined"!=typeof h&&(ai_insert_code(h),h.classList.remove(c))};ai_insert_client_code=function(c,h){var t=document.getElementsByClassName(c)[0];if("undefined"!=typeof t){var n=t.getAttribute("data-code");null!=n&&ai_check_block()&&ai_check_and_insert_block()&&(t.setAttribute("data-code",n.substring(Math.floor(h/19))),ai_insert_code_by_class(c),t.remove())}};ai_process_elements_active=!1;
+function ai_process_elements(){ai_process_elements_active||setTimeout(function(){ai_process_elements_active=!1;"function"==typeof ai_process_rotations&&ai_process_rotations();"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data"));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data"));"function"==typeof ai_process_filter_hooks&&ai_process_filter_hooks(jQuery(".ai-filter-check"));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks();
+"function"==typeof ai_process_impressions&&1==ai_tracking_finished&&ai_process_impressions();"function"==typeof ai_install_click_trackers&&1==ai_tracking_finished&&ai_install_click_trackers();"function"==typeof ai_install_close_buttons&&ai_install_close_buttons(document)},5);ai_process_elements_active=!0}
+var Arrive=function(c,h,t){function n(r,d,e){b.addMethod(d,e,r.unbindEvent);b.addMethod(d,e,r.unbindEventWithSelectorOrCallback);b.addMethod(d,e,r.unbindEventWithSelectorAndCallback)}function u(r){r.arrive=l.bindEvent;n(l,r,"unbindArrive");r.leave=w.bindEvent;n(w,r,"unbindLeave")}if(c.MutationObserver&&"undefined"!==typeof HTMLElement){var y=0,b=function(){var r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector;
+return{matchesSelector:function(d,e){return d instanceof HTMLElement&&r.call(d,e)},addMethod:function(d,e,f){var a=d[e];d[e]=function(){if(f.length==arguments.length)return f.apply(this,arguments);if("function"==typeof a)return a.apply(this,arguments)}},callCallbacks:function(d,e){e&&e.options.onceOnly&&1==e.firedElems.length&&(d=[d[0]]);for(var f=0,a;a=d[f];f++)a&&a.callback&&a.callback.call(a.elem,a.elem);e&&e.options.onceOnly&&1==e.firedElems.length&&e.me.unbindEventWithSelectorAndCallback.call(e.target,
+e.selector,e.callback)},checkChildNodesRecursively:function(d,e,f,a){for(var g=0,k;k=d[g];g++)f(k,e,a)&&a.push({callback:e.callback,elem:k}),0<k.childNodes.length&&b.checkChildNodesRecursively(k.childNodes,e,f,a)},mergeArrays:function(d,e){var f={},a;for(a in d)d.hasOwnProperty(a)&&(f[a]=d[a]);for(a in e)e.hasOwnProperty(a)&&(f[a]=e[a]);return f},toElementsArray:function(d){"undefined"===typeof d||"number"===typeof d.length&&d!==c||(d=[d]);return d}}}(),v=function(){var r=function(){this._eventsBucket=
+[];this._beforeRemoving=this._beforeAdding=null};r.prototype.addEvent=function(d,e,f,a){d={target:d,selector:e,options:f,callback:a,firedElems:[]};this._beforeAdding&&this._beforeAdding(d);this._eventsBucket.push(d);return d};r.prototype.removeEvent=function(d){for(var e=this._eventsBucket.length-1,f;f=this._eventsBucket[e];e--)d(f)&&(this._beforeRemoving&&this._beforeRemoving(f),(f=this._eventsBucket.splice(e,1))&&f.length&&(f[0].callback=null))};r.prototype.beforeAdding=function(d){this._beforeAdding=
+d};r.prototype.beforeRemoving=function(d){this._beforeRemoving=d};return r}(),m=function(r,d){var e=new v,f=this,a={fireOnAttributesModification:!1};e.beforeAdding(function(g){var k=g.target;if(k===c.document||k===c)k=document.getElementsByTagName("html")[0];var p=new MutationObserver(function(x){d.call(this,x,g)});var q=r(g.options);p.observe(k,q);g.observer=p;g.me=f});e.beforeRemoving(function(g){g.observer.disconnect()});this.bindEvent=function(g,k,p){k=b.mergeArrays(a,k);for(var q=b.toElementsArray(this),
+x=0;x<q.length;x++)e.addEvent(q[x],g,k,p)};this.unbindEvent=function(){var g=b.toElementsArray(this);e.removeEvent(function(k){for(var p=0;p<g.length;p++)if(this===t||k.target===g[p])return!0;return!1})};this.unbindEventWithSelectorOrCallback=function(g){var k=b.toElementsArray(this);e.removeEvent("function"===typeof g?function(p){for(var q=0;q<k.length;q++)if((this===t||p.target===k[q])&&p.callback===g)return!0;return!1}:function(p){for(var q=0;q<k.length;q++)if((this===t||p.target===k[q])&&p.selector===
+g)return!0;return!1})};this.unbindEventWithSelectorAndCallback=function(g,k){var p=b.toElementsArray(this);e.removeEvent(function(q){for(var x=0;x<p.length;x++)if((this===t||q.target===p[x])&&q.selector===g&&q.callback===k)return!0;return!1})};return this},l=new function(){function r(f,a,g){return b.matchesSelector(f,a.selector)&&(f._id===t&&(f._id=y++),-1==a.firedElems.indexOf(f._id))?(a.firedElems.push(f._id),!0):!1}var d={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};l=new m(function(f){var a=
+{attributes:!1,childList:!0,subtree:!0};f.fireOnAttributesModification&&(a.attributes=!0);return a},function(f,a){f.forEach(function(g){var k=g.addedNodes,p=g.target,q=[];null!==k&&0<k.length?b.checkChildNodesRecursively(k,a,r,q):"attributes"===g.type&&r(p,a,q)&&q.push({callback:a.callback,elem:p});b.callCallbacks(q,a)})});var e=l.bindEvent;l.bindEvent=function(f,a,g){"undefined"===typeof g?(g=a,a=d):a=b.mergeArrays(d,a);var k=b.toElementsArray(this);if(a.existing){for(var p=[],q=0;q<k.length;q++)for(var x=
+k[q].querySelectorAll(f),z=0;z<x.length;z++)p.push({callback:g,elem:x[z]});if(a.onceOnly&&p.length)return g.call(p[0].elem,p[0].elem);setTimeout(b.callCallbacks,1,p)}e.call(this,f,a,g)};return l},w=new function(){function r(f,a){return b.matchesSelector(f,a.selector)}var d={};w=new m(function(){return{childList:!0,subtree:!0}},function(f,a){f.forEach(function(g){g=g.removedNodes;var k=[];null!==g&&0<g.length&&b.checkChildNodesRecursively(g,a,r,k);b.callCallbacks(k,a)})});var e=w.bindEvent;w.bindEvent=
+function(f,a,g){"undefined"===typeof g?(g=a,a=d):a=b.mergeArrays(d,a);e.call(this,f,a,g)};return w};h&&u(h.fn);u(HTMLElement.prototype);u(NodeList.prototype);u(HTMLCollection.prototype);u(HTMLDocument.prototype);u(Window.prototype);h={};n(l,h,"unbindAllArrive");n(w,h,"unbindAllLeave");return h}}(window,"undefined"===typeof jQuery?null:jQuery,void 0);
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,n){a.raw=n;return a};$jscomp.arrayIteratorImpl=function(a){var n=0;return function(){return n<a.length?{done:!1,value:a[n++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var n="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return n?n.call(a):$jscomp.arrayIterator(a)};
+jQuery(function(a){function n(d){d=d.match(ba);return null!=d&&1<d.length&&"string"===typeof d[1]&&0<d[1].length?d[1].toLowerCase():null}function B(d){return d.includes(":")?(d=d.split(":"),1E3*(3600*parseInt(d[0])+60*parseInt(d[1])+parseInt(d[2]))):null}function t(d){try{var l=Date.parse(d);isNaN(l)&&(l=null)}catch(F){l=null}if(null==l&&d.includes(" ")){d=d.split(" ");try{l=Date.parse(d[0]),l+=B(d[1]),isNaN(l)&&(l=null)}catch(F){l=null}}return l}function G(){(jQuery("#ai-iab-tcf-bar").length||jQuery(".ai-list-manual").length)&&
+"function"==typeof __tcfapi&&"function"==typeof ai_load_blocks&&"undefined"==typeof ai_iab_tcf_callback_installed&&(__tcfapi("addEventListener",2,function(d,l){l&&"useractioncomplete"===d.eventStatus&&(ai_tcData=d,ai_load_blocks(),jQuery("#ai-iab-tcf-status").text("IAB TCF 2.0 DATA LOADED"),jQuery("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))}),ai_iab_tcf_callback_installed=!0)}function u(d){d=("; "+document.cookie).split("; "+d+"=");if(2===d.length)return d.pop().split(";").shift()}
+function m(d){if(u(d)){var l=window.location.hostname;u(d)&&(document.cookie=d+"=;path=/"+(l?";domain="+l:"")+";expires=Thu, 01 Jan 1970 00:00:01 GMT");document.cookie=d+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"}}Array.prototype.includes||(Array.prototype.includes=function(d){return!!~this.indexOf(d)});var ba=RegExp(":\\/\\/(.[^/:]+)","i");ai_process_lists=function(d){function l(e,c,k){if(0==e.length){if("!@!"==k)return!0;c!=k&&("true"==k.toLowerCase()?k=!0:"false"==k.toLowerCase()&&(k=
+!1));return c==k}if("object"!=typeof c&&"array"!=typeof c)return!1;var f=e[0];e=e.slice(1);if("*"==f)for(c=$jscomp.makeIterator(Object.entries(c)),f=c.next();!f.done;f=c.next()){if(f=$jscomp.makeIterator(f.value),f.next(),f=f.next().value,l(e,f,k))return!0}else if(f in c)return l(e,c[f],k);return!1}function F(e,c,k){if("object"!=typeof e||-1==c.indexOf("["))return!1;c=c.replace(/]| /gi,"").split("[");return l(c,e,k)}function ca(){"function"==typeof __tcfapi&&(a("#ai-iab-tcf-status").text("IAB TCF 2.0 DETECTED"),
+__tcfapi("getTCData",2,function(e,c){c?(a("#ai-iab-tcf-bar").addClass("status-ok"),"tcloaded"==e.eventStatus||"useractioncomplete"==e.eventStatus?(ai_tcData=e,e.gdprApplies?a("#ai-iab-tcf-status").text("IAB TCF 2.0 DATA LOADED"):jQuery("#ai-iab-tcf-status").text("IAB TCF 2.0 GDPR DOES NOT APPLY"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"),setTimeout(function(){ai_process_lists()},10)):"cmpuishown"==e.eventStatus&&(ai_cmpuishown=!0,a("#ai-iab-tcf-status").text("IAB TCF 2.0 CMP UI SHOWN"),
+a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))):(a("#ai-iab-tcf-status").text("IAB TCF 2.0 __tcfapi getTCData failed"),a("#ai-iab-tcf-bar").removeClass("status-ok").addClass("status-error"))}))}function K(e){"function"==typeof __tcfapi?("undefined"==typeof ai_iab_tcf_callback_installed&&G(),"undefined"==typeof ai_tcData_requested&&(ai_tcData_requested=!0,ca(),url_parameters_need_tcData=!0)):e&&(a("#ai-iab-tcf-bar").addClass("status-error").removeClass("status-ok"),a("#ai-iab-tcf-status").text("IAB TCF 2.0 MISSING: __tcfapi function not found"))}
+d=null==d?a("div.ai-list-data, meta.ai-list-data"):d.filter(".ai-list-data");if(d.length){d.removeClass("ai-list-data");var J=document.cookie.split(";");J.forEach(function(e,c){J[c]=e.trim()});var V=getAllUrlParams(window.location.search);if(null!=V.referrer)var w=V.referrer;else w=document.referrer,""!=w&&(w=n(w));var R=window.navigator.userAgent,S=R.toLowerCase(),W=navigator.language,L=W.toLowerCase();if("undefined"!==typeof MobileDetect)var X=new MobileDetect(R);d.each(function(){var e=a(this).closest("div.code-block"),
+c=!0,k=a(this).attr("referer-list");if("undefined"!=typeof k){k=b64d(k).split(",");var f=a(this).attr("referer-list-type"),C=!1;a.each(k,function(A,g){if(""==g)return!0;if("*"==g.charAt(0))if("*"==g.charAt(g.length-1)){if(g=g.substr(1,g.length-2),-1!=w.indexOf(g))return C=!0,!1}else{if(g=g.substr(1),w.substr(-g.length)==g)return C=!0,!1}else if("*"==g.charAt(g.length-1)){if(g=g.substr(0,g.length-1),0==w.indexOf(g))return C=!0,!1}else if("#"==g){if(""==w)return C=!0,!1}else if(g==w)return C=!0,!1});
+switch(f){case "B":C&&(c=!1);break;case "W":C||(c=!1)}}if(c&&(k=a(this).attr("client-list"),"undefined"!=typeof k&&"undefined"!==typeof X))switch(k=b64d(k).split(","),f=a(this).attr("client-list-type"),r=!1,a.each(k,function(A,g){if(""==g.trim())return!0;var M=g.split("&&");a.each(M,function(da,b){var x=!0,q=!1;b=b.trim();"!!"==b.substring(0,2)&&(x=!1,b=b.substring(2));"language:"==b.substring(0,9)&&(q=!0,b=b.substring(9).toLowerCase());var p=!1;q?"*"==b.charAt(0)?"*"==b.charAt(b.length-1)?(b=b.substr(1,
+b.length-2).toLowerCase(),-1!=L.indexOf(b)&&(p=!0)):(b=b.substr(1).toLowerCase(),L.substr(-b.length)==b&&(p=!0)):"*"==b.charAt(b.length-1)?(b=b.substr(0,b.length-1).toLowerCase(),0==L.indexOf(b)&&(p=!0)):b==L&&(p=!0):"*"==b.charAt(0)?"*"==b.charAt(b.length-1)?(b=b.substr(1,b.length-2).toLowerCase(),-1!=S.indexOf(b)&&(p=!0)):(b=b.substr(1).toLowerCase(),S.substr(-b.length)==b&&(p=!0)):"*"==b.charAt(b.length-1)?(b=b.substr(0,b.length-1).toLowerCase(),0==S.indexOf(b)&&(p=!0)):X.is(b)&&(p=!0);r=p?x:!x;
+if(!r)return!1});if(r)return!1}),f){case "B":r&&(c=!1);break;case "W":r||(c=!1)}var N=k=!1;if(c){var h=a(this).attr("parameter-list");if("undefined"!=typeof h){h=b64d(h);f=a(this).attr("parameter-list-type");h=h.replace("tcf-gdpr","tcf-v2[gdprApplies]=true");h=h.replace("tcf-no-gdpr","tcf-v2[gdprApplies]=false");h=h.replace("tcf-google","tcf-v2[vendor][consents][755]=true && tcf-v2[purpose][consents][1]=true");h=h.replace("tcf-media.net","tcf-v2[vendor][consents][142]=true && tcf-v2[purpose][consents][1]=true");
+h=h.replace("tcf-amazon","tcf-v2[vendor][consents][793]=true && tcf-v2[purpose][consents][1]=true");h=h.replace("tcf-ezoic","tcf-v2[vendor][consents][347]=true && tcf-v2[purpose][consents][1]=true");h=h.split(",");var Y=[];J.forEach(function(A){A=A.split("=");try{var g=JSON.parse(decodeURIComponent(A[1]))}catch(M){g=decodeURIComponent(A[1])}Y[A[0]]=g});var r=!1,O=a(this);a.each(h,function(A,g){var M=g.split("&&");a.each(M,function(da,b){var x=!0;b=b.trim();"!!"==b.substring(0,2)&&(x=!1,b=b.substring(2));
+var q=b,p="!@!",Z=-1!=b.indexOf("["),aa=(0==b.indexOf("tcf-v2")||0==b.indexOf("euconsent-v2"))&&-1!=b.indexOf("[");-1!=b.indexOf("=")&&(p=b.split("="),q=p[0],p=p[1],Z=-1!=q.indexOf("["),aa=(0==q.indexOf("tcf-v2")||0==q.indexOf("euconsent-v2"))&&-1!=q.indexOf("["));if(aa)a("#ai-iab-tcf-bar").show(),"object"==typeof ai_tcData?(a("#ai-iab-tcf-bar").addClass("status-ok"),q=q.replace(/]| /gi,"").split("["),q.shift(),r=(q=l(q,ai_tcData,p))?x:!x):(O.addClass("ai-list-data"),N=!0,"function"==typeof __tcfapi?
+K(!1):"undefined"==typeof ai_tcData_retrying&&(ai_tcData_retrying=!0,setTimeout(function(){"function"==typeof __tcfapi?K(!1):setTimeout(function(){"function"==typeof __tcfapi?K(!1):setTimeout(function(){K(!0)},3E3)},1E3)},600)));else if(Z)r=(q=F(Y,q,p))?x:!x;else{var T=!1;"!@!"==p?J.every(function(ea){return ea.split("=")[0]==b?(T=!0,!1):!0}):T=-1!=J.indexOf(b);r=T?x:!x}if(!r)return!1});if(r)return!1});r&&(N=!1);switch(f){case "B":r&&(c=!1);break;case "W":r||(c=!1)}a(this).hasClass("ai-list-manual")&&
+(c?(O.removeClass("ai-list-data"),O.removeClass("ai-list-manual")):(k=!0,O.addClass("ai-list-data")));if(!k&&!N&&(f=a(this).data("debug-info"),"undefined"!=typeof f&&(f=a("."+f),0!=f.length))){var v=f.parent();v.hasClass("ai-debug-info")&&v.remove()}}}v=a(this).prevAll(".ai-debug-bar.ai-debug-lists");f=""==w?"#":w;v.find(".ai-debug-name.ai-list-info").text(f).attr("title",R+"\n"+W);v.find(".ai-debug-name.ai-list-status").text(c?ai_front.visible:ai_front.hidden);f=!1;if(c){var D=a(this).attr("scheduling-start");
+h=a(this).attr("scheduling-end");var H=a(this).attr("scheduling-days");if("undefined"!=typeof D&&"undefined"!=typeof h&&"undefined"!=typeof H){f=!0;var y=b64d(D),P=b64d(h),U=parseInt(a(this).attr("scheduling-fallback")),Q=parseInt(a(this).attr("gmt"));y.includes("-")||P.includes("-")?(h=t(y)+Q,D=t(P)+Q):(h=B(y),D=B(P));H=b64d(H).split(",");v=a(this).attr("scheduling-type");var z=(new Date).getTime()+Q,E=new Date(z),I=E.getDay();y.includes("-")||P.includes("-")||(y=(new Date(E.getFullYear(),E.getMonth(),
+E.getDate())).getTime()+Q,z-=y,0>z&&(z+=864E5));0==I?I=6:I--;y=z>=h&&z<D&&H.includes(I.toString());switch(v){case "B":y=!y}y||(c=!1);E=E.toISOString().split(".")[0].replace("T"," ");v=a(this).prevAll(".ai-debug-bar.ai-debug-scheduling");v.find(".ai-debug-name.ai-scheduling-info").text(E+" "+I+" current_time:"+Math.floor(z.toString()/1E3)+"  start_date:"+Math.floor(h/1E3).toString()+" ="+(z>=h).toString()+" end_date:"+Math.floor(D/1E3).toString()+" =:"+(z<D).toString()+" days:"+H.toString()+" =:"+
+H.includes(I.toString()).toString());v.find(".ai-debug-name.ai-scheduling-status").text(c?ai_front.visible:ai_front.hidden);c||0==U||(v.removeClass("ai-debug-scheduling").addClass("ai-debug-fallback"),v.find(".ai-debug-name.ai-scheduling-status").text(ai_front.fallback+" = "+U))}}if(k||N)return!0;a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});c?(e.css({visibility:""}),e.hasClass("ai-remove-position")&&e.css({position:""}),"undefined"!=typeof a(this).data("code")&&(c=b64d(a(this).data("code")),
+0!=a(this).closest("head").length?(a(this).after(c),a(this).remove()):a(this).append(c),ai_process_element_lists(this))):f&&!y&&0!=U?(e.css({visibility:""}),e.hasClass("ai-remove-position")&&e.css({position:""}),a(this).next(".ai-fallback").removeClass("ai-fallback"),"undefined"!=typeof a(this).data("fallback-code")?(c=b64d(a(this).data("fallback-code")),a(this).append(c),ai_process_element_lists(this)):(a(this).hide(),e.find(".ai-debug-block").length||-1!=e.attr("style").indexOf("height:")||e.hide()),
+c=e.attr("data-ai"),"undefined"!==typeof c&&!1!==c&&(c=a(this).attr("fallback-tracking"),"undefined"!==typeof c&&!1!==c&&e.attr("data-ai-"+a(this).attr("fallback_level"),c))):(a(this).hide(),e.length&&(e.removeAttr("data-ai").removeClass("ai-track"),e.find(".ai-debug-block").length?(e.css({visibility:""}).removeClass("ai-close"),e.hasClass("ai-remove-position")&&e.css({position:""})):-1==e.attr("style").indexOf("height:")&&e.hide()));a(this).attr("data-code","");a(this).attr("data-fallback-code",
+"");e.removeClass("ai-list-block")})}};a(document).ready(function(d){setTimeout(function(){ai_process_lists();setTimeout(function(){G();if("function"==typeof ai_load_blocks){var l=function(F){"cmplzEnableScripts"!=F.type&&"all"!==F.consentLevel||ai_load_blocks()};jQuery(document).on("cmplzEnableScripts",l);jQuery(document).on("cmplz_event_marketing",l)}},50);jQuery(".ai-debug-page-type").dblclick(function(){jQuery("#ai-iab-tcf-status").text("CONSENT COOKIES");jQuery("#ai-iab-tcf-bar").show()});jQuery("#ai-iab-tcf-bar").click(function(){m("euconsent-v2");
+m("__lxG__consent__v2");m("__lxG__consent__v2_daisybit");m("__lxG__consent__v2_gdaisybit");m("CookieLawInfoConsent");m("cookielawinfo-checkbox-advertisement");m("cookielawinfo-checkbox-analytics");m("cookielawinfo-checkbox-necessary");m("complianz_policy_id");m("complianz_consent_status");m("cmplz_marketing");m("cmplz_consent_status");m("cmplz_preferences");m("cmplz_statistics-anonymous");m("cmplz_choice");m("moove_gdpr_popup");m("real_cookie_banner-blog:1-tcf");m("real_cookie_banner-blog:1");jQuery("#ai-iab-tcf-status").text("CONSENT COOKIES DELETED")})},
+5)})});
+function ai_process_element_lists(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data",a));"function"==typeof ai_process_filter_hooks&&ai_process_filter_hooks(jQuery(".ai-filter-check",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a);"function"==typeof ai_process_impressions&&
+1==ai_tracking_finished&&ai_process_impressions();"function"==typeof ai_install_click_trackers&&1==ai_tracking_finished&&ai_install_click_trackers();"function"==typeof ai_install_close_buttons&&ai_install_close_buttons(document)},5)}
+function getAllUrlParams(a){var n=a?a.split("?")[1]:window.location.search.slice(1);a={};if(n){n=n.split("#")[0];n=n.split("&");for(var B=0;B<n.length;B++){var t=n[B].split("="),G=void 0,u=t[0].replace(/\[\d*\]/,function(m){G=m.slice(1,-1);return""});t="undefined"===typeof t[1]?"":t[1];u=u.toLowerCase();t=t.toLowerCase();a[u]?("string"===typeof a[u]&&(a[u]=[a[u]]),"undefined"===typeof G?a[u].push(t):a[u][G]=t):a[u]=t}}return a};
+jQuery(function(a){function u(e,c){c||(c=window.location.href);e=e.replace(/[\[\]]/g,"\\$&");var f=(new RegExp("[?&]"+e+"(=([^&#]*)|&|#|$)")).exec(c);return f?f[2]?decodeURIComponent(f[2].replace(/\+/g," ")):"":null}function v(e){e.removeClass("ai-ip-data");var c=!1;if(""!=ai_ip_data){try{var f=JSON.parse(ai_ip_data),g=f[0],l=f[1],n=f[2],p=f[3]}catch(d){return}var r=!1;-1!=g.indexOf("#")&&(r=!0,g=g.replace("#",""));var q="";r&&(q="CFP BLOCKED, ");q=q+g+", "+l;null!=n&&null!=p&&(q=q+":"+n+":"+p);null==
+n&&(n="");null==p&&(p="");null!=f&&e.each(function(){var d=a(this).closest("div.code-block");c=!0;var h=a(this).attr("ip-addresses");if("undefined"!=typeof h){h=h.split(",");var t=a(this).attr("ip-address-list"),k=!1;a.each(h,function(w,b){if("*"==b.charAt(0))if("*"==b.charAt(b.length-1)){if(b=b.substr(1,b.length-2),-1!=g.indexOf(b))return k=!0,!1}else{if(b=b.substr(1),g.substr(-b.length)==b)return k=!0,!1}else if("*"==b.charAt(b.length-1)){if(b=b.substr(0,b.length-1),0==g.indexOf(b))return k=
+!0,!1}else if("#"==b){if(""==g)return k=!0,!1}else if("CFP"==b.toUpperCase()){if(r)return k=!0,!1}else if(b==g)return k=!0,!1});switch(t){case "B":k&&(c=!1);break;case "W":k||(c=!1)}}if(c&&(h=a(this).attr("countries"),"undefined"!=typeof h))switch(h=h.split(","),t=a(this).attr("country-list"),k=!1,a.each(h,function(w,b){var m=b.trim().split(":");if(null==m[1]||""==n)m[1]="";if(null==m[2]||""==p)m[2]="";var x=m.join(":").toUpperCase();m=(l+":"+(""==m[1]?"":n)+":"+(""==m[2]?"":p)).toUpperCase();if(x==
+m)return k=!0,!1}),t){case "B":k&&(c=!1);break;case "W":k||(c=!1)}a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});h=a(this).prev(".ai-debug-bar");h.find(".ai-debug-name.ai-ip-country").text(q);h.find(".ai-debug-name.ai-ip-status").text(c?ai_front.visible:ai_front.hidden);c?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(h=b64d(a(this).data("code")),0!=a(this).closest("head").length?(a(this).after(h),
+a(this).remove()):a(this).append(h),a(this).attr("data-code",""),ai_process_element(this))):(a(this).hide(),d.length&&(d.removeAttr("data-ai").removeClass("ai-track"),d.find(".ai-debug-block").length?(d.css({visibility:""}).removeClass("ai-close"),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(d.removeClass("ai-list-block"),d.removeClass("ai-list-block-filter"),d.prev().hasClass("ai-debug-info")&&d.prev().remove())):-1==d.attr("style").indexOf("height:")&&
+d.hide()));d.removeClass("ai-list-block-ip")})}}ai_process_ip_addresses=function(e){e=null==e?a("div.ai-ip-data, meta.ai-ip-data"):e.filter(".ai-ip-data");if(e.length)if("undefined"!=typeof ai_ip_data)v(e);else if("undefined"==typeof ai_ip_data_requested){ai_ip_data_requested=!0;var c="/wp-admin/admin-ajax.php?action=ai_ajax&ip-data=ip-address-country-city",f=u("ai-debug-ip-address");null!=f&&(c+="&ai-debug-ip-address="+f);f=u("ai-debug-country");null!=f&&(c+="&ai-debug-country="+f);a.ajax({url:c,
+type:"post",data:{ai_check:"1a8513b592",ai_version:(new Date).getTime()+"-"+Math.round(1E5*Math.random())},async:!0}).done(function(g){ai_ip_data=g;if(""==g){var l="Ajax request returned empty data, geo-targeting disabled";console.error(l);"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,c,0])}else try{JSON.parse(g)}catch(n){l="Ajax call returned invalid data, geo-targeting disabled",console.error(l,g),"undefined"!=typeof ai_js_errors&&ai_js_errors.push([l,c,0])}e=a("div.ai-ip-data, meta.ai-ip-data");
+e.length&&v(e)}).fail(function(g,l,n){a("div.ai-ip-data").each(function(){a(this).css({display:"none",visibility:"",position:"",width:"",height:"","z-index":""}).removeClass("ai-ip-data").hide()})})}};a(document).ready(function(e){setTimeout(function(){ai_process_ip_addresses()},5)})});
+function ai_process_element(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data",a));"function"==typeof ai_process_filter_hooks&&ai_process_filter_hooks(jQuery(".ai-filter-check",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a);"function"==typeof ai_process_impressions&&
+1==ai_tracking_finished&&ai_process_impressions();"function"==typeof ai_install_click_trackers&&1==ai_tracking_finished&&ai_install_click_trackers();"function"==typeof ai_install_close_buttons&&ai_install_close_buttons(document)},5)};
+ai_run_657061208001 = function(){
+ai_document_write=document.write;document.write=function(a){"interactive"==document.readyState?(console.error("document.write called after page load: ",a),"undefined"!=typeof ai_js_errors&&ai_js_errors.push(["document.write called after page load",a,0])):ai_document_write.call(document,a)};
+ai_insert ('after', '.meta__social', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTI0IGFpLXZpZXdwb3J0LTIgYWktdmlld3BvcnQtMycgc3R5bGU9J21hcmdpbjogOHB4IDA7IGNsZWFyOiBib3RoOyc+CiAgCiAgPGRpdiBjbGFzcz0naHRsYWQtbGVhZGVyYm9hcmRfMicgZGF0YS11bml0PSdrcmRvL25ld3MvbmF0aW9uYWwtd29ybGQvY25uLXdvcmxkJz48L2Rpdj48L2Rpdj4K'));
+ai_insert ('before', '#masthead', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTknIHN0eWxlPSdtYXJnaW46IDA7Jz4KICA8ZGl2IGNsYXNzPSdodGxhZC1vb3AnIGRhdGEtdW5pdD0na3Jkby9uZXdzL25hdGlvbmFsLXdvcmxkL2Nubi13b3JsZCc+PC9kaXY+PC9kaXY+Cg=='));
+ai_insert ('after', 'header#masthead', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTEnIHN0eWxlPSdtYXJnaW46IDhweCBhdXRvIDhweDsgdGV4dC1hbGlnbjogY2VudGVyOyBkaXNwbGF5OiBibG9jazsgY2xlYXI6IGJvdGg7Jz4KICAKICA8ZGl2IGNsYXNzPSdodGxhZC1sZWFkZXJib2FyZF8xJyBkYXRhLXVuaXQ9J2tyZG8vbmV3cy9uYXRpb25hbC13b3JsZC9jbm4td29ybGQnPjwvZGl2PjwvZGl2Pgo='));
+ai_insert ('append', '#primary', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTI1JyBzdHlsZT0nbWFyZ2luOiA4cHggMDsgY2xlYXI6IGJvdGg7Jz4KPGRpdiBjbGFzcz0iZWRpdG9yLXR2LXdyYXBwZXIiIGRhdGEtZW1iZWQtaWQ9IjYzMTQwMSI+CjxkaXYgY2xhc3M9ImVkaXRvci10di10aXRsZSI+PC9kaXY+CjxkaXYgY2xhc3M9ImVkaXRvci10di1jb21wb25lbnQiPjwvZGl2Pgo8L2Rpdj48L2Rpdj4K'));
+ai_insert ('before', 'div#story-columns-2 > div > div > div > div > div > article:eq(0)', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTQnIHN0eWxlPSdtYXJnaW46IDhweCAwOyBjbGVhcjogYm90aDsgbWluLXdpZHRoOiAzMDBweDsnPgogIAogIDxkaXYgY2xhc3M9J2h0bGFkLW1yXzEnIGRhdGEtdW5pdD0na3Jkby9uZXdzL25hdGlvbmFsLXdvcmxkL2Nubi13b3JsZCc+PC9kaXY+PC9kaXY+Cg=='));
+};
+if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) ai_run_657061208001 (); else document.addEventListener ('DOMContentLoaded', ai_run_657061208001);
+ai_js_code = true;
+}
+function ai_wait_for_jquery(){function b(f,c){var a=document.createElement("script");a.src=f;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery&&window.jQuery.fn?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("https://krdo.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",function(){b("https://krdo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=6.6.2",
+null)}),30>ai_jquery_waiting_counter&&setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
+
+</script>
+
+<div class="viafoura"><vf-tray-trigger floating="true"></vf-tray-trigger></div>
+            </div>
+<script type="text/javascript" async src="//cdn.viafoura.net/entry/index.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-f190a1aa51390321b51","applicationID":"818884498","transactionName":"Z1dbY0RQChVSB0BRXV4deFRCWAsIHBddVlVcVw==","queueTime":0,"applicationTime":535,"atts":"SxBYFQxKGRs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

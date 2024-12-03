@@ -1,0 +1,17 @@
+Authors: ['Jon Brodkin']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:58:10
+Description: June 2024 shareholder vote doesn’t fix problems in 2018 stock award, judge says.
+Filename: .json
+Image_Url: https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Elon Musk loses bid to reinstate massive Tesla pay plan, now worth $101B
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Her ruling said that a "large and talented group of defense firms got creative with the ratification argument, but their unprecedented theories go against multiple strains of settled law." By holding another shareholder vote, Musk and Tesla board members essentially created new evidence after the trial, McCormick wrote: There are at least four fatal flaws. Shareholder Richard Tornetta, the plaintiff who launched the lawsuit that got Musk's pay rescinded, "has demonstrated that the vote was not fully informed," today's ruling said. The January ruling in which McCormick voided the pay package said the deal was unfair to shareholders and that most of the board members were beholden to Musk or had compromising conflicts. "As discussed above, under Delaware law, ratification cannot be deployed post-trial to extinguish an adjudicated breach of the duty of loyalty," and it "cannot cleanse a conflicted-controller transaction" without a full suite of required legal protections.
+Financial_Events: []

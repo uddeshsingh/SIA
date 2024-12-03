@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Riddhima Pal"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 16:10:53",
+    "description": "Tech lovers - the much-awaited Cyber Monday sale is finally here! This is the best time of the year for those who have been eyeing several high-end products throughout the year to purchase them withou",
+    "filename": ".json",
+    "image_url": "https://static.soapcentral.com/editor/2024/12/8c490-17331709117696-1920.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tech lovers - the much-awaited Cyber Monday sale is finally here! This is the best time of the year for those who have been eyeing several high-end products throughout the year to purchase them without breaking the bank.\nBrands like Apple, Samsung, Bose, and more host the biggest sales of the year during this time, and tech lovers can purchase the best of the best products at throwaway prices as the items see massive discounts during this period.\nThis year, it seems like the brands are going all out with their discounts, as even newly launched products are available at highly discounted prices on the brand's own website or retailer sites like Amazon.\nThis means that fans can get ahead of their holiday shopping and buy items for themselves or as gifting options for their loved ones.\nHowever, since most brands are hosting these massive sales right now, it can get difficult to navigate and zero down on the best deals for you. So, here are some of the best deals from top tech brands that you can bag during the Cyber Monday sale of 2024.\nBest tech deals to bag from Apple, Samsung, and more this Cyber Monday 2024\n1) Bose - QuietComfort Ultra Wireless Noise Cancelling Over-the-Ear Headphones (Was $429, now $329)\nBose has made a name for itself when it comes to uncompromising sound quality, so if you're on the lookout for a pair of noise-canceling headphones worth its salt, the QuietComfort Ultra Wireless Noise Cancelling Over-the-Ear Headphones are the ones for you.\n2) Samsung - 75\u201d Class DU6950 Series Crystal UHD 4K Smart Tizen TV (2024) (Was $749, now $549)\nThere is no better time than Cyber Monday sales to upgrade your TV, and the Samsung 75\" Class DU6950 Series Crystal UHD 4K Smart Tizen TV is one of the most popular picks this season.\nWith its excellent display as well as Samsung's trusted name, this model has become a top pick this year and is currently available at a slashed price of $549.\n3) Sony - PlayStation 5 Slim Console - Fortnite Cobalt Star Bundle - White (Was $499, now $429.99)\nFor all gaming enthusiasts, there is no time better than now to purchase a PlayStation 5. Add to that the Fortnite Cobalt Star Bundle and the deal becomes as irresistible as it gets.\n4) Apple - 10.2-inch iPad (9th Generation) with Wi-Fi - 64GB (Was $329.99, now $199.99)\nNo, we haven't forgotten Apple from a discussion about the best tech buys this Cyber Monday. Apple is hosting one of its biggest-ever sales and many bestseller items have been put for sale at unbelievably low prices, The 10.2-inch iPad (9th Gen) is one such bestselling model that can currently be bagged at the phenomenal price of $199.99.\n5) Insignia\u2122 - 50\" Class F30 Series LED 4K UHD Smart Fire TV (Was $299.99, now $189.99)\nIf you're not much of a Samsung enthusiast, the Insignia 50\" Class F30 Series LED 4K UHD Smart Fire TV could be your choice for a TV upgrade this year. Flaunting a brilliant 4K display and including an Amazon Firestick, the deal is a great one at the phenomenal price of $189.99 only.\nIf you're looking to upgrade your devices, or simply purchase them as gifting options for loved ones, the Cyber Monday sale currently being hosted by the top tech brands is the best time to make these purchases without breaking the bank.\nHowever, it is worth noting that these sales do not last for very long so it is advisable to act quickly.",
+    "source_domain": null,
+    "text": null,
+    "title": "Best Buy Cyber Monday 2024 sale: Amazing deals on Apple, Samsung, and more brands",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

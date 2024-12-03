@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "RANDALL CHASE business",
+        "ABC News"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:39:48",
+    "description": "A Delaware judge has reaffirmed her ruling that Tesla must revoke Elon Musk\u2019s multibillion-dollar pay package",
+    "filename": ".json",
+    "image_url": "https://i.abcnewsfe.com/a/33d43da2-7cd0-465d-8251-1fb121366ab1/wirestory_86c5811b738e3a9df2b6e4adbcd055bb_16x9.jpg?w=1600",
+    "language": "en",
+    "localpath": null,
+    "maintext": "DOVER, Del. -- A Delaware judge has reaffirmed her ruling that Tesla must revoke Elon Musk\u2019s multibillion-dollar pay package\nChancellor Kathaleen St. Jude McCormick on Monday denied a request by attorneys for Musk and Tesla\u2019s corporate directors to vacate her ruling earlier this year requiring the company to rescind the unprecedented pay package.\nMcCormick also rejected an equally unprecedented and massive fee request by plaintiff attorneys, who argued that they were entitled to legal fees in the form of Tesla stock valued at more than $5 billion. The judge said the attorneys were entitled to a fee award of $345 million.\nThe rulings came in a lawsuit filed by a Tesla stockholder who challenged Musk\u2019s 2018 compensation package.\nMcCormick concluded in January that Musk engineered the landmark pay package in sham negotiations with directors who were not independent. The compensation package initially carried a potential maximum value of about $56 billion, but that sum has fluctuated over the years based on Tesla\u2019s stock price.\nFollowing the court ruling, Tesla shareholders met in June and ratified Musk\u2019s 2018 pay package for a second time, again by an overwhelming margin.\nDefense attorneys then argued that the second vote makes clear that Tesla shareholders, with full knowledge of the flaws in the 2018 process that McCormick pointed out, were adamant that Musk is entitled to the pay package. They asked the judge to vacate her order directing Tesla to rescind the pay package.\nMcCormick, who seemed skeptical of the defense arguments during an August hearing, said in Monday\u2019s ruling that those arguments were fatally flawed.\n\u201cThe large and talented group of defense firms got creative with the ratification argument, but their unprecedented theories go against multiple strains of settled law,\u201d McCormick wrote in a 103-page opinion.\nThe judge noted, among other things, that a stockholder vote standing alone cannot ratify a conflicted-controller transaction.\n\u201cEven if a stockholder vote could have a ratifying effect, it could not do so here due to multiple, material misstatements in the proxy statement,\u201d she added.\nMeanwhile, McCormick found that the $5.6 billion fee request by the shareholder\u2019s attorneys, which at one time approached $7 billion based on Tesla\u2019s trading price, went too far.\n\u201cIn a case about excessive compensation, that was a bold ask,\u201d McCormick wrote.\nAttorneys for the Tesla shareholder argue that their work resulted in the \u201cmassive\u201d benefit of returning shares to Tesla that otherwise would have gone to Musk and diluted the stock held by other Tesla investors. They value that benefit at $51.4 billion, using the difference between the stock price at the time of McCormick\u2019s January ruling and the strike price of some 304 million stock options granted to Musk.\nWhile finding that the methodology used to calculate the fee request was sound, the judge noted that the Delaware\u2019s Supreme Court has noted that fee award guidelines \u201cmust yield to the greater policy concern of preventing windfalls to counsel.\u201d\n\u201cThe fee award here must yield in this way, because $5.6 billion is a windfall no matter the methodology used to justify it,\u201d McCormick wrote. A fee award of $345 million, she said, was \u201can appropriate sum to reward a total victory.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Judge reaffirms ruling invalidating Musk's multibillion-dollar Tesla pay package",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

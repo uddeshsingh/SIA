@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Avi Kapoor",
+        "Benzinga Staff"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-29 14:10:45",
+    "description": "Salesforce (NYSE: CRM) will release Q3 earnings on Dec. 3. Analysts expect EPS of $2.44 and revenue of $9.35B. Dividend yield is 0.48%. To earn $500/month, one needs to own $1.2M worth of CRM.",
+    "filename": ".json",
+    "image_url": "https://cdn.benzinga.com/files/images/story/2024/11/29/salesforce-shutter.jpeg?width=1200&height=800&fit=crop",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Salesforce, Inc. CRM will release earnings results for the third quarter, after the closing bell, on Tuesday, Dec. 3.\nAnalysts expect the San Francisco, California-based company to report quarterly earnings at $2.44 per share, up from $2.11 per share in the year-ago period. Salesforce projects to report quarterly revenue of $9.35 billion, compared to $8.72 billion a year earlier, according to data from Benzinga Pro.\nOn Nov. 27, Citigroup analyst Tyler Radke maintained Salesforce with a Neutral and raised the price target from $290 to $368.\nWith the recent buzz around Salesforce ahead of quarterly earnings, some investors may be eyeing potential gains from the company's dividends too. As of now, Salesforce offers an annual dividend yield of 0.48%, which is a quarterly dividend amount of 40 cents per share ($1.60 a year).\nTo figure out how to earn $500 monthly from Salesforce, we start with the yearly target of $6,000 ($500 x 12 months).\nNext, we take this amount and divide it by Salesforce's $1.60 dividend: $6,000 / $1.60 = 3,750 shares.\nSo, an investor would need to own approximately $1,237,538 worth of Salesforce, or 3,750 shares to generate a monthly dividend income of $500.\nAssuming a more conservative goal of $100 monthly ($1,200 annually), we do the same calculation: $1,200 / $1.60 = 750 shares, or $247,508 to generate a monthly dividend income of $100.\nNote that dividend yield can change on a rolling basis, as the dividend payment and the stock price both fluctuate over time.\nThe dividend yield is calculated by dividing the annual dividend payment by the current stock price. As the stock price changes, the dividend yield will also change.\nFor example, if a stock pays an annual dividend of $2 and its current price is $50, its dividend yield would be 4%. However, if the stock price increases to $60, the dividend yield would decrease to 3.33% ($2/$60).\nConversely, if the stock price decreases to $40, the dividend yield would increase to 5% ($2/$40).\nFurther, the dividend payment itself can also change over time, which can also impact the dividend yield. If a company increases its dividend payment, the dividend yield will increase even if the stock price remains the same. Similarly, if a company decreases its dividend payment, the dividend yield will decrease.\nCRM Price Action: Shares of Salesforce closed slightly lower at $329.99 Friday.\nRead More:\nJim Cramer: Reddit Is \u2018Fabulous,\u2019 Dow Is A \u2018Tough\u2019 One\nPhoto: Shutterstock",
+    "source_domain": null,
+    "text": null,
+    "title": "How To Earn $500 A Month From Salesforce Stock Ahead Of Q3 Earnings",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

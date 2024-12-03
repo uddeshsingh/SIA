@@ -1,0 +1,2360 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Alphabet+A",
+    "queryContext": {
+        "originalQuery": "Alphabet A",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 33300,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Alphabet+A"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Alphabet+A&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "LinkedIn Has A Few AI Features For Users To Try (And Here's How To Use Them)",
+            "url": "https://www.slashgear.com/1723350/linkedin-what-ai-features-offer-how-use-them/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0BzMPp7WEZe13jw1FXdUry&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "LinkedIn offers benefits for paying for its Premium features, but are they really worth it? We took a look at the new AI tools on the platform.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/401e29b7-e564-7d0a-69dd-4aeff23c198d",
+                    "name": "LinkedIn"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SlashGear",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.cEtC7h8RK7I-UHn7jMddSA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The New Yorker: Pete Hegseth forced out of veterans\u2019 advocacy groups over misconduct allegations",
+            "url": "https://www.wxow.com/news/the-new-yorker-pete-hegseth-forced-out-of-veterans-advocacy-groups-over-misconduct-allegations/article_f03ad0a2-3077-5a15-b77f-4f0c61eb29f8.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.EA-A2wGtu9JY0PGfWjTZ6S&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Pete Hegseth, President-elect Donald Trump\u2019s pick to lead the Department of Defense, was pushed out as the head of two veterans\u2019 advocacy organizations amid internal allegations of mismanagement and p",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c232eb9e-52bf-9d89-c9f3-32f016123520",
+                    "name": "Pete Hegseth"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/65d03b3f-2a8d-3eec-2126-69e6ed054595",
+                    "name": "Department of Defense appointments by Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+                    "name": "Fox News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WXOW",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BpKFngaiH4p9pME5vhWQLA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:13:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Japan Sought to Develop Weaponized Anthrax During WWII, New Research Confirms",
+            "url": "https://gizmodo.com/japan-sought-to-develop-weaponized-anthrax-during-wwii-new-research-confirms-2000533004",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0LIDP7KwEZww1uB8GIvK4y&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "A team of Chinese scientists has confirmed the presence of the anthrax-causing bacteria at the site of an infamous Second World War laboratory.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/130d0438-fafb-cd2d-1a9e-1dd9c5aa87a9",
+                    "name": "Japan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e2a88bce-8c82-19fd-f344-67350ea09f58",
+                    "name": "Anthrax"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c93956d0-7fcb-aec5-061f-b44e0518dbf2",
+                    "name": "Bacteria"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/00799d49-a28d-a81b-fd66-fba9d122e78b",
+                    "name": "World War II"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+                    "name": "China"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99efa09b-7294-08cd-5981-1f23d2cc90c9",
+                    "name": "Academy of Military Medical Sciences"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e43bc499-902a-5deb-aced-aa4a247e6822",
+                    "name": "Beijing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c00d3ca-2f01-6a14-56f4-efa027157d59",
+                    "name": "Bacillus anthracis"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f52c0ee6-c14b-6cd6-311c-b4bf0222692e",
+                    "name": "Unit 731"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Gizmodo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BmhW-V67ouY4VKCzJMDoqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:10:00.0000000Z",
+            "category": "Health"
+        },
+        {
+            "name": "Diddy\u2019s Sons Send Cease-and-Desist Letter to Witness with Kim Porter\u2019s Alleged Memoir",
+            "url": "https://eurweb.com/2024/diddys-sons-send-cease-and-desist-letter-over-alleged-memoir/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qTZ8lzvK9dzuHxtb2jwdgC&pid=News",
+                    "width": 687,
+                    "height": 249
+                }
+            },
+            "description": "Courtney Burgess, who claims he owns the copyright of Kim Porter\u2019s alleged memoir, has slammed a cease-and-desist letter sent by Diddy's sons.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a1837e6c-08a9-10e5-e939-fde794521212",
+                    "name": "TMZ"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "EURweb",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.kV4vCKAERvrklJF_-GSzbg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:01:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "The Philharmonic\u2019s New CEO Will Be Matias Tarnopolsky",
+            "url": "https://www.vulture.com/article/the-philharmonics-new-ceo-will-be-matias-tarnopolsky.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.z64uj0CDKEVUUufRLAXqfy&pid=News",
+                    "width": 700,
+                    "height": 368
+                }
+            },
+            "description": "The New York Philharmonic has a habit of summoning ex-leaders back into service. Deborah Borda did three separate stints as chief executive. Now Matias Tarnopolsky will take over as president and CEO on New Year\u2019s Day,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e442157e-93be-1289-3544-08c2743488b8",
+                    "name": "New York Philharmonic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e2966ee9-9db8-dccf-21db-b7b043d2b26f",
+                    "name": "Lincoln Center"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/20190224-0da4-1082-8704-5cc5645a9584",
+                    "name": "Pierre Boulez"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/74a99352-5355-ee78-1ed0-35347b3bab6d",
+                    "name": "Lorin Maazel"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Vulture",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.2kUOyWUDycv0z2unRcR7Og&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:01:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "A twice-yearly shot could help end AIDS. But will it get to everyone who needs it?",
+            "url": "https://www.pressdemocrat.com/article/news/a-twice-yearly-shot-could-help-end-aids-but-will-it-get-to-everyone-who-ne/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.ZVTKnseXjcTM0rtbHVnWCi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "A twice-yearly shot that prevents HIV infections will be available at low cost in 120 poor countries. MEXICO CITY \u2014 It\u2019s been called the closest the world has ever come to a vaccine against the AIDS virus.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/541bace3-3466-1384-c58c-4861ddc49252",
+                    "name": "AIDS"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/38657669-2d99-4518-95e9-69f07454e25b",
+                    "name": "HIV"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f1281260-8340-e258-c8ec-3522504400e5",
+                    "name": "Mexico City"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/42226c74-e572-9daf-2eb5-138a3fc84f62",
+                    "name": "Gilead Sciences"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7ee7f148-7ed7-b73e-7461-900ee716ef61",
+                    "name": "Caribbean"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2983242-542a-b8e9-5ee4-b0a0b14fdc63",
+                    "name": "Latin America"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/93f628db-95d8-43e6-79db-9c6091d6444b",
+                    "name": "Joint United Nations Programme on HIV/AIDS"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Santa Rosa Press Democrat",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.5hlr7b_GULPA_q1wcjWVqw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:01:00.0000000Z",
+            "category": "Health"
+        },
+        {
+            "name": "Tax Department projects Vermonters to face 5.9% property tax increase",
+            "url": "https://www.mynbc5.com/article/tax-department-projects-vermonters-to-face-59-property-tax-increase/63072654",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3u1VQAKITirKQZyx7yfWwC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Last years letter projected an 18.5% increase before the legislative session, where it was bought down to 13.8%.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/221864cc-447e-4e78-847c-59e485d73bff",
+                    "name": "Vermont"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c23b5fef-e6a2-955d-46a8-d5421f3f0960",
+                    "name": "Yield"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f903a590-d3d7-9d9c-6429-b38ae1a17c71",
+                    "name": "Phil Scott"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WPTZ",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.B3IIYfn9XygTVfeEnDtNcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:58:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "'We're worried': Eugene family's break-in highlights rising crimes against Asians",
+            "url": "https://www.desmoinesregister.com/story/news/crime/2024/12/02/asian-families-in-eugene-demand-action-after-rash-of-burglaries/76430739007/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.UOUgNlYacQjr4q5k6siXtS&pid=News",
+                    "width": 660,
+                    "height": 371
+                }
+            },
+            "description": "Amid a string of targeted burglaries tied to a multistate crime ring, Eugene\u2019s Asian community is demanding action from law enforcement.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4032220a-5e63-4fc1-87cf-eb758cc5b5b6",
+                    "name": "Eugene, Oregon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9a3f93f5-e1a3-225d-27a9-3bdd4a4c9c08",
+                    "name": "The Register-Guard"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Des Moines Register",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.OSiyW05FDYU37W9xaWjqwg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:53:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "Trotwood residents voice concerns over proposed recycling facility",
+            "url": "https://www.whio.com/news/local/trotwood-residents-voice-concerns-over-proposed-recycling-facility/TSCZIRFO6ZEVBK45PSWHMLMVCA/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.UVWxGt_n0iiisGXC43FzYC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "We are concerned about the air quality and potential exposure to pollutants,\u201d the Trotwood Madison Superintendent said in a statement.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ae400d7a-24ce-5b15-ee27-d005fa027c08",
+                    "name": "Trotwood, Ohio"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WHIO",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jiVwCyxOdMNCVq7kPvWx5Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:50:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Arizona\u2019s Grijalva will step down as top Dem on key U.S. House panel on environment",
+            "url": "https://coloradonewsline.com/2024/12/02/dc/arizonas-grijalva-will-step-down-as-top-dem-on-key-u-s-house-panel-on-environment/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.gtDWU_nJ2Ixca8BaXUe1AS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Ra\u00fal Grijalva, the top Democrat on the U.S. House Natural Resources Committee, will not seek to remain in that position in the next Congress.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d32576f-4752-3806-0337-06a8a268688f",
+                    "name": "Ra\u00fal Grijalva"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bf973f46-5962-4997-a7ba-a05f1aa2a9f9",
+                    "name": "Arizona"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3009d91d-d582-4c34-85ba-772ba09e5be1",
+                    "name": "California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7ae7f439-897f-a9b0-9004-f4b821a14640",
+                    "name": "Jared Huffman"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad5bcbad-a9ad-de6e-5844-ee6af031d7db",
+                    "name": "Jamie Raskin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4c472f4d-06a8-4d90-8bb8-da4d168c73fe",
+                    "name": "Maryland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d097583-1a07-9b0a-1d26-dd6ca6dfcbda",
+                    "name": "Jerry Nadler"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7c7533dd-dc07-0a6b-56f7-1f4c7fe56648",
+                    "name": "United States House Committee on the Judiciary"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/98ab4435-cf78-3984-dc88-00224c04622f",
+                    "name": "Bill of Rights 1689"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Colorado Newsline",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.h0gjyWtfYU7-YbImIj24eQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:50:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Williston Basin School superintendent to resign",
+            "url": "https://www.kfyrtv.com/2024/12/02/williston-basin-school-superintendent-resign/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JExY5eW-vGsgOU2mBAAtuy&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "WILLISTON, N.D. (KUMV) - Williston Basin School District Superintendent Richard Faidley submitted a letter of resignation on Monday. In the letter, Faidley said he\u2019s proud of several accomplishments made during his time, including passing a bond for the new elementary school and opening a new career and technical education center.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KFYR TV",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.J0pIpSvzYc72OZQX0jnXnw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:43:00.0000000Z"
+        },
+        {
+            "name": "Where did the money go? Latest from Synapse bankruptcy, Evolve",
+            "url": "https://www.americanbanker.com/news/evolve-bank-update-fresh-lawsuit-in-synapse-bankruptcy",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Gw4YKmc1wqoHw7IUnpHRzC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Banks have been returning some funds to fintech customers affected by the Synapse collapse, but a multimillion-dollar discrepancy between how much Synapse says customers are owed and how much the banks say they have remains.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/de491563-c5e6-92ee-c4c8-19a884f91df1",
+                    "name": "Northrop Grumman"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "American Banker",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.aHfUNYUmdpXsUxk3rTfzEQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:32:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Rays say in letter that stadium deal is still in effect",
+            "url": "https://www.washingtonexaminer.com/news/3247256/rays-say-in-letter-that-stadium-deal-is-still-in-effect/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.PBn2ipc9M50eULDYHba5hS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The Tampa Bay Rays ownership said in a letter that a $1.3 billion deal to build a new stadium in St. Petersburg.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/93a8e108-e8ed-4182-90bf-3b205e36a6e5",
+                    "name": "Tampa Bay Rays"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a020057f-3657-44fa-93b7-6de6c464e812",
+                    "name": "St. Petersburg, Florida"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Washington Examiner",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.v83iYtzAo_6HTXUpN2T7TA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:25:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "17 places to get free photos with Santa in 2024",
+            "url": "https://www.ocregister.com/2024/12/02/17-places-to-get-free-photos-with-santa-in-2024/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.isICzI6SouPTnp9_qTaWyC&pid=News",
+                    "width": 700,
+                    "height": 517
+                }
+            },
+            "description": "Yes, those photos with Santa are heart-warming keepsakes. If you don\u2019t want to empty out your wallet for photos of your family with the Big Guy himself, here are some places where you can",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/79ff86cc-27eb-4f12-9406-85d238f37ef3",
+                    "name": "Irvine, California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/974309f4-566f-4df3-99ca-614e16f1b405",
+                    "name": "Rancho Cucamonga, California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a93a07c2-0fc9-fdfe-ca35-42fd9a0d6e3e",
+                    "name": "Bass Pro Shops"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0b412653-c6c4-4e41-b59c-e1214435431f",
+                    "name": "Long Beach, California"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Orange County Register",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.-FsDVwsU9YQuSYYLCwHoFw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:25:00.0000000Z"
+        },
+        {
+            "name": "\u2018Dismiss all charges\u2019: Lorain County prosecutor files motion to get new trial for 4 convicted of murder",
+            "url": "https://www.cleveland19.com/2024/12/02/dismiss-all-charges-lorain-county-prosecutor-files-motion-get-new-trial-4-convicted-murder/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.DiuVw44wH2e18fRDxowIyC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "LORAIN COUNTY, Ohio (WOIO) - The Lorain County prosecutor has filed a motion to grant four men convicted of murder a new trial. According to a letter from Lorain County Prosecutor J.D. Tomlinson, Prosecutor Tomlinson filed the motion on Monday for convicts Alfred Cleveland, Benson Davis, John Edwards, and Lenworth Edwards.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/422e253b-3b41-f2e4-a8f1-12ce1d798918",
+                    "name": "Lorain County, Ohio"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Lorain County"
+                },
+                {
+                    "name": "New trial"
+                },
+                {
+                    "name": "Motion"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "19 Action News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UVpbgXW3XftFlsp6XDy1DQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:23:00.0000000Z"
+        },
+        {
+            "name": "Business groups ask state to pause regulatory process in new recycling rules",
+            "url": "https://www.pressherald.com/2024/12/02/business-groups-ask-state-to-pause-regulatory-process-in-new-recycling-rules/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Iv4PADn_efQN0EFS-q7B-C&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "The law is designed to make corporations cover the cost of disposing of hard-to-recycle packaging by reimbursing municipalities for disposal costs and investing in recycling infrastructure statewide.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a46a0212-e842-c48d-8bde-90ee5acba105",
+                    "name": "Janet Mills"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d62dd683-9cf9-4db9-a497-d810d529592b",
+                    "name": "Maine"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c9e123e7-4d97-a522-3d59-c79cf96c572c",
+                    "name": "Pennsylvania Department of Environmental Protection"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Portland Press Herald",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6psr2xZV-pA-OMSYtF3uDg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:21:00.0000000Z"
+        },
+        {
+            "name": "Bigfoot Beverages retracts union recognition amid ongoing 70-day strike",
+            "url": "https://kval.com/news/local/bigfoot-beverages-retracts-union-recognition-amid-ongoing-70-day-strike",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.QlHNXrpDEiqmp7jKo6WWRS&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "Bigfoot Beverages said it has withdrawn its recognition of the union representing employees who have been on strike for more than 70 days.The announcement was m",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4032220a-5e63-4fc1-87cf-eb758cc5b5b6",
+                    "name": "Eugene, Oregon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/71c28f64-d3aa-74e6-7523-eb2f1cbe68d3",
+                    "name": "Coos Bay, Oregon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/42b6665e-fb97-a48b-b3e3-b7c29804a810",
+                    "name": "Springfield, Oregon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a378bd1d-1209-4140-d04b-813c517923cb",
+                    "name": "Union busting"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "kval",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Fex8vpR0Tc_XuNhm1uZBpQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:04:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "House COVID-19 panel releases final report: 3 key takeaways",
+            "url": "https://news.yahoo.com/news/house-covid-19-panel-releases-210144463.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8IQ9JyO9iy6uNk8gmnky7i&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "The House Select Subcommittee on the Coronavirus Pandemic released its final report Monday, laying out numerous conclusions from its review of the federal pandemic response, including what the Republican-controlled panel believes to be the likely origins of the virus.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/61ea534e-a951-c587-df37-ef98452cdd5d",
+                    "name": "COVID-19 pandemic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8a6d049e-fb8b-163e-ee79-a6fb326d60dc",
+                    "name": "Brad Wenstrup"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "YAHOO!News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.nYADEgS75l8rdCg9D-p_OQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:01:00.0000000Z",
+            "category": "Health"
+        },
+        {
+            "name": "Rays push back on county ultimatum: Stadium agreement \u2018in effect\u2019",
+            "url": "https://www.reuters.com/sports/rays-push-back-county-ultimatum-stadium-agreement-effect-2024-12-03/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.x8RED2BOlkVZ4sFKeK93MS&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Commission last week, Tampa Bay Rays ownership said in a letter Monday that its deal to build a new $1.3 billion ballpark is still \"in effect.\"",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/93a8e108-e8ed-4182-90bf-3b205e36a6e5",
+                    "name": "Tampa Bay Rays"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/68e9752d-4d26-bff5-4116-15b7ac447b18",
+                    "name": "Pinellas County, Florida"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:59:00.0000000Z"
+        },
+        {
+            "name": "Will test score reporting clarify or further befuddle California parents?",
+            "url": "https://edsource.org/2024/will-test-score-reporting-clarify-or-further-befuddle-california-parents/723138",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.DzcAnNGD0Hq1CCyXVmYT0i&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "\u201cWe echo the concerns of our colleagues,\u201d testified Lindsay Tornatore, representing the California County Superintendents at the board\u2019s Nov. 13 meeting. \u201cOutreach to parents, families, and the community should have been prioritized to engage in multiple opportunities prior to the changes being made.\u201d",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3009d91d-d582-4c34-85ba-772ba09e5be1",
+                    "name": "California"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "EdSource",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.saku5dUDbshE3n4m-M1_lw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:57:00.0000000Z"
+        },
+        {
+            "name": "Trump expected to argue he has presidential immunity now, as president-elect, in new bid to dismiss hush-money case",
+            "url": "https://www.businessinsider.com/fighting-hush-money-case-trump-says-presidents-elect-are-immune-2024-12",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4gK6ktZVxVWyrTkJfV8xXC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "SCOTUS gave presidents broad immunity from prosecution. Trump says that protection extends to him now, before he's sworn into office.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:51:00.0000000Z",
+            "video": {
+                "name": "All the ways Donald Trump wins from the Supreme Court immunity ruling",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/bb5a388c-a03a-4446-83c6-0c3e017e41f6/e9bcfd59-4249-41de-84a0-1ee75930_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "Politics"
+        },
+        {
+            "name": "Email threads reveal more on how Wrens police chief\u2019s exit went down",
+            "url": "https://www.wrdw.com/2024/12/02/email-threads-reveal-more-how-wrens-police-chiefs-exit-went-down/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.r_QPMcUXr-CDjScCahPTyS&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Email threads obtained by News 12 reveal how the city shakeup and resignation of former Wrens Police Chief John Maynard went down.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/09e2fd78-e69a-ab2c-9e40-fc58f2ab4a17",
+                    "name": "Wrens, Georgia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a0c67096-b1e5-44bf-3c53-10c7be80a7d6",
+                    "name": "News 12 Networks"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WRDW",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.enDA-0_C3MBzGvCnDSYHuQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:45:00.0000000Z",
+            "video": {
+                "name": "Resignation letters show why Wrens police chief, assistant police chief stepped back",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/d97bbeb5-afae-49b1-863d-270b987939e8/d09f7149-1890-44fe-b033-08ea3a218456_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "Politics"
+        },
+        {
+            "name": "Applied Therapeutics says it received FDA's warning letter for genetic disease drug study",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/applied-therapeutics-says-it-received-fdas-warning-letter-genetic-disease-drug-2024-12-02/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.RNcwH5Hw7fO-2_fx8Z6Rby&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Applied Therapeutics said on Monday it received a warning letter limited to a trial studying its genetic disease drug, after the U.S. health regulator declined to approve the treatment last week.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bac567b4-b897-1ea1-297a-1685b126145b",
+                    "name": "Galactosemia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f5f6b499-4a4d-d773-bfa8-9a2c50a77000",
+                    "name": "Galactose"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d404b56f-ba32-50f6-4b85-0f1f37e8d611",
+                    "name": "Galactitol"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:34:00.0000000Z"
+        },
+        {
+            "name": "Joe Exotic says President Biden should release 'normal citizens' like him after Hunter Biden pardon",
+            "url": "https://www.koco.com/article/joe-exotic-biden-pardon/63071529",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qarpALUGEFu_GmYGwxYiGS&pid=News",
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "description": "Joseph Maldonado, who is known as \"Joe Exotic\" from Netflix's \"Tiger King,\" said President Joe Biden should pardon anybody who has filed for a clemency application, including himself.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e5dd43c5-2e95-aa07-3f7f-901db2057e8b",
+                    "name": "Joe Exotic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/28ad7551-8959-3142-9c4e-d9d2bafebc2c",
+                    "name": "Hunter Biden"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e83fe81a-a8cc-5cee-8975-28a573d4b878",
+                    "name": "Tiger King"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/927d0c6b-1bba-3a48-b430-c5d3cb5dffe5",
+                    "name": "Software AG"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/180def5b-a450-41e4-a7e0-cb8fabbd95f6",
+                    "name": "Matt Gaetz"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6f20d1b2-0d1c-41ef-85ce-7e5a7eb2da08",
+                    "name": "Fort Worth, Texas"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "koco.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.uQjls0euqsOjViZdVAzn0Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:33:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Letter | A cold and uncomfortable Thanksgiving dining out",
+            "url": "https://www.santacruzsentinel.com/2024/12/02/letter-a-cold-and-uncomfortable-thanksgiving-dining-out/",
+            "description": "More than a year ago I went with my family to the brunch at Chaminade for Easter. It was terrific. So when I saw an ad in the Sentinel for Thanksgiving dinner at Chaminade I signed up for six",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/761e2b59-dd8f-4ef9-de1c-ba7d99c46158",
+                    "name": "Thanksgiving"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4954666b-a5c5-9626-ee9c-2414aa3b420f",
+                    "name": "Easter"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Santa Cruz Sentinel",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.wCzsUvPBZH50woYKMWmx5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:29:00.0000000Z"
+        },
+        {
+            "name": "Letter | Anti-inclusive intrusion on Women on Waves contest",
+            "url": "https://www.santacruzsentinel.com/2024/12/02/letter-anti-inclusive-intrusion-on-women-on-waves-contest/",
+            "description": "Santa Cruz has a long standing reputation of being a very inclusive and safe place for all. More so than most anyplace else. Calder Nold and Emily Anne Pillari should be shown the door for their",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c022cb26-a315-d2e7-3451-484f558aa5d2",
+                    "name": "Santa Cruz, California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a08603f9-1734-3d50-8f53-2e98b361b3f7",
+                    "name": "The Sentinel"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Santa Cruz Sentinel",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.wCzsUvPBZH50woYKMWmx5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:24:00.0000000Z"
+        },
+        {
+            "name": "Capitol Notebook: Reynolds, GOP governors warn ag economy at risk without new farm bill",
+            "url": "https://www.thegazette.com/state-government/capitol-notebook-reynolds-gop-governors-warn-ag-economy-at-risk-without-new-farm-bill/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.WMRXIpnG2LpQjeq-zSPFHC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Also, Iowa Department of Education invests $3.5 million to provide first grade students with literacy instruction books to take home",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e5779f74-b0e5-6e3e-cfdf-9deb05e8002b",
+                    "name": "Washington, Iowa"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/53fde262-9e74-dd38-7715-8839a7de5401",
+                    "name": "The Gazette"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5a53cf17-9d69-0115-9fad-e65c96b79e58",
+                    "name": "Kim Reynolds"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Gazette",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.iNtLpQSQYXdrdH6_iQzzzw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:09:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Vatican Suppresses Carmelite Monastery Following Long-Running Controversy",
+            "url": "https://www.ncregister.com/cna/vatican-suppresses-carmelite-monastery-following-long-running-controversy",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.unNd85aD9lFPkBzxp_Cepy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The Holy See decree follows the dismissal of the former nuns in October by their superior after a series of disagreements with the local bishop.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7c40a8ed-2a23-402f-b3e8-7e36f7f990ab",
+                    "name": "The Vatican"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/418a1825-2546-841e-7379-976320bb330e",
+                    "name": "Holy See"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c26c2699-3b49-47d8-96a6-6c15c8b7012a",
+                    "name": "Arlington, Texas"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "National Catholic Register",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.juJVGZzznhMfVPm-XEO-PA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:06:00.0000000Z"
+        },
+        {
+            "name": "Warren urges Biden to limit Trump\u2019s ability to use US military against Americans",
+            "url": "https://www.wgbh.org/news/politics/2024-12-02/warren-urges-biden-to-limit-trumps-ability-to-use-us-military-against-americans",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.pQ_jcU6qC4VFs1twWmzQsy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "U.S. Senator Elizabeth Warren (D-MA) is publicly urging President Joe Biden and Lloyd Austin, Biden\u2019s defense secretary, to take steps to limit the possible use of active-duty U.S. military and National Guard personnel against Americans once President-elect Donald Trump returns to the White House in 2025.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c35b43e-b645-d791-7a5c-305ebcc23f83",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4f504449-0a2d-b7b5-0505-e370563e7de7",
+                    "name": "Lloyd Austin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/30ce8919-ba79-a045-5ac3-dfcff4919edb",
+                    "name": "National Guard"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4dbbb875-864a-58fa-d786-fc4a569bce18",
+                    "name": "Insurrection Act of 1807"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WGBH",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.i5B2Tx0DqoJTwn-FVvQoQw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:52:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Google Maps is getting its best free update yet and it\u2019s a game-changer",
+            "url": "https://www.yahoo.com/tech/google-maps-getting-best-free-130000849.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qbquaHsvp9jVGgfGF1qWbi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Google Maps is starting to roll out integration with Waze, the open source incident, accident and roadworks app. It'll make Maps even better. As Google promised this summer, it's bringing incident reporting from the Waze traffic information app to Maps \u2013 and that integration has finally begun.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f6847295-954b-eab6-6c2a-cc9c0033811a",
+                    "name": "Google Maps"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e1bf7431-800d-2aa4-4d82-f0350e341240",
+                    "name": "Waze"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:45:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Mayor denies knowledge of harassment complaints against former top staffer",
+            "url": "https://www.chicagobusiness.com/politics/johnson-says-he-did-not-know-about-ronnie-reese-complaints",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.ZDVq8J_V7HOdNc5NE4jpHS&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Mayor Brandon Johnson said he learned of the allegations of workplace misconduct against former communications director Ronnie Reese when they became public last week.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9b4c5d8b-8ac6-a049-6237-9e1eeec6b449",
+                    "name": "Misogyny"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/50129f74-74f6-4a9e-74d8-3923ba9e10ed",
+                    "name": "Sexual harassment"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Crain's Chicago Business",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.5ow5sVx0PdBFJ_lQxi7IJA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:43:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Jamie Raskin Launches Bid for Top House Judiciary Post",
+            "url": "https://www.newsweek.com/jamie-raskin-launches-bid-top-house-judiciary-post-1994418",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.pkQ54Vf6Mvu1cBstmdb4RC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Representative Raskin announced he will seek the top House Judiciary Committee position, challenging Jerry Nadler.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad5bcbad-a9ad-de6e-5844-ee6af031d7db",
+                    "name": "Jamie Raskin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4c472f4d-06a8-4d90-8bb8-da4d168c73fe",
+                    "name": "Maryland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7c7533dd-dc07-0a6b-56f7-1f4c7fe56648",
+                    "name": "United States House Committee on the Judiciary"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/20074752-6cd0-7211-0c73-b38412946a3e",
+                    "name": "Constitutional law"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/022d3e13-c9e7-91f5-ce61-8a3d48d58fc6",
+                    "name": "Democratic Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f8275aff-436f-88eb-b986-8cd8c2c15c6b",
+                    "name": "Presidency of Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/53c34e6f-f7f3-a9b0-880a-612e57dd8e9b",
+                    "name": "Republican Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2843a2b-80fd-2fa0-10d0-97b51563ffcb",
+                    "name": "Associated Press"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e2ee59a1-2d38-eeb9-6822-b42b353fab32",
+                    "name": "The Republicans"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/541cd519-750b-9c92-8413-a537def6abbe",
+                    "name": "White House"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newsweek",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.uTJA7JDoTGKvff5o3jotfg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:41:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Democrat Jamie Raskin is running for top Judiciary post in bid to counter Trump",
+            "url": "https://www.ksat.com/news/politics/2024/12/02/democrat-jamie-raskin-is-running-for-top-judiciary-post-in-bid-to-counter-trump/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Vpeeqzau7HE2FcZ4zH52ti&pid=News",
+                    "width": 700,
+                    "height": 467
+                }
+            },
+            "description": "Rep. Jamie Raskin of Maryland has announced that he will be running to become the top Democrat on the powerful House Judiciary Committee next year.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad5bcbad-a9ad-de6e-5844-ee6af031d7db",
+                    "name": "Jamie Raskin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bbfdfeea-a3e6-5bd2-4e19-23e13724885e",
+                    "name": "Federal Emergency Management Agency"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/08c2022d-bae8-9192-2e59-6d44345ec246",
+                    "name": "Capitol Hill"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4c472f4d-06a8-4d90-8bb8-da4d168c73fe",
+                    "name": "Maryland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7c7533dd-dc07-0a6b-56f7-1f4c7fe56648",
+                    "name": "United States House Committee on the Judiciary"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d097583-1a07-9b0a-1d26-dd6ca6dfcbda",
+                    "name": "Jerry Nadler"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2843a2b-80fd-2fa0-10d0-97b51563ffcb",
+                    "name": "Associated Press"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KSAT",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.7i2VwFigCiouRdQWPgVlkw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:39:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Letter to the Times: Lawrence City Commission should rethink mayor selection tradition",
+            "url": "https://lawrencekstimes.com/2024/12/02/flowers-letter-mayor-selection/",
+            "description": "Allowing the commission to choose who they think would be the best fit (for mayor) would allow us to have more than one year with a commissioner who does a great job,\u201d Chris Flowers writes in this letter to the Times.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caf348ce-fc6a-301a-2e2b-d6c052f12898",
+                    "name": "The Times"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Lawrence Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Ntqsca25pwcVD8_9nzHEgQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:39:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Vatican says Arlington monastery is \u2018extinct\u2019 after nuns were dismissed from religious life",
+            "url": "https://www.star-telegram.com/news/local/arlington/article296452314.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Uul-zA5xTRHxDbRD4lJ8MS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Vatican issued the statement on Thursday, Nov. 28, a month after the nuns were dismissed from religious life because they are in \u201cschism\u201d with the church and refused to be under the authority of the Carmelite Association of Christ the King, which was appointed by the Vatican to oversee the nuns and their daily lives at the monastery.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7c40a8ed-2a23-402f-b3e8-7e36f7f990ab",
+                    "name": "The Vatican"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c26c2699-3b49-47d8-96a6-6c15c8b7012a",
+                    "name": "Arlington, Texas"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fort Worth Star-Telegram",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.cBml3QL1UOMs0Okoe5-FhQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:36:00.0000000Z"
+        },
+        {
+            "name": "Pope Francis to Nicaraguan Catholics: Faith and Hope Work Miracles",
+            "url": "https://www.ncregister.com/cna/pope-francis-to-nicaraguan-catholics-faith-and-hope-work-miracles",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Gp5D4xBEn0T2esf9QERdOy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The Pontiff professed the affection he has for the Nicaraguan people, distinguished by their \u201cextraordinary love for God,\u201d whom they affectionately call \u201cPapach\u00fa.\u201d",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3309ddb8-e27b-2af0-b1dc-44f909dfb501",
+                    "name": "Pope Francis"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/69beb9ab-56a0-e052-4bf5-5aac6f9d8bc4",
+                    "name": "Nicaragua"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ac55a86e-637b-881b-bf5a-b4ef15e8fa9c",
+                    "name": "Daniel Ortega"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/09da9873-a16b-b570-19b5-b4d6beb3e2f5",
+                    "name": "Rosario Murillo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/46bf67de-381e-0e2d-8b3f-04bea3a39a08",
+                    "name": "Novena"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d56d8a3-5949-85ec-bb75-ffbbee517c52",
+                    "name": "Immaculate Conception"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd4b2fe1-acbf-caca-3543-cc0b5e9edd8d",
+                    "name": "Providence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "National Catholic Register",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.juJVGZzznhMfVPm-XEO-PA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:35:00.0000000Z"
+        },
+        {
+            "name": "High school ice hockey player dies after losing consciousness during game",
+            "url": "https://www.goodmorningamerica.com/news/story/high-school-ice-hockey-player-dies-after-losing-116372421",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.la5Tf4PtY0YMVL_DvaYLFy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "A New York high school ice hockey player has died following a \"sudden medical event\" during a game on Dec. 1, 2024.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f0c9166d-2a37-b5f1-50fe-8c4ac64153d1",
+                    "name": "Ice hockey"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/af960b70-27b5-1c26-367b-9ebf49b40acd",
+                    "name": "Nassau County Police Department"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ba9a27d9-a057-218f-d68c-5443bec1bab8",
+                    "name": "Bethpage, New York"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2559d449-136e-7404-9f25-47740342cc96",
+                    "name": "Massapequa High School"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef0c0f37-bad2-bd1a-ad90-888ea76346bb",
+                    "name": "Long Island"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GMA",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.0Nt-53uIBqEtthIu4mfX7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:35:00.0000000Z"
+        },
+        {
+            "name": "Alphabet Inc. Cl A stock underperforms Monday when compared to competitors despite daily gains",
+            "url": "https://www.marketwatch.com/data-news/alphabet-inc-cl-a-stock-underperforms-monday-when-compared-to-competitors-despite-daily-gains-7e8681bb-a6e44ffd3d63",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.v9bW85TrQts4TCozM6hBVS&pid=News",
+                    "width": 569,
+                    "height": 379
+                }
+            },
+            "description": "Shares of Alphabet Inc. Cl A GOOGL advanced 1.50% to $171.49 Monday, on what proved to be an all-around mixed trading session for the stock market, with the S&P 500 Index SPX rising 0.24% to 6,047.15 and the Dow Jones Industrial Average DJIA falling 0.29% to 44,782.00.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f0f6d14-bc19-4529-8e88-8bec9d3faac1",
+                    "name": "Alphabet Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7836fd8d-31b5-862e-73c9-a1f821ba065e",
+                    "name": "SPX Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Stock"
+                },
+                {
+                    "name": "MarketWatch"
+                },
+                {
+                    "name": "Data"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.g28MuDD8Wj91-VMHwbl7qQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:34:00.0000000Z"
+        },
+        {
+            "name": "House environment panel poised for Democratic leadership shakeup",
+            "url": "https://thehill.com/newsletters/energy-environment/5018401-house-environment-panel-poised-for-democratic-leadership-shakeup/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8n8t_r2SR7n810n6GOAigS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Click for the latest from The Hill{beacon} Energy & Environment Energy & Environment \u200a The Big Story Grijalva bows out of race for top Dem spot on House climate panel House",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/52504f92-28c7-7bde-d09b-e941959ff089",
+                    "name": "United States House Committee on Natural Resources"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d32576f-4752-3806-0337-06a8a268688f",
+                    "name": "Ra\u00fal Grijalva"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7ae7f439-897f-a9b0-9004-f4b821a14640",
+                    "name": "Jared Huffman"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hill",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BO7AWyiZH_p5UNPH6KXa_g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:29:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "A 17-year-old player dies after collapsing during a charity hockey game in New York",
+            "url": "https://www.kob.com/news/health/a-17-year-old-player-dies-after-collapsing-during-a-charity-hockey-game-in-new-york/",
+            "description": "A 17-year-old hockey player collapsed during a charity game in New York and later died. Authorities on Long Island say Connor Kasin lost consciousness during a game Saturday night. The Nassau County Police Department says people at the skating rink in Bethpage were performing CPR when officers and medics arrived.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2559d449-136e-7404-9f25-47740342cc96",
+                    "name": "Massapequa High School"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef0c0f37-bad2-bd1a-ad90-888ea76346bb",
+                    "name": "Long Island"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/af960b70-27b5-1c26-367b-9ebf49b40acd",
+                    "name": "Nassau County Police Department"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ba9a27d9-a057-218f-d68c-5443bec1bab8",
+                    "name": "Bethpage, New York"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/db6b0241-e84b-ca09-46b8-e62a9deff80d",
+                    "name": "New York Post"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KOB 4",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.PIpJNwMhHsAsP7xR103uMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:28:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "State racks up nearly $1 million bill for tribal law enforcement in Lake County",
+            "url": "https://montanafreepress.org/2024/12/02/state-racks-up-nearly-1-million-bill-for-tribal-law-enforcement-in-lake-county/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.sMKmJlg0uW5LdwBO4iKJLi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "County officials have invoiced Montana to help cover the cost of law enforcement on the Flathead Reservation. So far, the state hasn\u2019t paid.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37a939e7-9c8d-3cc4-f82b-94bfb85dd034",
+                    "name": "Lake County, Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/447d6cd5-53f6-4c8f-bf6c-9ff228415c3b",
+                    "name": "Montana"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7f56789f-f24b-5c14-1f73-0fd856e79aba",
+                    "name": "Flathead Indian Reservation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "montanafreepress",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.3tmPXIpKeRWtsErVYGEJSA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:25:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Ingram Micro To Lay Off 850 Employees In Restructuring Move",
+            "url": "https://www.crn.com/news/channel-news/2024/ingram-micro-to-lay-off-850-employees-in-restructuring-move",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Ey-Xan6WGGQNDCRRs6SHfC&pid=News",
+                    "width": 517,
+                    "height": 345
+                }
+            },
+            "description": "The news of Ingram Micro\u2019s 850 layoffs comes after several rounds of layoffs over the last couple years that had resulted in over 1,100 employees being let go.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b00c3331-dd6d-2ea6-a628-44f791a57d09",
+                    "name": "Ingram Micro"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CRN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.vHxBP6AB9LZPcmnahIlMBA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "World\u2019s Oldest Alphabet Turns Up in Ancient Syrian Tomb",
+            "url": "https://news.artnet.com/art-world/oldest-alphabet-unearthed-ancient-syrian-tomb-2573350",
+            "description": "First discovered in 2004 but confirmed thanks to recent carbon dating, researchers found the world's oldest alphabet in a Syrian tomb.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4c472f4d-06a8-4d90-8bb8-da4d168c73fe",
+                    "name": "Maryland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/689d1497-5907-05b9-6c32-8312c9ff973a",
+                    "name": "Johns Hopkins University"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1dc58990-2ea0-c286-ec93-f9333c2d5836",
+                    "name": "Cuneiform"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3176a117-9c80-09fa-185d-82765f1f6699",
+                    "name": "Egyptian hieroglyphs"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Artnet",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF._7zVbFRowPfT4VKP6zXahA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:16:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations",
+            "url": "https://krdo.com/news/2024/12/02/after-days-of-israeli-strikes-hezbollah-hits-back-each-accusing-the-other-of-ceasefire-violations/",
+            "description": "A live TV news station covering breaking news and traffic for Colorado Springs, Pueblo, and Southern Colorado with a strong investigative team",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/16e64cd8-e667-d597-b9c8-1586cb18cf00",
+                    "name": "Hezbollah"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4c637e5-f9cc-a3ed-3380-7152515e062e",
+                    "name": "CNN"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/762f0a2a-f718-21b3-1497-ebf49296d879",
+                    "name": "Ceasefire"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1ffafed3-2b37-b871-c271-aa855d98449a",
+                    "name": "Israel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f2d30d7c-bea9-11b5-a8fe-a92d37480c87",
+                    "name": "Lebanon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KRDO",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.2RxIV3wLuzgMznUN37OfpA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:13:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Alphabet (GOOG) Quickly Lost Its Appeal Amongst Investors. Here\u2019s Why",
+            "url": "https://www.msn.com/en-us/money/savingandinvesting/alphabet-goog-quickly-lost-its-appeal-amongst-investors-here-s-why/ar-AA1v8vqB",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3zRZOD-8SP6Xb5nXq_iODC&pid=News",
+                    "width": 700,
+                    "height": 391
+                }
+            },
+            "description": "Appalaches Capital, an investment management firm, released its third-quarter 2024, investor letter. A copy of the letter can be downloaded here. Appalaches Core LO ended the quarter with a 3.0% gain after all fees and expenses compared to the S&P 500\u2019s return of 5.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b0d4963-9497-de80-67bb-cfd204e1c62d",
+                    "name": "Alphabet"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:56:17.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Advertising Revenue Powers Alphabet's Earnings, but Here's Why You'll Really Want to Buy the Stock Now",
+            "url": "https://www.fool.com/investing/2024/11/30/heres-why-youll-want-to-buy-alphabet-now/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.rIfXF9PuWRMYmmHPSBcNpS&pid=News",
+                    "width": 700,
+                    "height": 446
+                }
+            },
+            "description": "Alphabet has delivered a triple-digit gain to investors over the long term, thanks to its strength in the search business. Today, the company\u2019s investments in artificial intelligence are supercharging another growth driver. All this is due to Alphabet's ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b0d4963-9497-de80-67bb-cfd204e1c62d",
+                    "name": "Alphabet"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+                    "name": "The Motley Fool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f0f6d14-bc19-4529-8e88-8bec9d3faac1",
+                    "name": "Alphabet Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool"
+                }
+            ],
+            "datePublished": "2024-11-30T03:45:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Alphabet Inc. Cl A stock underperforms Friday when compared to competitors",
+            "url": "https://www.msn.com/en-us/money/topstocks/alphabet-inc-cl-a-stock-underperforms-friday-when-compared-to-competitors/ar-AA1v0mrM",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.yjPQgdYauQiU2BgJrSpOFy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Shares of Alphabet Inc. Cl A slumped 0.17% to $168.95 Friday, on what proved to be an all-around favorable trading session for the stock market, with the S&P 500 Index rising 0.56% to 6,032.38 and the Dow Jones Industrial Average rising 0.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/952729cb-819e-5cc5-0ba0-2c0926a288ec",
+                    "name": "FactSet"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.g28MuDD8Wj91-VMHwbl7qQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T21:32:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Tesla Stock vs. Alphabet Stock: Wall Street Only Thinks 1 Will Head Higher From Here",
+            "url": "https://www.fool.com/investing/2024/11/29/tesla-stock-vs-alphabet-stock-wall-street-says-onl/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.GQbLGHOkq6xER07IHUgQYy&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "Wall Street's price targets predict these self-driving car stocks will head down different roads over the next year.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+                    "name": "The Motley Fool"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Wall Street"
+                },
+                {
+                    "name": "The Motley Fool"
+                },
+                {
+                    "name": "Stock"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T10:58:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Alphabet Inc. Cl A",
+            "url": "https://www.barrons.com/market-data/stocks/googl/research-ratings?amp%2525252525252525253Bmod=searchbar",
+            "description": "Stocks: Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive quotes and volume reflect trading in all markets and are delayed at least 15 minutes. International ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Barron's"
+                }
+            ],
+            "datePublished": "2024-11-27T20:19:00.0000000Z"
+        },
+        {
+            "name": "Republican Michael Barnett has a bright future outside of county government | Letter",
+            "url": "https://www.palmbeachpost.com/story/opinion/letters/2024/11/18/letter-palm-beach-county-commissioner-michael-barnett-has-a-bright-future-after-county-government/76333473007/",
+            "description": "When Michael Barnett was appointed to the Palm Beach County Commission by Gov. DeSantis in 2023, I did not know what to expect from this political appointment. Over the past year, I had the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Palm Beach Post"
+                }
+            ],
+            "datePublished": "2024-11-18T10:17:00.0000000Z"
+        },
+        {
+            "name": "The ABCs of the world's alphabets, or, why 'A' is horses",
+            "url": "https://www.newsminer.com/features/our_town/at_the_library_column/the-abcs-of-the-worlds-alphabets-or-why-a-is-horses/article_04ed4862-a54f-11ef-afa8-33015e3a0fe4.html",
+            "description": "There\u2019s Murphy\u2019s Law coined by American aerospace engineer Edward A. Murphy Jr. in 1948 \u2014 \u201cAnything that can go wrong will go wrong\u201d \u2014 and then there\u2019s the multi-part Murphry\u2019s Law ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fairbanks Daily News-Miner"
+                }
+            ],
+            "datePublished": "2024-11-18T00:00:00.0000000Z"
+        },
+        {
+            "name": "Is this Change Healthcare data breach letter I received in the mail a scam? What to know",
+            "url": "https://www.lohud.com/story/news/2024/11/15/change-healthcare-data-breach-is-letter-a-scam-what-to-know/75731080007/",
+            "description": "You may have recently received a letter in the mail alerting you to a Change Healthcare data breach and are wondering if it's a scam. The short answer: it's the real deal. But now, what should you do?",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Journal News"
+                }
+            ],
+            "datePublished": "2024-11-15T18:05:00.0000000Z",
+            "category": "Health"
+        },
+        {
+            "name": "Limping toward the light: A letter from me in this moment",
+            "url": "https://blogs.timesofisrael.com/limping-toward-the-light-a-letter-from-me-in-this-moment/",
+            "description": "I have been asked questions about Hersh, about the plight to free the remaining hostages and about hopes for the future of our people. From within a place of loss and confusion, I share with you a ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Times of Israel"
+                }
+            ],
+            "datePublished": "2024-11-12T12:36:00.0000000Z"
+        },
+        {
+            "name": "Jim Cramer Says That Alphabet Inc. (GOOGL) \u2018Got A Real Boost\u2019",
+            "url": "https://finance.yahoo.com/news/jim-cramer-says-alphabet-inc-181201227.html",
+            "description": "In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against the other stocks Jim Cramer was talking about. Jim Cramer, host of Mad Money, shared his thoughts ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "Mysterious flower pressed into WW I soldier's last letter home identified a century later",
+            "url": "https://www.cbc.ca/radio/asithappens/first-world-war-somme-soldier-letter-flower-1.7380419",
+            "description": "On June 30, 1916, Lt. Howard Wrong, a 25-year-old from Toronto, wrote a letter to his brother and folded within in it a flower. It was the last his family heard from him before he went missing in ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CBC.ca"
+                }
+            ],
+            "datePublished": "2024-11-11T23:41:00.0000000Z"
+        },
+        {
+            "name": "100+ Alphabet Date Ideas to Make Things a Little More Interesting",
+            "url": "https://www.popsugar.com/love/alphabet-date-ideas-49408895",
+            "description": "But thanks to the new alphabet date challenge, you finally have more options than just the standard dinner and drinks. If you've been anywhere near social media lately, then you're likely already ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PopSugar"
+                }
+            ],
+            "datePublished": "2024-11-11T17:00:00.0000000Z"
+        },
+        {
+            "name": "A Shout-Out to Nancy Best and the Grange| Letter",
+            "url": "https://www.sanjuanjournal.com/letters/a-shout-out-to-nancy-best-and-the-grange-letter/",
+            "description": "Each year the food bank receives thousands of pounds of island-grown apples. We are so thankful for this community donation of local fruit but we often get more than we can distribute. For the past two years, Nancy Best and a host of volunteers have used ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Journal of the San Juan Islands"
+                }
+            ],
+            "datePublished": "2024-11-11T01:30:00.0000000Z"
+        },
+        {
+            "name": "Letter: GOP shows America not afraid to elect a fascist",
+            "url": "https://www.staradvertiser.com/2024/11/11/editorial/letters/letter-gop-shows-america-not-afraid-to-elect-a-fascist/",
+            "description": "The Honolulu Star-Advertiser welcomes all opinions. Want your voice to be heard? Submit a letter to the editor. >> Write us: We welcome letters up to 150 words, and guest columns of 500-600 words.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Honolulu Star-Advertiser"
+                }
+            ],
+            "datePublished": "2024-11-11T00:00:00.0000000Z"
+        },
+        {
+            "name": "Letter: Americans will regret electing a man who attempted a coup",
+            "url": "https://www.stltoday.com/opinion/letters/letter-americans-will-regret-electing-a-man-who-attempted-a-coup/article_d1f31ec0-9d81-11ef-aafd-f71c3bbd9c6b.html",
+            "description": "*Refers to the latest 2 years of stltoday.com stories. Cancel anytime. There\u2019s a lot to process about Donald Trump\u2019s election victory last week. Economic concerns and durable dissatisfaction ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "St. Louis Post-Dispatch"
+                }
+            ],
+            "datePublished": "2024-11-10T11:59:00.0000000Z"
+        },
+        {
+            "name": "Erdogan says north \u2018ready\u2019 for new Turkish alphabet",
+            "url": "https://cyprus-mail.com/2024/11/07/erdogan-says-north-ready-for-new-turkish-alphabet/",
+            "description": "Turkish President Recep Tayyip Erdogan on Wednesday night said the north is \u201cready\u201d to transition to the new common Turkic alphabet. Addressing the Organisation of Turkic States (OTS ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Cyprus Mail"
+                }
+            ],
+            "datePublished": "2024-11-07T11:08:00.0000000Z"
+        },
+        {
+            "name": "Letter to Ellen Nussey, 7 November 1854, pages 2\u20133",
+            "url": "https://www.themorgan.org/collection/charlotte-bronte/letters/32",
+            "description": "Bront\u00eb died almost five months after writing this letter, which Nussey preserved (along with many others), breaking her disingenuous vow. Bront\u00eb\u2019s widower came to understand the public\u2019s longing for personal traces of his late wife, authorizing ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morgan Library & Museum"
+                }
+            ],
+            "datePublished": "2024-11-07T00:00:00.0000000Z"
+        },
+        {
+            "name": "Young Girl A (\u5c11\u5973A)",
+            "url": "https://knowyourmeme.com/memes/young-girl-a-%E5%B0%91%E5%A5%B3a",
+            "description": "This submission is currently being researched & evaluated! You can help confirm this entry by contributing facts, media, and other evidence of notability and mutation. Content Warning: Portions of this entry make mention of suicide, which some may find ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "knowyourmeme"
+                }
+            ],
+            "datePublished": "2024-11-06T11:59:00.0000000Z"
+        },
+        {
+            "name": "Alphabet Lore",
+            "url": "https://knowyourmeme.com/memes/subcultures/alphabet-lore",
+            "description": "Alphabet Lore refers to a series of web videos produced by Mike Salcedo in 2022. The series revolves around the twenty-six letters in the Latin alphabet and their interactions with one another. There are twenty-six videos in the series, one for each letter.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "knowyourmeme"
+                }
+            ],
+            "datePublished": "2024-11-06T11:52:00.0000000Z"
+        },
+        {
+            "name": "Cardi B Wrote a Powerful Open Letter to Kamala Harris About the Election Results",
+            "url": "https://www.glamour.com/story/cardi-b-wrote-a-powerful-open-letter-to-kamala-harris-about-the-election-results",
+            "description": "The \u201cBodak Yellow\u201d singer posted a powerful open letter to Harris on Instagram shortly after the race was called for former/future President Trump. \u201cThey can never say that you didn\u2019t run ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Glamour"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Konstas and Webster guide Australia A home in a nervy chase",
+            "url": "https://www.espncricinfo.com/series/india-a-in-australia-2024-25-1455327/australia-a-vs-india-a-2nd-unofficial-test-1455331/live-cricket-score",
+            "description": "6:08pm Dominating run chase from Australia A and once again Webster ensured he saw the team home. When India A set the 168-run target for them this afternoon, after effectively recovering from 11 ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ESPNcricinfo"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Alphabet Stock Forecast: Is GOOGL a Good Buy in 2024?",
+            "url": "https://www.techopedia.com/investing/alphabet-stock-forecast",
+            "description": "Before embarking on a freelance career in 2002,\u2026 Alphabet\u2019s (GOOGL) stock price hit an all-time high closing price of $190.92 in July this year, but life has been rather more challenging since those heady days. Shares in the tech giant have slipped due ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Techopedia"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "'A Quiet Place 3,' follow-up to 'Day One' prequel, and everything we know so far",
+            "url": "https://www.tomsguide.com/news/a-quiet-place-3",
+            "description": "\"A Quiet Place 3\" is still in the works, and no we aren't talking about the spin-off prequel \"A Quiet Place: Day One\" that premiered in theaters over the summer. Continuing the story of a world ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tom's Guide"
+                }
+            ],
+            "datePublished": "2024-11-05T16:15:00.0000000Z"
+        },
+        {
+            "name": "After Earnings, Is Alphabet Stock a Buy, Sell, or Fairly Valued?",
+            "url": "https://www.morningstar.com/stocks/after-earnings-is-alphabet-stock-buy-sell-or-fairly-valued-4",
+            "description": "Alphabet\u2019s third-quarter sales expanded 15% year over year to $88 billion. Strong advertising and cloud revenue growth spearheaded the top line. While investments in artificial intelligence ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "An Indonesian Tribe\u2019s Language Gets an Alphabet: Korea\u2019s",
+            "url": "https://www.nytimes.com/2024/11/04/world/asia/indonesia-korea-hangul.html",
+            "description": "Every desk had a paper nameplate on it with the occupant\u2019s name written in the Korean alphabet, called Hangul. Soon, the students were following their instructor\u2019s lead and etching the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times"
+                }
+            ],
+            "datePublished": "2024-11-04T00:00:00.0000000Z"
+        },
+        {
+            "name": "Appreciation for the writer of \u2018A prayer for America\u2019 [letter]",
+            "url": "https://lancasteronline.com/opinion/letters_to_editor/appreciation-for-the-writer-of-a-prayer-for-america-letter/article_7b00e0c6-988a-11ef-aad8-6f1f278ac6fc.html",
+            "description": "This letter is sent in appreciation for the writer of the Oct. 30 LNP | LancasterOnline letter \u201cA prayer for America.\u201d It was a very thoughtful and well-written prayer for America! Thank you ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "LancasterOnline"
+                }
+            ],
+            "datePublished": "2024-11-04T00:00:00.0000000Z"
+        },
+        {
+            "name": "Trying to 'stay positive': FSU lecturer wants hurting fans to write Norvell a letter",
+            "url": "https://www.tallahassee.com/story/sports/college/fsu/2024/11/03/florida-state-prof-fans-can-encourage-coach-norvell-with-a-letter/76019896007/",
+            "description": "One diehard FSU fan, however, is encouraging other Seminoles to send positive vibes to coach Mike Norvell in a letter writing campaign. Mark Zeigler, a popular senior lecturer and director of ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tallahassee Democrat"
+                }
+            ],
+            "datePublished": "2024-11-03T10:11:00.0000000Z"
+        },
+        {
+            "name": "Carnabucci column wasn\u2019t a surprise [letter]",
+            "url": "https://lancasteronline.com/opinion/letters_to_editor/carnabucci-column-wasn-t-a-surprise-letter/article_1a6b4da8-9783-11ef-b392-ffa468497ae0.html",
+            "description": "Let me start by saying I\u2019m not surprised that the LNP | LancasterOnline Opinion editors found someone to write what I viewed as a hit piece about Donald Trump (\u201cDispatches from the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "LancasterOnline"
+                }
+            ],
+            "datePublished": "2024-11-03T00:00:00.0000000Z"
+        },
+        {
+            "name": "Letter: Slate brings a needed fresh perspective",
+            "url": "https://democratherald.com/opinion/letters/letter-slate-brings-a-needed-fresh-perspective/article_56df6b56-9563-11ef-8a1c-5b53002ebfee.html",
+            "description": "If you've not voted yet, please consider choosing one of the Grassroots Slate candidates for City Council (Ward 1- Beckett Hunt, Ward 2- Dylan de Honor, Ward 6- Alison Bowden, Ward 7- Roy Rheuben ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Albany Democrat-Herald"
+                }
+            ],
+            "datePublished": "2024-11-01T23:59:00.0000000Z"
+        },
+        {
+            "name": "A Letter To Gen-Z From A Baby Boomer",
+            "url": "https://www.forbes.com/councils/forbescoachescouncil/2024/10/30/a-letter-to-gen-z-from-a-baby-boomer/",
+            "description": "If you\u2019re a Gen-Zer, here\u2019s my letter of advice to you. First, be patient with yourself. Many parts of life today revolve around instant gratification, and it\u2019s easy to feel pressure to have ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-10-30T18:05:00.0000000Z"
+        },
+        {
+            "name": "AI, cloud boost Alphabet profits by 34 percent",
+            "url": "https://arstechnica.com/gadgets/2024/10/ai-cloud-boost-alphabet-profits-by-34-percent/",
+            "description": "Alphabet\u2019s profit jumped 34 percent in the third quarter as the parent company of search giant Google reported strong growth in its cloud business amid robust demand for computing and data ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Ars Technica"
+                }
+            ],
+            "datePublished": "2024-10-30T06:37:00.0000000Z"
+        },
+        {
+            "name": "Alphabet\u2019s Waymo Logging 150,000 Robotaxi Rides And 1 Million Miles A Week",
+            "url": "https://www.forbes.com/sites/alanohnsman/2024/10/29/alphabets-waymo-logging-150000-robotaxi-rides-and-1-million-miles-a-week/",
+            "description": "Waymo, Alphabet\u2019s robotic taxi unit, is now providing over 150,000 paid rides per week, up by more than 50% since August as the tech giant seeks to stay ahead of potential rivals in autonomous ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-10-29T21:52:00.0000000Z"
+        },
+        {
+            "name": "Alphabet earnings: Stock climbs as Wall Street reacts to upbeat growth",
+            "url": "https://www.marketwatch.com/livecoverage/alphabet-earnings-google-results-revenue-cloud-youtube-q3",
+            "description": "Alphabet's prior report offered some puts and takes, but the company was an \"all-around winner\" in the latest quarter, with all segments coming in ahead of revenue expectations. That's according ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch"
+                }
+            ],
+            "datePublished": "2024-10-29T21:05:00.0000000Z"
+        },
+        {
+            "name": "Alphabet Q3 Earnings Highlights: Revenue Beat, EPS Beat, Google Cloud Up 35%, 'Momentum Across The Company Is Extraordinary'",
+            "url": "https://www.benzinga.com/news/earnings/24/10/41611263/alphabet-q3-earnings-highlights-revenue-beat-eps-beat-google-cloud-up-35-momentum-across-the-compan",
+            "description": "Alphabet reports third-quarter revenue of $88.27 billion, up 15% year-over-year. Google Cloud revenues rise 35% year-over-year. Here are the key highlights. What Happened: Alphabet reported third ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-10-29T16:22:00.0000000Z"
+        },
+        {
+            "name": "How To Earn $500 A Month From Alphabet Stock Ahead Of Q3 Earnings",
+            "url": "https://www.benzinga.com/news/earnings/24/10/41600000/how-to-earn-500-a-month-from-alphabet-stock-ahead-of-q3-earnings",
+            "description": "A more conservative goal of $100 monthly dividend income would require owning 1,500 shares of Alphabet. An investor would need to own $1,250,400 worth of Alphabet to generate a monthly dividend ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-10-29T09:42:00.0000000Z"
+        },
+        {
+            "name": "Alphabet's Q3 2024 Earnings: What to Expect",
+            "url": "https://www.nasdaq.com/articles/alphabets-q3-2024-earnings-what-expect",
+            "description": "With a market cap of $2 trillion, Alphabet Inc. (GOOG) is a global technology company and the parent of Google. It generates around 90% of its revenue from Google services, including online ads ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nasdaq"
+                }
+            ],
+            "datePublished": "2024-10-14T18:34:00.0000000Z"
+        },
+        {
+            "name": "Alphabet Inc. Cl A",
+            "url": "https://www.barrons.com/market-data/stocks/googl/research-ratings",
+            "description": "Stocks: Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive quotes and volume reflect trading in all markets and are delayed at least 15 minutes. International ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Barron's"
+                }
+            ],
+            "datePublished": "2024-04-23T02:39:00.0000000Z"
+        },
+        {
+            "name": "Differences Between Influenza A and Influenza B",
+            "url": "https://www.verywellhealth.com/flu-a-vs-flu-b-7090660",
+            "description": "The most common influenza viruses in humans are flu A and flu B. Though the two have similar symptoms and are treated in the same way, there are differences between them, including how serious they can become in different populations. This article will ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "verywellhealth"
+                }
+            ],
+            "datePublished": "2024-01-19T03:56:00.0000000Z"
+        },
+        {
+            "name": "cover letters",
+            "url": "https://www.askamanager.org/category/cover-letters",
+            "description": "Your cover letter is where you make a case for why you\u2019d excel at the job, aside from what\u2019s in your resume. A good cover letter can be the thing that gets you an interview. Here\u2019s how to write one.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Ask a Manager"
+                }
+            ],
+            "datePublished": "2020-08-18T20:46:00.0000000Z"
+        }
+    ]
+}

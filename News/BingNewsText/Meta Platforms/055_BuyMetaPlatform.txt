@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Nalak Das"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-05 12:32:00",
+    "description": "Meta Platforms (META) provided strong guidance buoyed by its extensive thrust on generative artificial intelligence.",
+    "filename": ".json",
+    "image_url": "https://media.zenfs.com/en/zacks.com/7ead80764882dffe3925053b7b28f3ed",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Meta Platforms Inc. META, the undisputed leader of the global social media space, reported strong third-quarter 2024 earnings results. The company provided strong guidance buoyed by its extensive thrust on generative artificial intelligence (AI).\nThe stock price of META has soared 58.5% year to date compared with Wall Street\u2019s broad-market index \u2014 the S&P 500\u2019s gain of 20.5%. Despite this, the stock currently has a double-digit upside for the short term.\nMoreover, in the long term, META has a higher earnings per share (EPS) growth rate than the S&P 500 index, which should drive its stock prices in the next 3 to 5 years. Meta Platforms currently carries a Zacks Rank #2 (Buy). You can see the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here.\nThe chart below shows the price performance of Meta Platforms year to date.\nImage Source: Zacks Investment Research\nA Brief Recap of META\u2019s Q3 Earnings Results\nMETA reported third-quarter 2024 earnings of $6.03 per share, beating the Zacks Consensus Estimate by 16.18%. Revenues of $40.59 billion surpassed the Zacks Consensus Estimate by 0.1%.\nIn the third quarter of 2024, total costs and expenses increased 13.9% year over year to $23.24 billion. As a percentage of revenues, total costs and expenses were 57.3%, significantly down from 59.7% in the year-ago quarter.\nGenerative AI aids META\u2019s advertising revenues (98.9% of Family of Apps revenues), which increased 18.6% year over year to $39.89 billion and accounted for 98.3% of third-quarter revenues. Meta Platforms\u2019 saw higher retention rates among advertisers using generative AI-powered image expansion, and background and text generation tools.\nRevenues from Family of Apps (99.3% of total revenues), which includes Facebook, Instagram, Messenger, WhatsApp and other services, increased 18.8% year over year to $40.32 billion.\nFamily Daily Active People or DAP, defined as a registered and logged-in user who visited at least one of the Family products (Facebook, Instagram, Messenger and/or WhatsApp) on a given day, was 3.29 billion, up 4.8% year over year.\nMeta Platforms expects total revenues between $45 billion and $48 billion for the fourth quarter of 2024, assuming a neutral forex impact on year-over-year revenue growth. For 2024, the company still anticipates total expenses between $96 billion and $98 billion.\nMETA continues to expect Reality Labs\u2019 operating losses to increase meaningfully year over year. It expects 2024 capital expenditure in the range of $38-$40 billion, higher than the previous guidance of $37-$40 million.",
+    "source_domain": null,
+    "text": null,
+    "title": "Buy Meta Platforms With a Long-Term Perspective After Q3 Earnings Beat",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 14:47:11",
+    "description": "\u201dAllowing the commission to choose who they think would be the best fit (for mayor) would allow us to have more than one year with a commissioner who does a great job,\u201d Chris Flowers writes in this letter to the Times.",
+    "filename": ".json",
+    "image_url": "https://lawrencekstimes.com/wp-content/uploads/2022/07/Letters-to-the-Times-W.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "So our city commission has a tradition of having a different commissioner serve as mayor each year, based off of which two commissioners received the most votes when they were elected. This might have made sense when the tradition was started, but there have been changes since then that I feel warrant a discussion on if the tradition is still needed.\nFor starters, one of the reasons for a different mayor each year has been that it keeps our advisory boards from being stacked with people chosen by one person. That\u2019s because it used to be that the mayor was the person to nominate people to the boards. Recently that has been changed and now any of the commissioners can nominate people to an advisory board. So if the commissioners now have equal power to the mayor when it comes to nominating people to the advisory boards, then any arguments that a mayor serving more than one year will lead to the mayor stacking boards with their own picks is invalid.\nSomething else that\u2019s also changed in recent years is that it used to be that three commissioners would be up for election each year, with the top two candidates receiving four year terms, and the third-place candidate receiving a two-year term. Now we have an election where the top three all receive four-year terms, and then in two years, the top two receive four-year terms. This has completely eliminated anyone serving a two-year term. Singling out a commissioner to not get a turn based on election results makes more sense when it\u2019s a two-year term.\nOne of the arguments I\u2019ve heard for our current tradition is that if there is a mayor who is terrible, we only have to have them for one year. I would counter that with if the commissioners were choosing the mayor based on who they think would do the best job, then we shouldn\u2019t have to suffer through any terrible mayors because the commission shouldn\u2019t vote anyone in who would be terrible! Even if they did, I\u2019d think they\u2019d vote for someone else the next year. Allowing the commission to choose who they think would be the best fit would allow us to have more than one year with a commissioner who does a great job.\nAnd what does the mayor do? Well, at this point I think the main thing they do is run city commission meetings. They enforce the meeting rules, and decide what speech is and isn\u2019t allowed, according to the rules. I bring this up because in the past, we\u2019ve had some mayors who are more lenient with the rules, and some who are stricter. This leads to inconsistency with how meetings are run and rules enforced over a course of four years. I personally feel this inconsistency with rules and procedures has led to more problems, as citizens can get miffed if what they were allowed to do or say last year is now banned this year.\n\u2014 Chris Flowers, Lawrence\nMore Community Voices:",
+    "source_domain": null,
+    "text": null,
+    "title": "Letter to the Times: Lawrence City Commission should rethink mayor selection tradition",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

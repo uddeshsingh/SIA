@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Kyle Wiggers",
+        "Frederic Lardinois"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-03 00:03:32",
+    "description": "Amazon's re:invent 2024 conference returns to Las Vegas for a series of reveals and keynotes through December 6. AI is expected to be the focus of the event, but there's plenty more in store for Amazon Web Services users, which you can follow live below throughout the week.",
+    "filename": ".json",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/aws-reinvent-2024-logo.png?resize=1200,627",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Amazon\u2019s re:invent 2024 conference returns to Las Vegas for a series of reveals and keynotes through December 6. AI is expected to be the focus of the event, but there\u2019s plenty more in store for Amazon Web Services users, which you can follow live below throughout the week.",
+    "source_domain": null,
+    "text": null,
+    "title": "AWS re:Invent 2024: Live updates from Amazon's biggest event",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

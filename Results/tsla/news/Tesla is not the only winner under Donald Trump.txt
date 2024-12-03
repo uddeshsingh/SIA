@@ -1,0 +1,17 @@
+Authors: ['The Economist']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 18:35:00
+Description: Which businesses will thrive over the next four years? | Business
+Filename: .json
+Image_Url: https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20241116_DE_US.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla is not the only winner under Donald Trump
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A PART OF Donald Trump’s political genius is being all things to all people—or at least to all his supporters. He has said so many contradictory things, throughout his public life and during the presidential campaign, that it is easy to latch on to the bits you like and either ignore those you don’t, or dismiss them as braggadocio. The former president’s decisive victory on November 5th sparked a global rally in equities, as stockpickers filled the Trump-shaped hole in their vision of the future with hopes and dreams. In those reveries, lower taxes and less red tape propel the planet’s biggest economy, and with it the economy of the planet as a whole. By the end of the week stocks were up by 2.4% globally relative to election day.
+Financial_Events: []

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Malik Ahmed Khan"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-05 00:00:00",
+    "description": "With strong third-quarter financial results, here is what we think of Meta Platforms stock.",
+    "filename": ".json",
+    "image_url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/K20S5DpjkXMhKbAvVUBNpPpQyPk=/2400x1350/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/2UWGQD7LCJCYNF3WQ5HHLP7UBE.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "With strong third-quarter financial results, here is what we think of Meta Platforms stock.\nSecurities In This Article\nCorrection: A previous version of this article should have said Meta released its third-quarter earnings report, not second-quarter.",
+    "source_domain": null,
+    "text": null,
+    "title": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

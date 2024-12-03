@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Avi Kapoor"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-29 09:43:04",
+    "description": "Alphabet Inc. (NASDAQ: GOOG) (NASDAQ: GOOGL) to release Q3 earnings after closing bell on Tuesday. Analysts expect EPS of $1.84 and revenue of $86.3B.",
+    "filename": ".json",
+    "image_url": "https://cdn.benzinga.com/files/images/story/2024/10/29/google-shutter2.jpeg?width=1200&height=800&fit=crop",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Alphabet Inc. GOOG GOOGL will release earnings results for its third quarter, after the closing bell on Tuesday.\nAnalysts expect the Mountain View, California-based bank to report quarterly earnings at $1.84 per share, up from $1.55 per share in the year-ago period. Alphabet projects to report revenue of $86.3 billion for the recent quarter, compared to $76.69 billion a year earlier, according to data from Benzinga Pro.\nWith the recent buzz around Alphabet ahead of quarterly earnings, some investors may be eyeing potential gains from the company's dividends too. As of now, Alphabet offers an annual dividend yield of 0.48%, which is a quarterly dividend amount of 20 cents per share (80 cents a year).\nTo figure out how to earn $500 monthly from Alphabet, we start with the yearly target of $6,000 ($500 x 12 months).\nNext, we take this amount and divide it by Alphabet's $0.80 dividend: $6,000 / $0.80 = 7,500 shares.\nSo, an investor would need to own approximately $1,250,400 worth of Alphabet, or 7,500 shares to generate a monthly dividend income of $500.\nAssuming a more conservative goal of $100 monthly ($1,200 annually), we do the same calculation: $1,200 / $0.80 = 1,500 shares, or $250,080 to generate a monthly dividend income of $100.\nNote that dividend yield can change on a rolling basis, as the dividend payment and the stock price both fluctuate over time.\nThe dividend yield is calculated by dividing the annual dividend payment by the current stock price. As the stock price changes, the dividend yield will also change.\nFor example, if a stock pays an annual dividend of $2 and its current price is $50, its dividend yield would be 4%. However, if the stock price increases to $60, the dividend yield would decrease to 3.33% ($2/$60).\nConversely, if the stock price decreases to $40, the dividend yield would increase to 5% ($2/$40).\nFurther, the dividend payment itself can also change over time, which can also impact the dividend yield. If a company increases its dividend payment, the dividend yield will increase even if the stock price remains the same. Similarly, if a company decreases its dividend payment, the dividend yield will decrease.\nGOOGL Price Action: Shares of Alphabet rose by 0.9% to close at $166.72 on Monday.\nRead More:\nTop 3 Industrials Care Stocks That Plunge This Month\nPhoto: Shutterstock",
+    "source_domain": null,
+    "text": null,
+    "title": "How To Earn $500 A Month From Alphabet Stock Ahead Of Q3 Earnings",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

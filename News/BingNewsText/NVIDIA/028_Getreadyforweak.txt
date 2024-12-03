@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Filip De Mott"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 19:13:10",
+    "description": "\"Maybe for once, we will see relative softness on the big high flyers that have been so good for the market the last two years,\" Jeremy Siegel said.",
+    "filename": ".json",
+    "image_url": "https://i.insider.com/672d108c192f52589856c589?width=1200&format=jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The S&P 500 will see gains capped at 10% next year, Jeremy Siegel said.\nThe Wharton professor expects large-cap tech shares could see flat returns in 2025.\nBut undervalued small- and mid-cap stocks will rally, he said.\nThe S&P 500 will be running on fumes in 2025 after a scorching two-year rally, Jeremy Siegel told CNBC on Monday.\n\"I'm expecting a much quieter year. I mean, we've had two blockbuster years, 2023, 2024, so I'm expecting an S&P probably in the zero to 10% range,\" the Wharton professor outlined, adding that the market's dominant tech stocks could see \"flattish\" returns next year.\nThe benchmark S&P 500 has surged 26.5% so far this year. Both US and global investors powered the double-digit rise, snapping up large-cap exposure to artificial intelligence. This AI frenzy has sent a handful of tech companies soaring, making S&P gains heavily dependent on their performance.\nBut according to Siegel, the so-called Magnificent 7 stocks \u2014 which include names such as Amazon, Nvidia, and Meta \u2014 are starting to lag.\n\"Maybe for once, we will see relative softness on the big high flyers that have been so good for the market last two years,\" he said, adding: \"The S&P being one-third of those high flyers, if they do falter next year or even really don't increase, it'll be hard for the S&P to make anything like the gains that we had in 2023 and 2024.\"\nBank of America suggested that the tech trade could be headed for a cyclical peak. A lot will depend on future bond yields, as rising rates will likely cap risk assets in 2025, the bank said.\nAlthough tech has been the S&P 500's big catalyst this year, Donald Trump's election has helped drive even steeper gains in recent weeks.\nTraders are betting that the incoming president will implement market-friendly policies that will boost overlooked assets like small-caps.\nIn fact, the small-cap Russell 2000 has gained 7% since the November 5 election, as investors position for domestic firms to gain from Trump's deregulation and tax cut promises.\n\"Maybe the Mag 7 will do nothing next year, and those small and mid-sized caps, stocks \u2014 which are really so undervalued compared to the others \u2014 are finally going to have their day in the sun,\" Siegel said.",
+    "source_domain": null,
+    "text": null,
+    "title": "Market Returns to Weaken in 2025 As Huge Tech-Driven Gains Turn Flat",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

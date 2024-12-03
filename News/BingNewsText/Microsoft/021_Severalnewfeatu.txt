@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Mikael Markander",
+        "Joel Lee"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 00:00:00",
+    "description": "It'll be the last update for Windows 11 this year. Here are some of the changes you can expect.",
+    "filename": ".json",
+    "image_url": "https://www.pcworld.com/wp-content/uploads/2024/12/Windows-11-logo-on-phone-sitting-on-laptop-keyboard-hero.jpg?quality=50&strip=all&w=1024",
+    "language": "en",
+    "localpath": null,
+    "maintext": "In about two weeks, we\u2019re going to get December\u2019s Patch Tuesday, which means it\u2019ll be time for Microsoft to ship out a new collection of bug fixes and security updates for Windows 11.\nAccording to Windows Latest, the December update for Windows 11 24H2 is going to be packed with several big features and changes. Not surprising given that it\u2019s Microsoft\u2019s last update of the year.\n[ ]\nAmong other things, the update will bring the ability to change the layout of the date and time in the taskbar, allowing the box to take up less space for users who prefer compact designs.\nFurthermore, we\u2019ll be getting more jump list options in context menus. For example, right-clicking on the icon for the Screenshot tool will bring up timer options to take screenshots in 3, 5, or 10 seconds. Expect lots of new jump lists, especially for system apps in the Start menu.\nIf you have RGB devices (e.g., keyboard, mouse, etc.) that support the Dynamic Lighting feature in Windows, the next update is going to introduce a simplified Dynamic Lighting page in Settings that will allow you to tweak and control all supported RGB devices.\nTask Manager is getting some interface improvements, too. Details about connected storage devices will be clearer, making it easier to see what type of SSD or HDD is labeled and how it\u2019s performing.\nEven though Windows 11 24H2 has been quite a mess ever since it started rolling out in October, we hope this final update of the year will be pretty good and address several issues. Fingers crossed!",
+    "source_domain": null,
+    "text": null,
+    "title": "Several new features are coming to Windows 11 24H2 this month",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

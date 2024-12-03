@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Aimee Picchi"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-13 12:14:00",
+    "description": "Amazon rolls out a new shopping service, dubbed Amazon Haul, that sells items for $20 or less.",
+    "filename": ".json",
+    "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/13/06dfe9c0-c140-4c0c-9cfa-268c314d93ce/thumbnail/1200x630/d4c873b774a2ebb288c03f9501cd6333/gettyimages-2180146053.jpg?v=e3aa8b4a58817620ee227c79202c9709",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Amazon on Wednesday debuted a new online shopping service called Amazon Haul that experts said could help the e-commerce giant compete with Chinese retailers Temu and Shein.\nAmazon Haul \u2014 whose name is a play on social media \"hauls,\" where people show off their purchases \u2014 focuses on selling items for $20 or less, or what Amazon calls \"crazy low prices.\" In a blog post, Amazon said the new service is available in its shopping app and mobile website.\nTemu and Shein have won over many Gen Z shoppers and other bargain hunters by offering low-cost clothing, electronics and other items that typically ship directly from manufacturers in China. At the same time, U.S. consumers are still feeling the bite of inflation that hit a 40-year high in the pandemic, with many searching for deals as a result.\n\"Amazon Haul is a response to both the rise of low-price Chinese marketplaces and the fact that consumers are increasingly seeking value for money as they try to make their budgets stretch further,\" said Neil Saunders, managing director of market research firm GlobalData.\nHe added, \"The value retail segment has been a major growth area over the past few years, and while the regular Amazon site has a good value-for-money reputation, its wide offer means that it is not primarily seen as an everyday low-price destination.\"\nWhat is Amazon Haul?\nAmazon Haul is an online storefront within the Amazon app that sells low-cost items, aimed especially at consumers who shop at discount retailers such as Temu and Shein.\nTo find Amazon Haul, go to the Amazon app and search \"Haul\" in the search bar, or go to www.amazon.com/haul on your browser.\nHow much do Amazon Haul items cost?\nAmazon said everything on Amazon Haul costs less than $20, but most products are priced at $10 and less.\nItems available on Amazon Haul on Wednesday included a three-pack of fuzzy socks for $4.99 and a quilted tote bag for $7.99. The merchandise ranged from clothing to household items such as silicone baking mats and throw pillows.\nThe company offers discounts on larger orders, such as 5% off orders above $50 and 10% off orders of $75 or more.\nWhat is the delivery time for Amazon Haul items?\nLonger than regular Amazon items, with the company noting that the goods are typically delivered within one to two weeks.\nWhat do the experts say?\nAmazon Haul could help the retailer appeal to younger shoppers, noted GlobalData's Saunders. But it also raises the risk that the low-cost shopping site could cannibalize sales from Amazon's main site, he added.\nStill, Saunders said, \"It is better that Amazon cannibalize its own sales than cede ground to rivals.\"",
+    "source_domain": null,
+    "text": null,
+    "title": "Amazon debuts Amazon Haul with \"crazy low prices.\" Here's what to know.",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

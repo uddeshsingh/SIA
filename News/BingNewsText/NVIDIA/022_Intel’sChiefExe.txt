@@ -1,0 +1,26 @@
+{
+    "authors": [
+        "Don Clark",
+        "Tripp Mickle",
+        "Steve Lohr",
+        "www.nytimes.com",
+        "don-clark",
+        "tripp-mickle",
+        "steve-lohr"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 14:33:16",
+    "description": "Pat Gelsinger stepped down after nearly four years at the helm of the onetime highflying company, Intel said Monday.",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/images/2024/12/02/multimedia/02intel-ceo-01-pjvb/02intel-ceo-01-pjvb-facebookJumbo.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Over the weekend, Patrick Gelsinger, Intel\u2019s chief executive, was given a choice by the company\u2019s board of directors: Resign or be fired.\nIntel\u2019s board had concluded that Mr. Gelsinger had to depart after his plans to turn around the iconic semiconductor maker were not showing results quickly enough, said a person with knowledge of the matter, who was not authorized to speak publicly. Other challenges had piled up, with the company\u2019s stock plunging more than 50 percent this year.\nOn Monday, Intel announced that Mr. Gelsinger had retired as of Dec. 1. The 63-year-old Intel veteran, who took the helm in 2021 after an 11-year absence from the company, also resigned from the board. He will be replaced for now by two executives, David Zinsner and Michelle Johnston Holthaus, the company said, adding that it would continue its search for a permanent chief executive.\nThe abrupt change was the latest sign of the 56-year-old company\u2019s fall from grace. Intel was one of the pioneers that gave Silicon Valley its name and for years was one of the world\u2019s best-known tech names. But the company has been mired in recent years in innovation struggles and has ceded ground to rivals including Nvidia, the reigning maker of artificial intelligence chips.\n\u201cWe have much more work to do at the company and are committed to restoring investor confidence,\u201d Frank Yeary, who will serve as interim executive chair on Intel\u2019s board, said in a statement.\nMr. Gelsinger said in the statement that the move was bittersweet. \u201cIt has been a challenging year for all of us as we have made tough but necessary decisions to position Intel for the current market dynamics,\u201d he added.\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber? Log in.\nWant all of The Times? Subscribe.",
+    "source_domain": null,
+    "text": null,
+    "title": "Intel CEO Pat Gelsinger Steps Down Amid Chipmaker\u2019s Struggles",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

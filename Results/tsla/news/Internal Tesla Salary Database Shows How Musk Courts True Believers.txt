@@ -1,0 +1,17 @@
+Authors: ['Grace Kay', 'Madison Hoff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 10:00:02
+Description: BI obtained a pay database covering nearly 100,000 Tesla employees. Insiders say lower base pay but significant stock grants can help find diehards.
+Filename: .json
+Image_Url: https://i.insider.com/670e8b6a6ac7b701e7cb32a5?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Internal Tesla Salary Database Shows How Musk Courts True Believers
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The few who receive offers typically face a calculated gamble: Accept lower base pay up front for the chance of a potentially lucrative future payout. BI further broke down the data to look at median base pay by job title, analyzing the numbers for full-time, US-based, salaried roles with at least five employees. Using separate data from the Securities and Exchange Commission, BI compared the company's median base pay with that of traditional automakers and the six largest tech firms by market cap. Greg Selker, a managing director at the executive recruitment firm Stanton Chase, told BI that while other Big Tech companies might have higher base pay and equity grants to match, Tesla's strength also lies in its image. Tesla's pay strategy has more in common with other Silicon Valley companies like Google or Meta than it does with traditional automakers, Harley Shaiken, an auto industry and labor expert, told BI.
+Financial_Events: ["RSUs are typically included in standard compensation packages, while nonqualified stock options and ISOs are often used as additional incentives.\nRSUs give employees actual shares that vest over time, while ISOs simply provide the right to purchase stock at a preset price before expiration — which is potentially profitable if the stock price rises above that level, but also requires the employee to have money on hand to pay for the stock in the first place.\nOutside of one person within Tesla's executive job category who had no stock amount listed, Tesla executives received stock offerings worth between $950,000 and $20 million, according to the database, which displayed the latest stock amount for each employee as of December 2021"]

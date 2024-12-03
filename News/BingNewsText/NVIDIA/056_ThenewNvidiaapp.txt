@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Dave LeClair"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 14:31:22",
+    "description": "The new Nvidia app is here, which is great news for gamers who didn't like the GeForce Experience app.",
+    "filename": ".json",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JoHhQaTPx69p3ZTiBerSXj-1200-80.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Nvidia is launching a new app for gamers worldwide. The aptly named Nvidia app is coming to PC users as a replacement for the Nvidia GeForce Experience, which wasn't exactly a gamer's best friend. Like the previous app, this one offers more features designed to help enhance the PC gaming experience on some of the best gaming PCs and best gaming laptops. Whether or not it succeeds at its goals remains to be seen.\nThe app, launched in beta in 2024, comes bundled with video card drivers and integrates several features from the company's simpler Nvidia Control Panel. It can record your gameplay, put Nvidia's AI-powered RTX game filters on and show statistics in an overlay.\nThe most significant benefit of the GeForce Experience was optimizing game settings based on a PC's specs; that feature remains in the new Nvidia app. It even adds settings that weren't in the GeForce Experience but only in the Nvidia Control Panel app. Previously, configuring displays, enabling and disabling G-Sync and tuning the GPU's performance were locked to the control panels, but these settings are tunable in the new app.\nWhile Nvidia is releasing the app to the masses, it's not done adding features. In a blog post, the company talked about the future of its app. \"In future updates, we\u2019ll continue to add remaining NVIDIA Control Panel options like Surround and Multiple Display Mode settings, along with new features and further enhancements.\"\nWhile the app will be bundled with Nvidia drivers, unchecking the box during installation will prevent it from going on your PC. However, it might be worth trying the Nvidia app if you didn't like GeForce Experience, as the changes are promising.\nPerhaps the most exciting is that you won't need to use an Nvidia account to take advantage of everything the app does.\nMore from Tom's Guide",
+    "source_domain": null,
+    "text": null,
+    "title": "The new Nvidia app is here to replace GeForce Experience - here's what's new",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

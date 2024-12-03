@@ -1,0 +1,17 @@
+Authors: ['Kelly Cloonan']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 18:58:58
+Description: Morgan Stanley analysts say Tesla will surge if it can expand to be an AI giant, which may be more likely if Elon Musk exerts influence in a second Trump term.
+Filename: .json
+Image_Url: https://i.insider.com/6733991e88cea3ba1c202c9a?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla Stock to Surge With Move Beyond Autos, Musk's Influence: Morgan Stanley
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Tesla shares have a path to big upside ahead if the electric car company can expand beyond autos and if CEO Elon Musk flexes newfound political muscle in a second Donal Trump presidency, Morgan Stanley analysts said on Tuesday. They said that Tesla, with 80% of its year-to-date revenues coming from vehicle sales, is frequently excluded from the enthusiasm surrounding artificial intelligence, datacenters, renewable energy, robotics, and on-shoring. "In our opinion, the winners in autonomy (whether in cars or other form factors) will be those firms who can combine capabilities in data, robotics, energy, AI, manufacturing and downstream infrastructure," the analysts said. "Setting the United States on a course for EV/AV/Robotics/Renewable independence is going to involve government and industrial partnership on a scale some have compared to the Manhattan Project, US Highway Act or the Apollo Missions. Elon Musk's emergence from a political 'outsider' to having a voice in potential policies may, at some level, accelerate Tesla's journey beyond autos," the analysts say.
+Financial_Events: ['ET.\nThey said that Tesla, with 80% of its year-to-date revenues coming from vehicle sales, is frequently excluded from the enthusiasm surrounding artificial intelligence, datacenters, renewable energy, robotics, and on-shoring.\nHowever, they think that could change in the coming years if Tesla can successfully implement some of its initiatives outside the core car business.\n"Tesla is a car company']

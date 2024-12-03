@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Anmol"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-28 14:19:23",
+    "description": "Apple Intelligence features will be available only on certain devices, so check out all Apple Intelligence compatible iPhones, iPads & Macs.",
+    "filename": ".json",
+    "image_url": "https://beebom.com/wp-content/uploads/2024/06/Apple-Intelligence-supported-devices.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Apple showcased its AI features at the WWDC 2024 event and again at the iPhone 16 series launch event. While a few Apple Intelligence features are still some time away, the company is set to roll out the first tranche of AI features with the iOS 18.1 update. But, these new AI features will be limited only to certain Apple devices. If you want to know whether your iPhone, iPad, or Mac will support Apple Intelligence, check out the device list below.\nApple Intelligence Supported iPhones, iPads and Macs\nApple Intelligence is using on-device processing to answer your queries and maintain your privacy while you use AI features on iPhone, iPad, and Mac. It\u2019s worth knowing that only the M-series processors, A17 Pro, and the latest A18 chipset have the computational power to make this feature a reality.\nHence, all Apple devices with the aforementioned Apple Silicon will get the new AI features. Here is the complete list of devices that will support Apple Intelligence:\niPhone 16\niPhone 16 Plus\niPhone 16 Pro\niPhone 16 Pro Max\niPhone 15 Pro\niPhone 15 Pro Max\niPad Air (M1 and later, starting with the 2022 model)\niPad Pro (M1 and later, starting with the 2021 model)\nMacBook Air (M1 and later)\nMacBook Pro (M1 and later)\niMac (M1 and later)\nMac mini (M1 and later)\nMac Studio (M1 Max and later)\nMac Pro (M2 Ultra)\nDo I Need to Pay for Apple Intelligence Features?\nApple Intelligence is free for users of all supported iPhone, iPad, and Mac models. To be able to use the AI features, you will initially need to set the Siri and device language to U.S. English. Also, you\u2019ll have to update to the latest macOS Sequoia, iPadOS 18, and iOS 18 to access the AI features.\nHowever, not all Apple Intelligence features will be available on release. Apple is expected to roll out first set of Apple Intelligence features with the iOS 18.1 update. Noted Apple analyst has outlined the Apple Intelligence release timeline.\nAre you excited to try out Apple\u2019s AI features on your devices? How are you planning to use it? Tell us in the comments below.",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple Intelligence Supported Devices: Will Your Device Get Apple's AI Features?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

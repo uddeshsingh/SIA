@@ -1,0 +1,17 @@
+Authors: ['Andrei Nedelea']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:06:53
+Description: Tesla's
+Filename: .json
+Image_Url: https://cdn.motor1.com/images/mgl/P3JZAr/s1/fsd.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla's FSD Can Finally Park, Though Sometimes It Aims For The Sidewalk
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Tesla's latest version of "Full Self-Driving" can back out of a spot, complete a journey and look for parking on the other end. In the four years since we’ve seen it both working perfectly and failing, but true full self-driving with no safety driver just seemed distant. What made us question FSD was Tesla’s decision to make the system only work on a combination of cameras and neural networks, ditching other types of sensors and radar. Don’t forget this is a car with no ultrasonic sensors to gauge distance, which only makes its performance more impressive. Another video where Dirty Tesla tests FSD V13.2 highlights just how smooth it is with steering and brake application.
+Financial_Events: []

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Beth Skwarecki"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 21:00:14",
+    "description": "The Oura ring is a great fitness tracker for minimalists. It picks up on your sleep, HRV, skin temperature and more while you sleep, and its app tells you how recovered and ready you are each day. Today, the gen 3 ring is at its lowest price yet, as little as $221 for some styles.",
+    "filename": ".json",
+    "image_url": "https://lifehacker.com/imagery/articles/01JE4FFJRZBSF8DYBYNN4ZHWR8/hero-image.fill.size_1200x675.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The Oura ring is a great fitness tracker for minimalists. It picks up on your sleep, HRV, skin temperature and more while you sleep, and its app tells you how recovered and ready you are each day. Today, the gen 3 ring is at its lowest price yet, as little as $221 for some styles.\nTo understand what you\u2019re getting, I\u2019ll break down Oura\u2019s product offerings:\nThe gen 3 ring, released in 2021, comes in a Horizon style (smooth) and a Heritage style (with a flat area on top of the ring). It\u2019s available in whole sizes 6 to 13.\nThe gen 4 ring, released in 2024, comes in one shape, a smooth one. It\u2019s available in more sizes: whole sizes 4 to 15.\nThe newer ring\u2019s inner surface doesn\u2019t have the sensor bumps that the gen 3 has, and the company says its sensors are slightly more accurate. But to be honest, both rings have similar functionality. As a gen 3 owner myself, I have zero jealousy of people who own a gen 4.\nOura has been running a sale on the gen 3 for a little while now, but today the price of some models has dropped even further. Here\u2019s what I\u2019m seeing in the Horizon style on Amazon:\nSilver: $235 for sizes 9 and 11, $249 for the rest (normally $299)\nBlack: all $249 (normally $299)\nBrushed titanium: $261 for size 10, $279 for the others (normally $349)\nGold: $335 for sizes 8, 9, and 10; $349 for the rest (normally $449)\nRose gold: $321 for size 9, $335 for size 10, $349 for the rest (normally $449)\nStealth (matte black): $267 for size 13, $270 for size 11, $279 for the rest (normally $349)\nAnd in Heritage with the flat top:\nSilver: $221 for size 10, $230 for size 13, $249 for the rest (normally $299)\nBlack: $221 for size 9, $230 for size 11, $249 for the rest (normally $299)\nBrushed titanium: not in stock\nGold: $349 for all (normally $449)\nRose gold: not in stock\nStealth (matte black): $279 for all (normally $349)\nThese prices are all subject to change, of course, and some styles aren\u2019t available in all sizes. These are the older models, after all, and Oura seems eager to clear out old stock. The gen 4 Oura ring is not on sale for Cyber Monday (and wasn\u2019t for Black Friday, either). It runs $50 more than the regular price of the gen 3 rings for each color, so $349 for black and silver, $499 for gold and rose gold, and so on.\nBy the way, if you want something to track your workouts and not just your sleep, Oura may not be the ring for you. You probably want either a Garmin or a Whoop band to give you the best sleep data and track your workouts; I recently refereed a showdown between the Oura ring and the Whoop band. The Whoop band won, partly on activity tracking and partly on price. (Oura and Whoop both have subscription fees; check that link for a breakdown of the numbers.) And if I\u2019m starting to convince you, I\u2019ll add that Whoop is also running a Cyber Monday deal.\nAll that said, the Oura ring is an excellent sleep tracker to pair with a fitness watch, or to keep tabs on your health without worrying about activity tracking at all. If the $5.99/month subscription fee doesn\u2019t bother you, go ahead and grab the ring.",
+    "source_domain": null,
+    "text": null,
+    "title": "The Oura Ring Is at Its Lowest Price Yet for Cyber Monday",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

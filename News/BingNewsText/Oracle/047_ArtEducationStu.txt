@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Cassidy Brock"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 15:00:00",
+    "description": "On Monday, Nov. 9 SUNY New Paltz\u2019s Art Education Student Association (AESA) held a ceremony to debut their Fall 2024 exhibition.",
+    "filename": ".json",
+    "image_url": "https://oracle.newpaltz.edu/wp-content/uploads/2024/11/SAE4-scaled.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "SUNY New Paltz\u2019s Art Education Student Association (AESA) is currently hosting an art exhibition showcasing the works of juniors and seniors in the department. The exhibit opened on Saturday, Nov. 2 and will be running through Saturday, Nov. 9.\nTheir opening ceremony was held on Monday, Nov. 4 at 7 p.m. in the Fine Arts Building rotunda. Light refreshments including apple cider, cookies and donuts were served to guests who varied from students to friends and family.\nThe rotunda showcased a selective display of artwork with a total of 30 featured pieces. Various art mediums were intricately hung upon the walls and placed on tables. Art was displayed on both the first and second floors of the rotunda.\nAccording to their page on SUNY New Paltz Engage, AESA was created by a group of aspiring art educators whose aim is to \u201ccombine both art and art education in one club. Whether you\u2019re an art education major, art major, or neither, come hang out and create art. Anyone is welcome at every meeting, member or not.\u201d AESA creates an environment for artists and aspiring art educators alike to express their ideas, work and themselves.\nFourth-year Art Education major Katie Asenbauer is the president of the association. In an interview with The Oracle, Asenbauer explained \u201cWe like to show off to everybody, because we take a lot of education courses, but we also take so many studio courses, so it\u2019s good to see everyone\u2019s artwork. A lot of us don\u2019t have studio classes together, so this is a chance to see everyone\u2019s work on display.\u201d\nFourth-year Art Education major Elizabeth Katz is the vice president of AESA. \u201cI\u2019m just so incredibly proud of everyone, and it\u2019s nice to see that art education majors are also artists separate from them being aspiring teachers,\u201d Katz said.\nFourth-year Art Education major Charlotte Weiss is the association\u2019s event coordinator. Weiss said, \u201cAs you work through your studio classes, a lot of your work forms sort of a theme which could be a thesis consisting of materials in my portfolio like for example, lesson plans. I think having those congruent things would be a really nice addition to the program to see how art and education intertwine in that sense. We don\u2019t have the opportunity to do a senior thesis, but I personally would love it if we did.\u201d\nThird-year Art Education major Marygrace Froehlich is the treasurer of the association. Froehlich told The Oracle, \u201cThis is my second semester here. The club\u2019s been great for me to connect with other artists, because, like they said, we don\u2019t have a ton of studios together necessarily, and it\u2019s very different [from other art degrees].\u201d\nAESA hosts their meetings once a week in the Smiley Arts Building Room 206 on Tuesdays or Wednesdays where they offer a wide variety of activities. \u201cArt activities could include collage, painting, drawing, crafts, etc. Art education activities could include lesson planning, scheduling or just chatting about the program,\u201d as stated on Engage.\nIf you are interested in attending meetings, joining the club or simply staying up to date with future events, you can check them out on their Instagram @newpaltzaesa.",
+    "source_domain": null,
+    "text": null,
+    "title": "Art Education Student Association Student Exhibit",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

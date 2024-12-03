@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Britta O'Boyle"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:00:00",
+    "description": "Apple Intelligence will bring more helpful Writing Tools with iOS 18.2 coming this month.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/W03mSo38oKFEOr_x0ahAgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/t3_620/91213c61add20d3a8aabd19531123e8f",
+    "language": "en",
+    "localpath": null,
+    "maintext": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\nQuick Summary\nApple Intelligence will bring extra Writing Tools with iOS 18.2.\nThe software is due to be released this month, though an exact released date is currently unknown.\nArtificial intelligence has been the main buzzword of this year when it comes to phones, tablets and even smartwatches, but while Google and Samsung have fully embraced AI with their respective offerings, we\u2019re still waiting for Apple.\nApple announced Apple Intelligence back in June 2024 during its Worldwide Developer Conference (WWDC), but it\u2019s not yet fully released on iPhone, iPad and Mac. When iOS 18.1 launched in September, a couple of Apple Intelligence features appeared but it\u2019s iOS 18.2 that\u2019s set to bring the real meat of Apple\u2019s AI.\nIf you\u2019re running the iOS 18.2 beta then you\u2019ll already have access to some of the features coming, which includes an expansion of the Writing Tools.\nIn iOS 18.1, the Writing Tools offered a way to rewrite an email or document into a more \u2018Professional\u2019 or \u2018Friendly\u2019 tone, and it could also proofread and summarise text anywhere you\u2019d find a cursor too.\nBut, with the next software update, ChatGPT gets baked into Siri, as 9to5Mac highlighted in a recent report, and that brings with it some extra tricks. Within the Writing Tools menu, you\u2019ll see \"Compose\", which will enable Siri and ChatGPT to compose words from scratch. You still need to give guidance as to what you want to be written, but you won\u2019t have to write the words yourself beyond the instruction.\nOnce ChatGPT has composed your copy, you can then refine it. You can either ask for an entire rewrite, or you can tap on the \"Describe your change\" for a customised AI rewrite.\nApple has said iOS 18.2 is due to be released to iPhone users in December, though the company hasn\u2019t confirmed the exact date as yet. Along with the more advanced Writing Tools, iOS 18.2 is set to bring features like the Hearing Test for AirPods Pro 2 users.",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple Intelligence's new features are imminent and actually really useful",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

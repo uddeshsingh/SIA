@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Danielle Halibey | NJ Advance Media for NJ.com",
+        "Danielle Halibey"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:55:51",
+    "description": "They can also charge your phone, if you need it ... Stock up on this Cyber Monday deal for everywhere you're going this winter.",
+    "filename": ".json",
+    "image_url": "https://www.nj.com/resizer/v2/WHL5EIU27BF7JGURGAOQXTHHBM.jpg?auth=c34e7408374f20528dc39e86e6c6986bbf6c57c49a4c3ad835f907c9f0b30332&width=1280&quality=90",
+    "language": "en",
+    "localpath": null,
+    "maintext": "It\u2019s official, the unseasonably warm fall we were having in New Jersey looks like it\u2019s coming to an end...\nAnd with cold temperatures and a snowy winter on the horizon, you\u2019ll definitely want to stock up on hand warmers you can whip out whenever you\u2019re in need. Amazon has some hot Cyber Monday deals happening on OCOOPA HotPal Rechargeable Hand Warmers and, if you shop now, you can get your secret warmup weapon for up to 46% off.\nAll eight of the available colorways, from Black and Pink to Orange and Ocean Wave, are marked down, starting from $15. But the deals that will save you the most are on the Green and Purple options, which you can get for $20, instead of $37.\nThese handy devices heat up quickly with three adjustable temperature levels that will help keep your appendages warm whether you\u2019re walking the dog, strolling through a walk-through holiday light trail or standing on a train platform or at the bus stop and shivering as you wait for your ride to arrive.\nAccording to the company, the long-lasting 5200mAh battery not only keeps the warmth going for up to eight hours, but can also charge your electronic devices on the go with the built in USB-C charging port.\nMade from durable, aircraft-grade aluminum and ABS material, the portable palm warmers are built to last and easy to hold, thanks to their anti-skid design.\nShop the HotPal Rechargeable Hand Warmers for as little as $15 during Amazon\u2019s huge Cyber Monday sale.\nKeep these other fall and winter warmup deals in mind while they\u2019re hot, too.\nCrock-Pot Electric Lunch Box for $25, instead of $45\nHeadlightz by Roq Innovation Light-Up Beanie for $25, instead of $30\nGOTCOZY Heated Blanket Electric Throw for $32, instead of $40\nDreo Space Heater for $34, instead of $40\nEmber Temperature Control Smart Mug 2 for $110, instead of $150\nThe Best Cyber Monday & Leftover Black Friday Deals\nKate Spade\u2019s Cyber Monday sale has the best handbags up to 50% off \u2014 and almost everything else is discounted too\nKohl\u2019s has a Food Network 10-piece ceramic cookware set for just $37 in a delicious Cyber Monday deal\nAmazon has AncestryDNA kits on sale for their best price ever ahead of the holidays\nAmazon has this Masterbilt digital smoker back in stock and on sale for a whopping $80 off in a huge Cyber Monday deal\nHOKA sneakers are now marked even cheaper in a huge holiday sale \u2014 but these low-price deals won\u2019t last\nOur journalism needs your support. Please subscribe today to NJ.com.",
+    "source_domain": null,
+    "text": null,
+    "title": "Amazon has these HotPal palm-sized rechargeable hand warmers on sale for up to 46% off",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

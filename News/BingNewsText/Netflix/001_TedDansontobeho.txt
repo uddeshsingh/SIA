@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "MARK KENNEDY Entertainment"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:07:00",
+    "description": "The Golden Globes are raising a glass to former \"Cheers\" star Ted Danson by naming him the Carol Burnett Award honoree for 2025.",
+    "filename": ".json",
+    "image_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2674e0827ef1d4.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The Golden Globes are raising a glass to former \"Cheers\" star Ted Danson by naming him the Carol Burnett Award honoree for 2025.Danson, a three-time Globes winner, has been a fixture on TV since he broke out as Boston bartender Sam Malone on NBC's comedy \"Cheers.\" His other credits include \"The Good Place,\" \"Mr. Mayor,\" \"Fargo,\" \"CSI\" and \"CSI: Cyber,\" \"Damages\" and \"Becker.\" Danson currently stars in Netflix's \"A Man on the Inside.\"The Globes' telecast is scheduled for Jan. 5 live on CBS and streaming on Paramount+. Comedian and actor Nikki Glaser has been picked to host.The Carol Burnett Award was inaugurated in 2019 and is presented to an honoree who has \"made outstanding contributions to television on or off screen.\" Past recipients include Norman Lear, Ryan Murphy and Ellen DeGeneres. The first was Burnett herself.\"Ted Danson has entertained audiences for decades with his iconic performances that will forever be ingrained in television history,\" Helen Hoehne, president of the Golden Globes, said in a statement. \"His renowned career is a testament to his remarkable talent and versatility as an actor and bears resemblance to the award's legendary namesake.\"Danson's film credits include \"Hearts Beat Loud,\" \"Three Men and a Baby\" and Steven Spielberg's World War II drama \"Saving Private Ryan.\" He is also an environmental activist, co-founding the American Oceans Campaign.\nThe Golden Globes are raising a glass to former \"Cheers\" star Ted Danson by naming him the Carol Burnett Award honoree for 2025.\nDanson, a three-time Globes winner, has been a fixture on TV since he broke out as Boston bartender Sam Malone on NBC's comedy \"Cheers.\" His other credits include \"The Good Place,\" \"Mr. Mayor,\" \"Fargo,\" \"CSI\" and \"CSI: Cyber,\" \"Damages\" and \"Becker.\" Danson currently stars in Netflix's \"A Man on the Inside.\"\nAdvertisement\nThe Globes' telecast is scheduled for Jan. 5 live on CBS and streaming on Paramount+. Comedian and actor Nikki Glaser has been picked to host.\nThe Carol Burnett Award was inaugurated in 2019 and is presented to an honoree who has \"made outstanding contributions to television on or off screen.\" Past recipients include Norman Lear, Ryan Murphy and Ellen DeGeneres. The first was Burnett herself.\n\"Ted Danson has entertained audiences for decades with his iconic performances that will forever be ingrained in television history,\" Helen Hoehne, president of the Golden Globes, said in a statement. \"His renowned career is a testament to his remarkable talent and versatility as an actor and bears resemblance to the award's legendary namesake.\"\nDanson's film credits include \"Hearts Beat Loud,\" \"Three Men and a Baby\" and Steven Spielberg's World War II drama \"Saving Private Ryan.\" He is also an environmental activist, co-founding the American Oceans Campaign.",
+    "source_domain": null,
+    "text": null,
+    "title": "Ted Danson to be honored with Carol Burnett Award at the Golden Globes",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

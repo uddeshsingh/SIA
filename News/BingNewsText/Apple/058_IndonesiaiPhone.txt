@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Tim Hardwick",
+        "Joe Rossignol",
+        "Mitchel Broussard",
+        "Hartley Charlton"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-05 05:25:43",
+    "description": "Apple has proposed investing nearly $10 million in Indonesian manufacturing operations in an effort to lift the country's recent ban on...",
+    "filename": ".json",
+    "image_url": "https://images.macrumors.com/t/zCDvSLBbMEumFfY-mTfll1a4mY8=/1600x/article-new/2024/09/iPhone-16.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Apple has proposed investing nearly $10 million in Indonesian manufacturing operations in an effort to lift the country's recent ban on iPhone 16 sales, according to sources familiar with the matter (via South China Morning Post).\nThe investment would establish a factory in Bandung, near Jakarta, where Apple would partner with its suppliers to produce accessories and components for Apple devices. The proposal has been submitted to Indonesia's Ministry of Industry for review.\nThe manufacturing investment comes in response to Indonesia blocking iPhone 16 sales last month, after it was determined that Apple's local unit failed to meet the country's requirement for 40% domestic content in smartphones. The ban is part of broader protectionist policies implemented under new President Prabowo Subianto's administration, which has also restricted sales of Google's Pixel phones for similar reasons.\nIndonesia represents a significant market for Apple, with the country's population of 280 million operating some 354 million active mobile phones. Apple has established four developer academies in Indonesia to train students and engineers, but the country's officials have pressed for more substantial manufacturing investments.\nThe proposed $10 million facility would mark Apple's first manufacturing presence in Indonesia, potentially helping the company comply with local content requirements. The Ministry of Industry is currently reviewing the proposal and is expected to make a decision soon.\nAbout 9,000 iPhone 16 units have entered Indonesia through personal imports, but these devices are restricted to personal use and cannot be sold commercially under the current ban.",
+    "source_domain": null,
+    "text": null,
+    "title": "Indonesia iPhone Ban: Apple Proposes $10M Manufacturing Investment",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Miju\u0161ko \u0160ibali\u0107"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-28 16:23:31",
+    "description": "Warren Buffett slashed his holdings in Ulta Beauty by 96% in the last quarter \u2014 in the past week, ULTA stock has surged by almost 10%.",
+    "filename": ".json",
+    "image_url": "https://assets.finbold.com/uploads/2024/11/Warren-Buffett-dumped-this-stock-\u2014-now-it-is-surging.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "As one of the most famous investors of all time, Warren Buffett\u2019s stock market maneuvers are closely tracked by investors hoping to emulate his successes.\nThe \u2018Oracle of Omaha\u2019 is a value investor \u2014 he tends to buy equity in businesses that are trading at attractive valuations, and preferably have an economic moat \u2014 in simpler terms, an enduring competitive advantage.\nBuffett has made mistakes on rare occasions, however \u2014 most notably, passing on Google (NASDAQ: GOOGL) and investing in Dexter Shoe in 1993. Throughout the latter half of 2024, he has been notably restrained, or even bearish \u2014 Berkshire Hathaway (NYSE: BRK.A) has been a net seller of stocks for the last eight quarters, and Buffett currently maintains a record-breaking cash pile.\nIt remains to be seen whether a market correction is in the making and if the \u2018Oracle of Omaha\u2019 is right on that account \u2014 what\u2019s even more interesting, is that the billionaire could have made another of his seldom-seen mistakes by slashing his stake in a company whose stock is currently surging.\nThe business in question is Ulta Beauty (NASDAQ: ULTA), a cosmetics retailer. At press time, ULTA stock was trading at $375.25 \u2014 although shares are still down 22.88% on a year-to-date basis, they have rallied by 9.36% over the last week.\nDid Warren Buffett cut his ULTA stock position too early?\nBerkshire Hathaway first invested in the cosmetics company back in Q2 2024 \u2014 the exact dates are not known per disclosure rules, but in that span of time, ULTA stock was trading between $439 and $376. The company purchased 690,106 ULTA shares.\nBuffett slashed his stake in the company over the course of the following quarter \u2014 per Berkshire\u2019s 13-F filings for Q3 2024, only 24,203 ULTA shares were retained, a 96% reduction. Over the course of that quarter, Ulta Beauty stock traded at prices between $412 and $322.\nThis was a rather early and abrupt exit from Berkshire, whose favorite holding period is \u2018forever\u2019. While there is a chance that a profit was made on the sale, it\u2019s slim and would have required precise timing \u2014 which is not exactly a hallmark of Buffett\u2019s preferred investment style.\nWhile the business does not possess a meaningful economic moat, its peer, Bath & Body Works (NYSE: BBWI) reported a beat in terms of both earnings and revenue for Q3 2024 \u2014 as a result, markets have high expectations for Ulta Beauty\u2019s earnings call, due December 5.",
+    "source_domain": null,
+    "text": null,
+    "title": "Warren Buffett dumped this stock - now it is surging",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

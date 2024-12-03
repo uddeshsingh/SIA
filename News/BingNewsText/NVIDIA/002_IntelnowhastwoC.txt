@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Mike Rogoway | The Oregonian/OregonLive",
+        "Mike Rogoway",
+        "The Oregonian"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:55:24",
+    "description": "The chipmaker made the unconventional decision to appoint two interim CEOs as Pat Gelsinger abruptly retired.",
+    "filename": ".json",
+    "image_url": "https://www.oregonlive.com/resizer/v2/AIMWWNVYPFCUNJ43LSWEFDTWHE.jpeg?auth=a3c14e155e98e08431880d568cd10c6fff7b5fd845167f4d32af8b4e463d0701&width=1280&quality=90",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Intel CEO Pat Gelsinger\u2019s abrupt retirement Monday may represent the end of an era, the last grasp at restoring one of America\u2019s signature technology companies.\nIntel\u2019s board hired Gelsinger at the beginning of 2021, unanimously signing on to his plan to return the company to its glory days by spending tens of billions of dollars to upgrade the company\u2019s manufacturing and product portfolio.",
+    "source_domain": null,
+    "text": null,
+    "title": "Intel now has two CEOs: Will it soon be two companies?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

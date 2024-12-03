@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tipranks"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 13:11:18",
+    "description": "Oracle (ORCL) announced new updates to Oracle Life Sciences Empirica Signal and Topics. The latest release of Oracle\u2019s market-leading signal det...",
+    "filename": ".json",
+    "image_url": null,
+    "language": "en",
+    "localpath": null,
+    "maintext": "Oracle (ORCL) announced new updates to Oracle Life Sciences Empirica Signal and Topics. The latest release of Oracle\u2019s market-leading signal detection and management solution extends out-of-the-box database choices for global safety monitoring and enhances the signal review process with versioned case-level annotation that enables users to drill into single-case assessments. Oracle continues to advance precision pharmacovigilance through cloud-based technologies, AI, and an expanding suite of real-world data capabilities.",
+    "source_domain": null,
+    "text": null,
+    "title": "Oracle announces new updates to Oracle Life Sciences Empirica Signal, Topics",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

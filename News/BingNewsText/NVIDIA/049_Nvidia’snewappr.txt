@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tom Warren"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 11:55:37",
+    "description": "Nvidia is officially launching its new app which will replace the GeForce Experience. The new Nvidia app will come bundled with GeForce drivers, too.",
+    "filename": ".json",
+    "image_url": "https://cdn.vox-cdn.com/thumbor/t1zx7m8eNJ6upFzeemPLsWXi6N4=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25298160/nvidia_app_key_visual.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Nvidia is officially launching its Nvidia app on PC today, designed to overhaul and replace the GeForce Experience app. The Nvidia app originally went into beta earlier this year, and it\u2019s now feature complete enough for the beta label to be removed and for the app to soon be bundled with GeForce drivers.\nThe Nvidia app includes a redesigned and improved overlay, with support for 4K 120fps AV1 video capture, Nvidia\u2019s AI-powered RTX game filters, and an improved customizable statistic overlay.\nJust like GeForce Experience before it, the Nvidia app includes optimal playable settings for games and it even includes a number of options that were previously only available in the Nvidia Control Panel app. You can now configure displays, enable G-Sync, and tune GPU performance all inside the Nvidia app without having to head into the separate Control Panel app.\nNvidia is still working on bringing more of its Control Panel app features over to the main Nvidia app. \u201cIn future updates, we\u2019ll continue to add remaining NVIDIA Control Panel options like Surround and Multiple Display Mode settings, along with new features and further enhancements,\u201d says the GeForce team in a blog post. Nvidia recently added the display settings, RTX Video HDR sliders, and RTX Video Super Resolution support into this new app.\nThis new Nvidia app will also be bundled as an optional install as part of Nvidia\u2019s GeForce drivers, and you won\u2019t even need to log into an Nvidia account to use it. \u201cWith the official launch of Nvidia app today, migration of GeForce Experience and Nvidia RTX Experience features is complete, and the new app will soon be optionally bundled as part of our Game Ready Driver and Studio Ready Drivers,\u201d says Nvidia.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia\u2019s new app replacement for GeForce Experience is now out of beta",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

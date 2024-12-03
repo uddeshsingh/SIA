@@ -1,0 +1,17 @@
+Authors: ['Patrick Schröder', 'Rishi Iyengar', 'Christina Lu', 'Paul Hockenos', 'Raphael S. Cohen', 'Steven A. Cook', 'Stephen M. Walt', 'Howard W. French', 'Zach Dorfman', 'Marc R. DeVore']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-31 06:00:51
+Description: Higher tariffs and fewer federal incentives could slow market growth for the electric-vehicle manufacturer.
+Filename: .json
+Image_Url: https://foreignpolicy.com/wp-content/uploads/2024/10/musk-trump-GettyImages-2176089209.jpg?w=1000
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What Would Elon Musk’s Tesla Gain—and Lose—From a Trump Presidency?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: When Tesla’s CEO, Elon Musk, endorsed former President Donald Trump, financially supported his reelection campaign, and even attended rallies in swing states, he upended a lot of the politics around electric vehicles (EVs). Most other U.S. manufacturers, such as Ford, GM, and Rivian (which received an investment of up to $5 billion from German carmaker Volkswagen), would likely face significantly tougher challenges in maintaining their EV offerings without such incentives. If you were looking to crush Tesla’s competition through federal action, first on the chopping block would be policies put in place by the Biden administration to support established automotive component manufacturers to shift to EVs. A return to aggressive tariffs on Chinese goods under a Trump administration could impede not only sales but also Tesla’s supply chain, as many of its components and raw materials such as batteries are sourced or refined in China. In retaliation, the EU would impose tariffs on American goods, potentially targeting key U.S. industries or sectors including companies that are gaining ground in Europe’s EV market, such as Tesla.
+Financial_Events: ['Higher tariffs on battery components from China would force Tesla to pass on costs to consumers or cut into profit margins.\nEU countries are already preparing for a high-stakes trade war with Trump if he wins a second term']

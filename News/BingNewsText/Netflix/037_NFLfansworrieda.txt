@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Scott Thompson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-16 15:52:15",
+    "description": "The Jake Paul-Mike Tyson fight stream on Netflix proved to be a mess, as some NFL fans are concerned about the Christmas Day doubleheader upcoming.",
+    "filename": ".json",
+    "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/netflix.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Netflix may be hearing from the NFL after the way the Jake Paul-Mike Tyson stream went on Friday night.\nMany streamers weren\u2019t pleased with how the event was buffering throughout the fight card, including the main event when Paul and Tyson entered the ring. It was Netflix\u2019s first massive sporting event, but the bandwidth issues have viewers concerned about what will happen on Christmas.\nNetflix is set for its NFL debut doubleheader on Christmas, as the Kansas City Chiefs and Pittsburgh Steelers go head-to-head before the Baltimore Ravens and Houston Texans play as well on that Wednesday night.\nCLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM\nFour passionate fanbases with huge AFC implications don\u2019t want to see the same issues with their game, yet it\u2019s hard to feel confident after what went down with this boxing match at AT&T Stadium, the home of the Dallas Cowboys, on Friday night.\n\"This is a disaster for Netflix,\" OutKick\u2019s Clay Travis tweeted. \"They have no chance of successfully airing a Chiefs-Steelers Christmas Day NFL game based on this performance.\nJAKE PAUL ADMITS TO HOLDING BACK ON MIKE TYSON: \u2018DIDN\u2019T WANT TO HURT SOMEONE'\nRandy Baumann, a Pittsburgh sports radio host, even suggested that buffering during the Steelers game would lead to some tossed Christmas dinner tables.\n\"If the Steelers Chiefs Christmas Day game on #Netflix looks like this there are going to be tables overturned with half eaten Christmas hams all over western PA,\" he tweeted. \"Scalloped potatoes will be hurled at aunts and uncles. #BedlamInBlawnox.\"\nNetflix, like many other top streaming services, paid a handsome sum of around $150 million, according to the New York Post, to air the Christmas Day NFL games.\nAnd Netflix themselves admitted that their buffering systems couldn't handle the 60 million around the world who tuned in to watch the fight live.\n\"60 million households around the world tuned in live to watch Paul vs. Tyson!\" Netflix posted on X. \"The boxing mega-event dominated social media, shattered records, and even had our buffering systems on the ropes.\"\nBut six weeks from now, the streaming service surely hopes they can get the job done much better than the Paul-Tyson fight.\nEven Jerry Jones, owner of the Cowboys who made an appearance on Friday night to talk about his excitement for the NFL on Netflix, was buffering for some viewers while talking.\nCLICK HERE TO GET THE FOX NEWS APP\nOther streaming services that have had success airing NFL games are Amazon Prime Video, which owns the media rights to \"Thursday Night Football,\" and Peacock, which airs \"Sunday Night Football\" given its NBC ties as well as playoff games last season.",
+    "source_domain": null,
+    "text": null,
+    "title": "NFL fans worried about Christmas games streamed on Netflix after Paul-Tyson fight buffering debacle",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

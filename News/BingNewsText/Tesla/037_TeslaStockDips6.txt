@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Derek Saul"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 10:18:34",
+    "description": "\u201cThe magnitude\u201d of Tesla stock\u2019s near 40% rally from Election Day through Monday \u201csurprised us,\u201d wrote Deutsche Bank analyst Edison Yu.",
+    "filename": ".json",
+    "image_url": "https://specials-images.forbesimg.com/imageserve/60cd04172ee85c434d37d80b/400x0.jpg?cropX1=359&cropX2=1258&cropY1=753&cropY2=1652",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Topline\nShares of Tesla slipped Tuesday as part of a broader cooling off among the hottest trades following last week\u2019s election of Donald Trump, though the Elon Musk-led electric vehicle maker remains far more valuable than it was prior to Election Day.\nKey Facts\nCrucial Quote\n\u201cElon Musk\u2019s emergence from a political \u2018outsider\u2019 to having a voice in potential policies may, at some level, accelerate Tesla\u2019s journey beyond autos,\u201d wrote Morgan Stanley analyst Adam Jonas in a Tuesday note to clients. American leadership in Tesla\u2019s core ambitions like electric and autonomous vehicles, solar energy and robotics \u201cis going to involve government and industrial partnership on a scale some have compared to the Manhattan Project, US Highway Act or the Apollo Missions,\u201d Jonas added.\nForbes Valuation\nMusk\u2019s net worth fell by about $12 billion Tuesday as Tesla shares fell. His $308 billion net worth is still more than $75 billion higher than the next-wealthiest person in the world, Oracle chairman Larry Ellison, while Musk is still almost $50 billion richer than he was before the election.\nKey Background\nTesla added more than $340 billion in market value in the week ending Monday, eclipsing a $1 trillion market capitalization for the first time since April 2022 in the process. Yu outlined several near-term factors behind the surge, including \u201cretail exuberance\u201d and short trade unwinding \u201cdue to lack of near-term negative catalysts.\u201d But Yu wrote there are \u201cpotential large\u201d benefits for Tesla under a Trump regime with Musk a close advisor, including \u201cstreamlining\u201d regulatory approval of Tesla\u2019s self-driving cars and the potential for Tesla to secure further market share in the U.S. with the potential cutback of federal tax credits for electric vehicles. Tesla stock led a broader rally for U.S. equities since the election, with the S&P up 4% over the last week, trading above 6,000 for the first time ever as Wall Street celebrated the positive earnings impact of the lower corporate tax rates backed by Trump.\nFurther Reading\nForbesElon Musk Now $50 Billion Richer Post-Election As Tesla Stock Up Another 9%",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla Stock Dips 6% As Post-Election Surge Cools Off",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

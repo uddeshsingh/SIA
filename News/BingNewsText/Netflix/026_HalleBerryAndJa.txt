@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Nick Venable"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 18:06:23",
+    "description": "Jamie Foxx previewed his upcoming Netflix comedy special, and had a sweet exchange with Halle Berry over it.",
+    "filename": ".json",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aJdQUhQHKa3sD6w6Ck8w4R-1200-80.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Jamie Foxx has, for the most part, been largely absent from the spotlight since suffering a mysterious health scare back in April 2023, though he did return to host Beat Shazam after having Nick Cannon as replacement. Fans are waiting for his feature film return Back in Action to hit the Netflix\u2019s 2025 premiere schedule, but first we\u2019ll see the comedy star strutting his stuff on stage for the streaming stand-up special What Had Happened Was.\nFoxx shared a teaser for the upcoming special on Instagram, which doesn\u2019t feature any footage or joke-telling, and doesn\u2019t even fully showcase the comedian himself on the stage. But that didn\u2019t stop friends, fans and followers from chiming in with lots of loving support, with Oscar winner Halle Berry as a stand-out amongst the comments. Check out her message and his reply in the sweet exchange below:\nHalle Berry: \u2665\ufe0f U J....always will!\nJamie Foxx: @halleberry love u back real tears\nAs awesome as it will be to see Jamie Foxx sharing the screen Cameron Diaz in her return to acting following a lengthy retirement phase, how great would it be to see him and Halle Berry on screen together? She led the twisty 2024 horror Never Let Go after co-starring with Mark Wahlberg in the Netflix action comedy The Union, and has upcoming projects with Angelina Jolie and Chris Hemsworth on the way.\nBut maybe there will be time for a team-up before much longer. Not that Foxx is lacking in upcoming projects himself, but I\u2019m staying optimistic for the sake of on-screen duo chemistry.\nOther Celebrities Also Shared The Love For Jamie Foxx's New Special\nHalle Berry is obviously worthy of singling out here, but she\u2019s far from the only familiar face to have spoken out in support of What Had Happened Was. Below is as assortment of other actors, rappers, and celebrities who popped up in the comment section with positive words and/or emojis.\nKel Mitchell: Looking forward to it! Can\u2019t wait!\nCedric The Entertainer: \ud83d\udc10 @iamjamiefoxx is one of one\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\nOscar De La Hoya: I\u2019m always in your corner, always \ud83d\udd25\nDarren Carter: God Bless you Jamie!!! \ud83e\udd1c\ud83e\udd1b\nJ Young MDK: The BIG \ud83d\udc10 \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 let\u2019s goooo\nPage Kennedy: Can not wait\nMelba Moore: @iamjamiefoxx. You are loved \u2764\ufe0f Congratulations\ud83d\ude4c\nMario Lopez: \ud83d\udd25\ud83d\udd25\ud83d\udd25\nGotta love all the good-natured vibes that have surrounded Jamie Foxx during the long stretch since he initially had to step back from the spotlight due to his health scare. It's a topic he's set to speak on at length in the new special, and we can't wait to see the hilarity play out.\nCheck out the preview below via Foxx's IG post.",
+    "source_domain": null,
+    "text": null,
+    "title": "Halle Berry And Jamie Foxx Had A Sweet Exchange After He Announced New Netflix Special \u2018What Had Happened Was\u2019",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Kanika Gogia"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-30 12:48:54",
+    "description": "The Amazon Black Friday sale brings an amazing discount on the Keychron K3 Version 2 bringing down the price by $25.",
+    "filename": ".json",
+    "image_url": "https://beebom.com/wp-content/uploads/2024/11/Keychron-Mechanical-Keyboard-Black-Friday-Deal.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Black Friday is finally here, and you can spot some terrific deals on computer peripherals. As deals continue to pour in, we\u2019ve spotted a fantastic offer on the popular Keychron K3 that deserves your attention. If you\u2019re in the market for a mechanical keyboard, don\u2019t miss this Black Friday deal on the Keychron K3 Version 2, which knocks down the price by 30%.\nNormally, the Keychron K3 version 2 is available at $83.99, but the Amazon Black Friday sale currently offers you this mechanical keyboard at $58.99, that\u2019s a nice $25 saving right away. So, if you\u2019ve been planning to buy a Keychron mechanical keyboard, just go ahead and steal this deal.\nWhy You Should Get the Keychron K3 Version 2?\nThe Keychron K3 version is a 75% layout ultra-slim mechanical 84-key keyboard that delivers a tactile typing experience and boosts your productivity. With a reinforced aluminium body, Keychron K3 is one of the thinnest and most lightweight wireless mechanical keyboards you can find today. It features a stable Broadcom 5.1 chipset, so you get the freedom to multitask by connecting the keyboard with up to 3 devices. Therefore, you can switch between PC, laptop, and phone seamlessly.\nThanks to the unique Mac keyboard layout, Keychron M3 has all the necessary Mac multimedia keys. You also get extra keycaps for Mac and Windows, so the keyboard easily blends in with the platform of your choice. The revamped low-profile Gateron mechanical switch is 40% thinner than traditional switches, delivering quicker input activation and feedback compared to standard mechanical switches. Thanks to the floating keycap design, charming white backlight, and modern keycaps, this keyboard looks modern and adds the perfect vibes to your workstation.\nBesides the K3, you can find Black Friday deals on other Keychron mechanical keyboards. We\u2019ve listed the best ones below:\nKeychron V6 Full-Size Mechanical Keyboard Knob Version ($89.99 $67.49, $22.5 off)\nKeychron V6 Max Full-Size Keyboard ($114.99 $91.99, $23 off)\nKeychron C3 Pro 87-key keyboard ($59.99 $32.49, $27.5 off)\nKeychron K10 full-size keyboard ($84.99 $63.74, $21 off)\nIf you\u2019ve been eyeing a Keychron mechanical keyboard, there\u2019s no better time than Black Friday. With these amazing discounts and deals, you can snag your favourite peripheral that suits your needs, and for much less. Make sure to place your order before it runs out of stock.",
+    "source_domain": null,
+    "text": null,
+    "title": "This Black Friday Deal on Keychron Mechanical Keyboards Is Too Good to Be True",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

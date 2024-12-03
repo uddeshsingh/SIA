@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Yi-Jin Yu",
+        "Good Morning America"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:52:00",
+    "description": "A New York high school ice hockey player has died following a \"sudden medical event\" during a game on Dec. 1, 2024.",
+    "filename": ".json",
+    "image_url": "https://i.abcnewsfe.com/a/f6fd9502-2bca-4339-b3fd-54712368e8bf/connor-kasin-1-ht-gmh-241202_1733176100546_hpMain_16x9.jpg?w=992",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A New York high school ice hockey player died Saturday night after losing consciousness midway through a game.\nNassau County Police said in a news release that officers responded to an incident on Nov. 30 at 9 p.m. at the Town of Oyster Bay Ice Skating Center in Bethpage, New York.\n\"According to detectives, Nassau County Police medics and officers responded to the Town of Oyster Bay Skating Center located at 1001 Stewart Avenue for a 17-year-old male who had lost consciousness on the ice during an intermission of a hockey game,\" police said. \"Civilians at scene began CPR which was continued upon ambulance and police arrival. The male was transported to an area hospital where he was pronounced deceased by hospital staff.\"\nAccording to a Dec. 1 letter from Massapequa High School administrators, the 17-year-old was Connor Kasin, a senior at the Long Island school. Administrators said Connor died following a \"sudden medical event.\"\n\"Connor experienced a sudden medical event during a varsity ice hockey game last night and was transported to the hospital by ambulance,\" the letter from Massapequa High School Principal Barbara Lowell read in part. \"It is heartbreaking to report that Connor did not survive. His passing is devastating to the Massapequa community, and we offer our deepest condolences to Connor's family and friends.\"\nConnor was remembered by Massapequa Public Schools Superintendent William Brennan as a \"cherished member\" of the school community.\n\"Connor was a cherished member of our school community, known for his kindness, positivity, enthusiasm, and big smile. He had a way of bringing light and joy to those around him, and his absence will be felt deeply by all of us,\" Brennan wrote in a message shared with Massapequa students and families.\nThe coaches of the Massapequa varsity ice hockey team said in a joint statement that Connor's unexpected death had left their community \"completely heartbroken.\"\n\"Connor was and always will remain one of the most hardworking, dedicated, and spirited players we've had the privilege of coaching and knowing on and off the ice,\" the coaches said. \"There are no words to express how devastating this loss is to our Massapequa hockey family. Our bench will feel empty without Connor.\"\nMassapequa High School and Massapequa Public Schools said grief counseling would be made available all week for students and families.\nNassau County Police said \"no criminality\" is suspected in Kasin's death and an investigation is ongoing.",
+    "source_domain": null,
+    "text": null,
+    "title": "High school ice hockey player dies after losing consciousness during game",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

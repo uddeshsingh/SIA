@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Richard Speed"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-11 14:18:10",
+    "description": "No sign of 'rollback' yet",
+    "filename": ".json",
+    "image_url": "https://regmedia.co.uk/2023/05/11/heart_shutterstock.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Microsoft has finally admitted that some instances of Windows Server 2019 and 2022 were unexpectedly upgraded to Windows Server 2025.\nThe company updated its Release Health Dashboard over the weekend to confirm that some devices were indeed upgraded automatically. The Windows vendor said: \"This was observed in environments that use third-party products to manage the update of clients and servers.\"\n\"Please verify whether third-party update software in your environment is configured not to deploy feature updates.\"\nAccording to Microsoft: \"The Windows Server 2025 feature update was released as an Optional update under the Upgrade Classification: 'DeploymentAction=OptionalInstallation'.\n\"Feature update metadata must be interpreted as Optional and not Recommended by patch management tools.\"\nThe company's explanation is slightly at odds with the experience of some third parties and administrators. According to cybersecurity biz Heimdal last week, the update had been misclassified and was subsequently pulled back by Microsoft. Additionally, a Register reader reported that a standalone server not running any third-party update services was also subject to a surprise overnight update.\nWhen Windows Server 2025 is delivered like it's 1999, nobody gets to party\nMicrosoft still not said anything about unexpected Windows Server 2025 installs\nSysadmin shock as Windows Server 2025 installs itself after update labeling error\nBuckle up, admins \u2013 Windows Server 2025 officially hits GA\nOthers observered that apparently dropping something which demanded a license payment into an update channel was poor form on the part of Microsoft.\nMicrosoft described the problem as \"mitigated\" but has yet to provide tools to facilitate a rollback, meaning affected administrators will have to reach for their backups or potentially pay for Windows Server 2025 licensing.\nThe company also marked another issue as \"resolved,\" where an update to Windows Server 2025 was offered via a banner in Windows Update. Microsoft said: \"This message is intended for organizations that want to execute an in-place upgrade.\"\nAccording to Microsoft, it is \"working with third-party providers to streamline best practices and recommended procedures.\"",
+    "source_domain": null,
+    "text": null,
+    "title": "Microsoft 'resolves' Windows Server 2025 update issue",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-03 05:20:00",
+    "description": "Australia proposed a law on Monday that could impose fines of up to A$50 million ($33 million) on global technology companies if they suppress competition and prevent consumers from switching between services. The centre-left Labor government has targeted Big Tech's influence, and parliament passed a law last week that banned\u2026",
+    "filename": ".json",
+    "image_url": "https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/31/3f/d9aac3bdbce4f617aaea93d1baf0934a8191/tagreuters/_w1700.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Australia proposed a law on Monday that could impose fines of up to A$50 million ($33 million) on global technology companies if they suppress competition and prevent consumers from switching between services.\nThe centre-left Labor government has targeted Big Tech's influence, and parliament passed a law last week that banned social media for children aged under 16.\nThe proposed law would empower Australia's competition regulator to oversee compliance, investigate anti-competitive practices online and fine companies, Assistant Treasurer Stephen Jones said in excerpts of a speech due later on Monday.\n\"The digital economy challenges our current legal framework,\" Jones will in the speech viewed by Reuters at the public policy research McKell Institute in Sydney.\n\"The dominant platforms can charge higher costs, reduce choice, and use sneaky tactics to lock consumers into using certain products. Innovation outside of the established players becomes almost impossible.\"\nApple, Google and Meta, which dominate app downloads and ad revenues, did not immediately respond when approached for comment on the proposed law.\nThe consultation process is scheduled to end on Feb. 14 and more discussions will be done to prepare the draft legislation.\nThe planned law, similar to the European Union's Digital Markets Act legislation, could make it easier for people to move among competing services, such as social media platforms, internet browsers and app stores.\nBased on advice from the Australian Competition and Consumer Commission, the government can pick platforms that pose the greatest risk of hurting competition.\n\"Initially, we will look to prioritise app marketplaces and ad tech services for service-specific obligations,\" Jones will say.\nThese specific obligations would restrict companies from pushing their apps with low user ratings to the top of their search list and prevent providing favorable treatment to their own services, compared with third parties.\nA competition commission report on digital platform services in 2022 showed Google controlled 93% to 95% of online search services in Australia, while Apple's App Store accounted for about 60% of app downloads and Google Play Store 40%.\nMeta Platforms' Facebook and Instagram together supplied 79% of social media services in the country.\n\u00a9 Thomson Reuters 2024.",
+    "source_domain": null,
+    "text": null,
+    "title": "Proposed Australia law would fine Big Tech over digital competition",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,17 @@
+Authors: ['RANDALL CHASE business', 'ABC News']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:39:48
+Description: A Delaware judge has reaffirmed her ruling that Tesla must revoke Elon Musk’s multibillion-dollar pay package
+Filename: .json
+Image_Url: https://i.abcnewsfe.com/a/33d43da2-7cd0-465d-8251-1fb121366ab1/wirestory_86c5811b738e3a9df2b6e4adbcd055bb_16x9.jpg?w=1600
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Judge reaffirms ruling invalidating Musk's multibillion-dollar Tesla pay package
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: -- A Delaware judge has reaffirmed her ruling that Tesla must revoke Elon Musk’s multibillion-dollar pay package Chancellor Kathaleen St. Jude McCormick on Monday denied a request by attorneys for Musk and Tesla’s corporate directors to vacate her ruling earlier this year requiring the company to rescind the unprecedented pay package. The compensation package initially carried a potential maximum value of about $56 billion, but that sum has fluctuated over the years based on Tesla’s stock price. Following the court ruling, Tesla shareholders met in June and ratified Musk’s 2018 pay package for a second time, again by an overwhelming margin. Defense attorneys then argued that the second vote makes clear that Tesla shareholders, with full knowledge of the flaws in the 2018 process that McCormick pointed out, were adamant that Musk is entitled to the pay package. “The large and talented group of defense firms got creative with the ratification argument, but their unprecedented theories go against multiple strains of settled law,” McCormick wrote in a 103-page opinion.
+Financial_Events: []

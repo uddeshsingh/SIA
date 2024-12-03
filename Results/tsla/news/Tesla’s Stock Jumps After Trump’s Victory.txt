@@ -1,0 +1,17 @@
+Authors: ['Jack Ewing', 'www.nytimes.com', 'jack-ewing']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 15:06:59
+Description: Investors believe that the electric car company led by Elon Musk will benefit from his support of the president-elect.
+Filename: .json
+Image_Url: https://static01.nyt.com/images/2024/11/06/multimedia/06TESLA-TRUMP-01-lqfb/06TESLA-TRUMP-01-lqfb-facebookJumbo.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla’s Stock Jumps After Trump’s Victory
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Elon Musk defied conventional corporate wisdom by committing wholeheartedly to Donald J. Trump’s presidential campaign, donating tens of millions of dollars and running a get-out-the-vote drive. Now that bet has paid off, giving Mr. Musk a direct line to the White House that he may be able to use to bend policy in ways that could benefit Tesla, his electric car company. It is too early to say how much of Mr. Musk’s newly acquired political capital he will allocate to Tesla as opposed to his other businesses like SpaceX, a major government contractor, or xAI, an artificial intelligence start-up. But investors clearly believe that a Trump administration will be good for Tesla, despite the president-elect’s often-expressed disdain for electric vehicles and renewable energy. The safety agency is investigating whether a Tesla system that the company calls “full self-driving (supervised)” was responsible for four collisions, including one that killed a pedestrian.
+Financial_Events: []

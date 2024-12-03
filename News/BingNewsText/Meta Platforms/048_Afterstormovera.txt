@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Suhasini Haidar"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-11 16:06:13",
+    "description": "Australia Today clarifies not being \"selectively blocked\" by Canada, despite allegations, highlighting freedom of speech concerns.",
+    "filename": ".json",
+    "image_url": "https://th-i.thgim.com/public/news/national/5ec5r1/article68856833.ece/alternates/LANDSCAPE_1200/2024-11-04T225626Z_170547514_RC290Y91RM74_RTRMADP_3_META-PLATFORMS-ADVERTISING.JPG",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The Australian media portal at the centre of a storm between India and Canada clarified on Monday (November 11, 2024) that it had not been \u201cselectively blocked\u201d by the Canadian government as alleged earlier. In a statement responding to a denial issued by the Canadian Ministry of Foreign Affairs, the portal, which focuses on Indian diaspora issues, said it was \u201cnot aware\u201d that Meta platforms Facebook and Instagram had decided not to broadcast all news content on its sites in Canada due to a dispute over Canada\u2019s \u201cOnline News Act\u201d since 2023.\nHowever, it alleged that an unnamed \u201cKhalistani propaganda\u201d news site remained accessible on Canadian Facebook and Instagram, leading to its assumption that there had been \u201cselective blocking\u201d of its site. Based on Australia Today\u2019s allegations, the Ministry of External Affairs spokesperson had said last week that these were \u201cactions which yet again highlight the hypocrisy of Canada towards freedom of speech\u201d.\nWhile the Canadian government denied blocking any site, and the portal itself has clarified, the Ministry declined to make any comment on the issue on Monday.\nWhen asked, officials pointed to the Australia Today statement, issued by its Managing Editor Jitarth Jai Bharadwaj.\n\u201cWe acknowledge the recent statement from the Canadian Foreign Ministry and would like to clarify that we first learned that users in Canada were unable to access our Facebook and Instagram pages shortly after publishing our interview with Indian External Affairs Minister Dr. S. Jaishankar,\u201d Mr. Bharadwaj explained. \u201cBefore this, we were not aware of any issues regarding the accessibility of \u2018The Australia Today\u2019 content in Canada on Meta platforms.\u201d\nEarlier on Sunday the Canadian Foreign Ministry, known as Global Affairs Canada, had issued a sharp rebuttal to the allegations.\n\u201cAustralia Today has never been banned in Canada. The news site and video of media comments by both India\u2019s Foreign Minister Jaishankar and Australia\u2019s Foreign Minister Wong, can be easily and freely viewed in Canada. In Canada, Meta, which owns and operates Facebook and Instagram, blocked the sharing of news content on their sites, irrespective of the outlet,\u201d it said in its statement.\nQuestions over the Ministry statement against the Canadian government had gained prominence, after an Indian fact-checking site \u201cBoom\u201d investigated the allegations and found Australia Today\u2019s claim that it had been specifically banned for publishing Mr. Jaishankar\u2019s interview to be false.",
+    "source_domain": null,
+    "text": null,
+    "title": "Australia Today clarifies ban was by Meta platforms, not Canadian government",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,1531 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Amazon",
+    "queryContext": {
+        "originalQuery": "Amazon",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 20000,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Amazon"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Amazon&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "The Best Cyber Monday Deals of 2024",
+            "url": "https://www.yahoo.com/tech/best-cyber-monday-deals-2024-113023774.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.tpZUC2YwfVa4gnnubdaj_C&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "MSI 240Hz OLED QHD Gaming Monitor (27-inch) for $499.99 at Newegg ($200 off) Samsung 980 PRO Internal Gaming SSD (2TB) for $119.99 at Best Buy ($100 off) G.SKILL Trident Z5 64GB (2 x 32GB) DDR5 RAM for $189.99 at Newegg ($60 off with code BFEDY2A72)",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4a9c4153-8a31-478d-a2cc-8c3af33a9f1d",
+                    "name": "MSI protocol"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e0c8ac07-1c64-5d99-2591-fbd2feaf7fec",
+                    "name": "OLED"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/73f3d288-49df-23b2-7002-b9261f1cdc58",
+                    "name": "Newegg"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:19:00.0000000Z"
+        },
+        {
+            "name": "AWS re:Invent 2024: Live updates from Amazon\u2019s biggest event",
+            "url": "https://techcrunch.com/storyline/aws-reinvent-2024-live-updates-from-amazons-biggest-event/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.EN4OviQN83TWjRljsUpOgi&pid=News",
+                    "width": 700,
+                    "height": 365
+                }
+            },
+            "description": "Amazon's re:invent 2024 conference returns to Las Vegas for a series of reveals and keynotes through December 6. AI is expected to be the focus of the event, but there's plenty more in store for Amazon Web Services users,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/26dfb75a-3573-4ff8-bbb3-b8cadaea23a8",
+                    "name": "Las Vegas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechCrunch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.M4e-NwwkSCFuKsTp672mxA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:05:00.0000000Z"
+        },
+        {
+            "name": "Apple AirTags Are Not Part of Cyber Monday Deals, But Samsung SmartTag2 Is Just $20 (35% off)",
+            "url": "https://gizmodo.com/apple-airtags-are-not-part-of-cyber-monday-deals-but-samsung-smarttag2-is-just-20-35-off-2000533021",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.cFm1HSqzbVI82q91KCKfry&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Amazon\u2019s dropped this tracker to $20, saving you $10 off its usual $30 price tag. At 35% off, Samsung\u2019s latest tracker becomes an even more useful addition to your smart home ecosystem. It also means you won\u2019t be losing your keys anymore, hopefully. You\u2019ve really got to stop doing that.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d4bc69e-eee9-b8f1-5440-376f530bea2c",
+                    "name": "AirTag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd479382-d340-5848-c99d-ed371b00b752",
+                    "name": "Android"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2785f3a0-fac2-fc86-bebb-b9bb286bb45f",
+                    "name": "Samsung"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Gizmodo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BmhW-V67ouY4VKCzJMDoqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:01:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Best Buy Cyber Monday 2024 sale: Amazing deals on Apple, Samsung, and more brands",
+            "url": "https://www.soapcentral.com/lifestyle/best-buy-cyber-monday-2024-sale-amazing-deals-apple-samsung-brands",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.pT8IR_srW_VZaUArMNq-WS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Tech lovers - the much-awaited Cyber Monday sale is finally here! This is the best time of the year for those who have been eyeing several high-end products throughout the year to purchase them withou",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2785f3a0-fac2-fc86-bebb-b9bb286bb45f",
+                    "name": "Samsung"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f2799ecf-075d-2692-62e6-a1b0691c35c6",
+                    "name": "Bose Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "soapcentral",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.rXMx4CaX6Bkhp_2htV3Lrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:41:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Xbox Cyber Monday 2024: 7 best deals on consoles, controllers, games, and more",
+            "url": "https://www.soapcentral.com/lifestyle/xbox-cyber-monday-2024-7-best-deals-consoles-controllers-games",
+            "description": "The Xbox Cyber Monday 2024 sale offers discounts of up to 40% on top titles, and up to 25% on controllers, and bundles a subscription to Game Pass in the process at a discounted price. Here are the 7 best deals on consoles, controllers, games, and more.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "soapcentral",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.rXMx4CaX6Bkhp_2htV3Lrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:41:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Cyber Monday\u2019s ultimate gamer gift list: From Xbox consoles to stocking stuffers under $10",
+            "url": "https://www.windowscentral.com/ultimate-gamer-gift-list-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mMBwUrCpbKGtEpgCToquVy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Looking for a gift for the gamer in your life? We've got something for every budget on this list of gamer gifts",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/595e44be-f445-d997-7d70-92b9f35592e2",
+                    "name": "Xbox"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Windows Central",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.k6WgtcFldEJeVYyScp3IPg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:32:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "AWS Cloud Services Play: CDW Acquires Mission Cloud Services",
+            "url": "https://www.crn.com/news/cloud/2024/aws-cloud-services-play-cdw-acquires-mission-cloud-services",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.zfPmFr6GB7UrkOUAP5C7BS&pid=News",
+                    "width": 700,
+                    "height": 700
+                }
+            },
+            "description": "CDW has acquired Mission Cloud Services, a leading AWS MSP and cloud services provider, in a move to increase its cloud business.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/154b2cd7-731c-fec6-060f-3958ec011a16",
+                    "name": "cd"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fa92435-7b8a-13a9-0190-3a496a501290",
+                    "name": "CDW"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CRN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.vHxBP6AB9LZPcmnahIlMBA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:20:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Porch pirates already seen taking Christmas presents in the Triangle",
+            "url": "https://abc11.com/post/porch-pirates-how-keep-packages-safe-thieves-during-christmas-holiday-season/15614918/",
+            "description": "\"You'll get that photo on delivery so that you can see exactly where the driver delivered that package on your doorstep. We also have the ability to track your package live through our map tracking feature, so you can see exactly where it is en route,\" Richard Rocha with Amazon said.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8098dda-1135-9166-b37b-35a0523e0d84",
+                    "name": "Clayton, North Carolina"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WTVD",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U7C5Qi7RjqvZeJEOXS1k2w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:13:00.0000000Z",
+            "video": {
+                "name": "Porch pirates already seen taking Christmas presents in the Triangle",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.sTK1C60lZ0sipbkxiIVPIg&pid=News",
+                "embedHtml": "<iframe width=\"476\" height=\"267\" src=\"https://abc11.com/video/embed/?pid=15615769\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The best Xbox controller deal right now isn't at Amazon or Best Buy",
+            "url": "https://www.pcgamer.com/hardware/the-best-xbox-controller-deal-right-now-isnt-at-amazon-or-best-buy/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.31PUyJXBhzSO5xyoMNSr3C&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Lenovo's beating the competition here: Amazon and Best Buy's best price for Xbox controllers during Black Friday and Cyber Monday has been $39.99. Amazon sold out, but Best Buy still has Xbox controllers for that price. Microsoft itself has Xbox controllers for $45 right now. So Lenovo's definitely the way to go for the time being.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ea04717-f3d9-4ce7-d448-1c7b42b966bd",
+                    "name": "Xbox Wireless Controller"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7018c591-569b-ae17-572c-da86c73133e2",
+                    "name": "Lenovo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b872778f-614c-a7ea-e82a-6c42c6c6ccb9",
+                    "name": "Rocket League"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC Gamer",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.gQWLxGZ4cK0-c5gFuVA8iA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:13:00.0000000Z"
+        },
+        {
+            "name": "The best Cyber Monday gaming laptop deals at Amazon",
+            "url": "https://mashable.com/article/best-cyber-monday-amazon-gaming-laptop-deals-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.H8HLduzD4nrxiJfrHfILZy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Read on for a comprehensive list of Amazon's best Cyber Monday deals on gaming laptops \u2014 including an unprecedented discount on a variant of Mashable's current favorite budget machine. Note: Any deal marked with a \ud83d\udd25 has dropped to a record-low price.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d3cf09a9-76dd-973e-2179-47f7f24c5e37",
+                    "name": "Microsoft Surface"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8aa5a00c-3c60-f287-e386-b729c0ce9d07",
+                    "name": "Mashable"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mashable",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.tfB_goYOslaBqaikd8wc5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:08:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The Best Cyber Monday Headphone Deals Are Getting Ready To Power Off",
+            "url": "https://www.gq.com/story/cyber-monday-headphone-deals-12-02-2024",
+            "description": "Sometimes, old school is best\u2014and if you're not a fan of having to pair your headphones with your gaming system, a wired set like this one is exactly what the doctor ordered. For Cyber Monday, they got a surprise price drop, netting you $49 in savings.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798dc963-c63f-3948-1a9e-0957c2b6d1be",
+                    "name": "Target Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GQ",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BbQZoyz1ys_DcYNEVazCQg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:06:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon has these HotPal palm-sized rechargeable hand warmers on sale for up to 46% off",
+            "url": "https://www.nj.com/shopping-deals/2024/12/amazon-has-these-hotpal-palm-sized-rechargeable-hand-warmers-on-sale-for-up-to-46-off.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.-N5dkOIPXCv-f5260PFvKS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "They can also charge your phone, if you need it ... Stock up on this Cyber Monday deal for everywhere you're going this winter.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/05277898-b62b-4878-8632-09d29756a2ff",
+                    "name": "New Jersey"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NJ.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.000jizP0971A7XEtUSSEhw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:02:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Walmart's Cyber Monday deals end tonight \u2014 here are 10 you shouldn't skip",
+            "url": "https://www.aol.com/lifestyle/walmarts-cyber-monday-deals-end-tonight--here-are-10-you-shouldnt-skip-224546123.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.wsab9txt_i2gFvjsQDmUoC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "You can never go wrong with Crocs. This set is on sale at Walmart today for half off, just $25. There are 25 colorways available, but only 13 are on sale. And five have already sold out!",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/daf7e193-9416-6a7c-b078-e13228736ae1",
+                    "name": "AOL"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/241c5158-6631-8354-a0cc-0e087936d250",
+                    "name": "Sam's Club"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/16c14fe7-601a-4b55-b87f-0afc4b473508",
+                    "name": "The Pioneer Woman"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:48:00.0000000Z"
+        },
+        {
+            "name": "Shreveport\u2019s Amazon fulfillment center tackles first Cyber Monday",
+            "url": "https://www.ksla.com/2024/12/02/shreveports-amazon-fulfillment-center-tackles-first-cyber-monday/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._W3Q__8lXjU7WB5VyIxSxy&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "SHREVEPORT, La. (KSLA) - The Amazon Robotics Fulfillment Center in Shreveport marks its first Cyber Monday on Dec. 2. Officials say Cyber Monday is the busiest online shopping day of the year, with millions of customers making purchases ahead of the holidays.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6f1c87fe-5eb4-4c73-8235-8bf8def51cde",
+                    "name": "Shreveport, Louisiana"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/11e230ec-5ace-7cfc-9c71-3e12129b5b74",
+                    "name": "History of Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KSLA",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.HObMrlwIzk4-zGK4bOTGEA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:42:00.0000000Z",
+            "video": {
+                "name": "Shreveport\u2019s Amazon fulfillment center tackles first Cyber Monday ",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.0HhK0%2Fdkl%2BSV6uJo9s334g&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 260
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "10 Furniture Deals That Will Help Your Home Exude Rich Mom Energy This Holiday Season",
+            "url": "https://www.usmagazine.com/shop-with-us/news/10-luxe-furniture-deals-amazon/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.bw7es0da3b2mKZN92N5k2i&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Amazon is known for selling trendy, sturdy furniture finds \u2014 we rounded up ten deals to shop that exude rich mom energy!",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8680556e-4543-48fd-01e3-6bafc5ee61b5",
+                    "name": "Us Weekly"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Us Weekly",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.xm2Ds5c6de6ZfXzLLGaazw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:31:00.0000000Z"
+        },
+        {
+            "name": "Amazon is giving its data centers a facelift for the generative AI age",
+            "url": "https://www.aol.com/finance/amazon-giving-data-centers-facelift-203052540.html",
+            "description": "Amazon ( AMZN) is giving its massive Amazon Web Services (AWS) data centers a facelift. The company announced it\u2019s improving the efficiency, availability, and design of its enormous computing facilities to keep them up and running for its customers and provide them with the kind of processing power they need to run new generative AI applications.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1cb8ca46-c867-a19a-b118-0f594a12fafe",
+                    "name": "Yahoo! Finance"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Best Cyber Monday streaming deals \u2014 save big on Hulu, Disney Plus, Peacock, Max, Sling and more before it's too late",
+            "url": "https://www.tomsguide.com/entertainment/streaming/best-cyber-monday-streaming-deals-save-big-on-hulu-disney-plus-peacock-max-sling-and-more",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0XcdmlrRy8LAO-VH62PgSC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Cyber Monday deals are here, offering some incredible savings on all the top streaming services such as Disney, Hulu, Peacock and more. But unlike other deals you'll see today, these discounts aren't likely to last beyond Cyber Monday, so if you want to save, you're going to have to make a move now.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f4920153-8f0d-4a86-90fe-848d5fb88702",
+                    "name": "Hulu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4a56cfc-dcc0-c528-f179-ef9839727028",
+                    "name": "Disney+"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2df994a-dac5-d411-c799-fc449ba2f276",
+                    "name": "Peacock"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c86abbd2-fccb-d88f-d4dc-cb3535d142c4",
+                    "name": "HBO Max"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/92965654-e7e2-5dd4-70e1-57ff6aa91698",
+                    "name": "The Walt Disney Company"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tom's Guide",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZOBoD-K8gMIgZf9nscv2_Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:25:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon Prime members: This electric shovel is 36% off for Cyber Monday",
+            "url": "https://www.digitaltrends.com/home/mzk-20v-13-inch-cordless-electric-snow-shovel-deal-amazon-december-2024/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.WrU35N1Cnmzi0e3m7wjE-i&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Take all the back-breaking labor out of snow shoveling when you purchase the MZK 20V 13-inch Electric Snow Shovel, now on sale for Cyber Monday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b66b5699-3c4c-41a0-98dd-daca06899e26",
+                    "name": "Amazon Prime"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Digital Trends",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.x644vROjZrRe0pKC7YX3XQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:23:00.0000000Z"
+        },
+        {
+            "name": "Best Amazon Cyber Monday deals",
+            "url": "https://abc7chicago.com/post/amazon-black-friday-cyber-monday-deals/15484399/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.sL_EKrq2ROmzIKpyAVfWkC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Amazon is known for having some of the biggest discounts during Cyber Monday and Cyber Monday, and it's the best time of the year to get any holiday shopping done. Find the best Amazon Cyber Monday deals below, including sales on tech, beauty, kitchen appliances and more.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ffcb5caf-fb83-b1af-ef11-837d16768b42",
+                    "name": "Affiliate marketing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ABC 7 Chicago",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.A6sHF6UJm7dNnAYKw8iP6Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:13:00.0000000Z"
+        },
+        {
+            "name": "AWS Announces New Data Center Components to Support AI Innovation and Further Improve Energy Efficiency",
+            "url": "https://press.aboutamazon.com/2024/12/aws-announces-new-data-center-components-to-support-ai-innovation-and-further-improve-energy-efficiency",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.yIogyrBv6KoRGRf0RG38Ui&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "New set of flexible data center components will support the next generation of generative AI innovation and provide 12% more compute power, while improving availability and efficiency",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/26dfb75a-3573-4ff8-bbb3-b8cadaea23a8",
+                    "name": "Las Vegas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/235a0e9c-154b-6a99-1b61-77f805360330",
+                    "name": "Business Wire"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "press.aboutamazon",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Qc5Huhjn1wZg6C2tfAh16Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:05:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon Hires 250,000 to Help With Holidays",
+            "url": "https://www.msn.com/en-gb/money/video/amazon-hires-250-000-to-help-with-holidays/vi-AA1v99Yl",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.6gvlettlwZqg61UNWxplOS&pid=News",
+                    "width": 640,
+                    "height": 359
+                }
+            },
+            "description": "Sarah Rhoads, Amazon VP of global workplace health and safety, says the company has hired 250,000 people to help with holiday demand. She also says drones are being used to deliver some packages in the Phoenix,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/003c1898-073d-9ec2-c833-0735089ac259",
+                    "name": "Drone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b06044c3-41e1-4e2a-bba7-27a29bba8ea9",
+                    "name": "Phoenix, Arizona"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f0f6f75-515b-b027-13fb-f6ad4a48d4f8",
+                    "name": "Satellite geolocation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN"
+                }
+            ],
+            "datePublished": "2024-12-02T22:03:00.0000000Z",
+            "video": {
+                "name": "Amazon Hires 250,000 to Help With Holidays",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4576ee92-6bb3-4b32-8a35-9c475f4eb67d/bec0624f-1546-4227-a8fa-615673049dc8_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            }
+        },
+        {
+            "name": "Should you buy a mattress topper from Amazon this Cyber Monday? I'm a sleep writer \u2014 here's my take",
+            "url": "https://www.tomsguide.com/wellness/mattresses/should-you-buy-a-mattress-topper-from-amazon-this-cyber-monday-im-a-sleep-writer-heres-my-take",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.93iNqHF7yKVGNkWuE6ayMC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Amazon always offers deals for Cyber Monday, including on mattress toppers. One of the perks of buying from Amazon over buying directly from a brand is the cheaper prices. You'll often find Amazon selling mattress toppers at a discounted or lower price than the brands are selling them for.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tom's Guide",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZOBoD-K8gMIgZf9nscv2_Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Sorry If You Bought The Meta Quest 3S on Black Friday, It Just Dropped to a New Record Low on Cyber Monday",
+            "url": "https://gizmodo.com/sorry-if-you-bought-the-meta-quest-3s-on-black-friday-it-just-dropped-to-a-new-record-low-on-cyber-monday-2000532572",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.cmY23rvNl7zHT_fIRiY8AS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "This Cyber Monday, Amazon is continuing its impressive promotions from Black Friday and one of the most popular products is the newest Meta Quest 3S. As the latest offering from Meta, this VR headset is designed to be the most affordable (yet premium) option in their lineup and makes it an attractive choice for both newcomers to virtual reality and seasoned users looking for a budget-friendly upgrade.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Gizmodo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BmhW-V67ouY4VKCzJMDoqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:57:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "This $85 Cyber Monday soundbar/subwoofer will sell out soon",
+            "url": "https://www.digitaltrends.com/home-theater/creative-v2-soundbar-with-subwoofer-amazon-deal-december-2024/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Aq8ye-rTlN0eG7pJDfsoRC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "If you want a soundbar and subwoofer for just $85 this Cyber Monday, you need to act now and look at this deal on the Creative Stage V2 before it sells out.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Digital Trends",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.x644vROjZrRe0pKC7YX3XQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:54:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon.com, Inc. (AMZN) Among Billionaire Ken Fisher\u2019s Top Stock Picks Heading Into 2025",
+            "url": "https://www.msn.com/en-us/money/topstocks/amazon-com-inc-amzn-among-billionaire-ken-fisher-s-top-stock-picks-heading-into-2025/ar-AA1v93I3",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Sx-OSsLJKjBEgfAd26q6Qi&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against Ken Fisher's other top stock picks. Ken Fisher is the founder of Fisher Asset Management, a financial adviser that he started nearly five decades ago.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey on MSN.com"
+                }
+            ],
+            "datePublished": "2024-12-02T21:53:00.0000000Z"
+        },
+        {
+            "name": "These Are the 10 Most Popular Items Bought from IGN's Social Media in Amazon\u2019s Cyber Monday Sale",
+            "url": "https://www.ign.com/articles/most-popular-items-social-media-amazon-cyber-monday-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.IxoRFT4r9julmiClLSHyzy&pid=News",
+                    "width": 569,
+                    "height": 569
+                }
+            },
+            "description": "Let's see what 10 items have been popping off most from IGN Deals social media accounts since Amazon opened the Cyber Monday official deals floodgates on December 2.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "IGN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.3qmbISSUbmozGA38P2at6Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:47:00.0000000Z"
+        },
+        {
+            "name": "Cyber Monday 2024 deals: We found items from Oprah's Favorite Things on sale",
+            "url": "https://www.wbaltv.com/article/cyber-monday-2024-oprahs-favorite-things/63070322",
+            "description": "When checking her list, we noticed that some of Oprah\u2019s Favorite Things are actually seeing price reductions for Cyber Monday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/32781737-8f23-60aa-744d-bd8730a05df8",
+                    "name": "Kim Kardashian"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WBAL-TV",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ov06NvHKn7ghN2F28JfTHw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:43:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon Cyber Monday deals discount the 2024 Roku Ultra to $79",
+            "url": "https://www.yahoo.com/tech/amazon-cyber-monday-deals-discount-the-2024-roku-ultra-to-79-164512812.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Kx6Ipd2QQE3RSdDN61SY8i&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Our pick for the best set-top streaming box is on sale in a Cyber Monday deal. At $79, the 2024 Roku Ultra is available for $20 off.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/93e66727-8091-b35a-d70a-d336c261b4b3",
+                    "name": "Smart TV"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/daf905bb-289b-4b0d-b4b0-f21933166565",
+                    "name": "Roku"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe2b1a24-1137-5164-6f83-e30c122b5a49",
+                    "name": "Dolby Vision"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d7ebf15c-a691-a928-3571-efe5f6ea702e",
+                    "name": "Wi-Fi 6"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:36:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Cyber Monday is live at Amazon \u2014 check out our top picks",
+            "url": "https://mashable.com/article/best-cyber-monday-amazon-deals-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.59497jdLuz2IUO42rclE_y&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Amazon's Black Friday sale went live Nov. 21 (a full week before Thanksgiving), ushering in some year-round lows on robot vacuums, Apple products, and Fire TVs. This year's best Amazon Black Friday deals even beat out the top October Prime Day offers.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8aa5a00c-3c60-f287-e386-b729c0ce9d07",
+                    "name": "Mashable"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/761e2b59-dd8f-4ef9-de1c-ba7d99c46158",
+                    "name": "Thanksgiving"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd511c6d-12eb-56eb-540f-652e72dec21a",
+                    "name": "Amazon Fire TV"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798dc963-c63f-3948-1a9e-0957c2b6d1be",
+                    "name": "Target Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mashable",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.tfB_goYOslaBqaikd8wc5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:27:00.0000000Z"
+        },
+        {
+            "name": "Why Amazon sellers and retailers are flocking to TikTok Shop despite looming U.S. ban",
+            "url": "https://www.nbcnews.com/business/business-news/amazon-sellers-retailers-are-flocking-tiktok-shop-looming-us-ban-rcna182458",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4LVpxdwe0bdQLkopL9ut2C&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Retailers want to tap into the more than 170 million Americans on TikTok who shop on impulse as they scroll through videos.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/89c5bbb6-7bfc-47f6-ab90-5aa8e9ae0e47",
+                    "name": "Waukegan, Illinois"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a09e71d5-5d6f-5071-2692-c8bc2f82f817",
+                    "name": "50 Cent"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NBC News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ighWNnrr5MMFUs8WKMme2A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T16:48:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon Cyber Monday: Grab discounts on Amazon brand electronics and more",
+            "url": "https://www.foxnews.com/lifestyle/amazon-cyber-monday-electronics-gadgets-deals",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.kh-CHfz1plvgONJrNfk7si&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Amazon offers great deals on electronics and small appliances during its Cyber Monday event, which runs through Dec. 2 at 11:59 PST.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1b1e7a39-d626-d19d-e451-e1de9e4b68ad",
+                    "name": "Amazon Echo Show"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/89feda60-91d8-3322-d512-94088434755f",
+                    "name": "Fire"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b66b5699-3c4c-41a0-98dd-daca06899e26",
+                    "name": "Amazon Prime"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdH-v7wPV5psO7NVm756zg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T13:59:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Move Your Amazon Echo ASAP if It's in These 5 Places",
+            "url": "https://www.cnet.com/home/smart-home/five-places-you-should-avoid-putting-your-amazon-echo/",
+            "description": "Amazon Echo speakers are a useful addition to any home, but depending on where you put them, you could be creating a hassle -- or endangering your own privacy. Katie covered all things how-to at ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNET"
+                }
+            ],
+            "datePublished": "2024-11-18T16:55:00.0000000Z"
+        },
+        {
+            "name": "From the Amazon rainforest, Biden declares nobody can reverse US progress on clean energy",
+            "url": "https://apnews.com/article/biden-amazon-peru-g20-3cc827382d1e3c32865a14616ddfe467",
+            "description": "Copyright 2024 The Associated Press. All Rights Reserved. Joe Biden witnessed the devastation of drought up close as the first sitting American president to visit the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Associated Press"
+                }
+            ],
+            "datePublished": "2024-11-17T22:02:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "Amazon debuts Amazon Haul with \"crazy low prices.\" Here's what to know.",
+            "url": "https://www.cbsnews.com/news/amazon-haul-price-cost-temu-shein-what-to-know/",
+            "description": "Amazon on Wednesday debuted a new online shopping service called Amazon Haul that experts said could help the e-commerce giant compete with Chinese retailers Temu and Shein. Amazon Haul \u2014 whose ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CBS News"
+                }
+            ],
+            "datePublished": "2024-11-13T17:16:00.0000000Z"
+        },
+        {
+            "name": "Everything is under $20 at Amazon\u2019s newest store",
+            "url": "https://www.cnn.com/2024/11/13/business/amazon-haul-launch/index.html",
+            "description": "Amazon is targeting retail rivals Shein, Temu and TikTok Shop with a new deeply discounted storefront that sells a wide array of products for $20 or less. Called \u201cAmazon Haul,\u201d the mobile-only ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN"
+                }
+            ],
+            "datePublished": "2024-11-13T17:10:00.0000000Z"
+        },
+        {
+            "name": "Amazon unveils some of the top deals for Cyber Monday 2024",
+            "url": "https://www.aboutamazon.com/news/retail/cyber-monday-deals-amazon",
+            "description": "Check out some of Amazon\u2019s best Cyber Monday event deals, including savings of up to 30% off select Victoria\u2019s Secret products and up to 35% on sets from LEGO. Lee este art\u00edculo en espa\u00f1ol. Cyber Monday is happening on December 2 this year\u2014but ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "aboutamazon"
+                }
+            ],
+            "datePublished": "2024-11-13T16:59:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon takes on Temu and Shein with discount \u2018Amazon Haul\u2019 store",
+            "url": "https://techcrunch.com/2024/11/13/amazon-takes-on-temu-and-shein-with-discount-amazon-haul-store/",
+            "description": "Amazon has rolled out its answer to the discounted, low-cost storefronts of Temu and Shein. The Amazon Haul store, currently available on the mobile app or mobile web browser exclusively ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechCrunch"
+                }
+            ],
+            "datePublished": "2024-11-13T16:02:00.0000000Z"
+        },
+        {
+            "name": "Amazon introduces Amazon Haul, a budget-friendly service: What to know",
+            "url": "https://abcnews.go.com/GMA/Living/amazon-introduces-amazon-haul-budget-friendly-service/story?id=115841496",
+            "description": "Amazon Haul offers a variety of items priced at $20 or less. Amazon recently introduced Amazon Haul, a convenient shopping experience accessible through the Amazon app or Amazon website by ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ABC News"
+                }
+            ],
+            "datePublished": "2024-11-13T14:58:00.0000000Z"
+        },
+        {
+            "name": "Amazon ends free ad-supported streaming service after Prime Video with ads debuts",
+            "url": "https://arstechnica.com/gadgets/2024/11/amazon-ends-free-ad-supported-streaming-service-after-prime-video-with-ads-debuts/",
+            "description": "Amazon is shutting down Freevee, its free ad-supported streaming television (FAST) service, as it heightens focus on selling ads on its Prime Video subscription service. Amazon, which has owned ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Ars Technica"
+                }
+            ],
+            "datePublished": "2024-11-13T12:56:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Amazon Prime Video",
+            "url": "https://www.nytimes.com/spotlight/amazon-prime",
+            "description": "This taut and serious Amazon series chronicles the time when Prince Andrew was interviewed on TV about his relationship with Jeffrey Epstein. Irene Taylor, director of the new documentary \u201cI Am: ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times"
+                }
+            ],
+            "datePublished": "2024-11-13T11:34:00.0000000Z"
+        },
+        {
+            "name": "Amazon confirms employee data exposed in leak linked to MOVEit vulnerability",
+            "url": "https://www.theregister.com/2024/11/12/amazon_moveit_breach/",
+            "description": "Amazon employees' data is part of a stolen trove posted to a cybercrime forum linked to last year's MOVEit vulnerability. \"Amazon and AWS systems remain secure, and we have not experienced a security event,\" a spokesperson told The Register. \"We were ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "theregister"
+                }
+            ],
+            "datePublished": "2024-11-12T13:29:00.0000000Z"
+        },
+        {
+            "name": "Save at the pump with Amazon Prime's new gas discount",
+            "url": "https://www.cnbc.com/select/amazon-prime-gas-discount/",
+            "description": "Amazon Prime's value extends beyond fast, free shipping, with a growing list of perks that make a membership worth the cost. The latest addition? Prime members can now access fuel discounts at ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNBC"
+                }
+            ],
+            "datePublished": "2024-11-07T18:38:00.0000000Z"
+        },
+        {
+            "name": "Which Amazon credit card is right for you?",
+            "url": "https://www.cnbc.com/select/when-and-why-the-amazon-prime-credit-card-is-worth-getting/",
+            "description": "One of the best ways to maximize your Amazon purchases is with an Amazon credit card. If you're looking for the right rewards credit card, our top pick is the Prime Visa. Although this card ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNBC"
+                }
+            ],
+            "datePublished": "2024-11-07T18:28:00.0000000Z"
+        },
+        {
+            "name": "\u2018Mass Effect\u2019 TV Series in the Works at Amazon From \u2018Fast & Furious 9\u2019 Writer (EXCLUSIVE)",
+            "url": "https://variety.com/2024/tv/news/mass-effect-tv-series-amazon-writer-marvel-1236203755/",
+            "description": "A \u201cMass Effect\u201d TV series is officially in development at Amazon MGM Studios, Variety has learned exclusively. Daniel Casey is set to write and executive produce the adaptation. Karim Zreik ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Variety"
+                }
+            ],
+            "datePublished": "2024-11-07T17:59:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "The best cheap Amazon Fire tablet deals for November 2024",
+            "url": "https://www.techradar.com/deals/the-best-cheap-amazon-fire-tablet-deals",
+            "description": "Pick up a basic budget-friendly device at an even lower price with these Amazon Fire tablet deals. The retailer-owned devices are regularly reduced throughout the year and during major events so ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar"
+                }
+            ],
+            "datePublished": "2024-11-06T15:17:00.0000000Z"
+        },
+        {
+            "name": "Supporting Our Communities",
+            "url": "https://www.aboutamazon.com/impact/community",
+            "description": "Amazon\u2019s culture is built around solving impossible problems, which is why we\u2019re able to take a different, more hands-on approach than most. We work side-by-side with community partners to find solutions to the world\u2019s most pressing challenges and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "aboutamazon"
+                }
+            ],
+            "datePublished": "2024-09-03T17:25:00.0000000Z"
+        },
+        {
+            "name": "Amazon ECS Container Agent",
+            "url": "https://github.com/aws/amazon-ecs-agent",
+            "description": "The Amazon ECS Container Agent is a component of Amazon Elastic Container Service (Amazon ECS) and is responsible for managing containers on behalf of Amazon ECS. On the Amazon Linux AMI, we provide an installable RPM which can be used via sudo yum install ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2022-08-16T05:18:00.0000000Z"
+        },
+        {
+            "name": "Amazon workers win battle to form first US union",
+            "url": "https://www.bbc.com/news/business-60944677",
+            "description": "A team of Amazon workers has forced the technology giant to recognise a trade union in the US for the first time. Workers at a New York warehouse voted 55% in favour of joining the Amazon Labor Union.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC"
+                }
+            ],
+            "datePublished": "2022-03-31T23:59:00.0000000Z"
+        },
+        {
+            "name": "Amazon Kinesis Client Library for Python",
+            "url": "https://github.com/awslabs/amazon-kinesis-client-python",
+            "description": "Before running the samples, you'll want to make sure that your environment is configured to allow the samples to use your AWS Security Credentials. By default the samples use the DefaultCredentialsProvider so you'll want to make your credentials available ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2021-11-16T13:51:00.0000000Z"
+        },
+        {
+            "name": "How Amazon Fresh Works",
+            "url": "https://www.investopedia.com/articles/personal-finance/052015/how-amazon-fresh-works.asp",
+            "description": "Amazon's grocery delivery service offers convenience and savings for Prime members. Jared Ecker is a researcher and fact-checker. He possesses over a decade of experience in the Nuclear and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investopedia"
+                }
+            ],
+            "datePublished": "2016-04-04T13:36:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        }
+    ]
+}

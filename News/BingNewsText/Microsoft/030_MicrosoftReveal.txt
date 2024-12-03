@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Zak Doffman"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-08 09:13:26",
+    "description": "Microsoft's crackdown on Windows 10 continues\u2014here's what you need to know.",
+    "filename": ".json",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6632a9f29fb48d902e13eb9d/0x0.jpg?format=jpg&crop=1891,1072,x683,y111,safe&height=900&width=1600&fit=bounds",
+    "language": "en",
+    "localpath": null,
+    "maintext": "If you\u2019re one of the 850 million Microsoft users stubbornly sticking to Windows 10, despite all the efforts to push you (and a technically compliant PC) over to Windows 11, then you can now pay $30 to delay Windows 10 end of support back a year to October 2026. But Microsoft is not backing down beyond that, and there\u2019s more bad news if you want to keep Windows 10 as long as possible.\nForbesGoogle Android Deadline\u2014You Have 21 Days To Update Your Phone\nAs Neowin has just discovered, \u201cMicrosoft doesn't like you downloading Windows 10 even from official sources anymore,\u201d with \u201ccautionary banners about the upcoming end of life (EOL) of Windows 10 plastered all over the place on various Microsoft pages on its official site.\u201d\nAnd if you need to install Windows, then the support article with how-to guides and links \u201chas been changed with separate subsections for Windows 11 and Windows 10 and gone are links to download Windows 7 and Windows 8.1. Under the Windows 10 section, a new banner cautioning users about its EOS is up, and it also encourages users to move on to Windows 11.\u201d\nYou can still download Windows 10, but the highlight is the recommendation not to. \u201cSupport for Windows 10 will end in October 2025,\u201d it says. \u201cAfter October 14, 2025, Microsoft will no longer provide free software updates from Windows Update, technical assistance, or security fixes for Windows 10. Your PC will still work, but we recommend moving to Windows 11.\u201d\nThis is just the latest move by Microsoft to accelerate the push to Windows 11, which has been famously lagging previous OS upgrades. The good news is that the rate of Windows 11 is noticeably increasing\u2014finally, with some 50 million users switching over the last two months. But that still leaves 850 million Windows 10 yet to make a move, of which around 400 million likely have non-compliant hardware. There are also a further 50 million Windows users on even older versions of the OS, which are already off-support and will find it difficult even moving to Windows 10 now.\nForbesWhy You Should Buy A New Microsoft Windows PC In 2025",
+    "source_domain": null,
+    "text": null,
+    "title": "Microsoft Reveals New Upgrade Warning For 850 Million Windows Users",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

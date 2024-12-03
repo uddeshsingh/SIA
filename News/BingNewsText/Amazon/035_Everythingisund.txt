@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Jordan Valinsky"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-13 17:09:03",
+    "description": "Amazon is targeting retail rivals Shein, Temu and TikTok with a new deeply discounted storefront that sells a wide array of products for $20 or less.",
+    "filename": ".json",
+    "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1691108145.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Amazon is targeting retail rivals Shein, Temu and TikTok Shop with a new deeply discounted storefront that sells a wide array of products for $20 or less.\nCalled \u201cAmazon Haul,\u201d the mobile-only experience debuted Wednesday in the Amazon app and has everything from fashion accessories to home goods, plus clothes and electronics.\nHaul is Amazon\u2019s response to Chinese marketplaces, which have seen rapid growth in the United States from cost-conscious shoppers looking for cheap products, according to Neil Saunders, managing director for retail at GlobalData.\n\u201cThe value retail segment has been a major growth area over the past few years, and while the main Amazon site has a good value-for-money reputation, its wide offer means that it is not primarily seen as an everyday low-price destination,\u201d he told CNN.\nAmazon said in an announcement that a \u201cmajority\u201d of the Haul items are under $10, with some even less than $1. For example, an iPhone case is on sale for $1.79, a tablecloth for $4.99 and memory foam slippers for $9.99.\nHowever, the cheap prices come with a caveat that items can take one to two weeks to be delivered. And shipping is only free for orders more than $25, with an additional $3.99 fee for orders below that threshold. Also, the store only accepts returns on items that are $3 or more.\nIn what could be seen as a slight dig to its overseas rivals, Amazon said it \u201cscreens the products sellers offer in Haul so customers can be confident they\u2019ll receive products that are safe, authentic, and compliant with applicable regulations.\u201d\nShein and Temu have been recently targeted by US regulators in a proposed investigation for selling \u201cdeadly baby and toddler products.\u201d Two leaders from the Consumer Product Safety Commission want to look into how the companies comply with safety regulations.\nAmazon said Haul was created because it hears from customers who want \u201cultra-low-priced products even if some of them take one to two weeks to arrive.\u201d\nSaunders said there will be concerns that Haul might cannibalize sales from its flagship website, but it\u2019s \u201cbetter that Amazon cannibalize its own sales than cede ground to rivals,\u201d and the storefront could prove popular with younger consumers who are avid shoppers of Amazon competitors.",
+    "source_domain": null,
+    "text": null,
+    "title": "Everything is under $20 at Amazon\u2019s newest store",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

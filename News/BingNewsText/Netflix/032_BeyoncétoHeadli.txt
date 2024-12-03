@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Emily Zemler"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-18 07:39:43",
+    "description": "Beyonc\u00e9 will headline Netflix's inaugural NFL Christmas Gameday during the Houston Texans match-up against the Baltimore Ravens.",
+    "filename": ".json",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2024/11/20241117_HALFTIME_001.jpg?w=1600&h=900&crop=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The holidays have come early: Beyonc\u00e9 will perform during Netflix\u2018s inaugural NFL Christmas Gameday live on Netflix on Dec. 25. Her performance will take place during the second of Netflix\u2019s two games as the Houston Texans match-up against the Baltimore Ravens at NRG Stadium in Houston.\nThe halftime show is being produced by Beyonc\u00e9\u2019s company, Parkwood Entertainment and Jesse Collins Entertainment, and will mark the first live performance of songs from her recent LP, Cowboy Carter. She shared the news in a short Instagram clip, which sees the singer catching a football while standing on a flower-covered car.\nA press release notes, \u201cAlthough the details of her performance are under wraps, Beyonc\u00e9 is expected to feature some special guests who are featured on the Cowboy Carter album.\u201d Notably, guests on her LP include Shaboozey, Miley Cyrus, Dolly Parton, Willie Nelson, Linda Martell, and Post Malone.\nBeyonc\u00e9 has previously performed during two Super Bowl halftime shows. She headlined Super Bowl XLVII in 2013 in New Orleans, where she was joined onstage by Kelly Rowland and Michelle Williams. In 2016, she joined Coldplay and Bruno Mars in Santa Clara, California, for the Super Bowl XV halftime show.\nIn May, Netflix announced they had signed on to stream the NFL\u2019s two new Christmas Day games: the Kansas City Chiefs vs. the Pittsburgh Steelers at 1 p.m. EST and the Baltimore Ravens vs. the Houston Texans at 4:30 p.m. EST. Netflix will also host the NFL games on Christmas Day in 2025 and 2026. Additionally, the games will air on broadcast TV in the competing team\u2019s cities and be available on U.S. mobile devices with NFL+.",
+    "source_domain": null,
+    "text": null,
+    "title": "Beyonc\u00e9 to Headline NFL Christmas Day Halftime Show on Netflix",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

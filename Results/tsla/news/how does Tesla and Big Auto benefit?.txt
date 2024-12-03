@@ -1,0 +1,17 @@
+Authors: ['Lance Branquinho', 'Staff', 'Brendon Petersen', 'Marcus Gopolang Moloko']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-10 13:58:00
+Description: Trump and Musk are both pro business. But what does that mean for Big Auto, EVs and self-driving technology?
+Filename: .json
+Image_Url: https://memeburn.com/motorburn/wp-content/uploads/sites/4/2024/11/Supercharger_95_NA.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: how does Tesla and Big Auto benefit?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Cybertruck sales aren’t tracking initial reservation demand and full autonomous self-driving functionality still hasn’t cleared all its legal hurdles. Perhaps the only automotive company CEO with a deep understanding of the issues regarding data engineering and software integration, Musk’s technical acumen is unrivalled. For many years, as it was servicing R&D costs and scaling production, California’s generous EV incentives and the US government’s broader Co2 credits secured the cash flow to keep Tesla going. Tesla’s Giga Shanghai factory accounts for nearly half of its global production capacity and Musk needs to ship those cars into the US without crippling tariffs. Musk probably won’t get his way to sell cars directly in the several States where Tesla has clashed with legacy business (the dealership lobby), but he could benefit from a broader industry plea for restrained trade policy.
+Financial_Events: ['Or rather, their ability to create a trusted driving and device ecosystem that unlocks data-driven revenue unlike any other car company.\nThat’s where the political alignment becomes an issue', 'And if it does, the revenue potential is enormous', 'If authorities allow Tesla to deploy all its nascent self-driving and collision avoidance technology, it could possibly start self-insuring cars at a fraction of their current premiums – creating another revenue source rival car companies have no counter for.\nSoftware engineering and integration with Tesla products are reasonably peerless']

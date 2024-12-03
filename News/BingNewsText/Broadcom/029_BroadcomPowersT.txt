@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Lekha Gupta",
+        "Benzinga Editor"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-05 05:55:57",
+    "description": "Broadcom expands partnership with Telia for modernization and transformation of telecom and cloud infrastructure using VMware's product portfolio, including new AI-powered advancements and partner program.",
+    "filename": ".json",
+    "image_url": "https://cdn.benzinga.com/files/images/story/2024/11/05/Broadcom--Shutterstock.jpeg?width=1200&height=800&fit=crop",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Broadcom Inc. AVGO expanded its multi-year partnership with Telia Company to advance Telia\u2019s modernization and transformation of telecom and cloud infrastructure using VMware\u2019s product portfolio.\nThe expanded use of VMware\u2019s cloud-native architecture will advance Telia\u2019s automation efforts across network workloads and extend its cloud-native capabilities for key assets.\nKrish Prasad, SVP and general manager, VMware Cloud Foundation Division, Broadcom, said, \u201cWe are delighted to enable Telia to continue serving its customers with this VMware software-based platform that includes the needed network and infrastructure orchestration, automation and scale.\u201d\nIn addition, Broadcom disclosed significant enhancements to its VeloCloud product line and introduced a new partner program aimed at helping enterprises better support AI and non-AI workloads and enhance connectivity.\nBroadcom\u2019s latest advancements include the launch of VeloRAIN, an AI/ML-powered architecture designed to boost the performance and security of distributed AI workloads.\nIt also introduced the high-capacity VeloCloud Edge 4100 and 5100 appliances, which support up to 100Gbps for large enterprises. Additionally, the new Titan Partner Program will help VeloCloud Managed Service Providers grow as enterprise AI adoption accelerates.\nSanjay Uppal, vice president and general manager, VeloCloud Division, Broadcom, stated, \u201cBy harnessing the advanced capabilities of VeloRAIN, AI workloads from distributed inferencing and agentic peer-to-peer applications to upstream heavy RAG transactions will see improved application-based QoE and security across all endpoints of the enterprise.\u201d\nApart from this, at VMware Explore 2024 in Barcelona, the company disclosed expanded VMware Cloud Foundation (VCF) Advanced Services, new ecosystem partnerships, and modernization programs.\nThese initiatives aim to accelerate generative AI application development, enhance cybersecurity, and support sovereign cloud adoption.\nKrish Prasad, senior vice president and general manager, VCF Division at Broadcom, commented, \u201cThrough a private cloud platform and portfolio of Advanced Services that are ubiquitous, flexible and secure, we are unlocking the promise of AI in the enterprise, delivering new levels of organizational resilience, and supporting the privacy and digital sovereignty demands of customers around the world.\u201d\nInvestors can gain exposure to the stock via Direxion Daily AVGO Bull 2X Shares AVL and Columbia Semiconductor and Technology ETF SEMI.\nPrice Action: AVGO shares are up 0.49% at $169.38 premarket at the last check Tuesday.\nPhoto via Shutterstock\nRead Next:",
+    "source_domain": null,
+    "text": null,
+    "title": "Broadcom Powers Telia's Modernization with VMware, Launches AI-Driven VeloRAIN & More",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-04 05:00:00",
+    "description": "This letter is sent in appreciation for the writer of the Oct. 30 LNP | LancasterOnline letter \u201cA prayer for America.\u201d",
+    "filename": ".json",
+    "image_url": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/a/2e/a2eab6c0-55fc-11ed-9b6d-c77847ff0f34/635a89eeaf962.image.jpg?crop=1166%2C612%2C0%2C107&resize=1166%2C612&order=crop%2Cresize",
+    "language": "en",
+    "localpath": null,
+    "maintext": "This letter is sent in appreciation for the writer of the Oct. 30 LNP | LancasterOnline letter \u201cA prayer for America.\u201d\nIt was a very thoughtful and well-written prayer for America! Thank you for taking the time to encourage us. You may have written a letter to the Lancaster newspaper, but your letter has gone far beyond, as I have sent it to many of our family members and friends across the United States. It\u2019s a voice of reason and trust in our Lord God in such a time as this!\nKaren Stoltzfus\nLeacock Township",
+    "source_domain": null,
+    "text": null,
+    "title": "Appreciation for the writer of \u2018A prayer for America\u2019 [letter]",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

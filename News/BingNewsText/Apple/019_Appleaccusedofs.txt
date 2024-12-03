@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Emma Roth"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 17:37:31",
+    "description": "An Apple employee is suing the company over claims it spies on workers through company-managed devices, which often consists of a worker\u2019s personal phone.",
+    "filename": ".json",
+    "image_url": "https://cdn.vox-cdn.com/thumbor/SLPLACy9HgNc8serFgUbQqhUOEM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697385/STK071_APPLE_E.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "An Apple worker is suing the company over claims it requires employees to waive their right to privacy and subjects them to surveillance, as first reported by Semafor. In a lawsuit filed on Monday, Apple employee Amar Bhakta accuses Apple of accessing employee data through company-managed devices \u2014 including personal iPhones it \u201cactively encourages\u201d workers to use.\nThough Apple gives employees the option to use an Apple-owned device for work, the lawsuit says Apple pushes users to bring their own iPhones to work, where they\u2019re managed by Apple\u2019s internal software. Under company policy, the data linked to these Apple-managed devices, including emails, photos, videos, notes, and other information, are \u201csubject to search by Apple,\u201d according to the lawsuit. Bhakta claims workers using their personal devices must link their personal iCloud accounts to the company as well, allegedly allowing Apple to collect an employee\u2019s location data and other information while they\u2019re outside of work.\nAdditionally, the lawsuit claims that Apple breaks California law by requiring employees to agree to a policy that allows it to \u201cengage in physical, video, and electronic surveillance\u201d of them, as well as gives it the ability to search Apple and non-Apple devices on \u201ccompany premises,\u201d which, in some instances, could allegedly involve a worker\u2019s home office.\nThis isn\u2019t the first time we\u2019ve heard about these policies, as a 2021 report from The Verge revealed concerns about data privacy among Apple workers forced to link their personal accounts and devices to their jobs. Apple is known for its high level of secrecy surrounding its work and new product launches. Other companies, including Google and Amazon, have also been accused of surveilling employees.\n\u201cFor Apple\u2019s employees, the Apple ecosystem is not a walled garden,\u201d the lawsuit says. \u201cIt is a prison yard. A panopticon where employees, both on and off duty, are ever subject to Apple\u2019s all-seeing eye.\u201d Bhakta is also suing Apple for \u201cillegal\u201d wage clawback policies and claims the company suppresses employee speech. The lawsuit cites incidents in which Apple allegedly \u201cforbade\u201d Bhakta from publicly speaking about his experience in digital advertising and forced him to remove information about his work at Apple from his LinkedIn profile. The National Labor Relations Board accused Apple of barring employees from talking about pay equity last month.\n\u201cAt Apple, we\u2019re focused on creating the best products and services in the world and we work to protect the inventions our teams create for customers,\u201d Apple spokesperson Josh Rosenstock said in an emailed statement to The Verge. \u201cEvery employee has the right to discuss their wages, hours and working conditions and this is part of our business conduct policy, which all employees are trained on annually. We strongly disagree with these claims and believe they lack merit.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple accused of snooping on workers\u2019 iPhones in new lawsuit",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

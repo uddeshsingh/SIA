@@ -1,0 +1,28 @@
+{
+    "authors": [
+        "Elizabeth Logan",
+        "Rachel Janfaza",
+        "Clara Strunck",
+        "Kathleen Walsh",
+        "Erin Coulehan",
+        "Danielle Sinay",
+        "Stephanie McNeal",
+        "Hannah Chenoweth",
+        "Emily Tannenbaum"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 13:48:16",
+    "description": "After Donald Trump won re-election, rapper Cardi B posted a statement to Instagram about the Harris campaign.",
+    "filename": ".json",
+    "image_url": "https://media.glamour.com/photos/672bb559691ed39553f2f0c4/16:9/w_1280,c_limit/kamala%20cardi.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Despite losing the presidential election, Vice President Kamala Harris hasn\u2019t lost the confidence of many of her supporters, rapper Cardi B among them. The \u201cBodak Yellow\u201d singer posted a powerful open letter to Harris on Instagram shortly after the race was called for former/future President Trump.\n\u201cThey can never say that you didn\u2019t run your race with honesty and with integrity! You really put up a fight against all the odds that were already stacked against you,\u201d wrote Cardi. Harris did fight an uphill battle, inheriting the nomination with just months before Election Day after President Biden dropped out of the race. \u201cThis may not mean much but I am so proud of you! No one has ever made me change my mind and you did!\u201d she continued. Cardi B spoke at a Harris/Walz rally in Wisconsin on November 1.\n\u201cI never thought I would see the day that a woman of color would be running for the President of the United States,\u201d she added, praising Harris because \u201cyou have shown me, showed my daughters and women across the country that anything is possible.\u201d Cardi B has three kids with Migos rapper Offset, two of whom are girls.\nInstagram content\nThis content can also be viewed on the site it originates from.\nThe comments on the post\u2026do not pass the vibe check, and while everyone is entitled to their opinion, I would simply remind those who question Cardi B\u2019s ability to understand politics that she is, actually, a bit of a presidential history buff. Her favorite is FDR. Let her say her piece, especially as she isn\u2019t trashing anyone but simply relaying gratitude for something she found inspiring.\nCardi is the first major celebrity to share their in-depth thoughts about the election results, though we can probably expect more throughout the week. In the meantime, it\u2019s worth reading up on five historic victories for women from election night 2024, as down-ballot races are important and impactful.",
+    "source_domain": null,
+    "text": null,
+    "title": "Cardi B Wrote a Powerful Open Letter to Kamala Harris About the Election Results",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Kimberlee Speakman",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 11:53:03",
+    "description": "Toronto Police said four people were killed after their Tesla caught on fire after hitting a guardrail and crashing into a 'concrete pillar.' One person in the car was rescued from it by a bystander.",
+    "filename": ".json",
+    "image_url": "https://people.com/thmb/s15QvhrBt9rNbJXTBRZoSnEfW2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(725x411:727x413)/toronto-tesla-car-accident-111224-1-615ec11c08dd40c1b8381e4ebcf68ffb.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Four people were killed \u2014 and one person was saved by a bystander \u2014 after their Tesla erupted in flames after crashing into a pillar on a roadway.\nThe incident occurred at around 12:10 a.m. local time when an electric vehicle carrying \u201cfive occupants\u201d was \u201cgoing at a high rate of speed,\" Toronto Police Duty Insp. Phillip Sinclair said in a news conference, according to CBC News.\nThe 2024 Tesla lost control and struck a guardrail and a concrete pillar, police said in a news release. Upon impact, the vehicle caught fire. Three men aged 26, 29 and 32, as well as one 30-year-old woman, were pronounced dead on the scene, while a 25-year-old woman was transported to the hospital with \u201cnon-life threatening injuries,\u201d police said.\nSinclair noted in his press conference that no other vehicles were involved in the crash and that an investigation into what happened is \u201congoing.\u201d Deputy Fire Chief Jim Jessop added that they are looking into the possibility of \u201cthe intensity of the fire\u201d being linked to the \u201cbattery cells\u201d in the car, according to CBC News.\nTesla did not immediately respond to PEOPLE's request for comment.\nSinclair told CTV News that the sole survivor of the crash was rescued by a \u201cbystander\u201d \u2014 eventually identified as 73-year-old Canada post worker Rick Harper \u2014 who \u201cprovided assistance\u201d at the site of the crash around the time the \u201cfire had started.\u201d\n\"Thanks very much to that bystander,\" Sinclair said, per the outlet. \"We have been speaking to them, and obviously they also (are) deeply affected by this incident, a very horrific scene for that bystander to step in.\"\nHarper told CBC News and the Toronto Star that when he came upon the crash, there were others already gathered outside the vehicle who were pounding at the back passenger window as they couldn\u2019t open the doors. He recalled to CBC News, \"Then somebody was yelling, 'You got a bar? You got a bar? Somebody's in there.' \"\nHarper told CBC News that he managed to grab a bar he had from his truck and \u201cswung\u201d at the back window before handing it over to another bystander who successfully broke it and pulled a woman out of the backseat.\n\u201cShe came out fast, head first. She said nothing,\u201d he recalled to the Toronto Star. \u201cThere were no words from anybody. We could see the fear in her eyes. She was letting out little screams.\u201d\n\"You could see the fear in her eyes. You could see the anguish,\u201d he told CBC News, adding, \"And nobody at that point thought there was anybody else in the car. No indication.\u201d\nHe noted to the outlet that he got back into his car and went to work after the rescue. It was only some time during work that he finally understood the extent of the tragedy.",
+    "source_domain": null,
+    "text": null,
+    "title": "4 Killed After a Tesla Crash Sparks Fire in Toronto",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

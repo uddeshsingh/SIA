@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Bloomberg"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-30 00:00:00",
+    "description": "OpenAI is less focused on GPUs, chips that are used to train and build generative AI models \u2013 a market that has been cornered by Nvidia.",
+    "filename": ".json",
+    "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/10/30/ec107e1d-7d0e-483e-8f86-897318d1dd9b_046c8c3f.jpg?itok=dTjY_H6s&v=1730259358",
+    "language": "en",
+    "localpath": null,
+    "maintext": "OpenAI is working with Broadcom to develop a new artificial intelligence chip specifically focused on running AI models after they have been trained, according to two people familiar with the matter.\nThe AI start-up and chipmaker are also consulting Taiwan Semiconductor Manufacturing Co (TSMC), the world\u2019s largest chip contract manufacturer, said the people, who asked not to be identified because the discussions are private. OpenAI has been planning a custom chip and working on such uses for the technology for around a year, the people said, but the discussions are still at an early stage.\nOpenAI declined to comment. A representative for Broadcom did not respond to a request for comment, and a TSMC spokesperson said the company does not comment on rumours and speculation. Reuters reported on OpenAI\u2019s ongoing talks with Broadcom and TSMC on Tuesday. The Information reported in June that Broadcom had discussed making an AI chip for OpenAI.\nThe process for taking a chip from design to production is long and expensive. OpenAI is less focused on graphics processing units, chips that are used to train and build generative AI models \u2013 a market that has been cornered by Nvidia.\nInstead, it is looking for a specialised chip that will run the software and respond to user requests, a process called inference. Investors and analysts expect the need for chips to support inference will only grow as more tech companies use AI models to field more complex tasks.\nOpenAI may continue to research setting up its own network of foundries, or chip factories, one of the people said, but the start-up has realised that working with partners on custom chips is a quicker, attainable path for now. Reuters earlier reported that OpenAI was pulling back from the effort of establishing its own chip manufacturing capacity.",
+    "source_domain": null,
+    "text": null,
+    "title": "OpenAI, Broadcom working to develop AI inference chip",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Muktita Suhartono",
+        "www.nytimes.com",
+        "muktita-suhartono"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-04 05:02:26",
+    "description": "The Cia-Cia language has been passed down orally for centuries. Now the tribe\u2019s children are learning to write it in Hangul, the Korean script.",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/images/2024/10/29/world/00indonesia-hangul-dispatch1/00indonesia-hangul-dispatch1-facebookJumbo.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Excited chatter filled the classroom as the lesson began. Every desk had a paper nameplate on it with the occupant\u2019s name written in the Korean alphabet, called Hangul. Soon, the students were following their instructor\u2019s lead and etching the distinctive circles and lines of the script in their notebooks.\nBut these fourth graders were not studying the Korean language. They were using Hangul to write and learn theirs: Cia-Cia, an indigenous language that has no script. It has survived orally for centuries in Indonesia, and is now spoken by about 93,000 people in the Cia-Cia tribe on Buton Island, southeast of the peninsula of Sulawesi Island in Indonesia\u2019s vast archipelago.\n\u201cSay, \u2018ph.\u2019 Hold a piece of paper in front of your mouth and make sure the paper moves when you pronounce it,\u201d Deuk-young Jung, who has been teaching the alphabet here for more than a decade, told his 40 or so students at Hendea Elementary School, south of the town of Baubau.\nIndonesia is home to myriad tribes and cultures, and to more than 700 native languages. It is the most linguistically diverse nation in the world after neighboring Papua New Guinea. On Buton Island alone, there are a handful of local languages and almost two dozen dialects. However, most of them are at risk of disappearing because they do not have a script.",
+    "source_domain": null,
+    "text": null,
+    "title": "An Indonesian Tribe\u2019s Language Gets an Alphabet: Korea\u2019s",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

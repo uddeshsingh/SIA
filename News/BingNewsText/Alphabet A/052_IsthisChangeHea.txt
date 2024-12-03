@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Emily Barnes"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-07-22 00:00:00",
+    "description": "According to Change Healthcare, letters notifying business customers of the breach started being sent out back in June but New Yorkers have been receiving them as recently as September and October.",
+    "filename": ".json",
+    "image_url": "https://www.lohud.com/gcdn/authoring/authoring-images/2024/07/22/PDTF/74500728007-img-getty-images-14024505-2-1.JPG?crop=7067,3974,x1051,y0&width=3200&height=1800&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "You may have recently received a letter in the mail alerting you to a Change Healthcare data breach and are wondering if it's a scam. The short answer: it's the real deal. But now, what should you do?\nAccording to Change Healthcare, letters notifying business customers of the breach started being sent out back in June but New Yorkers have been receiving them as recently as September and October.\nHere's what to know.\nWhat is the United Health, Change Healthcare cyberattack?\nThe cyberattack began on Feb. 21 against Change Healthcare, which is a health care technology company that is part of Optum and owned by UnitedHealth Group, according to the American Hospital Association.\nThe company processes 15 billion health care transactions annually, which include a range of services that directly affect patient care, including eligibility verifications and pharmacy operations, as well as claims transmittals and payment. All of these have been disrupted to varying degrees, the hospital trade group noted in a statement.\nIt remains unclear how many hospitals in New York have been impacted, but trade groups have asserted Change Healthcare transactions touch one in every three patient records.\nAnd while the affected data is not the same for everyone involved, according to Change Healthcare, information involved in the breach includes:\nContact information, such as name, address, date of birth, phone number and email\nHealth insurance data, such as health plans/policies, insurance companies, member/group ID numbers and Medicaid-Medicare-government payor ID numbers\nHealth data, such as medical record numbers, doctors, diagnoses, medicines, test results, images, care and treatment\nBilling, insurance claims and payment data, such as claim numbers, account numbers, billing codes, payment cards, financial and banking and balance\nOther personal data, such as Social Security numbers, driver's license or state ID numbers or other ID numbers\nChange Healthcare data breach:NY hospitals' patient care was hurt by cyberattack\nWhat to do if you think you've been affected by a data breach\nHere's are some tips from the Federal Trade Commission if you think you've been affected by a data breach, including the one involving Change Healthcare:\nGet free credit reports from annualcreditreport.com and check for any accounts or charges you don't recognize.\nConsider placing a free credit freeze or fraud alert to further protect yourself from people trying to open new accounts in your name.\nChange usernames and passwords that may have been compromised.\nTake advantage of free credit monitoring if it's offered by the company responsible for exposing your information.\nIn this case, Change Healthcare is offering free online credit monitoring and identity restoration services through IDX for two years, which the New York State Department of State's Division of Consumer Protection says consumers should take advantage of.\nHowever, the state's Division of Consumer Protection also recommends consumers ask additional questions and become informed before agreeing to any service and should consider placing a fraud alert or security freeze on their credit as an added protective measure.\nContributing: New York State Team health reporter David Robinson",
+    "source_domain": null,
+    "text": null,
+    "title": "Is this Change Healthcare data breach letter a scam? What to know",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "None",
+    "description": "Command Line Interface for Oracle Cloud Infrastructure - oracle/oci-cli",
+    "filename": ".json",
+    "image_url": "https://opengraph.githubassets.com/0c2f4680e1d3111bf7bf9f75d39971612e3451156008e14df236284f490b7373/oracle/oci-cli",
+    "language": "en",
+    "localpath": null,
+    "maintext": "This is the command line interface for Oracle Cloud Infrastructure.\nThe project is open source and maintained by Oracle Corp. The home page for the project is here.\nOCI CLI offers interactive features to guide you through command usage.\nEnabling them allows:\nSuggestions and autocompletion to help compose commands;\nColor-coded suggestions to distinguish required parameters from optional parameters; and\nQuick references display alongside suggestions to recognize command and parameter purposes.\nTry the interactive features anytime with the -i option:\noci -i\nRead more on OCI Documentation.\nOCI CLI is now available as container images.\nWith a standards-compliant container runtime engine, pull and run the latest version of oci-cli from the GitHub Container Registry.\nRead about setup requirements and instructions on Working with the OCI CLI Container Image.\nFind previous image versions on our package page.\nbrew install oci-cli\nOCI Command Line Interface Installation and Configuration on Mac Instance\nbash -c \"$(curl -L https://raw.githubusercontent.com/oracle/oci-cli/master/scripts/install/install.sh)\"\nOCI Command Line Interface Installation and Configuration on Linux Instance\nsudo yum install python36-oci-cli\nsudo dnf install oci-cli\npowershell -NoProfile -ExecutionPolicy Bypass -Command \"iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/oracle/oci-cli/master/scripts/install/install.ps1'))\"\nOCI Command Line Interface Installation and Configuration on Windows Instance\nSee the installation guide for detailed installation instructions, options and troubleshooting.\nGo to the CLI releases page and locate the required CLI version.\nFor the release, go to the \"Assets\" area.\nDownload and copy the zip file for your Operating System to the environment where you want to install CLI.\nUnzip the file and execute the following from inside the unzipped folder\nOn Linux:\nbash install.sh --offline-install\nOn Windows:\ninstall.ps1 -OfflineInstall\nOCI Command Line Interface (CLI) Installation on an Offline Linux Instance\nOCI Command Line Interface (CLI) Installation on an Offline Windows Instance\nTo get help with the command line:\noci --help\nor\noci -h\nTo enable interactive features for usage guidance:\noci -i\nExamples can be found here under the section 'Example Commands'.\nDetailed documentation for CLI prerequisites, installation and configuration, and troubleshooting can be found here.\nSee the \u201cQuestions or Feedback?\u201d section here.\nSee CHANGELOG.\noci-cli is an open source project. See CONTRIBUTING for details.\nOracle gratefully acknowledges the contributions to oci-cli that have been made by the community.\nYou can find information on any known issues with the CLI here, here and under the \u201cIssues\u201d tab of this project's GitHub repository.\nCopyright (c) 2016, 2019, Oracle and/or its affiliates. All rights reserved.\nThis SDK and sample is dual licensed under the Universal Permissive License 1.0 and the Apache License 2.0.",
+    "source_domain": null,
+    "text": null,
+    "title": "cli: Command Line Interface for Oracle Cloud Infrastructure",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

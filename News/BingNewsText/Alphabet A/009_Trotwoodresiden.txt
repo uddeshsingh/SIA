@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "WHIO Staff"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:46:49",
+    "description": "The City of Trotwood sent an official letter to the City of Dayton opposing a paper recycling facility that would be built on the edge of town.",
+    "filename": ".json",
+    "image_url": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F12-02-2024%2Ft_a2438e599e0f4c7f9dafeeff8f110b69_name_file_960x540_1200_v3_1_.jpg?auth=76428fdac4db382ecd49eff61856d7d621cde86c2a96708897d98466f6155cbd&width=1200&height=630&smart=true",
+    "language": "en",
+    "localpath": null,
+    "maintext": "TROTWOOD \u2014 A new development proposed for the City of Trotwood has community members and city leaders unhappy.\nThe City of Trotwood sent an official letter to the City of Dayton opposing a paper recycling facility that would be built on the edge of town.\n[DOWNLOAD: Free WHIO-TV News app for alerts as news breaks]\nNews Center 7\u2032s Malik Patterson spoke to Rachel Liggan, who lives near the corner of Little Richmond Road and Oliver Road. Right now, there are about six houses there and a lot of open land.\nTRENDING STORIES:\n\u2018That is dangerous;\u2019 Man driving car full of children shot on I-75\nCoroner IDs man who died after being found shot inside crashed car\nBaby thrown from car during police chase, authorities say\nLiggan has lived here for two years. She wanted the open space for her horse and pony to run freely.\nLiggan got a letter in the mail saying the City of Dayton is looking to put a paper recycling facility near her house, now she\u2019s worried.\n\u201cI\u2019m perplexed on exactly what\u2019s going on,\u201d Liggan said.\nCity of Trotwood City Manager said in a statement that they are worried about forever chemicals and impacts on waterways.\nThe Trotwood Madison Superintendent has similar concerns for students.\n\u201cWe are concerned about the air quality and potential exposure to pollutants,\u201d the Trotwood Madison Superintendent said in a statement.\nThe City of Trotwood adds to the complaints, citing a possible decrease in property value in their letter to Dayton.\nThe Dayton Mayor\u2019s Office said Mayor Mims does not have a comment at this time.\n\u201cIf that plant is going to affect my security and our safety and everything that I have accomplished, that means I\u2019ll have to move,\u201d Liggan said.\nA meeting is scheduled for Thursday at 6 p.m. at the Dayton Library\u2019s West Branch. Liggan says she will be attending, and she\u2019s going to be heard.",
+    "source_domain": null,
+    "text": null,
+    "title": "Trotwood residents voice concerns over proposed recycling facility",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

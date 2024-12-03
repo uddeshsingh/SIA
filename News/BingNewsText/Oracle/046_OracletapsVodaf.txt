@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Joe O\u2019Halloran",
+        "Alex Scroxton",
+        "Cliff Saran"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 07:45:00",
+    "description": "Integrated communications and cloud services provider teams with operator\u2019s internet of things division to bring connectivity to enterprise communications platform users.",
+    "filename": ".json",
+    "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Vodafone-IoT-hero.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "As part of a mission to better empower industries with the ability to orchestrate, connect and manage internet of things (IoT) devices, allow users to expand their operations and accelerate on a global scale with compliant connectivity, Vodafone Business global IoT functionality is now available on Oracle\u2019s Enterprise Communications Platform (ECP) industry applications.\nThe move represents an extension of Oracle\u2019s existing partnership with Vodafone Business IoT.\nExplaining the rationale for the extended partnership, Oracle observed that as the next wave of industrial transformation unfolds, near real-time connectivity is essential, and becoming increasingly adopted in various industries such as healthcare, construction and engineering, energy and water, hospitality, and the public sector.\nThe combination of Oracle\u2019s ECP with Vodafone Business IoT\u2019s connectivity is designed to offer new capabilities such as embedded AI, secure device lifecycle management, connection management, and advanced media routing and conferencing.\nBuilt on Oracle Cloud Infrastructure, ECP uses edge architecture to give businesses what is claimed to be out-of-the-box connectivity and the near real-time data intelligence required to power essential new services. The platform also uses Vodafone\u2019s Global SIM for cellular connectivity, and is said to provide businesses with the ability to orchestrate, connect and manage IoT devices, and a new generation of cloud-based services.\nBy integrating Vodafone\u2019s Global SIM service with its ECP, Oracle expressed confidence that industry applications customers will benefit from near real-time communications capabilities with a secure and reliable connectivity service. In addition, with access to Vodafone\u2019s IoT network of over 180 countries, businesses will have connectivity compliant with local regulatory requirements, meaning they will be able to operate globally and grow more efficiently.\n\u201cWe\u2019re excited to announce the next step in our partnership with Oracle \u2013 providing reliable and secure connectivity to its Enterprise Communications Platform customers,\u201d said Erik Brenneis, CEO of Vodafone Business IoT. \u201cThis collaboration will help customers to expand their operations and accelerate on a global scale with compliant connectivity in over 180 countries worldwide. We look forward to our ongoing partnership with Oracle, where we can connect more customers in more countries.\u201d\n\u201cConnectivity is the heart of industry transformation,\u201d said Andrew Morawski, executive vice-president and general manager of Oracle Communications. \u201cUsing drones to inspect construction job sites, remote monitoring the health of a patient, paying the bill tableside at a restaurant \u2013 none of these scenarios are possible without wireless connectivity and industry-specific applications working in harmony.\n\u201cBy expanding our long partnership with Vodafone and bringing its extensive global network reach and IoT expertise together with Oracle\u2019s, wide-ranging portfolio of industry suites, we can help create new ways to delight customers and deliver new revenue streams.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Oracle taps Vodafone Business to provide global IoT connectivity",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

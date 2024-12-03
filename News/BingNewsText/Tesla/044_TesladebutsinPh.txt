@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Louella Desiderio"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-09 00:00:00",
+    "description": "Tesla made its official debut in the Philippines yesterday as it opened its showroom at the Uptown Parade in Taguig and unveiled two vehicle models.",
+    "filename": ".json",
+    "image_url": "https://media.philstar.com/photos/2024/11/08/2_2024-11-08_18-49-22.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "MANILA, Philippines \u2014 Tesla made its official debut in the Philippines yesterday as it opened its showroom at the Uptown Parade in Taguig and unveiled two vehicle models.\n\u201cTesla is officially in this country, supporting our customers, our partners,\u201d Tesla regional director Isabel Fan said during yesterday\u2019s launch.\nWith Tesla\u2019s launch in the Philippines, she said the company is now present in 50 countries.\nCovering 1,904 square meters, the Tesla Experience Center at Uptown Parade is the company\u2019s first showroom in the country, offering a seamless, one-stop solution for all aspects of ownership \u2013 from sales and delivery to service.\nAlso launched yesterday were Tesla vehicle models, the Model Y and Model 3.\nModel Y, which was crowned as the world\u2019s best-selling vehicle for 2023, is priced at P2.369 million for the rear-wheel-drive variant, P2.689 million for the long variant and P3.299 million for the performance variant.\nMeanwhile, the price for the Model 3 starts at P2.109 million for the rear-wheel-drive variant. The long-range variant is priced at P2.489 million and the performance variant retails for P3.099 million.\nFan said more Tesla vehicle models would be rolled out in the country in the future.\nAs Tesla designs, manufactures, owns and operates the world\u2019s largest fast-charging network, the company also announced that the first indoor supercharger station in the country will open soon at Uptown Mall.\nWith Tesla Supercharging, a Model Y at peak efficiency of 250 kilowatts can charge up to 120 kilometers in just five minutes.\nThe supercharging service will be available on a pay-per-use basis at P19 per kilowatt-hour.\nA full charge for Tesla vehicles will cost P1,140.\nAlliance Global Group Inc. president and CEO Kevin Tan told reporters that apart from the lease agreement for Tesla\u2019s Experience Center, the firms have a separate agreement covering the deployment of charging stations.\n\u201cThey will deploy all their charging stations all over our malls and our properties,\u201d Tan said.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla debuts in Philippines",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

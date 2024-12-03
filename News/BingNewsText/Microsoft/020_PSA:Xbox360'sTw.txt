@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Ben Kerry",
+        "Pure Xbox"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 18:00:00",
+    "description": "Just a gentle reminder! - For a while now, a bunch of older Xbox games have been free to claim via the Microsoft Store, particularly from the Xbox 360 genera...",
+    "filename": ".json",
+    "image_url": "https://images.purexbox.com/26727f53b1c28/1280x720.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "For a while now, a bunch of older Xbox games have been free to claim via the Microsoft Store, particularly from the Xbox 360 generation. Well, two of those games are Crackdown 1 & 2, and there's been lots of social media talk today about them being free - so we thought we'd bring them to your attention once again.\nYep, both of these Xbox 360 Crackdown games are \u2014 and have been for years \u2014 free to add to your Microsoft account on the modern Xbox storefront. Xbox influencer Klobrille has posted about them recently and got quite a few interactions - even they themselves weren't aware that the two games were free to claim!\nWe know that most of you here will probably be aware of this pair of freebies, but clearly, not everyone in the Xbox community knows about this. In that case, we'll throw the Xbox links to these two games down below - it's worth checking your account to make sure you have them claimed and tied to your Xbox profile for future use.\nCrackdown (Xbox Store)\nCrackdown 2 (Xbox Store)\nIt gets even better than that, actually. If you check the above store links, both of these games have a bunch of additional DLC that's also free to claim. Even if you have the games themselves, it's worth adding these DLC packs to your account too - in case they're taken down at any stage in future.\nCrackdown and Crackdown 2 are completely playable on Xbox One and Xbox Series X|S via backwards compatibility as well, which is another nice bonus here. Anyway, if you weren't aware of this pair of freebies, we hope you enjoy these classic Crackdown games - entirely free on Xbox!",
+    "source_domain": null,
+    "text": null,
+    "title": "PSA: Xbox 360's Two Crackdown Games Are Free On The Microsoft Store",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "PC Mag"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:09:42",
+    "description": "In the interim, the US chip giant will be led by CFO David Zisner and Michelle Johnston Holthaus, the head of Intel products.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/ESH8ObUJjqoyLlOSXiP7cA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/f263221a5d5611c5b3f875029bf94df1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.\nIn a shocker, Intel CEO Pat Gelsinger has stepped down after almost four years at the top.\nIntel announced 63-year-old Gelsinger\u2019s abrupt retirement on Monday morning. He will also step down from the company\u2019s board of directors, effective Dec. 1.\nIntel's board hints that it lost confidence in Gelsinger, who took over as CEO in February 2021 with the goal of restoring the company\u2019s chip manufacturing prowess.\n\"While we have made significant progress in regaining manufacturing competitiveness and building the capabilities to be a world-class foundry, we know that we have much more work to do at the company and are committed to restoring investor confidence,\u201d said Frank Yeary, who has taken over as independent chair of Intel\u2019s board.\nYeary also indicated that Intel desperately needs to shore up its products, which include chips for PCs, servers, and AI-powered data centers. \u201cAs a board, we know first and foremost that we must put our product group at the center of all we do. Our customers demand this from us, and we will deliver for them,\u201d he said.\nMeanwhile, Gelsinger said in the announcement: \u201cToday is, of course, bittersweet as this company has been my life for the bulk of my working career. I can look back with pride at all that we have accomplished together. It has been a challenging year for all of us as we have made tough but necessary decisions to position Intel for the current market dynamics.\u201d\nAs CEO, one of Gelsinger\u2019s main bets was building out a chip foundry business, making it a manufacturing processor for third-party clients like Apple, Nvidia, and Qualcomm. Intel spent billions on new chip fabs, inflating its costs, when many companies, including AMD, stuck with rival foundry TSMC out of Taiwan to produce leading-edge chips. Some of Intel\u2019s latest processors even use TSMC\u2019s own manufacturing tech.\nThe jury\u2019s still out on whether Gelsinger\u2019s focus on chip manufacturing will pay off. But during his tenure, Gelsinger missed out on another major market in AI chips. Nvidia has filled that gap with great success. Intel\u2019s struggles to engineer a turnaround became apparent this year when the company announced it was laying off 15,000 employees to cut costs amid slowing demand for the company\u2019s chips and a voltage bug in Intel\u2019s \u201cRaptor Lake\u201d processors.\nIntel\u2019s board has already formed a CEO search committee. In the meantime, two interim co-CEOs will lead the company: Intel CFO David Zisner and the head of Intel products, Michelle Johnston Holthaus.\nYeary added: \u201cWith Dave and MJ\u2019s leadership, we will continue to act with urgency on our priorities: simplifying and strengthening our product portfolio and advancing our manufacturing and foundry capabilities while optimizing our operating expenses and capital. We are working to create a leaner, simpler, more agile Intel.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Intel CEO Pat Gelsinger Steps Down Amid Struggles at the Chipmaker",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Kris Holt"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 13:20:18",
+    "description": "Our pick for the best set-top streaming box is on sale in a Cyber Monday deal. At $79, the 2024 Roku Ultra is available for $20 off.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/6bx0jOc.aVjqM6nGi3xUEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/17d7b540-b0b0-11ef-bed7-c086a630f4dd",
+    "language": "en",
+    "localpath": null,
+    "maintext": "While pretty much every TV is a smart TV these days, you might still want a dedicated streaming box to do the heavy lifting \u2014 or maybe you'd like to have one for a projector. There are a number of Cyber Monday deals on streaming devices, including the latest Roku Ultra. That box has dropped by $20 to $80, which is an all-time low-price for the streaming box.\nRoku unveiled the 2024 Ultra in September. It claims that the device is at least 30 percent faster than any of its other players. As such, apps should load quickly and moving around the user interface should feel zippy.\nThe previous version is our pick for the best set-top streaming box (we're currently testing the 2024 model). The Roku Ultra offers 4K streaming with HDR10+ and Dolby Vision, as well as Dolby Atmos audio. It supports Wi-Fi 6 connectivity and you can plug in an Ethernet cable as well.\nThis model comes with a second-gen Voice Remote Pro, which boasts backlit buttons and USB-C charging, though Roku says it should run for up to three months on a single charge. Other features include hands-free voice control and a lost remote finder function. Roku ditched the headphone jack for wired listening this time around, unfortunately, but you can still connect wireless headphones to the Roku Ultra via Bluetooth.\nThe Roku Channel offers more than 400 free, ad-supported streaming channels, along with on-demand shows and movies. The Roku Ultra is also compatible with Alexa, Google Assistant, Apple HomeKit and AirPlay.\nIn addition to the latest Ultra, you can save on a number of other Roku devices for Cyber Monday. The most affordable of the bunch is the Roku Express HD, which is down to only $18, and the Roku Streambar SE is on sale for $69 \u2014 only $10 more than its record low.\nIn case you need a new flatscreen to actually plug your Roku devices into, there are a ton of Cyber Monday deals on TVs as well. Hisense models are up to $602 off and you can get a similar discount on the latest model of the 55-inch Frame TV from Samsung. The prices of some TCL and Sony Bravia TVs have also dropped by hundreds of dollars for Cyber Monday.",
+    "source_domain": null,
+    "text": null,
+    "title": "Amazon Cyber Monday deals discount the 2024 Roku Ultra to $79",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

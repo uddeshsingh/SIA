@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Malik Ahmed Khan"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-05 00:00:00",
+    "description": "With strong search and cloud sales spearheading financial results, here\u2019s what we think of Alphabet stock.",
+    "filename": ".json",
+    "image_url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/HwZEPWJ_ZR42IRs4ecHmsusWnmg=/1201x676/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/LDGHWJAL2NFZJBVDHSFFNEULHE.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "With strong search and cloud sales spearheading financial results, here\u2019s what we think of Alphabet stock.\nThe author or authors do not own shares in any securities mentioned in this article. Find out about Morningstar\u2019s editorial policies.",
+    "source_domain": null,
+    "text": null,
+    "title": "After Earnings, Is Alphabet Stock a Buy, Sell, or Fairly Valued?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

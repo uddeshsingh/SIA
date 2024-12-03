@@ -1,0 +1,1281 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Microsoft",
+    "queryContext": {
+        "originalQuery": "Microsoft",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 19900,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Microsoft"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Microsoft&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "AH Real Deal: Grab Microsoft's 2024 Surface Laptop for 25% off",
+            "url": "https://www.msn.com/en-us/technology/consumer-electronics/ah-real-deal-grab-microsoft-s-2024-surface-laptop-for-25-off/ar-AA1uWdtk",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._aZKGvQiHg2R0kK5KFvVmS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Right now Amazon has a pretty awesome deal on the 2024 model of the Microsoft Surface Laptop that brings it down to its all-time low price for Cyber Monday. This deal is for the model that comes with a 13.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a5d482fa-2e60-df06-37fe-cc12bc63003a",
+                    "name": "Qualcomm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e9ebaa66-c3dd-dd96-10a3-2532cebc80e8",
+                    "name": "AI Dungeon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.i6AIwq2PJ-_6zQuxkBFWkw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:08:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Xbox Cyber Monday 2024: 7 best deals on consoles, controllers, games, and more",
+            "url": "https://www.soapcentral.com/lifestyle/xbox-cyber-monday-2024-7-best-deals-consoles-controllers-games",
+            "description": "The Xbox Cyber Monday 2024 sale offers discounts of up to 40% on top titles, and up to 25% on controllers, and bundles a subscription to Game Pass in the process at a discounted price. Here are the 7 best deals on consoles, controllers, games, and more.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "soapcentral",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.rXMx4CaX6Bkhp_2htV3Lrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:41:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Cyber Monday\u2019s ultimate gamer gift list: From Xbox consoles to stocking stuffers under $10",
+            "url": "https://www.windowscentral.com/ultimate-gamer-gift-list-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mMBwUrCpbKGtEpgCToquVy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Looking for a gift for the gamer in your life? We've got something for every budget on this list of gamer gifts",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/595e44be-f445-d997-7d70-92b9f35592e2",
+                    "name": "Xbox"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Windows Central",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.k6WgtcFldEJeVYyScp3IPg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:32:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Google denies funding lobbies against Microsoft's cloud business",
+            "url": "https://www.msn.com/en-us/news/technology/google-denies-funding-lobbies-against-microsoft-s-cloud-business/ar-AA1v9kLg",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.1YBYBU6hf_lEF4psllOxFy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The post Google denies funding lobbies against Microsoft's cloud business appeared first on Android Headlines.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8769d4c0-b645-70ac-03ec-6eebabf6d26e",
+                    "name": "Redmond, Washington"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e95d5e1-1e66-476f-eda0-0bb417a12c37",
+                    "name": "Cloud computing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ff5d80d-ed56-49ad-8130-c58934bdbbf3",
+                    "name": "Mountain View, California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cf3abf7d-e379-2693-f765-6da6b9fa9149",
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/16aeb6d9-9098-0a40-4970-8e46a4fcee12",
+                    "name": "Microsoft Windows"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.i6AIwq2PJ-_6zQuxkBFWkw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "This OLED Surface Pro deal makes it the best 2-in-1 ever made",
+            "url": "https://www.digitaltrends.com/computing/oled-surface-pro-deal-best-2-in-1-cyber-monday/",
+            "description": "I loved the Surface Pro 11th Edition. In my review of it, I tell people to \u201cjust buy it.\u201d If you\u2019ve ever been curious about the Surface Pro, the 11th-generation model feels like the version of this device that I\u2019ve always wanted it to be.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Digital Trends",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.x644vROjZrRe0pKC7YX3XQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:01:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The best AI tools of 2024: all the generative AI apps you need to try",
+            "url": "https://www.digitaltrends.com/computing/best-ai-tools-of-2024/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jBBfNITWe6pc2JOlaq-Exy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "One of the first AI image generators to be released back in 2022, Midjourney has proven immensely popular with users and art critics alike. It can output high-definition, photorealistic images in countless artistic styles based on natural language text prompts.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/274e0ebc-ecac-79ae-6a0b-6b29826770d2",
+                    "name": "Writer's block"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Digital Trends"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Streamer"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Digital Trends",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.x644vROjZrRe0pKC7YX3XQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:38:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "12 Of The Most Important Moments In Microsoft's History",
+            "url": "https://www.slashgear.com/1718888/most-important-moments-microsoft-history/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.rEMpm9BkBgaiEkkcFq5wTi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Microsoft has been a major player in the tech industry for decades. Over those years, it's had a lot of big milestones moments, for better and for worse.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/16aeb6d9-9098-0a40-4970-8e46a4fcee12",
+                    "name": "Microsoft Windows"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0d47c987-0042-5576-15e8-97af601614fa",
+                    "name": "Bill Gates"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/df2c4376-9923-6a54-893f-2ee5a5badbc7",
+                    "name": "Paul Allen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a0d268ef-80dc-73e4-9ff9-98b3a233218a",
+                    "name": "macOS"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2f4e933-bfad-f184-fcf4-20042e4bed36",
+                    "name": "Linux"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "iPod"
+                },
+                {
+                    "name": "Paul Allen"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SlashGear",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.cEtC7h8RK7I-UHn7jMddSA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tech stock gains push Wall Street higher still; CEO of fallen chip giant Intel is out",
+            "url": "https://www.postandcourier.com/tech-stock-gains-push-wall-street-higher-still-ceo-of-fallen-chip-giant-intel-is/article_cc630e54-af2c-11ef-a244-abda32f39d32.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.y9PXf_BpPgVBLCxwtBheSy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "It\u2019s the latest action of more than three years of aggressive antitrust enforcement shepherded by FTC Chair Lina Chan, who was elevated to lead the agency by President Joe Biden after he came into office pledging tougher scrutiny of monopolistic behavior by Big Tech companies.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c3ea5c5-8119-f4b3-5019-aeed4f2f1843",
+                    "name": "Nasdaq Composite"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Post and Courier",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.70-LnngeSG1sW2m_LvztaA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:30:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Amazon is giving its data centers a facelift for the generative AI age",
+            "url": "https://www.aol.com/finance/amazon-giving-data-centers-facelift-203052540.html",
+            "description": "Amazon ( AMZN) is giving its massive Amazon Web Services (AWS) data centers a facelift. The company announced it\u2019s improving the efficiency, availability, and design of its enormous computing facilities to keep them up and running for its customers and provide them with the kind of processing power they need to run new generative AI applications.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1cb8ca46-c867-a19a-b118-0f594a12fafe",
+                    "name": "Yahoo! Finance"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Crash Team Racing Nitro-Fueled Coming to Xbox Game Pass This Week",
+            "url": "https://comicbook.com/gaming/news/crash-team-racing-nitro-fueled-xbox-game-pass-december/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qEwYF0LVBnrZxpWoFK4qDS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Crash Team Racing Nitro-Fueled has been confirmed for Xbox Game Pass, and will arrive on the service on December 4th.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/129f6924-50e6-21fe-24cb-b295d2a6fb46",
+                    "name": "Crash Team Racing Nitro-Fueled"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f7293b99-cac1-73a7-b795-68dc144f916c",
+                    "name": "Xbox Game Pass"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7177e076-a99e-fcb5-79b3-ef3ed49b2e35",
+                    "name": "Cloud gaming"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dfab1a49-5d28-7c44-c663-c3edf3d04ce4",
+                    "name": "Crash Bandicoot N. Sane Trilogy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/446bb4df-4999-4243-84c0-74e0f6c60e75",
+                    "name": "Xbox One"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ecd2ed7d-44b6-a799-c94d-83afafce49d4",
+                    "name": "Crash Team Racing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Comicbook.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.d109Qnj73ziF2m9cSI1bpg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:20:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Rising tech stocks pull Wall Street to another record",
+            "url": "https://www.latimes.com/business/story/2024-12-02/stock-market-today-rising-tech-stocks-pull-wall-street-to-another-record",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3N2kdy2ab7qIGdMyaK17HC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "NEW YORK \u2014 Technology stocks pulled Wall Street to another record amid a mixed Monday of trading. The Standard & Poor\u2019s 500 rose 0.2% from its all-time high set on Friday to post a record for the 54th time this year. The Dow Jones industrial average fell 128 points, or 0.3%, while the Nasdaq composite gained 1%.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caeb7b9a-f5d7-4686-8fb5-cf7628296b13",
+                    "name": "New York"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Los Angeles Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.wKX1xpM7bmNj7V_rB5JVyQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:19:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "FTC opens Microsoft antitrust investigation that Trump administration must carry on or drop",
+            "url": "https://apnews.com/article/microsoft-ftc-antitrust-lina-khan-trump-biden-1b8983bec2ad1b2e943fb25c5b27619b",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.naQDIryuqiHGbKALhFoHfy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsoft\u2019s business practices, starting off a big legal project that an incoming Trump administration must take up or abandon.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e644cf8f-c63e-4ce6-f2cd-e5bfcbffdef8",
+                    "name": "Federal Trade Commission"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e95d5e1-1e66-476f-eda0-0bb417a12c37",
+                    "name": "Cloud computing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2843a2b-80fd-2fa0-10d0-97b51563ffcb",
+                    "name": "Associated Press"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2ab1653-88ca-883f-d290-5a104eddd881",
+                    "name": "Lina Khan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cad484f9-be75-7a78-12dd-16233f823cd7",
+                    "name": "Joe Biden"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Associated Press",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.AlMAEy7MoWNz0OI_xSWQiw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:16:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Pat Gelsinger Suddenly Retires After Three Rough Years as Intel CEO",
+            "url": "https://gizmodo.com/pat-gelsinger-suddenly-retires-after-three-rough-years-as-intel-ceo-2000532939",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.ImvBtW5_Gr_KlCBwry9jHi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Intel's stock price has seen better days, but Pat Gelsinger has also led the company through numerous scandals with its latest processors.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Gizmodo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BmhW-V67ouY4VKCzJMDoqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:03:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Decision Tree Regression from Scratch Using C#",
+            "url": "https://visualstudiomagazine.com/Articles/2024/12/02/Decision-Tree-Regression-from-Scratch-Using-Csharp.aspx",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.p6EJIcpgYxREBqSZDY65RS&pid=News",
+                    "width": 647,
+                    "height": 450
+                }
+            },
+            "description": "Dr. James McCaffrey from Microsoft Research presents a complete end-to-end demonstration of decision tree regression using the C# language. Unlike most implementations, this one does not use recursion or pointers,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f85986a4-3126-0423-6d1d-7a1f6d71e607",
+                    "name": "Microsoft Research"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c9087040-8012-25fd-bd0f-e8aba27b211a",
+                    "name": "C Sharp"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dd03e438-78b0-57a8-5a54-b6ae045abb6e",
+                    "name": "Recursion"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/51ced4de-b878-8aef-96cc-784f99351c27",
+                    "name": "Machine learning"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6e264f2f-0c40-3ea2-ccdf-90f85412c536",
+                    "name": "Random forest"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4cd848a1-ea46-27f4-0c68-bbdb089ac626",
+                    "name": "Gradient boosting"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Visual Studio Magazine",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ruCFB9xZNHBvnBiHBp7uQQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:39:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Another Activision Blizzard gem is crashing onto Xbox Game Pass in *checks watch* two days",
+            "url": "https://www.windowscentral.com/gaming/xbox/another-activision-blizzard-gem-is-crashing-onto-xbox-game-pass-in-checks-watch-two-days",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.9Ac6rQbViAKHlpkfQDuY4S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Crash Team Racing Nitro-Fueled is joining the Xbox Game Pass lineup on Dec. 4, 2024. A handful of other Activision Blizzard games from the company's catalogue have been added to Xbox Game Pass in recent months, including Call of Duty: Modern Warfare 3, Crash Bandicoot N. Sane Trilogy, and the Spyro Reignited Trilogy.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/255c3e93-5c0b-af36-aa41-0636d019a343",
+                    "name": "Activision Blizzard"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f7293b99-cac1-73a7-b795-68dc144f916c",
+                    "name": "Xbox Game Pass"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/129f6924-50e6-21fe-24cb-b295d2a6fb46",
+                    "name": "Crash Team Racing Nitro-Fueled"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/446bb4df-4999-4243-84c0-74e0f6c60e75",
+                    "name": "Xbox One"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bd77b8aa-912d-4915-8051-0dac13977f92",
+                    "name": "PlayStation 4"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b3d617ef-81fc-4188-9a2b-a5cf1f8534b5",
+                    "name": "Nintendo Switch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ba05419e-d44d-a97f-bc76-293ac818ddac",
+                    "name": "Beenox"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ecd2ed7d-44b6-a799-c94d-83afafce49d4",
+                    "name": "Crash Team Racing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/904c0d36-a9d2-bfdb-7d81-805eed13adfb",
+                    "name": "Naughty Dog"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/010c4945-9d63-4d55-672d-0124690d0559",
+                    "name": "Call of Duty: Modern Warfare 3"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dfab1a49-5d28-7c44-c663-c3edf3d04ce4",
+                    "name": "Crash Bandicoot N. Sane Trilogy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27257653-d5fb-2f7c-cadb-4c68287a99f3",
+                    "name": "Spyro Reignited Trilogy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Microsoft Windows"
+                },
+                {
+                    "name": "Xbox"
+                },
+                {
+                    "name": "Fueled"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Windows Central",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.k6WgtcFldEJeVYyScp3IPg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:35:00.0000000Z"
+        },
+        {
+            "name": "I'm a Tech Editor, and These Are My Favorite Cyber Monday Deals for Xbox, PlayStation, Switch, and PC Gamers",
+            "url": "https://lifehacker.com/tech/cyber-monday-gaming-deals-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.MzJwGNSX1hCs9FupZS4ZGi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "For Cyber Monday, gaming consoles, accessories, collectibles, and games are on sale across Amazon, Best Buy, and more.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/595e44be-f445-d997-7d70-92b9f35592e2",
+                    "name": "Xbox"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2b485a35-f5af-47ad-5cee-6c53599255fe",
+                    "name": "PlayStation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Lifehacker",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DqMYTp7y31wqjjz4HSdQBA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:31:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Top 5 Cyber Security Trends for 2025",
+            "url": "https://www.techrepublic.com/article/cyber-security-trends-2025/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.DLTx1DhSIW2WDlWS30zw5y&pid=News",
+                    "width": 700,
+                    "height": 450
+                }
+            },
+            "description": "TechRepublic asked cyber experts to predict the top trends that will impact the security field in 2025. The cyber landscape is more turbulent than ever. Microsoft recently reported a 2.75-fold increase in ransomware attempts this year, while research predicts that global cyber attacks in 2024 will surge 105% compared to 2020.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/70613fe1-d443-d6ea-802b-fe21a016e0f5",
+                    "name": "TechRepublic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/50b344db-4d21-b4bf-f3e0-335c1a6fce11",
+                    "name": "Ransomware"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRepublic",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.iIj0BXhILAa8fn4e7Ly-qw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Microsoft Gets Aggressive, Now Warns You If You're Running Windows 11 on Incompatible Hardware",
+            "url": "https://www.yahoo.com/tech/microsoft-gets-aggressive-now-warns-180500059.html",
+            "description": "\"If you proceed with installing Windows 11, your PC will no longer be supported and won't be entitled to receive updates.\"",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1f32a259-3c97-2e18-db29-a649f4f98336",
+                    "name": "Windows 10 version history"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2b44bae-038f-3207-e3f5-c135b6da0e07",
+                    "name": "XDA Developers"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:23:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Office 2019: Your Lifetime Secret Weapon to Productivity Wins",
+            "url": "https://www.yahoo.com/tech/office-2019-lifetime-secret-weapon-180838677.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qXsK_rHNwGJEJEi-hEh1rS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Managing work, school, or personal projects can feel overwhelming \u2014 but not when you\u2019ve got Microsoft Office 2019 on your side. This powerhouse suite packs everything you need to stay organized and productive, all in one seamless package for $32.97.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a012213e-f970-bbc0-9652-57a07be959fd",
+                    "name": "PCMag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5062ef6a-f61a-7092-5e1e-a4ac6d1abb88",
+                    "name": "Microsoft Office 2019"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0b2501aa-c5fc-ce67-e571-adbb84a0fd38",
+                    "name": "Excel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/28236e5c-5250-d18f-9d92-218fa0261f7c",
+                    "name": "Microsoft PowerPoint"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/504bc49f-be34-2f05-6e67-95aa9389a765",
+                    "name": "Microsoft Outlook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7742e5f2-8908-85f9-ff46-81ca22f02372",
+                    "name": "Microsoft OneNote"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a53ab160-26c3-3940-58a9-811ee9984bb8",
+                    "name": "Microsoft Publisher"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/381da2a2-5ec7-43a0-7a49-e426ef4cf0bd",
+                    "name": "Microsoft Access"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:08:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "PSA: Xbox 360's Two Crackdown Games Are Free On The Microsoft Store",
+            "url": "https://www.purexbox.com/news/2024/12/psa-xbox-360s-two-crackdown-games-are-free-on-the-microsoft-store",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.KuMJyPuOMVRZ0UESP48hdi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "For a while now, a bunch of older Xbox games have been free to claim via the Microsoft Store, particularly from the Xbox 360 generation. Well, two of those games are Crackdown 1 & 2, and there's been lots of social media talk today about them being free - so we thought we'd bring them to your attention once again.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82a0c928-4999-b42c-98a7-eb4aaca0eaeb",
+                    "name": "Xbox 360"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/595e44be-f445-d997-7d70-92b9f35592e2",
+                    "name": "Xbox"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/77154678-a2a4-4217-9afc-d96235dbe5fe",
+                    "name": "Microsoft Store"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "purexbox",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.SQBrUC9sx5dquEnXu9mHUA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:39:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Several new features are coming to Windows 11 24H2 this month",
+            "url": "https://www.pcworld.com/article/2542404/several-new-features-are-coming-to-windows-11-24h2-this-month.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.vGoHvL2rh2o8Vgzt_-Vtxi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "According to Windows Latest, the December update for Windows 11 24H2 is going to be packed with several big features and changes. Not surprising given that it\u2019s Microsoft\u2019s last update of the year.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/97c56691-50ac-ea57-2d04-02000b21b6c7",
+                    "name": "Screenshot"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Microsoft Windows"
+                },
+                {
+                    "name": "PC World"
+                },
+                {
+                    "name": "Microsoft"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC World",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.OnJZaVfSVEEHyuMeLgxeZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T15:45:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Microsoft Remains A Cautious Buy Despite Valuation Concerns",
+            "url": "https://seekingalpha.com/article/4741345-microsoft-remains-a-cautious-buy-despite-valuation-concerns",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JdhEJzYSp29avfYaCwy-0y&pid=News",
+                    "width": 612,
+                    "height": 459
+                }
+            },
+            "description": "Microsoft has sustained growth driven by strong management and capital allocation. Read what makes MSFT stock a cautious buy despite a slim margin of safety.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b6c6d65c-4f80-60fb-2799-08ad9229faf7",
+                    "name": "Microsoft Office"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cf3abf7d-e379-2693-f765-6da6b9fa9149",
+                    "name": "Microsoft Azure"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/16aeb6d9-9098-0a40-4970-8e46a4fcee12",
+                    "name": "Microsoft Windows"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T09:03:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "How to use Bing: Microsoft reinvented its search engine to incorporate AI",
+            "url": "https://www.businessinsider.com/microsoft-bing",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.YCJZvJVxLbShSRnb50NJ9i&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Bing is Microsoft's AI-powered search engine, developed with OpenAI. Here's how to use the chatbot.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1878d09e-59d3-4e8c-8580-ca67d2ec2d2d",
+                    "name": "Microsoft Bing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5c777e34-cf04-fc62-9a0c-caf8e739a939",
+                    "name": "History of Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bbc827af-8bb5-79d7-a3ad-507b6ab37621",
+                    "name": "Prometheus"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9b131545-38a3-0bb6-c48a-345435a9a0a6",
+                    "name": "OpenAI"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T11:35:00.0000000Z",
+            "video": {
+                "name": "Volkswagen is using AI to speed up and scale marketing, while also integrating ChatGPT into its vehicles, says CMO Susanne Franz",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/wus003/30c19ab1-1f45-41b7-bc26-eed3c4aeb5d1/f98d1f31-4e99-45ff-bf02-13ae16c1ba51_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Buy a Microsoft Project Pro or Microsoft Visio Pro license for $18 right now",
+            "url": "https://www.zdnet.com/article/buy-a-microsoft-project-pro-or-microsoft-visio-pro-license-for-18-right-now/",
+            "description": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the Multicloud The Future of the Internet ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ZDNet"
+                }
+            ],
+            "datePublished": "2024-11-15T13:00:00.0000000Z"
+        },
+        {
+            "name": "Microsoft fixes dozens of security flaws in Windows and Office",
+            "url": "https://www.pcworld.com/article/2519422/microsoft-fixes-dozens-of-security-flaws-in-windows-and-office.html",
+            "description": "November\u2019s Patch Tuesday has finally come, and with it Microsoft has eliminated 89 security vulnerabilities across Windows and other Microsoft apps and services. Four of those vulnerabilities ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC World"
+                }
+            ],
+            "datePublished": "2024-11-13T15:23:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Microsoft\u2019s startup story: How the company became a tech giant, and what we can learn from it today",
+            "url": "https://www.geekwire.com/2024/a-new-look-at-microsofts-startup-story-with-insights-for-today-microsoft-50-chapter-2/",
+            "description": "Microsoft co-founders Paul Allen, left, and Bill Gates with an array of personal computers in the early 1980s. Microsoft\u2019s decision to make software, rather than produce a PC of its own ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GeekWire"
+                }
+            ],
+            "datePublished": "2024-11-13T11:22:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Microsoft introduces new adapted AI models for industry",
+            "url": "https://blogs.microsoft.com/blog/2024/11/13/microsoft-introduces-new-adapted-ai-models-for-industry/",
+            "description": "Underpinning these adapted AI models is the Microsoft Cloud, our platform for industry innovation. By integrating the Microsoft Cloud with our industry-specific capabilities and a robust ecosystem of partners, we provide a secure approach to advancing ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Microsoft"
+                }
+            ],
+            "datePublished": "2024-11-13T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Microsoft 'resolves' and 'mitigates' Windows Server 2025 update whoopsie",
+            "url": "https://www.theregister.com/2024/11/11/microsoft_windows_2025_mitigated/",
+            "description": "Microsoft has finally admitted that some instances of Windows Server 2019 and 2022 were unexpectedly upgraded to Windows Server 2025. The company updated its Release Health Dashboard over the weekend to confirm that some devices were indeed upgraded ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "theregister"
+                }
+            ],
+            "datePublished": "2024-11-11T14:18:00.0000000Z"
+        },
+        {
+            "name": "Here\u2019s How to Get Microsoft 365 for Free for No-Cost Word, Excel and PowerPoint",
+            "url": "https://www.cnet.com/tech/services-and-software/how-to-get-microsoft-365-for-free/",
+            "description": "You can get a heap of apps, including Microsoft Office, PowerPoint and Excel at no cost, whether you're a student, teacher or just on a budget. Here's how to get Microsoft 365 for free. Managing ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNET"
+                }
+            ],
+            "datePublished": "2024-11-10T13:00:00.0000000Z"
+        },
+        {
+            "name": "Microsoft Reveals New Upgrade Warning For 850 Million Windows Users",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/11/08/microsofts-next-upgrade-move-new-warning-for-850-million-windows-users/",
+            "description": "If you\u2019re one of the 850 million Microsoft users stubbornly sticking to Windows 10, despite all the efforts to push you (and a technically compliant PC) over to Windows 11, then you can now pay ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-08T14:13:00.0000000Z"
+        },
+        {
+            "name": "Microsoft is bundling its AI-powered Office features into Microsoft 365 subscriptions",
+            "url": "https://www.theverge.com/2024/11/7/24290268/microsoft-copilot-office-features-microsoft-365",
+            "description": "Microsoft appears to be stepping back from charging Microsoft 365 Personal and Home subscribers another $20 per month to get access to AI-powered Office features. The software giant quietly ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Verge"
+                }
+            ],
+            "datePublished": "2024-11-07T12:36:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The latest on AI at work: November 2024",
+            "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/11/07/the-latest-on-ai-at-work-november-2024/",
+            "description": "For Microsoft and our customers, work is changing at the speed of AI. To help you stay ahead, we\u2019ll share monthly highlights of new Microsoft Copilot innovations, plus the latest from our customers on how they\u2019re getting the most value from Copilot.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Microsoft"
+                }
+            ],
+            "datePublished": "2024-11-07T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Microsoft 365 Consumer Subscriptions Get a Price Increase And New Copilot Features in Select Markets",
+            "url": "https://www.thurrott.com/cloud/312719/microsoft-365-consumer-subscriptions-get-a-price-increase-and-new-copilot-features-in-select-markets",
+            "description": "Microsoft is upgrading its Microsoft 365 Personal and Family subscriptions with new Copilot features in select Asian countries. Subscribers in Australia, New Zealand, Malaysia, Singapore ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Thurrott"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Why You Should Buy A New Microsoft Windows PC In 2025",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/11/02/why-you-should-buy-a-new-microsoft-windows-pc-in-2025/",
+            "description": "All change for Microsoft users this week, with the surprising news that Windows 10 won\u2019t be going quite as end-of-life as expected in October next year. You can have another year of security ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-02T07:51:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Microsoft forecasts slower cloud business growth in second quarter",
+            "url": "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2024-10-30/",
+            "description": "Microsoft forecast second-quarter Azure revenue growth of 31% to 32% Capital expenditures rose 5.3% to $20 billion Quarterly earnings are first since company restructured business reporting Oct 30 ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters"
+                }
+            ],
+            "datePublished": "2024-10-30T00:01:00.0000000Z"
+        },
+        {
+            "name": "Microsoft earnings press release available on Investor Relations website",
+            "url": "https://news.microsoft.com/2024/10/30/microsoft-earnings-press-release-available-on-investor-relations-website-24/",
+            "description": "REDMOND, Wash. \u2014 Oct. 30, 2024 \u2014 Microsoft Corp. on Wednesday announced that fiscal year 2025 first-quarter financial results are available on its Investor ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Microsoft"
+                }
+            ],
+            "datePublished": "2024-10-30T00:01:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Data Formulator: Create Rich Visualizations with AI",
+            "url": "https://github.com/microsoft/data-formulator",
+            "description": "Data Formulator is an application from Microsoft Research that uses large language models to transform data, expediting the practice of data visualization. Data Formulator is an AI-powered tool for analysts to iteratively create rich visualizations.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2024-10-01T00:00:00.0000000Z"
+        },
+        {
+            "name": "Welcome to the Windows Terminal, Console and Command-Line repo",
+            "url": "https://github.com/microsoft/terminal",
+            "description": "Install the Windows Terminal from the Microsoft Store. This allows you to always be on the latest version when we release new builds with automatic upgrades. This is our preferred method. For users who are unable to install Windows Terminal from the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2024-09-11T12:21:00.0000000Z"
+        },
+        {
+            "name": "Microsoft says services have recovered after widespread outage",
+            "url": "https://www.bbc.com/news/technology-64397643",
+            "description": "Microsoft services have recovered after tens of thousands of users reported its products, including Outlook and Teams, had stopped working. The company tweeted that its \"impacted services have ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC"
+                }
+            ],
+            "datePublished": "2023-01-25T00:00:00.0000000Z"
+        }
+    ]
+}

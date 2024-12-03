@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "ZimSitRep_M"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-28 04:16:07",
+    "description": "Source: Lawyer in court for US$180K fraud -Newsday Zimbabwe A TOP lawyer this week appeared at the Harare Magistrates Courts facing allegations of fraud involving a US$180 000 botched land deal. Emmanuel Makanyera Mukwewa (49), who is a senior partner with Mukwewa Law Chambers, appeared before Harare magistrate Marehwanazvo Gofa. He was released on US$200 [\u2026]",
+    "filename": ".json",
+    "image_url": "https://www.zimbabwesituation.com/wp-content/uploads/2024/11/tRBvnS9pWzprm3a5rWuSxx0rZVNJUO3EQ8tgewth.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Source: Lawyer in court for US$180K fraud -Newsday Zimbabwe\nA TOP lawyer this week appeared at the Harare Magistrates Courts facing allegations of fraud involving a US$180 000 botched land deal.\nEmmanuel Makanyera Mukwewa (49), who is a senior partner with Mukwewa Law Chambers, appeared before Harare magistrate Marehwanazvo Gofa.\nHe was released on US$200 bail and ordered to report at CID Commercial Crimes once a week, not to interfere with State witnesses and to surrender his passport.\nHe will return to court on January 21 for routine remand pending finalisation of investigations.\nThe complainant is Pacifio Trading Limited, represented by its director Rodger Barney Guy (41).\nThe State alleges that sometime in January this year, Mukwewa and Ernest Chagadama of Oracle Estate (Pvt) Limited allegedly defrauded unsuspecting victims by fraudulently fabricating documents of Lot 1 of 636 of Greendale Township, Harare.\nAs they sought buyers, they allegedly misrepresented that the land in question belonged to Oracle Estate (Pvt) Limited.\nThey set the price at US$180 000.\nAccording to court documents, Guy approached Chagadama and expressed interest and was referred to Mukwewa, the estate\u2019s legal practitioner.\nIt is alleged that Guy instructed Mukwewa to craft an agreement of sale after inspecting the land.\nThe complainant paid the asking price of US$180 000, with half of it put under Mukwewa\u2019s trust fund since it was supposed to be released after conclusion of the transaction.\nGuy realised that he had been duped when Mukwewa became evasive after he received the money.\nIt is at that stage that Guy learnt that the piece of land belonged to the government and not Oracle Estate.\nGuy was prejudiced of US$180 000 and only US$20 000 was recovered.",
+    "source_domain": null,
+    "text": null,
+    "title": "Lawyer in court for US$180K fraud",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

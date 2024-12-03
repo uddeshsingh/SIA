@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2016-09-07 13:17:12",
+    "description": "Charlotte Bront\u00eb (1816\u20131855), Letter to Ellen Nussey, dated Haworth, 7 November 1854, pages 2\u20133",
+    "filename": ".json",
+    "image_url": "https://www.themorgan.org/sites/default/files/facsimile/283622v_0002-p2-3.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Arthur thanks you for the promise. He was out when I commenced this letter, but he is just come in \u2013 on my asking him whether he would give the pledge required in return \u2013 he says \u201cyes we may now write any dangerous stuff we please to each other \u2013 it is not \u201cold friends\u201d he mistrusts, but the chances of war \u2013 the accidental passing of letters into hands and under eyes for which they were never written.\u201d\nAll this seems mighty amusing to me: it is a man\u2019s mode of viewing correspondence \u2013 Men\u2019s letters are proverbially uninteresting and uncommunicative \u2013 I never quite knew before why they made them so. They may be right in a sense. Strange chances do fall out certainly. As to my own notes I never thought of attaching importance to them, or considering their fate \u2013 till Arthur seemed to reflect on both so seriously.\nMr Sowden and his brother were here yesterday \u2013 stayed all night and are but just gone. George Sowden is six or seven years the junior of Sutcliffe Sowden (the one you have seen) he looks very delicate and quiet \u2013 a good sincere man \u2013 I should think \u2013 Mr. S \u2013 asked after \u201cMiss Nussey.\u201d\nI will write again next week if all be well, to name a day for coming to see you \u2013 I am sure you want \u2013 or at least, ought to have a little rest before you are bothered with more company: but whenever I come \u2013 I suppose, dear Nell, under present circumstances \u2013 it will be",
+    "source_domain": null,
+    "text": null,
+    "title": "Letter to Ellen Nussey, 7 November 1854, pages 2\u20133",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

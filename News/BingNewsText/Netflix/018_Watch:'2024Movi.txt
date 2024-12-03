@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Alex Billington"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:43:43",
+    "description": "\"What makes you think I want someone to be in love with me?\" The very first movie trailer mashup 2024 retrospective video has dropped today, created by the London-based movie lover Jed Wagman of Wagman Studios. His \"2024 Movie Mashup\" video is out and ready to watch! Click play for a voyage across time and",
+    "filename": ".json",
+    "image_url": "https://media2.firstshowing.net/firstshowing/img16/2024mashupWagmanmainimgTW1.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "\"What makes you think I want someone to be in love with me?\" The very first movie trailer mashup 2024 retrospective video has dropped today, created by the London-based movie lover Jed Wagman of Wagman Studios. His \"2024 Movie Mashup\" video is out and ready to watch! Click play for a voyage across time and space and cinema - taking us back through the past year. Nearly 7 minutes of footage from nearly every big and small movie in 2024 cut together into an emotional, triumphant, endearing video. These are always so satisfying to watch! Wagman's 2024 movie mashup is also a reminder that if you haven't seen these films yet, you really need to watch them: Kneecap, Sasquatch Sunset (really!), Hundreds of Beavers, It's What's Inside (on Netflix), His Three Daughters (also on Netflix), A Real Pain, Memoir of a Snail, Hit Man (also on Netflix), The Outrun, Sing Sing + many others. Jed adds: \"2024 has been a great year for films! From the delayed and much anticipated releases of Dune: Part Two and Challengers, to Inside Out 2 and Deadpool & Wolverine breaking box office records, there have been so many great films...\" Enjoy this look back at 2024.",
+    "source_domain": null,
+    "text": null,
+    "title": "Watch: '2024 Movie Mashup' Annual Recap Video from Wagman Studio",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

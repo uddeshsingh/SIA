@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Fred Lambert",
+        "Michelle Lewis",
+        "Reinette LeJeune",
+        "Peter Johnson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-01 14:49:07",
+    "description": "Tesla has hired a celebrity ambassador, a departure from Elon Musk\u2019s policy of not paying for celebrity endorsements. Musk has...",
+    "filename": ".json",
+    "image_url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/11/Screenshot-2024-11-01-at-10.32.00%E2%80%AFAM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla has hired a celebrity ambassador, a departure from Elon Musk\u2019s policy of not paying for celebrity endorsements.\nMusk has often bragged about the fact that Tesla doesn\u2019t pay for celebrity endorsements in contrast to other automakers who hire celebrity brand ambassadors to promote their cars.\nMuch like advertising, Musk seems to be abandoning this strategy.\nTesla announced that it hired Olympic shooter Kim Ye-ji, whose performance at the Paris Olympics this summer went viral, to be the automaker\u2019s brand ambassador in Korea.\nKim said about her new partnership with Tesla:\nI\u2019m very excited to work with Tesla, who have recognized me. I hope to convey a positive message together with Tesla.\u201d\nHere are a few pictures released to announce her new partnership with Tesla:\nKim\u2019s agency said that her relationship with Tesla started from CEO Elon Musk tweeting about her viral performance at the Olympics:\n\u201cThe relationship between Kim Ye-ji and Tesla developed after Elon Musk mentioned her. The company said that Kim is Tesla Korea\u2019s first brand ambassador.\u201d\nShe is not only Tesla Korea\u2019s first ambassador, but she is the first known paid celebrity ambassador for Tesla globally.\nThe policy change is not entirely surprising since the policy of Musk not paying celebrities to endorse Tesla\u2019s products was often attached to the automaker\u2019s strategy not to advertise.\nMusk went as far as to say that he \u201chates advertising,\u201d and Tesla started advertising last year.\nThe change in strategy coincidently, or not, came after Musk bought Twitter, a company relying on advertising, and Tesla even started to advertise on Twitter, now called X.\nTesla sales in Korea haven\u2019t been amazing, but the country\u2019s auto market greatly favors domestic brands. The American automaker does fairly well for a foreign brand with the Model Y becoming the best-selling imported vehicle in Korea during the first half of 2024.\nAlthough, it amounted to just over 10,000 units.\nElectrek\u2019s Take\nIt\u2019s a change of strategy, and Elon certainly can\u2019t claim that Tesla doesn\u2019t pay for celebrities to endorse its products, but it is probably a smart move due to the fact that Koreans prefer domestic brands.\nKim could help create a deeper level of attachment to the Tesla brand, but I don\u2019t really know. I\u2019m just speculating.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla hires celebrity ambassador despite Elon Musk saying they don't pay for endorsements",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

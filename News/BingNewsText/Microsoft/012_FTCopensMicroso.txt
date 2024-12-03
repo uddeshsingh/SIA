@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "MATT O'BRIEN",
+        "apnews.com",
+        "matt-obrien"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:34:58",
+    "description": "Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsoft\u2019s business practices, starting off a big legal project that an incoming Trump administration must take up or abandon.",
+    "filename": ".json",
+    "image_url": "https://dims.apnews.com/dims4/default/26103d2/2147483647/strip/true/crop/3000x1688+0+198/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F6c%2F5b25a0afc30b6be5fa87c2d76e29%2Fb10dbc1be9414283881b1d4ae3a0c049",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsoft\u2019s business practices, starting a big legal project that an incoming Trump administration must take up or abandon.\nThe FTC is investigating Microsoft\u2019s cloud computing business and related product lines such as artificial intelligence and cybersecurity, according to a person who was not authorized to discuss details of the investigation publicly and spoke to The Associated Press on condition of anonymity.\nIt\u2019s the latest action of more than three years of aggressive antitrust enforcement shepherded by FTC Chair Lina Khan, who was elevated to lead the agency by President Joe Biden after he came into office pledging tougher scrutiny of monopolistic behavior by Big Tech companies.\nKhan\u2019s FTC already lost one antitrust fight with Microsoft last year when a federal judge declined to block its $69 billion takeover of video game company Activision Blizzard.\nThis case would go deeper into the core of Microsoft\u2019s business in a way the company hasn\u2019t experienced in the U.S. since its antitrust showdown with the Justice Department in the 1990s.\nMicrosoft declined to comment. Bloomberg News first reported about the investigation last week.\nThe case will only move forward if President-elect Donald Trump\u2019s choice to lead the FTC decides to continue the investigation and take it to court. Some analysts are expecting a lighter approach to the tech industry under Trump, though incoming Vice President JD Vance has praised Khan\u2019s work.",
+    "source_domain": null,
+    "text": null,
+    "title": "FTC opens Microsoft antitrust investigation",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

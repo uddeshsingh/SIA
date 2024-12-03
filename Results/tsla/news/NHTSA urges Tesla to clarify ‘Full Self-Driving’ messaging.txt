@@ -1,0 +1,17 @@
+Authors: ['TOM KRISHER']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-08 21:44:17
+Description: The U.S. government’s highway safety agency says Tesla is telling drivers in public statements that its vehicles can drive themselves.
+Filename: .json
+Image_Url: https://dims.apnews.com/dims4/default/b536414/2147483647/strip/true/crop/4195x2360+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F13%2Fc2c11dcc76e33e6545382cd25d83%2F5423dedd9c794ef3b66c3dfc28be7fb7
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: NHTSA urges Tesla to clarify ‘Full Self-Driving’ messaging
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The National Highway Traffic Safety Administration is asking the company to “revisit its communications” to make sure messages are consistent with user instructions. The agency began the investigation in October after getting reports of four crashes involving “Full Self-Driving” when Teslas encountered sun glare, fog and airborne dust. The letter and email raise further questions about whether Full Self-Driving will be ready for use without human drivers on public roads, as Tesla CEO Elon Musk has predicted. In addition, Tesla says on its website that use of Full Self-Driving and Autopilot without human supervision depends on “achieving reliability” and regulatory approval, Magno wrote. In the letter seeking information on driving in low-visibility conditions, Magno wrote that the investigation will focus on the system’s ability to perform in low-visibility conditions caused by “relatively common traffic occurrences.” Drivers, he wrote, may not be told by the car that they should decide where Full Self-Driving can safely operate or fully understand the capabilities of the system.
+Financial_Events: ['Musk spent at least $119 million in a campaign to get Trump elected, and Trump has spoken against government regulations.\nAuto safety advocates fear that if Musk gains some control over NHTSA, the Full Self-Driving and other investigations into Tesla could be derailed.\nMusk even floated the idea of him helping to develop national safety standards for self-driving vehicles.\n“Of course the fox wants to build the henhouse,” said Michael Brooks, executive director of the Center for Auto Safety, a nonprofit watchdog group.\nHe added that he can’t think of anyone who would agree that a business mogul should have direct involvement in regulations that affect the mogul’s companies.\n“That’s a huge problem for democracy, really,” Brooks said.']

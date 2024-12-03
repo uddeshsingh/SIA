@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "MARIA DEUTSCHER",
+        "GUEST AUTHOR",
+        "ROBERT HOF",
+        "PAUL GILLIN"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-28 19:06:35",
+    "description": "Meta reportedly developing custom search engine for its Meta AI chatbot - SiliconANGLE",
+    "filename": ".json",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/Meta-1.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Meta Platforms Inc. plans to integrate a custom search engine into its Meta AI chatbot, The Information reported today.\nThe publication cited sources as saying that the goal is to provide users with information about current events. Meta reportedly began developing the search engine more than eight months ago. The initiative is said to be led by Xueyuan Su, a senior engineering manager at the Facebook parent.\nMeta AI is a ChatGPT-like chatbot that debuted last year. It\u2019s available in Facebook, Instagram, WhatsApp and Messenger as well as through a dedicated website.\nThe chatbot is powered by Llama, a series of large language models that Meta started developing early last year. The most advanced model in the series, Llama 3.1 405B, debuted in July. It outperformed GPT-4o, one of the LLMs that powers ChatGPT, across seven of the 15 benchmark tests with which Meta engineers compared them.\nCurrently, Meta AI relies on technology from Google LLC and Microsoft Corp. to retrieve information about current events. Meta is reportedly developing its custom search engine to reduce its dependence on the two companies. With an in-house search engine, there is no risk of the company\u2019s chatbot losing access to key information because of a change in a third-party component.\nThe development initiative could also provide other benefits for Meta.\nGoogle and Microsoft provide developers with access to their respective search engines through paid application programming interfaces. By switching to an in-house search engine, Meta can avoid the fees associated with those APIs. Additionally, the company can align the feature set of its search engine with its chatbot\u2019s requirements more closely that would be possible with an off-the-shelf service.\nIt\u2019s unclear how Meta\u2019s search engine will work. One possibility is that it will display a standard list of webpage links in response to queries. Alternatively, Meta may be planning to have the service output AI-generated responses that directly answer the user\u2019s question.\nOpenAI is taking the latter route with SearchGPT, a custom search engine it debuted in July. The service answers user queries with AI-generated responses that range in length from one sentence to several paragraphs. Like Meta, OpenAI plans to integrate the search engine into its chatbot.\nMeta\u2019s reported search push is the latest in a series of moves designed to make Meta AI more competitive with ChatGPT.\nLast week, the Facebook parent inked a deal with Reuters to make the news agency\u2019s content available in the chatbot. OpenAI has signed content licensing deals of its own with several publishers. In September, Meta equipped Meta AI with the ability to answer questions about images uploaded by the user, a capability that ChatGPT has offered since 2023.\nOpenAI recently disclosed that 75% of its revenue, which is expected to reach $3.7 billion by year end, comes from consumer subscriptions. That demand may give Meta an incentive to try to make money from Meta AI down the line with a paid version. The chatbot had 185 million weekly users as of August compared with ChatGPT\u2019s 250 million.\nImage: Meta",
+    "source_domain": null,
+    "text": null,
+    "title": "Meta reportedly developing custom search engine for its Meta AI chatbot",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

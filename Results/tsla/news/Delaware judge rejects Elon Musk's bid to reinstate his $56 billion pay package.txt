@@ -1,0 +1,17 @@
+Authors: ['Misty Severi']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2023-09-02 00:00:00
+Description: Musk's legal team argued that McCormick should reverse her earlier decision because Tesla had conducted a shareholder vote to “ratify” the 2018 pay plan at the company's annual shareholder meeting in June.
+Filename: .json
+Image_Url: https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-09/elon-musk.Chesnot.Getty%20Images.jpg?h=9e821982&itok=wvtnQswt
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Delaware judge rejects Elon Musk's bid to reinstate his $56 billion pay package
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A Delaware judge on Monday rejected Tesla CEO Elon Musk's bid to reinstate a multi-billion dollar pay package, upholding her previous ruling that the package was improperly granted. Musk's legal team argued that McCormick should reverse her earlier decision because Tesla had conducted a shareholder vote to “ratify” the 2018 pay plan at the company's annual shareholder meeting in June, per CNBC. “Were the court to condone the practice of allowing defeated parties to create new facts for the purpose of revising judgments, lawsuits would become interminable," she wrote. The lawsuit was filed after Musk agreed in 2018 to spend the next decade working as Tesla's CEO or executive chairman and chief product officer in exchange for 20.3 million stock options that had an estimated value at the time of about $55 billion. The pay plan was considered the largest in U.S. history for a public CEO.
+Financial_Events: []

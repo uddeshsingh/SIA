@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Bill McColl"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 13:32:00",
+    "description": "Tesla shares advanced to their highest level in two-and-a-half years as two analysts wrote optimistic opinions about the EV maker's future.",
+    "filename": ".json",
+    "image_url": "https://www.investopedia.com/thmb/uOw7gDNjVPshXQ6bdfNZ2Zp4tPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2186912897-9b641b8a43794878a136520f6c3e2953.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla (TSLA) shares rose Monday as two analysts offered optimistic outlooks for the electric vehicle maker.\nRoth Capital Partners upgraded the stock to \u201cbuy\u201d from \u201cneutral,\u201d setting a price target of $380\u2014,nearly $300 more than its previous position. In a note to clients, Roth said CEO Elon Musk\u2019s close relationship with President-elect Donald Trump will likely increase demand for Tesla vehicles.\nStifel also significantly lifted its price target, raising it $124 to $411 while maintaining a \"buy\" rating on the stock. The analysts, led by Stephen Gengaro, also pointed to Tesla\u2019s self-driving technology, as well as its CyberCab robotaxi, according to reports.\nShares of Tesla, recently up more than 3%, recently traded at their highest level in two-and-a-half years, changing hands a bit below $360. Wall Street's average price target is below current levels at near $280, according to Visible Alpha data.\nRoth's report noted that it's anticipated Trump will end the $7,500 federal tax credit for EV buyers, which \u201cshould indirectly benefit Tesla, as we expect mainline OEM competitors to continue their retreat from the EV market.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "More Analysts Are Backing Tesla Stock-And the Shares Are Rising",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

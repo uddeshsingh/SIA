@@ -1,0 +1,17 @@
+Authors: ['Samantha Kelly']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-11 00:00:00
+Description: Tesla workers are already hailing robotaxis as part of a test program, Musk says. But a full-blown service requires regulatory approval and could face challenges.
+Filename: .json
+Image_Url: https://www.cnet.com/a/img/resize/15399089cbce14ff0a8280a781b4f94b04b46a72/hub/2024/10/11/d597328a-fdd0-400a-9c0c-79e60557969e/image-10.png?auto=webp&fit=crop&height=675&width=1200
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Musk Says Tesla Robotaxi Service Could Debut in 2025, but Questions Remain
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Tesla plans to launch its self-driving robotaxi service in California and Texas next year, CEO Elon Musk said during an earnings call Wednesday, but the effort requires regulatory approval and could face challenges. The CEO's remarks come nearly two weeks after Tesla held a splashy but strange press event at Warner Bros. Studios in Los Angeles, where it unveiled an autonomous robotaxi vehicle it calls the "Cybercab" alongside 6-foot tall semiautonomous humanoid robots. The news outlet noted that Waymo conducted millions of miles of testing over several years before receiving its first permit from the California agency that oversees ride-hailing services. It also said that though Texas has fewer regulatory requirements for autonomous vehicles when compared with California, companies "often test for months or years before deploying paid services." Musk also proposed a Tesla robotaxi service back in 2019, saying the goal was to have a million such taxis in testing without passengers by the end of 2020 -- something that also didn't materialize.
+Financial_Events: ['Tesla plans to launch its self-driving robotaxi service in California and Texas next year, CEO Elon Musk said during an earnings call Wednesday, but the effort requires regulatory approval and could face challenges.\nTesla is already testing the robotaxi service among employees in the San Francisco Bay Area, Musk said']

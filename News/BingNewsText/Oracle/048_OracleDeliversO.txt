@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "David Chou"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-03 14:23:33",
+    "description": "At the Oracle Health Summit this week, Oracle unveiled its newly built EHR, set for release in 2025 for early adopters.",
+    "filename": ".json",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/67258b549e60113753837a0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "language": "en",
+    "localpath": null,
+    "maintext": "At the Oracle Health Summit, Oracle unveiled its newly built EHR, set for release in 2025 for early adopters. After previewing the product, I noted its modern design, which incorporates its clinical AI agent that enables hands-free documentation and patient queries, decreasing the use of traditional keyboard and mouse clicks. Meanwhile, major healthcare systems like Intermountain Health, the University of Pittsburgh Medical Center, and AdventHealth have already signaled plans to move away from Oracle's EHR. With this announcement, the question remains: can Oracle convince healthcare CIOs to reconsider their choices?\nTwo considerations that matter most to healthcare CIOs and technology leaders are:\nHealthcare ERP Decision\nHealthcare organizations are facing another enterprise system decision: their outdated back office ERP software requires evaluating vendors and transitioning to a cloud ERP solution. Oracle has a proven cloud ERP solution that many healthcare organizations already use. One thought is, should they also stay or continue with the newly built Oracle EHR vs. switching systems so that the two largest enterprise software (ERP and EHR) remain on one platform?\nThe industry has struggled with the ease of integration between their ERP and EHR systems to generate insights that can help drive operational efficiency. Leaning on one vendor platform will make integrating back office data and clinical data management easier while assisting healthcare CIOs in reducing the number of point solutions in their portfolio.\nIt will be interesting to see whether having Oracle's cloud ERP solution will influence a healthcare organization's decision to adopt or remain with Oracle's new EHR.\nMergers And Acquisitions Strategy\nMergers and acquisitions remain strong as we start seeing large systems integrating with a peer of similar size or acquiring a smaller organization to roll into the enterprise. One of the traditional strategies healthcare CIOs utilize is EHR system consolidation, which is complex as it is a new system implementation that includes a lot of change management costs. The thought process behind system consolidation is to centralize the technology tools and potential operating model, while the acquiring organization believes they have better technology and operational efficiencies.\nHealthcare CIOs and executives can reconsider their EHR strategy during mergers and acquisitions if the organization acquires a hospital using Oracle's EHR. Staying with the current system can significantly reduce expenses and provide time to assess whether consolidating to a single EHR across the enterprise is necessary. Large health systems face substantial implementation costs when mergers and acquisitions play a role in their strategic plans.\nOracle's launch of a brand-new EHR is a great achievement and a promising advancement for the industry. Seema Verma, executive vice president and general manager, Oracle Health and Life Sciences said \u201cMost EHRs were built in the 90s and are ill-equipped to meet the complex security requirements and clinical needs of today\u2019s healthcare networks, practitioners, and patients.\u201d Additionally, Oracle is exploring new implementation partners for the EHR, which could enhance client support and implementation experience. While Oracle has introduced an impressive, modern product, the question remains: is it too late to capture the attention of the U.S. market?",
+    "source_domain": null,
+    "text": null,
+    "title": "Oracle Delivers On The Promise Of Modern EHR",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

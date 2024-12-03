@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Ross W Berman IV"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-03 20:53:46",
+    "description": "Netflix is seemingly not interested in adhering to WWE's brand split, as it has some \"SmackDown\" superstars on its \"WWE Raw\" wishlist.",
+    "filename": ".json",
+    "image_url": "https://www.wrestlinginc.com/img/gallery/backstage-news-on-wwe-raws-netflix-transition/l-intro-1730667124.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "\"WWE Raw\" is heading to Netflix on January 6, after 30 years on cable television. As WWE prepares for the big streaming debut, new details have emerged about the Netflix premiere.\nAccording to Fightful Select, Netflix has mentioned \"SmackDown\" stars Roman Reigns and Cody Rhodes alongside \"Raw\" superstars like CM Punk as wrestlers they hope will be featured on the show. Further adding to Netflix's seeming ambivalence to WWE's brand split, \"SmackDown\" wrestlers like WWE Tag Team Champions the Motor City Machine Guns, the LWO, IYO SKY, and other members of the roster were on hand to film a commercial for Netflix. Also at the commercial filming was Baron Corbin, whose departure from WWE was announced just days after the production. \"WWE Raw\" is expected to air from Los Angeles's Intuit Dome on January 6, though WWE has yet to confirm.\nNot only was Netflix interested in Cody Rhodes appearing on \"Raw,\" the streamer also met with the Undisputed WWE Champion about a possible movie on Netflix which is said to have not come to fruition. \"WWE SmackDown\" will remain on cable, while \"WWE NXT\" will be on broadcast television.",
+    "source_domain": null,
+    "text": null,
+    "title": "Backstage News On WWE Raw's Netflix Transition",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

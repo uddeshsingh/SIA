@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Ana Altchek"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:43:52",
+    "description": "Tesla owners will finally be able to adjust climate controls and open the frunk from their Apple Watch.",
+    "filename": ".json",
+    "image_url": "https://i.insider.com/674dea0b9e9761932b4a2d5a?width=1200&format=jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla just announced over 25 holiday updates coming out in an over-the-air update next week.\nTesla unveiled an Apple Watch app, allowing drivers to open the frunk and adjust controls remotely.\nOther highlights include SiriusXM trials, navigation upgrades, and Cybertruck-specific features.\nTesla released a series of end-of-year upgrades on Sunday in a post on X.\nThe updates are coming to Tesla owners in an over-the-air update next week \u2014 and include everything from the long-awaited Apple Watch app to holiday-themed features. The full list is outlined on X with visuals included for a number of the updates.\nHere are a few of the highlights.\nTesla is finally giving drivers an Apple Watch app\nWhile third-party apps on the Apple Watch allow owners to monitor their vehicles from their watches, Tesla owners have been eagerly anticipating an Apple Watch app. This holiday season, Tesla finally granted that wish.\nThe Apple Watch app will allow drivers to use their Apple Watch as a key. They will also be able to view the vehicle's battery charge, adjust the vehicle's climate controls, and open the frunk from the app.\nSiriusXM for Model 3, Model Y, and Cybertruck\nThe new upgrade includes new audio entertainment options with SiriusXM. Once owners install the software, drivers can try out a free one-month trial to SiriusXM, which will show up on the media source menu. Owners who subscribe prior to March 31, 2025 will receive a limited-time offer of $9.99 a month for the first two years, according to an announcement from SiriusXM.\nNavigation upgrades\nTesla owners can now set their desired battery charge level at arrival and view precipitation levels at their desired destination.\nDrivers will also be able to search options along their route while navigating with estimated detour times. They'll also be able to find nearby parking at any location of interest. And navigation pathways will route around road closures. When finding a Supercharger station, drivers will also be notified about any Supercharger stalls that are out of service.\nWhen driving in reverse, the vehicle will automatically lower volume to help ease distractions and will also alert drivers if it detects a person or vehicle behind it. Tesla will also provide an audible alert if a cross-traffic object is identified.\nCybertruck updates\nTesla also announced several Cybertruck-specific updates, including the option for owners to personalize their avatar or change it into Santa's sleigh with reindeer and elves. Cybertruck passengers will also be able to enjoy a new rear arcade. Additionally, the vehicle's rear camera feed is getting a larger display and owners will be able to pinch the screen to zoom in or out.\nRelated stories\nWhat else is new?\nDrivers can save Dashcam and Sentry Mode clips directly from the Tesla app and edit or share with others from their phones. Sentry Mode, a security feature, is also receiving an update that will send mobile app notifications if the vehicle's door handle is pulled.\nTesla will also offer some holiday updates \u2014 owners can remotely schedule light shows from the Tesla app.\nTesla's light show feature started in 2016 and enables vehicles to perform light shows with moving car doors. Since then, it's become a popular feature with some shows racking up millions of views.\nThe company didn't miss the opportunity to put its signature sense of humor on display with a playful feature that allows owners to activate a whoopee cushion sound from any seat.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla Announced 25 New Holiday Updates. These Are the Highlights.",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

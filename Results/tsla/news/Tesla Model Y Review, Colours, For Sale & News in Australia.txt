@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: Search & read all of our Tesla Model Y reviews by top motoring journalists. The Tesla Model Y mid-size SUV is arguably the vehicle that took Tesla into the mainstream, and that’s saying something given the preceding success of its sibling, the Model 3 mid-size sedan.A bonafide sales success both locally and globally, the Model Y capitalises on the crossover craze with an electric vehicle (EV) that’s got its tyres firmly planted in the future.
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla Model Y Review, Colours, For Sale & News in Australia
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: As well as cars, Tesla makes home storage batteries (for storing rooftop solar power) and is investing in all sorts of renewable technology and electrical components. Because the electric motor offers maximum torque from standstill, the Tesla only needs one gear to achieve lots of acceleration and ample top speed. While the city of Detroit, Michigan is the cradle of the North American car industry, electric-car maker Tesla has always marched to the beat of its own drum. So even though it’s a US based entity, Tesla’s worldwide view and its inherent mould-breaking attitude means that its factories are in some interesting locations. The new factory in Berlin, meanwhile, is very close to completion and will initially be used to build the Model Y. Tesla has always been a brand surrounded by rumours, and these days, these seem to involve a second Chinese plant.
+Financial_Events: []

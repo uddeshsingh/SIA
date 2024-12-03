@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Jacob Robinson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 14:00:39",
+    "description": "All eight episodes of the final season of Stranger Things have been unveiled.",
+    "filename": ".json",
+    "image_url": "https://www.whats-on-netflix.com/wp-content/uploads/2024/11/stranger-things-season-episode-titles.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "After months of rumor and speculation, for Stranger Things Day 2025, Netflix has revealed the titles of all eight episodes of the final season of Stranger Things.\nFans are patiently waiting for the final season of Stranger Things, which will be released on Netflix sometime in 2025. Meanwhile, fans have been eager to learn more details about the final season as filming is ongoing.\nWhat is Stranger Things Day? It\u2019s the annual celebration of Stranger Things held each November 6th, marking the day Will Byers went missing in the show\u2019s first season.\nHowever, earlier this year, six of the eight-episode titles were leaked online. While Netflix did not comment on the leaks at the time, the release of the episode titles on Stranger Things Day 2024 confirmed that the episode titles leaked were accurate, and we even got the final two. The confirmed episode titles are as follows:\nEpisode 1: The Crawl\nEpisode 2: The Vanishing of\u2026.\nEpisode 3: The Turnbow Trap\nEpisode 4: Sorcerer\nEpisode 5: Shock Jock\nEpisode 6: Escape from Camazotz\nEpisode 7: The Bridge\nEpisode 8: The Rightside Up\nNote that Netflix has chosen to hide the full title of the second episode. But the leaks have already suggested it is \u201cThe Vanishing of Holly Wheeler.\u201d\nAs part of the announcement, Netflix released a trailer for the episode title reveal:\nWhat do the episode titles reveal about the upcoming season?\nWe\u2019ve previously discussed what the first six-episode titles could mean for the final season.\nHowever, the titles of the final two episodes offer some huge insight into what to expect at the series finale.\nThe seventh and penultimate episode, \u201cThe Bridge,\u201d will likely be the most climactic of the entire series. It will feature the final showdown between Eleven and Vecna as our heroes attempt to close the connection to the Upside Down once and for all.\nThe eighth and final episode, titled \u201cThe Rightside Up,\u201d suggests our heroes were victorious in closing the connection between our world and the Upside Down. This episode will likely act as an epilogue as we see the fallout from the seventh episode. Who lives? Who dies? Who gets their happy ending? All will be revealed in time.\nWhat are your thoughts on the episode titles for the final season of Stranger Things? Let us know in the comments below!",
+    "source_domain": null,
+    "text": null,
+    "title": "Stranger Things Day 2024: Netflix Unveils Episode Titles for 'Stranger Things' Season 5",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

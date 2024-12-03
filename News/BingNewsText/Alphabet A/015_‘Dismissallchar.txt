@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Noelle Haynes"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:23:09",
+    "description": "The Lorain County prosecutor has filed a motion to grant four men convicted of murder a new trial.",
+    "filename": ".json",
+    "image_url": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/RSKC22OODNFXFO4PBXQ4OQVN4U.PNG?auth=b071f270bc09eb92d5274a07220ef1c83d095c4bbdc87fbe6a8d313643e7fd8d&width=1200&height=600&smart=true",
+    "language": "en",
+    "localpath": null,
+    "maintext": "LORAIN COUNTY, Ohio (WOIO) - The Lorain County prosecutor has filed a motion to grant four men convicted of murder a new trial.\nAccording to a letter from Lorain County Prosecutor J.D. Tomlinson, Prosecutor Tomlinson filed the motion on Monday for convicts Alfred Cleveland, Benson Davis, John Edwards, and Lenworth Edwards.\nCleveland, Davis, and the Edwards were all convicted in the 1991 murder of 22-year-old Marsha Blakely. The convicts were also suspected in the murder of Blakely\u2019s roommate, Floyd Epps.\nTwo of the men have been behind bars for over 20 years. The other two have been released but not exonerated.\n\u201cThis decision was not made lightly. It comes after a painstaking review of the evidence, testimony, and circumstances surrounding these convictions,\u201d said Prosecutor Tomlinson. \u201cThis is not an effort to cast blame, but rather an acknowledgment that new evidence and deeper scrutiny demand action.\u201d\nThe letter said the testimony of a key witness in the case completely unraveled. Tomlinson said the witness\u2019s statements changed several times.\nAccording to the letter, the witness only made a statement after a $2,000 reward was offered.\nBefore trial, the witness demanded an increased $10,000 reward. When those demands were denied, he refused to testify at trial, Tomlinson said.\nLater, the witness admitted his original statements were false. The letter said the witness just wanted to claim the reward.\nAfter the witness recanted his statements, the State of Ohio still utilized the witness\u2019s testimony in four trials.\nThe witness later formally recanted his statement, saying in part, \u201cI never witnessed the murder of Marsha Blakely.\u201d\n19 News is not naming the witness as they have not been charged with a crime.\n\u201cThese recantations, combined with the complete lack of physical evidence linking the defendants to the crime, undermine the very foundation of these convictions,\u201d said Prosecutor Tomlinson in the letter. \u201cIn truth, that testimony was not the missing piece-.a.it was the fatal flaw. Without it, there is no credible evidence linking these four men to the crime.\u201d\nProsecutor Tomlinson said the state did not meet it\u2019s burden of proof in this case.\nThe letter said the most likely suspect, a man who placed himself at the scene of the murder, was never convicted of the murder.\nTomlinson said if a new trial is granted for the four convicts, he would move to dismiss all charges.\nAttorney Joshua Dubin, who represents convict Joshua Dubin, also released a statement:",
+    "source_domain": null,
+    "text": null,
+    "title": "\u2018Dismiss all charges\u2019: Lorain County prosecutor files motion to get new trial for 4 convicted of murder",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

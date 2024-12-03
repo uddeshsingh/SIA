@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "wimpykidfan37"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2022-09-30 00:52:23",
+    "description": "Alphabet Lore refers to a series of web videos produced by Mike Salcedo in 2022. The series revolves around the twenty-six letters in the Latin alphabet an",
+    "filename": ".json",
+    "image_url": "https://i.kym-cdn.com/entries/icons/mobile/000/042/088/mqdefault.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "About\nAlphabet Lore refers to a series of web videos produced by Mike Salcedo in 2022. The series revolves around the twenty-six letters in the Latin alphabet and their interactions with one another. There are twenty-six videos in the series, one for each letter. Though the series initially presented as a mere animation exercise, the growing complexities drew the wider internet's attention, helping the series go viral.\nHistory\nOn February 2nd, 2022, Mike Salcedo uploaded a video to YouTube that simply titled \"A\", after the first letter in the alphabet. The video was a simple animation of the letter A saying its name. This was followed the next day by a similar video about the letter B, then one about the letter C.\nOn February 5, a video about the letter D was uploaded, but instead of simply being about the letter D, it involved D being attacked and kidnapped by the letter F. The following episodes told a story about the letter F kidnapping or killing other letters and stealing magic gems that resembled punctuation marks, while other letters try to stop him. Throughout the series, the letters spell words to make objects that help them. For instance, in \"R\", the letters M, A, and P make a map, and in \"U\", G, U, and N form a gun.\nIn the second-to-last episode, titled \"Y\" and uploaded on May 2nd, F was finally defeated for good, and it was revealed that F's plan was to spell the word \"friends\". The series finale, titled \"nZ\" and uploaded on August 8th, explained that F used to be friends with the other letters, but they turned on him when he accidentally spelled the word \"frick\", causing him to run away and turn evil. The video also explains the origin of the punctuation mark gems.\nOn August 19, 2022, Salcedo uploaded a video entitled \"Alphabet Lore (A-Z\u2026)\", which was a compilation of all twenty-six videos in the series. By September 29, 2022, the video had reached over 19 million views.\nOnline Presence\nAlphabet Lore quickly became immensely popular on YouTube. Many YouTube users have edited Salcedo's videos to make their own, fan-made videos.\nOne fan of the video, YouTube user Flowey the Flower, uploaded a video called \"Alphabet lore without the lore\" on August 27, which was simply each of the letters in the video saying their names. The video achieved 1 million views within a month (shown below, left). Another YouTuber, Soup Earth Society, uploaded a parody video entitled \"Number Lore (1-10)\", which reached 1 million views within a week (shown below, right).\n[This video has been removed]\nSearch Interest\nExternal References",
+    "source_domain": null,
+    "text": null,
+    "title": "Know Your Meme",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Amanda Silberling"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-13 16:02:29",
+    "description": "Amazon has rolled out its answer to the discounted, low-cost storefronts of Temu and Shein. The Amazon Haul store, currently available on the mobile app",
+    "filename": ".json",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/amazon-haul.jpeg?w=767",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Amazon has rolled out its answer to the discounted, low-cost storefronts of Temu and Shein. The Amazon Haul store, currently available on the mobile app or mobile web browser exclusively, offers similar mass-produced, discounted items, most of which ship from China. It\u2019s a departure from Amazon\u2019s long-established reputation as a powerhouse of rapid delivery times since even Amazon can\u2019t reduce the time it takes to get these overseas goods.\nThe landing page for Amazon Haul is reminiscent of Shein and Temu even in its design: Items appear in grids, rather than Amazon\u2019s typical list, and shipping times and star ratings aren\u2019t visible unless you click on an item. Some items are labeled with rocket ship emojis that warn that this $4.99 iPhone 16 Pro case is \u201cselling fast!\u201d Or, you might see a fire emoji declaring that the price for a three-pack of $2.89 mesh laundry bags is \u201ccrazy low.\u201d Like its competitors, Amazon Haul also sells clothing ($16 for a pair of men\u2019s golf pants, or $4.99 for 80s-style women\u2019s leg warmers). In a \u201cStaples\u201d section, you can find an assortment of\u2026 sponges, resistance bands, hoodies, silicon baking mats, and socks.\n\u201cWhile Amazon continues to offer over 300 million items with fast, free delivery for Prime members [\u2026] we also hear from customers that sometimes they would love to shop ultra-low-priced products even if some of them take one to two weeks to arrive,\u201d Amazon wrote in a blog post.\nTemu and Shein have been subject to wide criticism over their environmental impact, a byproduct of their worldwide shipping, and the waste caused by fast fashion. Both companies have also been subject to consumer protection probes in the European Union, where regulators are investigating their potential use of addictive design patterns and illegal products.\nDespite the controversy surrounding them, these low-cost retailers remain incredibly popular among Gen Z. According to research from app intelligence firm Appfigures, the most popular app among U.S. users ages 18 to 24 was Temu, with almost 42 million downloads in that demographic between January and October 2024. For Shein, that estimate is about 14.7 million downloads, though it\u2019s possible that the difference in download numbers is that stark because Gen Z users have already downloaded Shein, which has been around longer than Temu.\nOne risk for Shein and Temu is that consumers may not feel comfortable making purchases from unknown sellers that could potentially be misleading; consumers have more existing trust in Amazon, but the company is working with similar, largely China-based sellers of mass-produced goods. However, Amazon claims that it screens sellers ahead of time, and if customers want to return their purchase, they can do so for free within 15 days as long as the item is over $3.\nIt\u2019s a dubious time for Amazon to invest in this business model, given that president-elect Donald Trump has proposed leveraging a 60% tax on imported Chinese goods. This tariff plan isn\u2019t set in stone, though \u2014 it\u2019s common for politicians to shift their campaign platforms after they\u2019ve secured a win.",
+    "source_domain": null,
+    "text": null,
+    "title": "Amazon takes on Temu and Shein with discount 'Amazon Haul' store",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

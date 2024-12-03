@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Laura Dobberstein"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 13:29:06",
+    "description": "Over 5 million records from 25 organizations posted to black hat forum",
+    "filename": ".json",
+    "image_url": "https://regmedia.co.uk/2022/03/21/data_breach_shutterstock.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Amazon employees' data is part of a stolen trove posted to a cybercrime forum linked to last year's MOVEit vulnerability.\n\"Amazon and AWS systems remain secure, and we have not experienced a security event,\" a spokesperson told The Register. \"We were notified about a security event at one of our property management vendors that impacted several of its customers including Amazon. The only Amazon information involved was employee work contact information, for example work email addresses, desk phone numbers, and building locations.\"\nThe stolen data was noted by cybercrime intelligence company Hudson Rock, which detailed that it was related to CVE-2023-34362, a critical vulnerability discovered mid-2023 in file transfer software MOVEit. The CVE allowed hackers to bypass authentication to access the data.\nHudson Rock referred to the CVE as \"one of the most substantial leaks of corporate information last year.\"\n\"The directories contain detailed employee information, including names, email addresses, phone numbers, cost center codes, and, in some cases, entire organizational structures,\" it wrote.\nThat level of detail, claimed the firm, could open doors for social engineering and other security threats.\nSchneider Electric ransomware crew demands $125k paid in baguettes\nChina's Volt Typhoon reportedly breached Singtel in 'test-run' for US telecom attacks\nUS government hit by Russia's Clop in MOVEit mass attack\nWhite House report dishes deets on all 11 major government breaches from 2023\nAlthough many companies were listed as being affected, including HP, Applied Materials, 3M, Lenovo, British Telecom, and more, Amazon was named as having the most exposed records \u2013 over 2.86 million of the more than 5 million records.\nSome of that data is being auctioned and/or distributed by a character going by Nam3L3ss on BreachForums.\n\"I have 1,000 releases coming never seen before,\" Nam3L3ss is claimed to have told Hudson Rock. In communication with the security company, Nam3L3ss professed not to be a hacker.\nThis may be because the MOVEit vulnerability was identified as originally hacked by the Cl0p ransomware group, even though the data now being offered on BreachForums by Nam3L3ss was not involved in a previous leak. \u00ae",
+    "source_domain": null,
+    "text": null,
+    "title": "Amazon confirms data breached as MOVEit strikes again",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

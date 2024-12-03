@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Ines Ferr\u00e9"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-15 08:58:16",
+    "description": "Tesla stock was under pressure on Thursday afternoon as the broader Trump trade was fading after a furious post-election rally.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/euUyFM0YZHImqYseWbGCAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/1e461b50-9c5c-11ef-bddb-f06d2a45876a",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla (TSLA) stock fell as the stock's post-election gains faded amid a cooling of the Trump trade and a new report from Reuters that suggested EV tax credits could be cut under the incoming Trump administration.\nTesla stock closed 5.7% lower on Thursday after Reuters reported Trump's team has drawn up plans to eliminate the $7,500 tax credit for electric vehicle buyers as part of a broader tax reform. Shares continued to slip early on Friday, down over 1% in premarket trading.\nThe report, which quoted two sources with knowledge of the matter, said the hallmark incentive of the Biden administration's Inflation Reduction Act was being discussed in meetings by an energy policy transition team. Reuters' report added that Tesla representatives in touch with Trump's team support ending the subsidy.\nTesla stock opened Thursday's session lower as the Trump trade rally was showing signs of fatigue. Still, shares remain close to 15% higher than where they opened the day after the election. Tesla is up more than 25% this year after a challenging first six months.\nThe company this week also announced its sixth recall for the Cybertruck this year, recalling 2,400 pickups due to a faulty part that could lead to a loss of power and increase the risk of a collision.\nTesla CEO Elon Musk is one of the business world's biggest supporters of Trump and was a key surrogate for the president-elect in the final months of the campaign, Musk donated at least $132 million to Trump and other Republican campaigns.\nOn Monday, Tesla shares reached their highest level since early 2022, with Wall Street analysts growing increasingly bullish on Musk's connection to an incoming Trump administration.\nThis week, Trump announced Musk and former GOP presidential candidate Vivek Ramaswamy would co-lead a new group to cut government waste.\n\"We are raising our price target on Tesla to $400 from $300 as we believe the Trump White House win will be a game-changer for the autonomous and AI story for Tesla and Musk over the coming years,\" Wedbush analysts led by Dan Ives wrote in a client note on Monday.\nWedbush sees artificial intelligence and autonomous driving as an opportunity worth $1 trillion to the company's value.\n\"Under a Trump White House these key initiatives will get fast tracked as the federal regulatory spiderweb that Musk & Co. have encountered over the past few years around FSD/autonomous clears significantly under a new Trump era,\" the note said.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla stock falls as Trump trade fades, EV tax credits come under threat",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

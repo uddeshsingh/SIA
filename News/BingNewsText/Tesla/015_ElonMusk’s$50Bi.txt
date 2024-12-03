@@ -1,0 +1,24 @@
+{
+    "authors": [
+        "Peter Eavis",
+        "Jack Ewing",
+        "www.nytimes.com",
+        "peter-eavis",
+        "jack-ewing"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:20:26",
+    "description": "The judge said she would not reverse her decision to strike down the package after Tesla shareholders approved it a second time.",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/images/2024/12/02/multimedia/02musk-pay-01-bhfj/02musk-pay-01-bhfj-facebookJumbo.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A Delaware judge on Monday affirmed an earlier ruling that rescinded a giant pay package that Tesla had awarded its chief executive, Elon Musk.\nThe pay, in the form of stock options, was worth more than $50 billion and helped make Mr. Musk the richest person in the world. The package is now worth $100 billion after Tesla\u2019s share price jumped sharply in recent weeks.\nThe judge, Chancellor Kathaleen St. J. McCormick of the Delaware Court of Chancery, struck down the award in January, ruling that shareholders had not been properly informed of its details and that members of Tesla\u2019s board were not sufficiently independent.\nBut lawyers for Tesla and Mr. Musk argued that a second shareholder vote in June in favor of the package cleared the way for effectively reinstating it.\nThe pay comes from a 2018 award that said Mr. Musk would get all the options only if Tesla\u2019s stock price soared and its sales and earnings grew strongly. Few expected Mr. Musk to achieve all of those targets because Tesla was still struggling to sell enough electric cars to become profitable. But Tesla\u2019s business took off and its stock rocketed higher, allowing Mr. Musk to earn all the options. He has to hold them for five years.\nThe shareholder who brought the suit, Richard J. Tornetta, contended that Tesla\u2019s board had not acted independently of Mr. Musk when devising the package and that the company had provided \u201cmaterially misleading\u201d information to investors. In her January ruling, after a trial in 2022, Chancellor McCormick said, \u201cThe process leading to the approval of Musk\u2019s compensation plan was deeply flawed.\u201d\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber? Log in.\nWant all of The Times? Subscribe.",
+    "source_domain": null,
+    "text": null,
+    "title": "Elon Musk\u2019s $50 Billion Tesla Pay Can\u2019t Be Reinstated, Delaware Judge Rules",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

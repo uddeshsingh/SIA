@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Maleha Afzal"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-07 13:29:16",
+    "description": "We recently published a list of 10 Best Innovative Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other best innovative stocks to invest in according to hedge funds. Technology is a Big Deal, Strategist Highlights The Magnificent Seven [\u2026]",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/V4tGuBo0fm2vOSewxPjpmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/057172d1bddd5e7eaee5fc08e2756794",
+    "language": "en",
+    "localpath": null,
+    "maintext": "We recently published a list of 10 Best Innovative Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other best innovative stocks to invest in according to hedge funds.\nTechnology is a Big Deal, Strategist Highlights\nThe Magnificent Seven continues to grasp a sizeable market share of the market gains over the past few years. That said, investors and analysts are excited to see what this earnings period has to offer for the magnificent seven and how much of an influence they have on the market. On October 31, Christian Dery, head of macro strategy at Capital Fund Management, appeared in an interview on Yahoo Finance to discuss the impact of the magnificent seven on the market.\nDery suggested that these companies have grown to become large entities and their market capitalization often fluctuates by $2 billion to $400 billion on earnings events. Looking at the dispersion of the index, Dery adds that individual stocks within the S&P are very diverse and more independent, hinting towards a very low correlation in the index.\nHe adds that generative AI and LLMs are very different from the traditional software business. Therefore, the hyperscaling model that is conventionally taken from software can not be applied here. For every new customer in the software business, the marginal cost often goes down to nearly zero. However, if you look at the \u201ctech incumbents\u201d, they have to increase their capital expenditures to develop compute clusters and scale their operations, suggests Dery.\nIn 2023, the chips industry generated revenue of about $3 billion, reflecting that we are yet to find a killer use case or see results of generous AI spending. Dery adds that the market is more likely to be \u201cdiscerning\u201d on the path to profitability since companies are going to focus more on capital expenditures and projections for capital expenditures. He is particularly interested in the CapEx projections of the Magnificent Seven and shares that if they miss there could be a negative reaction among those stocks.\nDery reiterated that the market is yet to see the investments pay off multiple times but maintains his interest in capital expenditures by these companies playing out. While he is bullish on technological innovation and believes artificial intelligence is disruptive and a \u201cbig deal\u201d, he fails to see viable results as of now. Dery also emphasizes that these companies are directing their investments to AI because they do not want to fall behind competitors, with no proper timeline for AI monetization.",
+    "source_domain": null,
+    "text": null,
+    "title": "Salesforce Inc (CRM)\u2019s AI Innovations: Why Hedge Funds Are Investing Heavily",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tipranks"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 21:21:05",
+    "description": "Coinbase (COIN) announced the launch of Apple Pay (AAPL) for all fiat-to-crypto purchases via Coinbase Onramp, a tool to build onramps into exis...",
+    "filename": ".json",
+    "image_url": null,
+    "language": "en",
+    "localpath": null,
+    "maintext": "Coinbase (COIN) announced the launch of Apple Pay (AAPL) for all fiat-to-crypto purchases via Coinbase Onramp, a tool to build onramps into existing products. Coinbase said: \u201cCoinbase Onramp takes the hassle out of fiat-to-crypto conversions with lightweight KYC for eligible purchases, free USDC on and offramping, and access to the most popular payment methods. With Apple Pay, getting onchain only takes seconds\u2026 If you\u2019re an existing app using Coinbase Onramp, there\u2019s nothing you need to do. Your users will automatically see Apple Pay appear as an option when making an eligible purchase.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Coinbase announces partnership with Apple Pay",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

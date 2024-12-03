@@ -1,0 +1,17 @@
+Authors: ['Samantha Delouya']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-19 00:00:00
+Description: Elon Musk’s record-breaking pay package for serving as Tesla’s CEO was rejected on Monday by a Delaware court, despite being approved by Tesla shareholders at a June meeting.
+Filename: .json
+Image_Url: https://media.cnn.com/api/v1/images/stellar/prod/2024-11-19t112000z-427445120-rc2f4bazdq7j-rtrmadp-3-usa-trump-federal-workers.JPG?c=16x9&q=w_800,c_fill
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Elon Musk’s massive, multi-billion-dollar Tesla pay package was blocked by a judge again
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “The large and talented group of defense firms got creative with the ratification argument, but their unprecedented theories go against multiple strains of settled law,” McCormick wrote in a scathing opinion. Rather, Musk, one of the world’s richest people, makes his money through lucrative packages of stock options that allow him to purchase millions of Tesla shares for a fraction of their market price. McCormick agreed with the argument that the board is too close to Tesla’s CEO, noting that even Musk admitted that he only “negotiated against himself” regarding his own compensation. He bet big in the 2024 presidential election, donating millions of dollars to Donald Trump’s campaign and joining him on the trail. Earlier this month, Trump tapped Musk and former Republican presidential candidate Vivek Ramaswamy to lead the newly formed Department of Government Efficiency, known as DOGE, in the incoming administration.
+Financial_Events: []

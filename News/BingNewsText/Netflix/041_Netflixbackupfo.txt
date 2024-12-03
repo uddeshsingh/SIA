@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-16 11:07:14",
+    "description": "Downdetector, which collates status reports from a number of sources, showed that there were fewer than 100 user reports of problems accessing Netflix as of 5 a.m. ET (1000 GMT). At the peak of the outage, which began on Friday, there were more than 90,000 reports of problems with Netflix according to Downdetector, on the night when viewers were tuning in to watch a highly anticipated boxing match between Mike Tyson and Jake Paul, which Paul won.",
+    "filename": ".json",
+    "image_url": "https://media.zenfs.com/en/reuters-finance.com/bab72f04c536aa9cf6c9aa352740d0d0",
+    "language": "en",
+    "localpath": null,
+    "maintext": "In This Article:\n(Reuters) -Video streaming platform Netflix was back up on Saturday after an outage that lasted roughly six hours in the United States, according to the outage tracking website Downdetector.com.\nDowndetector, which collates status reports from a number of sources, showed that there were fewer than 100 user reports of problems accessing Netflix as of 5 a.m. ET (1000 GMT).\nAt the peak of the outage, which began on Friday, there were more than 90,000 reports of problems with Netflix according to Downdetector, on the night when viewers were tuning in to watch a highly anticipated boxing match between Mike Tyson and Jake Paul, which Paul won.\nNetflix said it had no immediate comment in response to a request from Reuters.\nThe platform has suffered outages during live or highly anticipated events in the past, with spikes in user traffic often contributing.\nIn April last year, it experienced a brief outage during a live stream of the dating reality show Love is Blind, drawing complaints from thousands of users.\n(Reporting by Surbhi Misra and Mrinmay Dey in Bengaluru; Editing by Clarence Fernandez, Stephen Coates and Kevin Liffey)\nRecommended Stories",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix back up for most users in US after outage, Downdetector shows",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

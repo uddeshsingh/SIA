@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Kayode Omotosho"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-18 14:24:23",
+    "description": "Broadcom currently trades at $165.14 and has been a dream stock for shareholders. It\u2019s returned 431% since November 2019, blowing past the S&P 500\u2019s 87.9% gain. The company has also beaten the index over the past six months as its stock price is up 16.8%. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/veJ7PjK32Trm1E990C8Ciw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/c33d5012ea1701a7be34c00d3064b11a",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Final Judgment\nThese are just a few reasons why we think Broadcom is a great business, and with its shares outperforming the market lately, the stock trades at 28.2x forward price-to-earnings (or $165.14 per share). Is now a good time to initiate a position? See for yourself in our in-depth research report, it\u2019s free.\nStocks We Like Even More Than Broadcom\nThe elections are now behind us. With rates dropping and inflation cooling, many analysts expect a breakout market to cap off the year - and we\u2019re zeroing in on the stocks that could benefit immensely.\nTake advantage of the rebound by checking out our Top 9 Market-Beating Stocks. This is a curated list of our High Quality stocks that have generated a market-beating return of 175% over the last five years.",
+    "source_domain": null,
+    "text": null,
+    "title": "Broadcom: 3 Reasons We Love This Stock",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

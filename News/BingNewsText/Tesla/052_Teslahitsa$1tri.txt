@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Matthew Fox"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-08 15:55:42",
+    "description": "While a second Trump presidency is seen as potentially negative for electric vehicles more broadly, his policies could benefit Tesla.",
+    "filename": ".json",
+    "image_url": "https://i.insider.com/672a9c12192f525898565868?width=1200&format=jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla on Friday reached a trillion-dollar market valuation for the first time since April 2022.\nIts stock surged 27% following Donald Trump's election win, boosting Elon Musk's net worth.\nWedbush notes Tesla has a competitive advantage if Trump gets rid of electric-vehicle subsidies.\nTesla hit a $1 trillion market valuation for the first time since April 2022.\nThe stock surged as much as 7% on Friday to an intraday peak of $319.44, with shares soaring 27% since Donald Trump was declared the winner of the US presidential election.\nTesla CEO Elon Musk was a huge backer of Trump's campaign in its final few months, donating over $100 million to efforts to reelect him.\nThe massive gain in Tesla stock this week catapulted Musk to a net worth of about $300 billion, solidifying his position as the world's richest person, according to Bloomberg data.\nThe Wedbush analyst Dan Ives said Trump's win, while potentially negative for the broader electric-vehicle sector, could significantly benefit Tesla.\nThat's because while federal EV rebates and tax incentives are likely to be withdrawn during Trump's second term, Tesla is better suited than its competitors to navigate such a scenario.\n\"Tesla has the scale and scope that is unmatched in the EV industry and this dynamic could give Musk and Tesla a clear competitive advantage in a non-EV subsidy environment, coupled by likely higher China tariffs that would continue to push away cheaper Chinese EV players (BYD, Nio, etc.) from flooding the US market over the coming years,\" Ives said in a note this week.\nSignificant deregulation under Trump could also fast-track Tesla's Full Self-Driving platform to market. Tesla's premium valuation has largely hinged on its progress in delivering a fully autonomous vehicle, so investors would most likely cheer any progress on that front.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla Hits $1 Trillion Valuation After Surging on Trump Election Win",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

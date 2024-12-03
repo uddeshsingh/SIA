@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "JR Research",
+        "seekingalpha.com",
+        "jr-research"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 08:30:15",
+    "description": "Broadcom remains well-positioned to capitalize on the surge in hyperscale spending in 2025. Read why I maintain my buy rating on AVGO stock.",
+    "filename": ".json",
+    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1193973091/image_1193973091.jpg?io=getty-c-w1536",
+    "language": "en",
+    "localpath": null,
+    "maintext": "JR Research is an opportunistic investor. He was recognized by TipRanks as a Top Analyst. He was also recognized by Seeking Alpha as a \"Top Analyst To Follow\" for Technology, Software, and Internet, as well as for Growth and GARP.\nHe identifies attractive risk/reward opportunities supported by robust price action to potentially generate alpha well above the S&P 500. He has also demonstrated outperformance with his picks.\nHe focuses on identifying growth investing opportunities that present the most attractive risk/reward upside potential. His approach combines sharp price action analysis with fundamentals investing.\nHe tends to avoid overhyped and overvalued stocks while capitalizing on battered stocks with significant upside recovery possibilities.\nHe runs the investing group Ultimate Growth Investing which specializes in identifying high-potential opportunities across various sectors. He focuses on ideas that has strong growth potential and well-beaten contrarian plays, with an 18 to 24 month outlook for the thesis to play out.\nThe group is designed for investors seeking to capitalize on growth stocks with robust fundamentals, buying momentum, and turnaround plays at highly attractive valuations.",
+    "source_domain": null,
+    "text": null,
+    "title": "Broadcom: I'm Very Thankful For This Pullback",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

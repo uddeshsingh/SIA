@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Logan Carter"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-08 09:00:00",
+    "description": "Elon Musk made a promise in 2023, but we all know how often he honors promises.",
+    "filename": ".json",
+    "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d08c82ce3666778e4bd8d16753c81ec5.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla\u2019s CEO Elon Musk is a controversial character, but Tesla, the extremely successful producer of the most popular new car in the world last year, is showing no signs of slowing down. Tesla promised to open a new Gigafactory in Mexico last February, but Musk paused discussions about the proposed new Gigafactory citing the upcoming U.S. presidential election. The election is over, and Mexico wants to know if Elon Musk and Tesla will actually follow through with this promise, or if it will be added to the growing list of promises broken by Musk.\nThen-Mexican President Andr\u00e9s Manuel L\u00f3pez Obrador announced in February of 2023 that the northern state of Nuevo Le\u00f3n was going to be the location of the next Tesla Gigafactory. Last year, notable Donald Trump fan (and probably upcoming cabinet member) Elon Musk said that Tesla would definitely build its new factory in Mexico, but the timeline would be dependent on the economy and interest rates. As InsideEVs reported, the plan was originally for the factory to come online in early 2025, but there\u2019s no signs of it. The former President and current President-elect Donald Trump said that he would impose tariffs of 200 percent or more on vehicles imported into the United States from Mexico, which surely has impacted the decisionmaking. Reuters said,\n\u201cMexico\u2019s economy chief will try to meet soon with Tesla\u2019s chief executive Elon Musk to determine his plans for an electric car factory in northern Mexico, he told local radio on Thursday, part of a push to grow the country\u2019s key carmaking sector\nEconomy Minister Marcelo Ebrard is a former foreign minister and veteran political operator, and reviving plans for a so-called Tesla gigafactory in Mexico\u2019s Nuevo Leon state would mark a major early victory for the government of President Claudia Sheinbaum, who took office last month.\nU.S.-based Tesla is the world\u2019s top maker of electric vehicles.\n\u201cI\u2019m going to set up a meeting with (Musk) soon so that he tells me exactly what he\u2019s thinking and see what we can do so this project moves forward,\u201d Ebrard told local radio broadcaster Radio Formula.\u201d\nIt will be interesting to see how many of Trump\u2019s infamous tariffs actually get imposed, but his campaign promises may end up being the nail in the coffin of a Mexican Tesla Gigafactory. A significant 3.6 percent of Mexico\u2019s Gross Domestic Product is thanks to the country\u2019s automotive industry. Each of Tesla\u2019s Gigafactories are known to employ tens of thousands of people across Europe, China, and North America, so building and staffing Giga Mexico would be a significant boost to the Mexican economy. One thing\u2019s for certain \u2014 the next few years sure will be interesting.",
+    "source_domain": null,
+    "text": null,
+    "title": "What Happened To Tesla\u2019s Promised Mexico Gigafactory?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

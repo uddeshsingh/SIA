@@ -1,0 +1,17 @@
+Authors: ['Lily Jamali']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-09 23:04:43
+Description: Elon Musk revealed a prototype of the long-awaited robotaxi at a Hollywood film studio - but investors aren't wowed.
+Filename: .json
+Image_Url: https://ichef.bbci.co.uk/news/1024/branded_news/1f67/live/10c14bd0-87ad-11ef-b0bd-ed1c890dbbf6.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Cybercab unveiled by Elon Musk
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The futuristic-looking vehicle, featuring two wing-like doors - and no pedals or steering wheel - deposited Mr Musk in front of an audience eager to hear details about a project he considers key to Tesla's next chapter. At the event, billed "We, Robot," the multi-billionaire reiterated his view that fully self-driving vehicles will be safer than those operated by humans and could even earn owners money by being rented out for rides. Questions are being asked about Mr Musk's prediction that production of the Cybercab would begin some time "before 2027", given his track record of failing to meet his own deadlines. Tesla's self-driving ambitions rely on cameras that are cheaper than radar and Lidar (light detection and ranging) sensors that are the technology backbone of many competitors' vehicles. The sleek shuttle "could be a mode of transportation over the coming years that Tesla leverages," said Wedbush Securities managing director Dan Ives who attended the event in person.
+Financial_Events: []

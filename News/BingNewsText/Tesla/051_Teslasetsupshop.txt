@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Kaycee Valmonte"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-08 09:33:41",
+    "description": "Among the seven vehicle models of the company, Tesla is first bringing its best sellers \u2014\u00a0Model 3 and Model Y",
+    "filename": ".json",
+    "image_url": "https://www.rappler.com/tachyon/2024/11/IMG_9688-scaled.jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "MANILA, Philippines \u2013 Elon Musk-owned electric vehicle (EV) company Tesla is now in the Philippines, marking its fourth showroom in Southeast Asia and its 12th in the Asia Pacific.\nThe official showroom \u2014 dubbed the Tesla Experience Center \u2014 is located along Uptown Parade in Bonifacio Global City. The cars are also on display at the atrium of Uptown Mall until next Friday, November 15.\n\u201cTesla is committed and excited to help drive a zero-emission and greener future for the Philippines,\u201d the company said in a statement on Friday, November 8.\n\u201cAs part of Tesla\u2019s commitment to the Philippines, the company will continue to develop the experience center, service and support, charging infrastructure in the country, aimed at delivering a seamless Tesla ownership experience,\u201d it added.\nAmong the seven vehicle models of the company, Tesla is first bringing its best sellers \u2014 Model 3 and Model Y with a starting price of P2.109 million and P2.369 million, respectively. The cars will be exempted from the Metropolitan Manila Development Authority\u2019s number coding scheme.\nTesla said the first orders from the Philippines will arrive in early 2025.\nPrice details\nTesla Model 3 is said to be the \u201cworld\u2019s best-selling electric sedan.\u201d The company boasts that the car can accelerate from 0 to 100 kilometers per hour (km/h) in 3.1 seconds and the car can run up to 629 kilometers (WLTP) per charge.\nMeanwhile, the Model Y can fit up to five passengers, along with their needed storage. The SUV can accelerate from 0 to 100 km/h within 3.7 7 seconds. It can also run up to 629 kilometers of range (WLTP) on one charge.\nTesla said Model Y needs about 250 kilowatts to reach its \u201cpeak efficiency.\u201d However, the cars have a fast-charging time, with the Model Y specifically needing only 5 minutes at a Supercharging station to operate 120 kilometers.\nThe company will be charging a P15,000 order fee, and another P12,000 for delivery and admin charges. Meanwhile, those interested in making monthly installments would have to make a 20% deposit and will also be charged interest.\nBoth vehicle models can be customized according to each needs \u2014 from its exterior, interior, to even its features \u2014 through the Tesla Design Studio.\nSuperchargers\nUptown Mall will house the first four Superchargers at its level two basement.\nAs Tesla hopes to capture the Philippine market, the company said it plans to launch multiple charging stations at \u201cpopular destinations.\u201d\nCharging will cost future Tesla owners P19 per kilowatt-hour. A fully-charged Tesla car would have them shelling out P1,140.\nThe Philippines is Tesla\u2019s fourth location in Southeast Asia. The other stores are located in Malaysia, Thailand, and its first ever SEA location \u2014 Singapore.\nTesla also has official showrooms in Australia, mainland China, Hong Kong, Japan, Macau, New Zealand, South Korea, and Taiwan.\nInterest in EVs has been on the rise in the Philippines. According to a report by the Philippine Daily Inquirer, electric vehicle sales from January to July 2024 already totaled 9,775 units. EV sales in 2023 totaled 10,602 units.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla sets up shop in PH with cars priced at over P2 million",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

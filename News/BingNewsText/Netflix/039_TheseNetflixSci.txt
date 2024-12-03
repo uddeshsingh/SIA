@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Aaron Pruner"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-18 00:00:00",
+    "description": "Netflix and sci-fi go together like Eleven and Eggo waffles.",
+    "filename": ".json",
+    "image_url": "https://www.cnet.com/a/img/resize/e6d4843b3682a51cdb8a9277464577510cf13bcb/hub/2024/11/18/3dba5ef8-f17f-4c25-a3f3-4729a0d96cd6/03-6-1b-011-2-edit.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Instead of turning your world upside down to find the best sci-fi TV shows, just flip on Netflix. The compnay is at the top of the streaming TV food chain for a reason, and when it comes to genre programming, they're chock full of goodies.\nStranger Things is a common suggestion for sci-fi programming, but there's way more where that came from. The high-concept 3 Body Problem takes the alien invasion trope and flips it on its head, making for an incredible viewing experience. On the anthology front, Black Mirror is a thrilling program that delivers thrills and chills while regularly pushing the envelope. Then there are cult titles like Dark, Supacell, Maniac and The OA -- series that disrupt conventional expectations of what sci-fi can offer.\nThe handful of titles mentioned above only scratch the surface -- so many binge-worthy adventures await you. Grab your favorite snack, pour yourself a refreshing beverage and get ready, because these are the best Netflix sci-fi TV shows you should watch right now.",
+    "source_domain": null,
+    "text": null,
+    "title": "Stream These 17 Netflix Sci-Fi TV Shows for Some Out-of-This-World Fun",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

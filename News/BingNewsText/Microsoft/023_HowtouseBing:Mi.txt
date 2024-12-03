@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Grace Eliza Goodwin",
+        "Sarah Jackson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-29 11:03:02",
+    "description": "Bing is Microsoft's AI-powered search engine, developed with OpenAI. Here's how to use the chatbot.",
+    "filename": ".json",
+    "image_url": "https://i.insider.com/673f9d6fede4eeae3928e11c?width=1200&format=jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Cyber Monday Streaming deals from $1\nShop deals\nHow to use Bing: Microsoft reinvented its search engine to incorporate AI\nThis story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. Have an account? .\nAdvertisement\nMicrosoft's Bing search engine has Copilot AI features built into it.\nCopilot, integrated into Bing, can perform tasks like writing poems and making reservations.\nHere's how to use the AI service in Bing.\nMicrosoft first unveiled a revamped, AI-powered version of its search engine, Bing, last year.\nThe new Bing, which promised to be \"more powerful than ChatGPT,\" runs on Microsoft's own next-generation language model called \"Prometheus.\" The proprietary technology was developed using elements of OpenAI's most advanced GPT models as part of Microsoft's partnership with the company.\nAdvertisement\nBuilt into the revamped search engine is Microsoft's AI chatbot, Copilot, which can perform a number of tasks the old Bing never dreamed of, like suggesting recipes, writing poems, conducting image-based search queries, and making restaurant reservations. Copilot was formerly called Bing Chat.\nMicrosoft's Bing was launched in 2009, more than a decade after Google's launch \u2014 and though it's come a long way since then, Bing still holds a fraction of the market share compared to Google.\nAnd though Microsoft CEO Satya Nadella once raved that Copilot would \"fundamentally transform our relationship with technology,\" the AI assistant has struggled to live up to the hype, both inside and outside the company.\nAdvertisement\nHere's a step-by-step walkthrough of how to access and use the new Bing with Copilot.\nHow to use the new Bing\nGo to Bing.com/new in your internet browser.\nNote: You don't need to download Microsoft's web browser, Edge, but if you do, Copilot is integrated directly into the browser, with an icon in the top-right corner that lets you chat with the AI companion.\nThere are a few ways to use AI in your search experience from the Bing homepage.\nOne option is to click \"Try now\" underneath the heading \"Bing generative search,\" located directly below the general search bar on the Bing homepage.\nThe \"Try now\" button takes you to a search results page that auto-populates for the query \"How can I get started with learning to play the guitar.\"\nThe page displays several helpful resources related to that query, including a Table of Contents with sections that guide you through the process of learning to play guitar, alongside videos and step-by-step instructions.\nYou can also type in your own query, like \"How to paint a bathroom,\" and, depending on the query you search, the results will offer helpful sections including relevant videos, instructions, and, in this case, a section on the side for the best paint to use on bathroom cabinets.\nAnother option is to click \"Copilot\" in the bar at the very top of the Bing homepage.\nThis takes you to the Copilot homepage where you can message the chatbot.\nIn the \"Message Copilot\" text field at the bottom of the page, you can type something you need help with, like, for example, \"Write me a poem,\" or \"plants that survive with minimal light.\" The chatbot will quickly give you a detailed response \u2014 for example, it offered 10 options for plants that don't need much light.\nRead next\nMicrosoft AI Chatbot\nMore...\nAdvertisement",
+    "source_domain": null,
+    "text": null,
+    "title": "How to Use Bing, Microsoft's AI-Powered Search Engine",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

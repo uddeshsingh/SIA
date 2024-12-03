@@ -1,0 +1,17 @@
+Authors: ['Louella Desiderio']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-09 00:00:00
+Description: Tesla made its official debut in the Philippines yesterday as it opened its showroom at the Uptown Parade in Taguig and unveiled two vehicle models.
+Filename: .json
+Image_Url: https://media.philstar.com/photos/2024/11/08/2_2024-11-08_18-49-22.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla debuts in Philippines
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Covering 1,904 square meters, the Tesla Experience Center at Uptown Parade is the company’s first showroom in the country, offering a seamless, one-stop solution for all aspects of ownership – from sales and delivery to service. Fan said more Tesla vehicle models would be rolled out in the country in the future. As Tesla designs, manufactures, owns and operates the world’s largest fast-charging network, the company also announced that the first indoor supercharger station in the country will open soon at Uptown Mall. With Tesla Supercharging, a Model Y at peak efficiency of 250 kilowatts can charge up to 120 kilometers in just five minutes. Alliance Global Group Inc. president and CEO Kevin Tan told reporters that apart from the lease agreement for Tesla’s Experience Center, the firms have a separate agreement covering the deployment of charging stations.
+Financial_Events: []

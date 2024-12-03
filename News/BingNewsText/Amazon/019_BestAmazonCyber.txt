@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Nishka Dhawan"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 19:31:51",
+    "description": "Amazon's Cyber Monday deals are here and there are a ton of discounts available on tech, home goods and beauty products.",
+    "filename": ".json",
+    "image_url": "https://cdn.abcotvs.com/dip/images/15485356_bfdeals.jpg?w=1600",
+    "language": "en",
+    "localpath": null,
+    "maintext": "As a participant in multiple affiliate marketing programs, Localish will earn a commission for certain purchases. See full disclaimer below*\nAmazon is known for having some of the biggest discounts during Cyber Monday and Cyber Monday, and it's the best time of the year to get any holiday shopping done. Find the best Amazon Cyber Monday deals below, including sales on tech, beauty, kitchen appliances and more.\nBest Amazon Cyber Monday deals\nBest tech deals\n- Beats Studio Pro for $159.99 (54% off)\n- SAMSUNG Galaxy Tab A9+ for $149.99 (32% off)\n- LG 65-Inch Class OLED evo G4 Series Smart TV for $2,296.99 (32% off)\n-Apple iPad Air 13-inch (M2) for $799.99 (11% off)\n- Tile by Life360 Starter Pack for $39.99 (20% off)\nBest home and kitchen deals\n- iRobot Roomba Combo for $209.99 (24% off)\n- Dyson Hot+Cool Fan for $279.99 (40% off)\n- CHEFMAN Multifunctional Digital Air Fryer for $79.99 (39% off)\n- Ninja BN401 Nutri Pro Compact Personal Blender for $59.99 (40% off)\n- KitchenAid Artisan Mixer for $329.95 (27% off)\n- Swiffer PowerMop for $19.94 (34% off)\nBest beauty deals\n- Covergirl Clean Fresh Yummy Gloss for $7.49 (42% off)\n- Philips Sonicare Electric Toothbrush for $59.96 (45% off)\n- Gentle Foaming Face Wash for $11.99 (82% off)\nLooking for more Cyber Monday deals?\n- Best Cyber Monday deals on Amazon\n- Best Cyber Monday deals on Walmart\n- Best Cyber Monday tech deals\n- Best Cyber Monday deals under $100\n- Best Cyber Monday beauty deals\n- Best Cyber Monday home deals\n* By clicking on the featured links, visitors will leave Localish.com and be directed to third-party e-commerce sites that operate under different terms and privacy policies. Although we are sharing our personal opinions of these products with you, Localish is not endorsing these products. It has not performed product safety testing on any of these products, did not manufacture them, and is not selling, or distributing them and is not making any representations about the safety or caliber of these products. Prices and availability are subject to change from the date of publication.",
+    "source_domain": null,
+    "text": null,
+    "title": "Best Amazon Cyber Monday deals",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

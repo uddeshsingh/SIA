@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Ezra M. Krieg"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2023-10-24 00:00:00",
+    "description": "Michael Barnett proved to be a dedicated public servant, who studied the issues and took positions that he determined best helped his constituency.",
+    "filename": ".json",
+    "image_url": "https://www.palmbeachpost.com/gcdn/authoring/authoring-images/2023/10/24/NPPP/71307380007-101823-ag-reserve-wpb-05.JPG?crop=5297,2981,x0,y200&width=3200&height=1801&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Barnett has a future outside of government\nWhen Michael Barnett was appointed to the Palm Beach County Commission by Gov. DeSantis in 2023, I did not know what to expect from this political appointment. Over the past year, I had the opportunity to speak with the commissioner on topics of critical importance to the community. Although we might not have always agreed, he and his staff proved to be dedicated public servants, who studied the issues and took positions that he determined best helped his constituency. They provided an example that his replacement, Joel Flores, might want to emulate. I salute Mr. Barnett and look forward to his next opportunity to make a positive contribution to Palm Beach County.\nEzra M. Krieg, Delray Beach",
+    "source_domain": null,
+    "text": null,
+    "title": "Michael Barnett has a bright future after county government.",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

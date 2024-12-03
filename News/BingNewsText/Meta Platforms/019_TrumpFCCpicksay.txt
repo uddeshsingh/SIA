@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Taylor Penley"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 12:48:45",
+    "description": "Trump FCC chair pick Brendan Carr spoke on the issue of Big Tech censorship on \"Sunday Morning Futures,\" saying tackling the issue will be a top priority under his leadership.",
+    "filename": ".json",
+    "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/carr-scaled.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Bringing the \"censorship cartel\" to heel is slated to be a top priority for incoming Federal Communications Commission (FCC) Chairman Brendan Carr.\nOn Sunday, the Trump-appointed lead spelled out how the incoming administration's commitment to protecting free speech might translate across social media and beyond.\n\"Combating tech censorship is going to be one of the top priorities for me. We need to restore Americans' right to free speech,\" he told \"Sunday Morning Futures\" guest host Jackie DeAngelis.\n\"You mentioned Facebook and other companies. They've been part of a censorship cartel that have worked with advertisers. They've worked with government officials to censor the free speech rights of everyday Americans, and that's got to end because censorship isn't just about stopping work. It's about stopping ideas.\"\nTRUMP NOMINEE FOR FCC CHAIR SAYS LEGACY MEDIA \u2018STATUS QUO\u2019 NEEDS TO CHANGE\n\"America is a country of founders, of people that have pushed boundaries, pushed frontiers. They've innovated and, when you silence speech, you silence ideas, and we unleash America's prosperity again. That's why you feel this vibe shifting in the country where people know President Trump is about to lead another great American comeback, because this wet blanket of government control is going away, and our economy is going to flourish again.\"\nBig Tech companies have long received criticism for allegedly stifling free speech and operating with a liberal bias, perhaps most infamously when Twitter removed the Hunter Biden laptop story from its platform prior to the Elon Musk takeover and various platforms, including Facebook, censored content branded as COVID-19 misinformation during the pandemic.\nJust months ago, Meta CEO Mark Zuckerberg admitted to bowing to pressures from the Biden-Harris administration to censor content on its platforms and expressed regret for doing so.\n\u2018FAMILY TIES\u2019 STAR JUSTINE BATEMAN SAYS TRUMP'S ELECTION LIFTED \u2018SUFFOCATING CLOUD\u2019 ON FREE SPEECH\nWith the changing of the guard coming next month, Zuckerberg reportedly dined with President-elect Trump at Mar-a-Lago.\nIncoming White House deputy chief of policy, Stephen Miller, shared the news on \"The Ingraham Angle\" last week.\n\"Obviously, he has his own interests, and he has his own company, and he has his own agenda,\" he said. \"But he\u2019s made clear that he wants to support the national renewal of America under President Trump\u2019s leadership.\"\nTrump tapped current senior Republican member of the FCC Brendan Carr to lead the agency last month as his cabinet began to take shape, branding him as a \"warrior for free speech\" who has \"fought against the regulatory Lawfare that has stifled Americans\u2019 Freedoms, and held back our Economy.\"",
+    "source_domain": null,
+    "text": null,
+    "title": "Trump FCC pick says bringing 'censorship cartel' to heel will be a 'top' priority: 'It's got to end'",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

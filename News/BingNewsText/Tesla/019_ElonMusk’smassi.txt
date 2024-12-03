@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Samantha Delouya"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-19 00:00:00",
+    "description": "Elon Musk\u2019s record-breaking pay package for serving as Tesla\u2019s CEO was rejected on Monday by a Delaware court, despite being approved by Tesla shareholders at a June meeting.",
+    "filename": ".json",
+    "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-19t112000z-427445120-rc2f4bazdq7j-rtrmadp-3-usa-trump-federal-workers.JPG?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Elon Musk\u2019s record-breaking pay package for serving as Tesla\u2019s CEO was rejected by a Delaware court, despite being approved by Tesla shareholders at a June meeting.\nThe pay package, now worth around $101 billion based on Tesla\u2019s closing share price Monday, is made up of 303 million Tesla stock options. It had been previously thrown out in January by the same judge, Delaware Chancery Court Chancellor Kathaleen McCormick. The package was worth around $56 billion at the time the judge threw out the package.\nAt the time, McCormick ruled in favor of the main shareholder in the suit who challenged the package, arguing that Musk and the Tesla board \u201cbore the burden of proving that the compensation plan was fair, and they failed to meet their burden.\u201d\nMusk\u2019s attorneys attempted to reverse McCormick\u2019s January decision after the 2018 pay package was re-approved by 84% of shares not held by Musk or his brother, Kimbal Musk, in June.\nBut on Monday, that motion was denied. McCormick said that although the package was once again ratified by a majority of shareholders, that didn\u2019t mean Musk\u2019s record-breaking payday was in shareholders\u2019 best interests.\n\u201cThe large and talented group of defense firms got creative with the ratification argument, but their unprecedented theories go against multiple strains of settled law,\u201d McCormick wrote in a scathing opinion.\nMusk is not paid a cash salary or bonus for working at Tesla. Rather, Musk, one of the world\u2019s richest people, makes his money through lucrative packages of stock options that allow him to purchase millions of Tesla shares for a fraction of their market price.\nMcCormick agreed with the argument that the board is too close to Tesla\u2019s CEO, noting that even Musk admitted that he only \u201cnegotiated against himself\u201d regarding his own compensation.\nMcCormick wrote in her opinion that while Musk is entitled to some form of compensation, the ultimate award was not fair to shareholders.\n\u201cThere were undoubtedly a range of healthy amounts that the Board could have decided to pay Musk,\u201d she wrote. \u201cInstead, the Board capitulated to Musk\u2019s terms and then failed to prove that those terms were entirely fair.\u201d\nAt the time of the June shareholder vote, Tesla\u2019s board argued that it needed to keep Musk\u2019s pay package in place to keep the CEO fully engaged in running the company. Musk also holds leadership positions at SpaceX, Neuralink, the Boring Company and X.\nMusk\u2019s attention has recently been pulled toward Washington, as well. He bet big in the 2024 presidential election, donating millions of dollars to Donald Trump\u2019s campaign and joining him on the trail.\nEarlier this month, Trump tapped Musk and former Republican presidential candidate Vivek Ramaswamy to lead the newly formed Department of Government Efficiency, known as DOGE, in the incoming administration. The group will be focused on slashing the federal budget as well as axing government regulations and staffing.\nThis story has been updated with additional details and context.\nCNN\u2019s Chris Isidore contributed to reporting.",
+    "source_domain": null,
+    "text": null,
+    "title": "Elon Musk\u2019s massive, multi-billion-dollar Tesla pay package was blocked by a judge again",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

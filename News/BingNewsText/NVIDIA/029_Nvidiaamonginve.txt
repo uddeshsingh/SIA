@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Alexander Marrow"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 18:28:39",
+    "description": "Nebius Group is raising $700 million in a private placement from investors, including Nvidia, to build the infrastructure underpinning AI.",
+    "filename": ".json",
+    "image_url": "https://www.usatoday.com/gcdn/-mm-/0da19bc44cef8d870fb43d6a3b0157649adfb3be/c=0-22-580-348/local/-/media/2017/06/07/USATODAY/usatsports/nvidiacampusandjen-hsun_qjrdMjp_large.jpg?width=580&height=326&fit=crop&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "AI infrastructure firm Nebius Group NBIS.O on Monday said it was raising $700 million in a private placement from investors including Nvidia NVDA.O, Accel and some accounts managed by Orbis Investments.\nNebius, which emerged in July following a $5.4 billion deal to split the domestic and international assets of Russian internet giant Yandex YNDX.MM, is joining a drive to build the infrastructure underpinning artificial intelligence.\nNebius was founded by Arkady Volozh, former founder and CEO of Yandex. Trading in Nasdaq-listed Yandex was suspended soon after Russia's invasion of Ukraine, with Nebius eventually reviving the listing as part of the asset split.\nVolozh said the $700 million financing would give Nebius additional firepower to build clusters of graphics processing units (GPUs), cloud platforms and other tools for AI developers faster and on a larger scale.\nNebius has so far committed to investing $1 billion by mid-2025, but Volozh said the company could end up investing more.\nInvest wisely: Best online brokers\nNebius is leasing data center space in Kansas City, Missouri, and may expand further in the United States, where more than half of the company's clients are based, Volozh told reporters.\nArtificial intelligence stocks:Nvidia's AI chip demand still booming but slowing sales growth worries investors\nIn a statement, Nebius said it would issue 33,333,334 Class A shares at a $21 per share in the private placement, representing an approximately 3% premium to the volume-weighted average price of those shares since Nasdaq trading resumed.\nNebius said the financing was oversubscribed and raised its annualized run-rate revenue by year-end 2025 to between $750 million and $1 billion, from $500 million at the lower end previously.\nNebius also said that it would no longer pursue a share buyback that was approved as the Russia split deal closed and before Nasdaq trading resumed.\n\"Based on the strong level of investor engagement and technical dynamics which we have observed following the resumption of trading on Nasdaq, we believe that those shareholders who may have wanted to exit have had an opportunity to do so at a price higher than the maximum repurchase price authorized by shareholders,\" Nebius Board Chairman John Boynton said.\nReporting by Alexander Marrow, Editing by Louise Heavens",
+    "source_domain": null,
+    "text": null,
+    "title": "Nebius Group raises $700M with help from Nvidia",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

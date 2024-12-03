@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:09:44
+Description: A Delaware judge ruled on Monday that Tesla CEO Elon Musk still is not entitled to receive a $56 billion compensation package despite shareholders of the electric vehicle company voting to reinstate it.
+Filename: .json
+Image_Url: https://nypost.com/wp-content/uploads/sites/2/2024/12/musk-tesla-pay.jpg?quality=75&strip=all&1733162302&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Elon Musk's $56B Tesla pay rejected again by Delaware judge
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A Delaware judge ruled on Monday that Tesla CEO Elon Musk still is not entitled to receive a $56 billion compensation package despite shareholders of the electric vehicle company voting to reinstate it. The ruling by the judge, Chancellor Kathaleen McCormick of the Court of Chancery, follows her January decision that called the pay package excessive and rescinded it, surprising investors, and cast uncertainty over Musk’s future at the world’s most valuable carmaker. Tesla has said in court filings that the judge should recognize a subsequent June vote by its shareholders in favor of the pay package for Musk, the company’s driving force who is responsible for many of its advances, and reinstate his compensation. “We are pleased with Chancellor McCormick’s ruling, which declined Tesla’s invitation to inject continued uncertainty into Court proceedings,” said a statement from Bernstein Litowitz Berger & Grossmann, one of the three law firms for the plaintiff. Attorneys for shareholder Richard Tornetta, who sued in 2018 to challenge Musk’s compensation package, had argued that Delaware law does not permit a company to use a ratification vote to essentially overturn the ruling from a trial.
+Financial_Events: ['The board had said that Musk deserved the package because he hit all the ambitious targets on market value, revenue and profitability.\nBut the judge criticized Tesla’s board as “beholden” to Musk, saying the compensation plan was proposed by a board whose members had conflicts of interest due to close personal and financial ties to him.\nAfter the January ruling, Musk criticized the judge on his social media platform X and encouraged other companies to follow the lead of Tesla and reincorporate in Texas from Delaware, although it is unclear if any companies did so.\nThe judge in her January ruling called the pay package the “biggest compensation plan ever – an unfathomable sum.” It was 33 times larger than the next biggest executive compensation package, which was Musk’s 2012 pay plan.\nAs of Monday, the pay package was worth $101.4 billion, according to Equilar, a compensation consulting firm.\nMusk’s 2018 pay package gave him stock grants worth around 1% of Tesla’s equity each time the company achieved one of 12 tranches of escalating operational and financial goals.\nMusk did not receive any guaranteed salary']

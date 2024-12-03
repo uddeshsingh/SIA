@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Wire Service"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-11 01:30:00",
+    "description": "Each year the food bank receives thousands of pounds of island-grown apples. We are so thankful for this community donation of local fruit but we often get more than we can distribute. For the past two years, Nancy Best and a host of volunteers have used the dehydrators at the Grange to make apple chips from the surplus apples. Volunteers wash, peel, cut and sort the apples to prepare them for the dehydrators at the Grange. Rachelle Radonski, food bank manager, reports that customers love the apple chips and they \u201cfly off the store shelves.\u201d Plans are underway to increase the number of days at the Grange to make even more apple chips for the fall 2025 apple harvest. Our thanks to Nancy, Roger at the Grange, Rachelle and all the volunteers. This is yet another example of what makes our island community so special.",
+    "filename": ".json",
+    "image_url": "https://www.sanjuanjournal.com/wp-content/uploads/2024/11/37851586_web1_WilsonLTE-ISJ-220511_1.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Each year the food bank receives thousands of pounds of island-grown apples. We are so thankful for this community donation of local fruit but we often get more than we can distribute. For the past two years, Nancy Best and a host of volunteers have used the dehydrators at the Grange to make apple chips from the surplus apples. Volunteers wash, peel, cut and sort the apples to prepare them for the dehydrators at the Grange. Rachelle Radonski, food bank manager, reports that customers love the apple chips and they \u201cfly off the store shelves.\u201d Plans are underway to increase the number of days at the Grange to make even more apple chips for the fall 2025 apple harvest. Our thanks to Nancy, Roger at the Grange, Rachelle and all the volunteers. This is yet another example of what makes our island community so special.\nJudith Okulitch, President, FH Food Bank",
+    "source_domain": null,
+    "text": null,
+    "title": "A Shout-Out to Nancy Best and the Grange",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

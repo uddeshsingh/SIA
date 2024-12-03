@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "None"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-11 10:05:00",
+    "description": "Thank the GOP for making this nation honest. Due to their bowing to Donald Trump\u2019s pressure, we are now no longer pretending not to be a fascist people.",
+    "filename": ".json",
+    "image_url": "https://www.staradvertiser.com/wp-content/uploads/2024/11/web1_US-NEWS-SC-GOP-POLL-LV.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Thank the GOP for making this nation honest. Due to their bowing to Donald Trump\u2019s pressure, we are now no longer pretending not to be a fascist people.\nGod bless America \u2014 we need it.\nThomas Luna\nMcCully\nEXPRESS YOURSELF\nThe Honolulu Star-Advertiser welcomes all opinions. Want your voice to be heard? Submit a letter to the editor.\n>> Write us: We welcome letters up to 150 words, and guest columns of 500-600 words. We reserve the right to edit for clarity and length. Include your name, address and daytime phone number.\n>> Mail: Letters to the Editor, Honolulu Star-Advertiser 7 Waterfront Plaza, 500 Ala Moana, Suite #7-500 Honolulu, HI 96813",
+    "source_domain": null,
+    "text": null,
+    "title": "Letter: GOP shows America not afraid to elect a fascist",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

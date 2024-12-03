@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "None",
+    "description": "Arts",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Critic\u2019s notebook\n\u2018Cross\u2019 and \u2018The Lincoln Lawyer\u2019 Offer Different Spins on the Same Formula\nWithin the boundaries of the crime-solving genius genre, \u201cCross\u201d represents the dark yin and \u201cThe Lincoln Lawyer\u201d the bright yang.\nBy\nCritic\u2019s Pick\n\u2018My Old Ass\u2019 Review: If She Could Turn Back Time\nA buoyant comedy with a big heart follows a teen girl who meets her older self the summer before college.\nBy\nThe Watching Newsletter\n\u2018Culte\u2019 Is a Fascinating Romp Through the Dawn of French Reality TV\nA new docudrama recounts the conflicts and controversy surrounding \u201cLoft Story,\u201d a French twist on \u201cBig Brother\u201d that divided critics and generations.\nBy Margaret Lyons\nInvestigation of Georgia Movie Set Crash Finds No Violations\nEight people were taken to hospitals, three of them with serious injuries, in a crash on the set of \u201cThe Pickup\u201d in April. A federal investigation found no health or safety violations.\nBy Derrick Bryson Taylor\nColin Jost Will Host the New \u2018Jeopardy!\u2019 Pop Culture Spinoff\n\u201cPop Culture Jeopardy!\u201d is expected to begin production in August and will stream only on Amazon Prime Video.\nBy Maya Salam\nA New Batman Is Less a Dark Knight Than a \u2018Weird and Creepy\u2019 One\n\u201cBatman: Caped Crusader,\u201d a new animated series, is not concerned with making its hero likable \u2014 either to the citizens of Gotham or to its audience.\nBy Dave Itzkoff\nThe Watching Newsletter\n\u2018My Lady Jane\u2019 Is a Sly and Sassy Historical Comedy\nInspired by the very (very) brief reign of Queen Jane, the Amazon series has fun rewriting Tudor history \u2014 complete with magical creatures.\nBy Margaret Lyons\n\u2018My Lady Jane\u2019 Asks: \u2018What if History Were Different?\u2019\nA fantastical series about the very short-term 16th century queen Lady Jane Grey takes historical liberties in the name of reclamation \u2014 and fun.\nBy Chris Vognar\nFilm Crew Veteran, Injured in an Accident, Faults Amazon for His Pain\nThe visual effects supervisor, hurt in one of three recent accidents on Amazon film sets, has sued, but the company says it is not to blame.\nBy Nicole Sperling and Matt Stevens\nErin Moriarty Is a Woman Among \u2018The Boys\u2019\nThe actress in the hit superhero satire mulled her role in an age of online bullying and token feminism: \u201cThank God there are characters like this.\u201d\nBy Ashley Spencer",
+    "source_domain": null,
+    "text": null,
+    "title": "Amazon Prime Video",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

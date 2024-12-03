@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Josh Schafer"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 21:07:48",
+    "description": "Tesla CEO Elon Musk had been a heavy supporter of Trump's campaign.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/Z97OiSdTrjW.46z_RlYXAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/7775db70-9699-11ef-b57a-81e2c1485890",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla stock (TSLA) rose nearly 15% on Wednesday as investors digested Donald Trump's victory in the US presidential election.\nTesla CEO Elon Musk had been a heavy supporter of Trump's campaign. Trump referenced Musk during his speech early Wednesday morning, calling him a \"super genius.\"\n\"We have to protect our geniuses,\" Trump said. \"We don't have that many of them.\"\nMusk's total known spending on campaign donations entering the election totaled more than $132 million, Yahoo Finance previously reported. While it remains unclear what, if any, influence Musk will have on potential policy, Wall Street analysts believe Trump's policies could benefit Tesla.\nWedbush analyst Dan Ives pointed out that Trump could roll back the current electric vehicle tax incentives in place and be \"an overall negative for the EV industry.\" But given Tesla's potential competitive advantage in the EV space, this could be a \"huge positive\" for Tesla.\n\"Tesla has the scale and scope that is unmatched in the EV industry, and this dynamic could give Musk and Tesla a clear competitive advantage in a non-EV subsidy environment, coupled by likely higher China tariffs that would continue to push away cheaper Chinese EV players (BYD, Nio, etc.) from flooding the US market over the coming years,\" Ives wrote in a Wednesday morning note.\nNio's (NIO) stock fell 6% before the bell, while BYD (BYDDY) shares fell 3.8% in Hong Kong.\nIves added that a Trump win could also fast-track Tesla's full self-driving (FSD) initiatives.\n\"We believe a Trump win could add $40-$50 per share to Tesla's stock,\" he wrote, adding that the company could exceed $1 trillion in market cap \"if autonomous/FSD is accelerated starting in 2025.\"\nJosh Schafer is a reporter for Yahoo Finance. Follow him on X @_joshschafer.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla stock soars by double digits after Trump win",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

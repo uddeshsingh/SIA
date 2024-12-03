@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Johnni Macke"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:30:03",
+    "description": "Chris Martin and ex-wife Gwyneth Paltrow attended Apple\u2019s Le Bal des Debutantes debut in Paris",
+    "filename": ".json",
+    "image_url": "https://www.usmagazine.com/wp-content/uploads/2024/12/Chris-Martin-Has-a-Sweet-Slow-Dance-With-Daughter-Apple-at-Her-Le-Bal-des-Debutantes-Debut.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=40&strip=all",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Chris Martin had a sweet moment with his daughter, Apple, while attending her Le Bal des D\u00e9butantes debut.\nThe Coldplay singer, 47, shared a slow dance with Apple, 20, as part of her introduction into formal society in Paris on Friday, November 30. Martin smiled and laughed while dancing in a ballroom for the occasion, according to a TikTok shared by Paris Match.\nAt one point, he could be seen talking to his daughter as she twirled her around in a circle. Apple had a big smile on her face during the intimate moment, per the clip.\nBoth Martin and his ex-wife, Gwyneth Paltrow, were in France over the weekend to celebrate Apple\u2019s high-society debut at the Shangri-La Hotel.\nThe college student wore a blue Valentino gown with tiers of silk pliss\u00e9 chiffon and a black bow at the waist. Apple was escorted by a young man who gave her a twirl during her introduction, according to the video.\nApple was identified as a woman \u201cborn in London and raised in Los Angeles\u201d who is pursuing a degree in history. In addition to dancing with her father, Apple moved across the room with her escort as captured in another TikTok.\nApple\u2019s support system for the evening didn\u2019t end with her parents, who \u201cconsciously uncoupled\u201d in 2014. Her grandmother, actress Blythe Danner, who is Paltrow\u2019s mother, attended the ball as did Apple\u2019s younger brother, Moses.\n\u201cA special long weekend in Paris \ud83d\udc99,\u201d Paltrow, 52, captioned a series of photos from the event on Sunday, December 1.\nThe Iron Man actress shared a selfie before the gala with Apple and later snapped a picture with Moses, 18, Martin and Danner, 81, inside the lavish ballroom. Paltrow also posted a snap with Apple at the ball as the mother-daughter duo embraced and smiled.\nOutside of celebrating Apple\u2019s big day, Paltrow and Martin enjoyed time with Moses in Paris. The father-son duo soaked up the sun during a day in the park, per Paltrow\u2019s photos. Moses later joined his mom and grandmother at an art gallery.\nPaltrow and Martin were married just over 10 years before they separated in 2014. They finalized their divorce two years later. The exes have since been dedicated to coparenting their children.\n\u201cChris and I committed to putting them first and that\u2019s harder than it looks because some days you really don\u2019t want to be with the person that you are getting divorced from,\u201d Paltrow said during a September 2020 appearance on The Drew Barrymore Show. \u201cBut if you\u2019re committed to having family dinner then you do it. You take a deep breath, and you look the person in the eye, and you remember your pact, and you smile, and you hug and you recommit to this new relationship that you are trying to foster.\u201d\nThe exes have also managed to blend their new relationships into the fold. Paltrow married Brad Falchuk in 2018 while Martin has been dating Dakota Johnson since 2017.\n\u201cWe\u2019re actually very good friends,\u201d Paltrow said of Johnson, 35, during an October 2023 Instagram Story Q&A. \u201cI love her so much.\u201d\nJohnson, for her part, gushed about Martin and Paltrow\u2019s kids during a March interview with Bustle. \u201cI love those kids like my life depends on it. With all my heart,\u201d the Madame Web actress said.",
+    "source_domain": null,
+    "text": null,
+    "title": "Chris Martin and Daughter Apple Slow Dance at Her Society Debut",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

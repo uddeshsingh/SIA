@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Kate Conger",
+        "www.nytimes.com",
+        "kate-conger"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-01 23:30:34",
+    "description": "The change, starting next Friday, lifts a dominant player in artificial intelligence over its chip-making rival, which has struggled to keep up.",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/images/2024/11/01/multimedia/01NVIDIA-bpvh/01NVIDIA-bpvh-facebookJumbo.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The chip-maker Nvidia will soon replace its rival Intel in the Dow Jones industrial average, S&P Dow Jones Indices said on Friday, reflecting Nvidia\u2019s dominance in the world of artificial intelligence.\nS&P Dow Jones Indices, which maintains the stock index, said in a statement that the change would take place before the opening of trading next Friday \u201cto ensure a more representative exposure to the semiconductors industry.\u201d\nNvidia established an early foothold in the A.I. revolution, tailor-making its chips for machine learning tasks and building a community of A.I. programmers who were eager to develop their technology on the company\u2019s hardware. The bet paid off. Nvidia now accounts for the majority of A.I. chip sales and has become the second-most-valuable company in the world, slightly trailing Apple at $3.32 trillion after trading hours on Friday.\nIntel, which makes the chips that serve as the brains of most computers, once considered buying Nvidia. But its board resisted the acquisition, and Nvidia went on to become a dominant player in the A.I. boom while Intel struggled to keep up. Intel\u2019s market capitalization has fallen below $1 trillion.\n\u201cThe thing that we understood is that this is a reinvention of how computing is done,\u201d Jensen Huang, Nvidia\u2019s chief executive and one of its founders, told The New York Times last year. \u201cAnd we built everything from the ground up, from the processor all the way up to the end.\u201d\nA recent stock split at Nvidia prompted speculation that it would replace Intel on the Dow Jones. In June, Nvidia unveiled a 10-for-one stock split that would make it easier for a retail investor to buy into the company without diluting its valuation.\nSpokeswomen for Nvidia and Intel declined to comment.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia Will Replace Intel in the Dow Jones Stock Index",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

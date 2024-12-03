@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Jeremy Bowman",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 20:56:08",
+    "description": "Tesla finally hit a speed bump after a blistering post-election rally.",
+    "filename": ".json",
+    "image_url": "https://g.foolcdn.com/editorial/images/797606/tesla-model-3.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "After a dramatic bull run following the election of Donald Trump last week, Tesla (TSLA 3.46%) shares are finally cooling off today, pulling back in line with a broader sell-off as the S&P 500 is headed for its first decline since the election.\nThere was no major company-specific news out on Tesla, though Hertz Global again offered evidence that demand for electric vehicles (EVs) isn't as strong as bulls have hoped. Investors appear to be questioning the valuation after the stock jumped nearly 40% over the four sessions after the election.\nAs of 2:56 p.m. ET, the stock was down 5%.\nTesla runs out of gas\nThe only piece of news that would have directly weighed on the stock was Hertz's announcement that it continues to see weak demand for EVs and will sell 30,000 of them by the end of the year. Relatedly, J.D. Power projected that EVs coming off leases would also flood the market in the next two years, hitting 65,600 by the end of this year and 215,000 by 2026.\nHowever, the main reason for today's sell-off seemed to be related to sentiment and valuation as Tesla's surge has come without any clear benefit to the business, and with the broader pullback in the market, investors seem to be saying the post-election rally has run out of steam.\nIs Tesla a buy?\nTesla has soared in the aftermath of the election as CEO Elon Musk closely aligned himself with Trump, but it's not fully clear that getting in the president's good graces is going to benefit his EV company.\nAfter all, Trump campaigned on a plan to eliminate the tax credit for EVs and other clean energy programs, and Musk himself has complained that affordability is one of the biggest factors preventing Tesla and EVs more broadly from gaining more market share. Losing the credit, which is worth as much as $7,500 on some of Tesla's vehicles, would seem to be a clear negative for the company.\nInvestors are ultimately hopeful that the Trump administration will loosen up rules around autonomy, making it easier for Tesla to roll out its new robotaxi, or Cybercab, but safety and public perception will be the most critical test for the vehicles. If they cause accidents and Tesla is perceived as getting special favors from the government, that would likely be a disaster for its reputation.\nThere's still a lot of uncertainty for the company despite Musk's cozy relationship with Trump, and the stock trades at a demanding multiple. If the Trump-related thesis doesn't work out, Tesla stock could have a long way to fall.",
+    "source_domain": null,
+    "text": null,
+    "title": "Why Tesla Stock Was Pulling Back Today",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

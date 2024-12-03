@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Steve Wilson | The Center Square",
+        "Steve Wilson",
+        "The Center Square",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 19:25:14",
+    "description": "The Tampa Bay Rays ownership said in a letter that a $1.3 billion deal to build a new stadium in St. Petersburg.",
+    "filename": ".json",
+    "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2024/04/AP24101770652541-scaled.jpg.optimal.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The letter sent to the Pinellas County Commission on Friday said team Co-President \u201cBrian Auld did not waver from our commitment to the new ballpark project\u201d and blamed the commission for not honoring the spirit of the agreement reached in July to build a new stadium and multi-use development in the historic Gas Plant District.\nThe team says the deal is in effect until a party terminates the deal and the Rays have fulfilled their obligations.\n\u201cWe would not have gone forward with the project if a future Pinellas County Commission had the ability to revoke the approval we all celebrated in July or to unilaterally delay the project\u2019s completion into 2029,\u201d team Co-President Matt Silverman said in the letter.\nThe Rays\u2019 latest communication comes as a response to an letter issued by the commission that gave the team a deadline of Sunday to decide whether the deal went forward.\nThat contradicts a letter distributed by the team before the county commission meeting on Nov. 19 that said the body\u2019s failure to approve the bonds at its Oct. 29 meeting \u201cended the ability for a 2028 delivery of the ballpark\u201d and that the Rays can\u2019t absorb the additional costs due to the delay.\nBoth the County Commission and the St. Petersburg City Council voted last month to delay votes on bonds to finance their part of the stadium, which is to be the anchor of a $6.5 billion development.\nThe City Council also voted to approve and then delay about $23 million to repair the roof of the Rays\u2019 present home, Tropicana Field, that was heavily damaged by Category 3 Hurricane Milton. The storm tore 18 out of 24 roof panels from the stadium, which was built in 1990. The stadium requires an estimated $55 million in repairs.\nCLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER\nThe County Commission will take up its share of the bonds to finance a new stadium on Dec. 17, while the City Council will debate the city\u2019s bond issue on Jan. 9.\nThe Rays will play their home games next year at the New York Yankees\u2019 spring training park, George Steinbrenner Field, next season, with 69 of its final 103 games to be on the road to avoid the region\u2019s rainy season.",
+    "source_domain": null,
+    "text": null,
+    "title": "Rays say in letter that stadium deal is still in effect",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

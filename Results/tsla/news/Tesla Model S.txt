@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 11:15:00
+Description: Get the latest news on Tesla Model S. From motoring stories and spy shots to first drives, special features, videos and photos, we've got you covered.
+Filename: .json
+Image_Url: https://www.carscoops.com/wp-content/uploads/2024/11/Tesla-Referral-USA-Canada-1024x576.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla Model S
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Model S, Model X, and Cybertruck buyers with an referral in the US will get a $2,000 discount It’s unclear if the Californian tuner has received any orders for its Model S Plaid police cruiser All three bodykits from the Taiwanese firm are named after Greek gods The NHTSA is aware of four crashes involving Tesla vehicles using FSD in reduced visibility conditions These are the two top dogs of the electric vehicle sedan world and now they’re going racing Depreciation trends show that electric vehicles are losing value faster than their gasoline counterparts The Lucid Air Pure is rated at 146 MPGe compared to the 122 MPGe of the Tesla Model S Authorities say the driver admitted to police that he was inattentive during the crash The blaze happened just a couple of weeks after Elon Musk paused Tesla’s planned factory in Mexico Model 3, Model S, Model X, and Model Y vehicles are all affected by the recall, which has been handled by an over-air software update Data shows that consumer interest in EVs is on the rise, but that the high average prices limit their appeal Only four out of the top ten most American-made cars are actually from US manufacturers The driver reportedly told police he was using his phone, while letting the car drive itself AutoTrader will put the high-mileage Model S through a series of tests in future videos
+Financial_Events: []

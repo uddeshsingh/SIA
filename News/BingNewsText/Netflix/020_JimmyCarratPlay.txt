@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "John Benson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 16:54:24",
+    "description": "Several shows, including comedy performances by Jimmy Carr, Adam Ray, Iliza Shlesinger and Josh Johnson, have been announced for Playhouse Square in Celveland",
+    "filename": ".json",
+    "image_url": "https://www.news-herald.com/wp-content/uploads/2024/12/TNH-L-DidYouHear-120624-01.jpg?w=624&h=627",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The fast-paced comedic styling of Jimmy Carr has made him one of the U.K.\u2019s top comedians. After releasing his most recent Netflix special, \u201cNatural Born Killer,\u201d last year, Carr announced a stateside tour that includes a show on Oct. 11 in Cleveland at Playhouse Square\u2019s Connor Palace.\nFunnyman Adam Ray has parlayed his pandemic-inspired impersonation of Dr. Phil into a comedy gold. Having recently appeared with his regular standup material at Cleveland\u2019s Hilarities 4th Street Theatre, the Los Angeles-based comedian \u2014- dressed as the talk show host \u2014 will be back in Northeast Ohio for a \u201cDr. Phil Live\u201d show on June 6 at Playhouse Square\u2019s KeyBank State Theatre.\nIliza Shlesinger, who filmed her 2022 Netflix special, \u201cHot Forever,\u201d at Playhouse Square, has announced her new \u201cThe Get Ready Tour,\u201d which includes a show Feb. 21 at the KeyBank State Theatre.\nFeaturing Piero Barone, Ignazio Boschetto and Gianluca Ginoble, Il Volo recently released its latest album, \u201cAd Astra,\u201d earlier this year. Next up for the Italian trio is a stateside tour that includes a show Nov. 22 at the KeyBank State Theatre.\nMillennials may not know just how big Simon & Garfunkel was during its heyday. Keeping the music of the Rock & Roll Hall of Fame-inducted act alive is the national touring show \u201cThe Simon & Garfunkel Story,\u201d which features a live band playing nearly 30 songs. The sing-along show comes to Cleveland for a performance March 20 at the KeyBank State Theatre.\nAfter garnering national attention as Sebastian Maniscalco\u2019s opening act, Pat McGann is starting to garner attention as one of the sharpest stand-ups in the comedy world. The Chicago comic has booked a show on Jan. 18 at Playhouse Square\u2019s Hanna Theatre.\n\u2018O Christmas Tea: A British Comedy\u2019 playing in Lorain, Cleveland, Akron\nCleveland's Valentine Love Jam features The Whispers, Con Funk Shun and Lenny Williams performing their hits on Feb. 15 at the KeyBank State Theatre.\n\u201cThe Daily Show\u201d correspondent Josh Johnson was called \"the funniest guy on the internet\" by WIRED magazine. The Emmy Award-nominated writer and stand-up recently announced two shows (7 and 10 p.m.) on Jan. 31 at Playhouse Square\u2019s Mimi Ohio Theatre.\n\u201cStardew Valley\u201d gamers are invited to celebrate their love of the RPG when Symphony of Seasons comes through Northeast Ohio for a date on Oct. 12 at TempleLive Cleveland Masonic. A 35-piece orchestra will be performing the most memorable music from the game with a screen above the stage playing gameplay footage. Tickets are now on sale at Ticketmaster.com.",
+    "source_domain": null,
+    "text": null,
+    "title": "Jimmy Carr at Playhouse Square in October | Did You Year?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Farnoush Amiri",
+        "Associated Press"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:58:44",
+    "description": "Rep. Jamie Raskin of Maryland has announced that he will be running to become the top Democrat on the powerful House Judiciary Committee next year.",
+    "filename": ".json",
+    "image_url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5T35VEX6VJCWNPEB3GXD6QJEHM.jpg?_a=DATAdtfiZAA0",
+    "language": "en",
+    "localpath": null,
+    "maintext": "WASHINGTON \u2013 Rep. Jamie Raskin of Maryland announced Monday that he will run to become the top Democrat on the powerful House Judiciary Committee next year, directly challenging fellow Democratic Rep. Jerry Nadler as the party prepares to fight a second Trump administration and an emboldened Republican majority.\n\"House Democrats must stand in the breach to defend the principles and institutions of constitutional democracy,\" Raskin wrote in a letter to colleagues. \u201cThat is our historic assignment now. We dare not fail.\u201d\nRaskin said in the letter \u2014 obtained by The Associated Press \u2014 that he decided to run for the post after spending the week consulting with House Democrats and \u201cengaging in serious introspection\u201d about where the party is following their stunning electoral defeat last month that handed Republicans control of Congress and the White House.\nWhile currently the top Democrat on the House Oversight Committee, Raskin said that come next year, the Judiciary Committee under his leadership would become \"the headquarters of Congressional opposition to authoritarianism\" as well as other efforts by President Donald Trump and his allies to thwart the Constitution.\nBeing the face of the resistance against Trump is not new territory for Raskin who spent the last two years on Oversight as the most vocal defender of President Joe Biden and his family as they faced a sprawling Republican investigation \u2014 encouraged by Trump \u2014 into their various business affairs.\nRaskin, who is a former constitutional law professor, also helped draft articles of impeachment against the incoming president for his encouragement of the violent mob on Jan. 6, 2021, and led the impeachment prosecution in the Senate.\nBut by throwing his hat in the ring, Raskin is inviting what a bitter intra-party fight with Nadler, who is currently serving his 17th term in Congress and who has held the top spot on Judiciary since 2019. Democrats have over the years rarely broken from the seniority system for committee assignments, no matter how long someone has held a position, making the outcome of the race uncertain.\nBoth men did not respond to requests for comment but Raskin closed his letter by praising Nadler, saying that he made this decision \u201cwith respect and boundless admiration\u201d for him.\n\u201cIf I\u2019m lucky enough to be chosen for this responsibility in the 119th Congress, I will turn to Jerry first and throughout for his always wise counsel and political judgment,\u201d Raskin added.",
+    "source_domain": null,
+    "text": null,
+    "title": "Democrat Jamie Raskin is running for top Judiciary post in bid to counter Trump",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

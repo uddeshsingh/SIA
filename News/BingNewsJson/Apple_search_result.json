@@ -1,0 +1,2429 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Apple",
+    "queryContext": {
+        "originalQuery": "Apple",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 37700,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Apple"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Apple&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Nicole Ari Parker\u2019s Daughter Sophie Makes Her Mark at Paris Deb Ball and Her Dress Is So \u201cSex and The City\u201d Coded",
+            "url": "https://www.aol.com/nicole-ari-parker-daughter-sophie-220805789.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.01UCJIRKtaGqBC5FC9dCYC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The 'And Just Like That...' actress cheered on her 19-year-old daughter Sophie, who stunned in an Oscar de la Renta gown",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/45c8a0ce-d106-bfd4-e7de-ce71235a124e",
+                    "name": "Nicole Ari Parker"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/24211df7-8307-55f8-cd63-9b5bd8e6697b",
+                    "name": "Oscar de la Renta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/13dc69fd-7135-158e-2627-870f25e54202",
+                    "name": "Lily Collins"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6a9a4638-754e-85f9-50ae-7699e24f2e15",
+                    "name": "Margaret Qualley"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f689a0d-e0d1-e360-ebfd-ccfb5f109bf3",
+                    "name": "Carrie Bradshaw"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:08:00.0000000Z"
+        },
+        {
+            "name": "Apple AirTags Are Not Part of Cyber Monday Deals, But Samsung SmartTag2 Is Just $20 (35% off)",
+            "url": "https://gizmodo.com/apple-airtags-are-not-part-of-cyber-monday-deals-but-samsung-smarttag2-is-just-20-35-off-2000533021",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.cFm1HSqzbVI82q91KCKfry&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Amazon\u2019s dropped this tracker to $20, saving you $10 off its usual $30 price tag. At 35% off, Samsung\u2019s latest tracker becomes an even more useful addition to your smart home ecosystem. It also means you won\u2019t be losing your keys anymore, hopefully. You\u2019ve really got to stop doing that.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d4bc69e-eee9-b8f1-5440-376f530bea2c",
+                    "name": "AirTag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd479382-d340-5848-c99d-ed371b00b752",
+                    "name": "Android"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2785f3a0-fac2-fc86-bebb-b9bb286bb45f",
+                    "name": "Samsung"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Gizmodo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BmhW-V67ouY4VKCzJMDoqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:01:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Palantir Stock vs. Nvidia Stock: Billionaires Are Buying One and Selling the Other",
+            "url": "https://www.aol.com/palantir-stock-vs-nvidia-stock-230000290.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.wVathx1lJVTd0KDoUlhEMC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Among AI's hottest stocks through 2024 are data analytics company Palantir Technologies (NASDAQ: PLTR) and semiconductor leader Nvidia (NASDAQ: NVDA). Both companies have handily topped the markets this year -- with shares of Palantir rocketing by 291% while Nvidia has gained about 179% (as of market close Nov. 29).",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c3ea5c5-8119-f4b3-5019-aeed4f2f1843",
+                    "name": "Nasdaq Composite"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e8398f8f-9677-81c5-db16-8b32949217d5",
+                    "name": "Palantir Technologies"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d8bb8c2-d5dc-5159-69dc-c7a1fe132583",
+                    "name": "Semiconductor industry"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:47:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Best Buy Cyber Monday 2024 sale: Amazing deals on Apple, Samsung, and more brands",
+            "url": "https://www.soapcentral.com/lifestyle/best-buy-cyber-monday-2024-sale-amazing-deals-apple-samsung-brands",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.pT8IR_srW_VZaUArMNq-WS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Tech lovers - the much-awaited Cyber Monday sale is finally here! This is the best time of the year for those who have been eyeing several high-end products throughout the year to purchase them withou",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2785f3a0-fac2-fc86-bebb-b9bb286bb45f",
+                    "name": "Samsung"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f2799ecf-075d-2692-62e6-a1b0691c35c6",
+                    "name": "Bose Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "soapcentral",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.rXMx4CaX6Bkhp_2htV3Lrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:41:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Apple Intelligence's new features are imminent and actually really useful",
+            "url": "https://www.yahoo.com/tech/apple-intelligences-features-imminent-actually-150000294.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.G8mMuMTfOW_okMbj6D5zyS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "You will need an iPhone 15 Pro, iPhone 15 Pro Max, or an iPhone 16 model to access Apple Intelligence features. Other features like the Hearing Test are available to any iPhone user running iOS 18.2 when it arrives, though you\u2019ll of course need a pair of AirPods Pro 2 for that one.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/21283739-6892-0da5-3614-db7639d06007",
+                    "name": "Smartwatch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2785f3a0-fac2-fc86-bebb-b9bb286bb45f",
+                    "name": "Samsung"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:39:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Apple\u2019s AirTags are cheaper than they\u2019ve ever been for Cyber Monday",
+            "url": "https://www.msn.com/en-us/technology/consumer-electronics/apple-s-airtags-are-cheaper-than-they-ve-ever-been-for-cyber-monday/ar-AA1v91h1",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.fvDv8PjGsb697qLMHRjGLy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Apple\u2019s AirTags are the best Bluetooth trackers for iPhone owners, primarily because they\u2019re equipped with Apple\u2019s ultra wideband chip and can tap into Apple\u2019s vast Find M",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/26043f05-0161-e80d-d8da-f46bd95eecdc",
+                    "name": "Bluetooth"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/30ccfaa7-def0-4464-bb13-ef3d1b863549",
+                    "name": "Find My"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2589553-71c8-4920-a033-6103e8e77382",
+                    "name": "Tile"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Eo5m7BPNFOPugCZcNswMBg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:36:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "I\u2019m a Travel Tech Editor, and I\u2019m Telling Everyone to Grab These Cyber Monday Deals on Apple, Sony, and More",
+            "url": "https://www.travelandleisure.com/best-cyber-monday-deals-2024-tech-electronics-sale-8741416",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.zLBeKBseyowV_VEb-zN8kC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The Cyber Monday deals on tech and electronics are rolling in, and we've narrowed the 60 best ones you can score on top brands like Apple, Samsung, and Sony. Save up to $300-plus on noise-canceling headphones,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/eef22b03-5e75-1b3d-8344-0e7598c26f04",
+                    "name": "Apple TV"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/21160cd4-d849-552c-6a10-bb1873a606c2",
+                    "name": "Sony"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/10768c23-78f5-4d5a-1ef9-cb5989f4c878",
+                    "name": "Wrangler"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Travel + Leisure",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Nrm1cugpsLqzpmhZOXa7Vg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:35:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Chris Martin Has a Sweet Slow Dance With Daughter Apple at Her Le Bal des Debutantes Debut",
+            "url": "https://www.usmagazine.com/celebrity-moms/news/chris-martin-and-daughter-apple-slow-dance-at-her-society-debut/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._U6C9npZRHVkY-oEIwVARS&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Chris Martin had a sweet moment with his daughter, Apple, while attending her Le Bal des D\u00e9butantes debut.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8e75049a-6fa3-0f78-90e1-22844fc95f20",
+                    "name": "Chris Martin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e139c6e-299b-100f-968e-01b2383fdfea",
+                    "name": "Coldplay"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85584d24-2116-5b98-89f9-5714db931ac6",
+                    "name": "Paris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d51fb990-6abb-58ce-afc4-468232853523",
+                    "name": "Paris Match"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/576532c0-0a21-ae61-03e3-3f5b4e5bfbcc",
+                    "name": "Gwyneth Paltrow"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/73fe346d-cf3e-92f6-3ae1-eca3dce035dd",
+                    "name": "Valentino"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Us Weekly",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.xm2Ds5c6de6ZfXzLLGaazw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:32:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "12 Things You Should Know Before Buying An Android Phone (New Or Used)",
+            "url": "https://www.slashgear.com/1719075/android-phone-new-used-things-know-before-buying/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.uQPeGZZk4FLeIZMwS66A3S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "If you're tired of the restrictive side of Apple's ecosystem, it might be time to switch to Android. Here's what you should know before making the jump.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd479382-d340-5848-c99d-ed371b00b752",
+                    "name": "Android"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/16e46246-2257-643b-488c-f1572d8a9817",
+                    "name": "iOS"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b8ddb1a-cf19-ee77-560d-9dfa00ddf070",
+                    "name": "European Union"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cf6fd9c9-1abd-119e-c703-966e2aa76a16",
+                    "name": "USB-C"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a9cfebed-9b59-d5ab-5d50-ec763bdf8d0b",
+                    "name": "USB 3.0"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9605bf3a-b161-589b-0496-afd91499dee8",
+                    "name": ".eu"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SlashGear",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.cEtC7h8RK7I-UHn7jMddSA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Has New York City turned a corner in the migrant crisis?",
+            "url": "https://www.fox5ny.com/news/new-york-city-migrant-crisis-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.c9c4MVe10-Y7HQI0tvJwfS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The migrant crisis unfolding in New York City ran parallel to intensified situations at the U.S.-Mexico border. In June 2024, President Joe Biden called for a halt to asylum processing at the border in times when officials deemed it overwhelmed, leading to tightened federal immigration policies in September.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/60d5dc2b-c915-460b-b722-c9e3485499ca",
+                    "name": "New York City"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox 5 NY",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.A_wgay6nFgfB-P7rnmXtOA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:29:00.0000000Z",
+            "video": {
+                "name": "Has New York City turned a corner in the migrant crisis?",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.ywt8CzJW4qpJEAI4eJrrxw&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "World"
+        },
+        {
+            "name": "The Best Cyber Monday Headphone Deals Are Getting Ready To Power Off",
+            "url": "https://www.gq.com/story/cyber-monday-headphone-deals-12-02-2024",
+            "description": "Sometimes, old school is best\u2014and if you're not a fan of having to pair your headphones with your gaming system, a wired set like this one is exactly what the doctor ordered. For Cyber Monday, they got a surprise price drop, netting you $49 in savings.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798dc963-c63f-3948-1a9e-0957c2b6d1be",
+                    "name": "Target Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GQ",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BbQZoyz1ys_DcYNEVazCQg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:06:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Walmart's Cyber Monday sale is live \u2014 shop the best deals now",
+            "url": "https://mashable.com/article/best-cyber-monday-walmart-deals-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.AltZhII6UtY2Szx2w7q6WS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Walmart is tying a bow on its 2024 holiday programming with an extended Cyber Monday sale. After kicking off at 8 p.m. ET on Sunday, Dec. 1 (following three hours of early access for paid Walmart+ members), the sitewide savings event is now live through 11:59 p.m. ET on Monday, Dec. 2.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e7f0d4d6-a503-ca64-b487-6f70844650a7",
+                    "name": "Lego"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mashable",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.tfB_goYOslaBqaikd8wc5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:47:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Jimmy Lai, Witness to Truth",
+            "url": "https://www.ncregister.com/commentaries/jimmy-lai-witness-to-truth",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.QE5_HTX5lggwmkwxjveZKS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "EDITORIAL: Lai\u2019s testimony in court has highlighted the unswerving determination of this heroic Chinese Catholic to tell the truth \u2014 no matter the personal cost.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5ff3e75c-6116-8bdc-f001-aea4b9bb306f",
+                    "name": "Jimmy Lai"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "National Catholic Register",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.juJVGZzznhMfVPm-XEO-PA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:44:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "Apple Employee Sues Over Company Surveillance Policies That \u2018Unlawfully Restrain\u2019 Staff Freedoms, Suppress Speech",
+            "url": "https://www.thewrap.com/apple-speech-suppression-lawsuit/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.AehNTBrGI-i72LuukVxKeS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Apple is being sued by an employee who claims the tech giant's \"speech suppression policies\" unlawfully restrict its workers from talking",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2051a4c8-bbb9-4d59-bb96-22e807ed5cc5",
+                    "name": "Santa Clara, California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Speech"
+                },
+                {
+                    "name": "Suppression"
+                },
+                {
+                    "name": "Apple Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TheWrap",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.3zqB2pXRwlAc2EJ5gQwBtg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:42:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Some of My Favorite Earbuds and Headphones Are Up to 40% Off for Cyber Monday",
+            "url": "https://www.pcmag.com/opinions/my-favorite-headphones-earbuds-cyber-monday-deals-2024",
+            "description": "I've been reviewing electronics for more than 20 years, and these four hand-picked headphone deals from Apple, Bose, Sennheiser, and Sony are among the best you'll hear.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f2799ecf-075d-2692-62e6-a1b0691c35c6",
+                    "name": "Bose Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a101a200-438e-64ac-20d3-d88741c45185",
+                    "name": "Sennheiser"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/21160cd4-d849-552c-6a10-bb1873a606c2",
+                    "name": "Sony"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d654bd0b-f63a-efc8-67c8-5510948f9b03",
+                    "name": "Consumer electronics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a012213e-f970-bbc0-9652-57a07be959fd",
+                    "name": "PCMag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/26043f05-0161-e80d-d8da-f46bd95eecdc",
+                    "name": "Bluetooth"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC Magazine",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.zQjYLB70j-WJs8cTJd3iGQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:33:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Best Cyber Monday Deals on Apple Devices",
+            "url": "https://www.consumerreports.org/money/sales-promotions/best-cyber-monday-deals-on-apple-devices-a6879413377/",
+            "description": "This Cyber Monday score big savings on Apple Watches, Airpods, MacBooks and other Apple products that score well in Consumer Reports' tests.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/244ba145-459c-ab3b-eeeb-1a25a7a4de6c",
+                    "name": "AirPods"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d7ef07c-be3a-a7bc-ae19-9be46cdb74e0",
+                    "name": "Solid-state drive"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9403514a-d8fa-8648-cbcb-475e67f27652",
+                    "name": "Random-access memory"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Consumer Reports",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.tObZWe4SU_H0i7tQbbd56Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:09:00.0000000Z"
+        },
+        {
+            "name": "25+ Cyber Monday Apple Deals on Apple Watches, iPads, and More",
+            "url": "https://www.nytimes.com/wirecutter/money/apple-cyber-monday-deals-2024-1202/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.xhS-MHD7zJNhaBLFKo07ei&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "If you\u2019ve waited all year to splurge on an Apple device, Cyber Monday is a good time to buy that Apple Watch or iPad at a discount.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27f17c95-ec02-2943-a002-7287bfe9c604",
+                    "name": "MacBook"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.GzcmUDr41J6Qc1JEQyNTCA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:07:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Cyber Monday Apple deals 2024: Apple Watches, AirPods, iPads and more",
+            "url": "https://ktla.com/news/consumer-business/cyber-monday-apple-deals-2024-apple-watches-airpods-ipads-and-more/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mlYNJq1EWuVeZNV8AAaoJS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The wildly popular and influential tech company behind iPhones, iPads, Macs, Beats headphones, Apple Watches and more doesn\u2019t often put its products on sale, which makes Cyber Monday deals all the more desirable.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/244ba145-459c-ab3b-eeeb-1a25a7a4de6c",
+                    "name": "AirPods"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0f61afbd-cb33-5453-08e3-f96b18f2cdd9",
+                    "name": "Beats Electronics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/293c556e-6e97-0354-53b7-5b0b0eb1980d",
+                    "name": "MacBook Air"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KTLA",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.TgPjc_AEADbmeGqlS1fr8g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:54:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Apple accused of snooping on workers\u2019 iPhones in new lawsuit",
+            "url": "https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.U7ZVrzzYuCr8n0fLK6v32C&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Though Apple gives employees the option to use an Apple-owned device for work, the lawsuit says Apple pushes users to bring their own iPhones to work, where they\u2019re managed by Apple\u2019s internal software.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1c404376-32f7-98fd-3e8a-f8f67d6f2bcd",
+                    "name": "Surveillance"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e304a425-7bde-24eb-d29c-98e37590a24c",
+                    "name": "iCloud"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Apple Inc."
+                },
+                {
+                    "name": "iPhone"
+                },
+                {
+                    "name": "The Verge"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Verge",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Eo5m7BPNFOPugCZcNswMBg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:36:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Chris Martin and Daughter Apple Share a Sweet Slow Dance During Her Society Debut in Paris",
+            "url": "https://people.com/chris-martin-and-daughter-apple-20-share-a-sweet-slow-dance-during-her-society-debut-8754055",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.xfIK79mZWNFUy__GEwtmKS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Chris Martin shares daughter Apple, 20, and son Moses, 18, with ex-wife Gwyneth Paltrow. Apple made her debutante debut at Le Bal des D\u00e9butantes in Paris on Nov. 30.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "People",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.kridaNmIIz5AdgcUGG5eBQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:36:00.0000000Z"
+        },
+        {
+            "name": "How two apps are turning smartphones into navigation devices for the blind",
+            "url": "https://www.digitaltrends.com/mobile/how-two-apps-are-turning-smartphones-into-navigation-devices-for-the-blind/",
+            "description": "A team of researchers has built two apps that only need the sensors fitted inside a phone to help blind people navigate buildings. It's almost magical ingenuity.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Digital Trends",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.x644vROjZrRe0pKC7YX3XQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:32:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Cyber Monday is live at Amazon \u2014 check out our top picks",
+            "url": "https://mashable.com/article/best-cyber-monday-amazon-deals-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.59497jdLuz2IUO42rclE_y&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Amazon's Black Friday sale went live Nov. 21 (a full week before Thanksgiving), ushering in some year-round lows on robot vacuums, Apple products, and Fire TVs. This year's best Amazon Black Friday deals even beat out the top October Prime Day offers.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8aa5a00c-3c60-f287-e386-b729c0ce9d07",
+                    "name": "Mashable"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/761e2b59-dd8f-4ef9-de1c-ba7d99c46158",
+                    "name": "Thanksgiving"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd511c6d-12eb-56eb-540f-652e72dec21a",
+                    "name": "Amazon Fire TV"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798dc963-c63f-3948-1a9e-0957c2b6d1be",
+                    "name": "Target Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mashable",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.tfB_goYOslaBqaikd8wc5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:27:00.0000000Z"
+        },
+        {
+            "name": "What Wirecutter Readers Are Buying on Cyber Monday",
+            "url": "https://www.nytimes.com/wirecutter/money/most-popular-cyber-monday-2024/",
+            "description": "Follow the wisdom of the crowd and pick up the Cyber Monday deals that Wirecutter readers have loved the most.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d12672e1-33b9-be14-202d-30b4419d806b",
+                    "name": "All-Clad"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.GzcmUDr41J6Qc1JEQyNTCA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:23:00.0000000Z"
+        },
+        {
+            "name": "Apple Martin and the strange enduring spectacle of debutante balls",
+            "url": "https://www.washingtonpost.com/style/fashion/2024/12/02/apple-martin-debutante-ball/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8ZFUJvUVe5szZOXq8d34qi&pid=News",
+                    "width": 700,
+                    "height": 521
+                }
+            },
+            "description": "Does anything capture that quintessentially contemporary sentiment of simultaneous revulsion and infatuation like seeing images of Apple Martin \u2014 not the name of a cocktail but the daughter of Gwyneth Paltrow and Chris Martin \u2014 being \u201cpresented to society\u201d at a Paris debutante ball this past weekend?",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/576532c0-0a21-ae61-03e3-3f5b4e5bfbcc",
+                    "name": "Gwyneth Paltrow"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8e75049a-6fa3-0f78-90e1-22844fc95f20",
+                    "name": "Chris Martin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85584d24-2116-5b98-89f9-5714db931ac6",
+                    "name": "Paris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9ab0400a-cde7-238e-97cd-c6616857ae47",
+                    "name": "Debutante ball"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c53aa4e-31dd-5943-9d19-5572d4911d14",
+                    "name": "deb"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0498f385-1fc7-4429-576d-5eb930b414ed",
+                    "name": "Waltz"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Washington Post",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.JRpbjhQKSgfe9BXmFtAAoA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:17:00.0000000Z"
+        },
+        {
+            "name": "50 Best Last-chance Amazon Cyber Monday Travel Deals on Samsonite, Apple, and More \u2014 Up to 57% Off",
+            "url": "https://www.travelandleisure.com/best-amazon-cyber-monday-last-chance-deals-2024-8741414",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qJvIH1nuwyAfSL6z8y_s8i&pid=News",
+                    "width": 400,
+                    "height": 300
+                }
+            },
+            "description": "Cyber Monday is still going strong at Amazon, with thousands of deals on travel gear, luggage, comfy clothes, and more. Read on to find the 50 best last-chance Cyber Monday deals still worth shopping before the sale comes to a close \u2014 starting at just $8.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b6cdf01a-70a8-6b1a-f590-76630b43610a",
+                    "name": "Samsonite"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2c97c8c2-0eca-60cf-64aa-4843f741ed1b",
+                    "name": "USB"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Travel + Leisure",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Nrm1cugpsLqzpmhZOXa7Vg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:12:00.0000000Z"
+        },
+        {
+            "name": "Coinbase announces partnership with Apple Pay",
+            "url": "https://markets.businessinsider.com/news/stocks/coinbase-announces-partnership-with-apple-pay-1034088318",
+            "description": "Coinbase (COIN) announced the launch of Apple Pay (AAPL) for all fiat-to-crypto purchases via Coinbase Onramp, a tool to build onramps into",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2632c6a1-a946-4b3c-bd78-3c9d11661c79",
+                    "name": "Coinbase"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d5e7d9a-15cc-4428-92c8-0474d47cd3ec",
+                    "name": "Apple Pay"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8376b01-c707-95f4-366a-81d11767efd2",
+                    "name": "TipRanks"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LrIq_5vxtu4ONs5zIW54FA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:08:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Best Cyber Monday iPhone deals: Lowest prices on iPhone 16 Pro, iPhone 16 and more",
+            "url": "https://www.tomsguide.com/sales-events/best-cyber-monday-iphone-deals",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.2aMEtxDbu_nEPzlm7uBoWi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Want your iPhone 16 with a different carrier? Best Buy gives you a $100 gift card when you buy an iPhone 16 tied to AT&T. Verizon-owned Visible is offering a $250 gift card for iPhone 16 Pro Max purchases. (Other iPhones fetch gift cards with smaller amounts from Visible.)",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c46a8e31-b590-87b8-b72d-2df01e863c19",
+                    "name": "AT&T"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e1acd984-fc55-7626-5a48-e87c1ecdf3c7",
+                    "name": "Verizon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tom's Guide",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZOBoD-K8gMIgZf9nscv2_Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:04:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The Oura Ring Is at Its Lowest Price Yet for Cyber Monday",
+            "url": "https://lifehacker.com/health/oura-ring-cyber-monday-deal-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.94cIxsGJeRk7Afb72_DawC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Oura ring is a great fitness tracker for minimalists. It picks up on your sleep, HRV, skin temperature and more while you sleep, and its app tells you how recovered and ready you are each day. Today,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/46f7981a-ecf6-ad7d-a92c-dba7678cfdf9",
+                    "name": "Horizon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Lifehacker",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DqMYTp7y31wqjjz4HSdQBA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:04:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The Best Last-Minute Amazon Cyber Monday Deals Still Available \u2014 All Under $25",
+            "url": "https://people.com/best-amazon-cyber-moday-deals-under-25-8743323",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Fre8hqVrLgDEx2WusKDR9C&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Amazon\u2019s Cyber Monday deals end tonight, December 2, but there\u2019s still time to shop the best deals under $25. Save big on the Apple AirTag, Yankee Candle candles, the Laneige Lip Sleeping Mask, plus shop leggings,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d1c3a656-337f-fb99-a69d-f1aa2073d129",
+                    "name": "Yankee Candle"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e7f0d4d6-a503-ca64-b487-6f70844650a7",
+                    "name": "Lego"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "People",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.kridaNmIIz5AdgcUGG5eBQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:02:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Target Just Dropped the Best Cyber Monday iPad Air Deal on Our Favorite iPad of 2024",
+            "url": "https://www.ign.com/articles/apple-ipad-air-cyber-monday-deal-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.AhcTl-Feq7vdsbUucpRLOi&pid=News",
+                    "width": 360,
+                    "height": 360
+                }
+            },
+            "description": "The iPad Air is our best iPad of 2024 because it\u2019s the ideal tablet for both casual and professional use, from watching videos, listening to music, getting creative with the Apple Pencil, to getting some work done using the Apple Smart Keyboard Folio or Apple Magic Keyboard.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ba021024-6d4e-452a-b6f3-32413ea83b56",
+                    "name": "iPad Air"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/31bce273-2ee9-82b2-21b0-5f3c464db090",
+                    "name": "Apple Pencil"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/24c3f4f1-2799-5c73-da66-3f79732bacb1",
+                    "name": "iPad Pro"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "IGN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.3qmbISSUbmozGA38P2at6Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:51:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Walmart Cyber Monday 2024 sale: 8 best early deals to avail right away",
+            "url": "https://www.soapcentral.com/lifestyle/walmart-cyber-monday-2024-sale-8-best-early-deals-avail-right-away",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.u8ZOYgiZMiu0-kPwTxaLnC&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "Cyber Monday at Walmart is the best on discounts for 2024 as compared to other stores. In-store discounts range from 20 percent to 70 percent for various items. The hottest categories with the deepest cuts are 4K TVs, laptops, gaming consoles, and kitchen appliances.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "soapcentral",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.rXMx4CaX6Bkhp_2htV3Lrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:48:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The History Of Apple Watch: How The Best-Selling Smartwatch Has Evolved Over Time",
+            "url": "https://www.slashgear.com/1720469/apple-watch-history-how-best-selling-smartwatch-evolved/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.dSI5nkP7INHyFadOpUxYXy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Apple Watch revolutionized what was possible through smartwatches and have become health-and-fitness tracking necessities for many.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/21283739-6892-0da5-3614-db7639d06007",
+                    "name": "Smartwatch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/21160cd4-d849-552c-6a10-bb1873a606c2",
+                    "name": "Sony"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2785f3a0-fac2-fc86-bebb-b9bb286bb45f",
+                    "name": "Samsung"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Apple Inc."
+                },
+                {
+                    "name": "Smartwatch"
+                },
+                {
+                    "name": "Evolution"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SlashGear",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.cEtC7h8RK7I-UHn7jMddSA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:37:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Apple AirTag 4 Packs are priced at an all-time low for Cyber Monday",
+            "url": "https://www.yahoo.com/tech/apple-airtag-4-packs-priced-191939906.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.1xCR1vIll45u_JpDTyM_xS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Apple AirTag 4 Pack is available for $69.99 on Cyber Monday, its lowest price ever. Get it now and save $29.01.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8aa5a00c-3c60-f287-e386-b729c0ce9d07",
+                    "name": "Mashable"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/30ccfaa7-def0-4464-bb13-ef3d1b863549",
+                    "name": "Find My"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:24:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Gwyneth Paltrow, Chris Martin join daughter Apple Martin at Le Bal des D\u00e9butantes in Paris",
+            "url": "https://www.freep.com/story/entertainment/celebrities/2024/12/02/apple-martin-debutante-ball-gwyneth-paltrow-chris-martin/76699988007/",
+            "description": "Apple Martin, the 20-year-old daughter of the actress and the Coldplay singer, was supported by her famous parents at the Le Bal des D\u00e9butantes ball.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/576532c0-0a21-ae61-03e3-3f5b4e5bfbcc",
+                    "name": "Gwyneth Paltrow"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8e75049a-6fa3-0f78-90e1-22844fc95f20",
+                    "name": "Chris Martin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/73fe346d-cf3e-92f6-3ae1-eca3dce035dd",
+                    "name": "Valentino"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0d68afda-4941-f00e-ad6d-dc8d511fa60e",
+                    "name": "Vogue"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/08c35f84-7dac-ca75-c6ce-dfeacc6fc76c",
+                    "name": "Iron Man"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ca61d6c-c7f9-a24e-a25a-729bfe189ef4",
+                    "name": "Blythe Danner"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e139c6e-299b-100f-968e-01b2383fdfea",
+                    "name": "Coldplay"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Detroit Free Press",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.0wWYJ0GSt176NAhXZ94GFA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:22:00.0000000Z"
+        },
+        {
+            "name": "Coinbase now lets you buy crypto with Apple Pay in third-party apps",
+            "url": "https://techcrunch.com/2024/12/02/coinbase-now-lets-you-buy-crypto-with-apple-pay-in-third-party-apps/",
+            "description": "Coinbase announced an integration with Apple Pay on Monday, allowing app makers to build the ability to buy crypto with Apple Pay directly into their apps. The integration is part of Coinbase Onramp, which gives app makers a way for customers to turn their ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2632c6a1-a946-4b3c-bd78-3c9d11661c79",
+                    "name": "Coinbase"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d5e7d9a-15cc-4428-92c8-0474d47cd3ec",
+                    "name": "Apple Pay"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7e2375eb-72a8-a35f-3531-23ac4f293f27",
+                    "name": "USD Coin"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechCrunch"
+                }
+            ],
+            "datePublished": "2024-12-02T20:11:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "25+ Best Apple Cyber Monday Deals You Can Score Right Now: Save on iPads, Apple Watches, AirPods",
+            "url": "https://www.ign.com/articles/best-apple-deals-cyber-monday-2024",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jimvMC6eh-coRJPLFiFhuC&pid=News",
+                    "width": 308,
+                    "height": 360
+                }
+            },
+            "description": "From iPads and MacBooks to AirPods and AirTags, these are all the best Apple deals still available for Cyber Monday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc52c8b0-f244-8acb-2ca8-d82d83bf974e",
+                    "name": "Apple Watch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/293c556e-6e97-0354-53b7-5b0b0eb1980d",
+                    "name": "MacBook Air"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d4d3f3f-203a-f148-a790-1723c20d956f",
+                    "name": "M2"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27a957b3-ac95-4445-a5f9-a78a1242161b",
+                    "name": "2024"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a56e43dc-5b37-a649-8b8a-cb4dbb17cf62",
+                    "name": "MacBook Pro"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82bf6085-0995-db9d-6f45-778605c75b4c",
+                    "name": "Mac Mini"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4d7481cf-8591-fd5a-a74a-0fce1b4bfa5c",
+                    "name": "iMac"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "IGN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.3qmbISSUbmozGA38P2at6Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:17:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Wild Apple patent hints at an iPhone with multiple customizable action buttons",
+            "url": "https://www.macworld.com/article/2542819/wild-apple-patent-hints-at-an-iphone-with-multiple-customizable-action-buttons.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.xuUoZmXDm1orARoqD2fyWS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Patent application 20240393933 was filed by Apple back in May but was only published (and promptly spotted by Patently Apple) at the end of November. It covers what it cryptically refers to as \u201cDevices,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/97403b81-54b4-f83d-0592-1f1f6d4d42a3",
+                    "name": "Action"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Macworld"
+                },
+                {
+                    "name": "iPhone"
+                },
+                {
+                    "name": "Malus"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Macworld",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.7OJiqzAwiIgskKiVkww2hQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:14:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Apple's 2nm Chips Are Coming For iPhones, iPads, Macs But When? Here's the Timeline",
+            "url": "https://www.techtimes.com/articles/308540/20241202/apples-2nm-chips-are-coming-iphones-ipads-macs-when-heres-timeline.htm",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.DmVN4CL2kLhandJqqyX_MS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Despite starting in 2025, Apple reportedly chose to \"hold out\" the 2nm chip's release for public availability on its devices for unknown reasons, pointing out that 2022 also saw 3nm volume production but did not come out until 2023's iPhone 15 series.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "techtimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.yFMM_Cl4odYhA_uFciyWXg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T16:09:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Future iPhones could get multiple Action buttons; iPad and Mac too",
+            "url": "https://9to5mac.com/2024/12/02/future-iphones-could-get-multiple-action-buttons-ipad-and-mac-too/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.ubFh2uuhVyPbF3_OMLqGvS&pid=News",
+                    "width": 700,
+                    "height": 502
+                }
+            },
+            "description": "An Apple patent has revealed that future iPhones could effectively get multiple Action buttons, as all three buttons on",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/97403b81-54b4-f83d-0592-1f1f6d4d42a3",
+                    "name": "Action"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "9to5Mac",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.je8Klcy9ubQRbeUUjYnX9w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T13:07:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Apple to Keep Titanium Chassis for iPhone 17 Pro Models, Claims Leaker",
+            "url": "https://www.macrumors.com/2024/12/02/apple-to-use-titanium-chassis-iphone-17-pro/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.x18vLYV0qUXr4CIOLrBwvS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Next year's iPhone 17 Pro and iPhone 17 Pro Max will feature a titanium chassis just like the current Pro models, contrary to reports of",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b23ef658-73e6-bbff-a9a1-483f768d9509",
+                    "name": "Sina Weibo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f9c53a83-3037-1ac1-7c4d-c37cb71a8f92",
+                    "name": "The Information"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MacRumors",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.fdtIJqPboMQMjJtsLkn8ww&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T11:57:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "21 Cyber Monday Deals on Apple iPads, MacBooks, More Still Available",
+            "url": "https://www.wired.com/story/cyber-monday-apple-deals-2024/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.KqfIcjbQ78ZVPbZv8oyHbC&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Are Apple's gadgets on your holiday gift lists this year? You're in luck. Our favorite MacBooks, Apple Watches, iPads, and AirPods are all on sale.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/045a70ff-2893-ee8f-d46b-7f7c2204b485",
+                    "name": "MacBook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b4b093a1-0e5c-58dd-c768-d3088c305434",
+                    "name": "Wired"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/244ba145-459c-ab3b-eeeb-1a25a7a4de6c",
+                    "name": "AirPods"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6bee19d-a735-ff2a-5155-e64f83fd0784",
+                    "name": "Best Buy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/44aa09c8-5427-717b-1fd6-401601dfd675",
+                    "name": "LCD projector"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4a703ae9-0eda-2ab0-078f-2af6c26cba61",
+                    "name": "Webcam"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c9f8d475-802f-62ff-f46b-51b72c01c6fe",
+                    "name": "Apple M1"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/293c556e-6e97-0354-53b7-5b0b0eb1980d",
+                    "name": "MacBook Air"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Wired",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.kotzZAtvSAr_gOrTSz2U3g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T11:30:00.0000000Z"
+        },
+        {
+            "name": "Here\u2019s when you can expect 2nm chips to come to iPhone, iPad, and Mac",
+            "url": "https://9to5mac.com/2024/12/01/apple-tsmc-2nm-chips-iphone/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.ozygPdKNs_H5YSziMuhQmC&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Although Apple typically follows a two year cycle with process nodes, with the 7nm and 5nm processes lasting two",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39eaa44b-e724-8c6a-34b4-e4021f758f71",
+                    "name": "TSMC"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "9to5Mac",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.je8Klcy9ubQRbeUUjYnX9w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T10:17:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "I'm picking the best Apple Cyber Monday Deals 2024 LIVE: iPads, iPhones, AirPods and more",
+            "url": "https://www.tomsguide.com/live/news/best-cyber-monday-apple-deals",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.oeS6Dr6su6-tR5-O5utgKy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "You don't see first-party Apple chargers and accessories discounted too often. However, right now, you can get Apple's 20W USB-C power adapter for $5 off the regular price right now at Best Buy. You can never have too many power bricks floating around, especially when they're ones made by Apple.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/244ba145-459c-ab3b-eeeb-1a25a7a4de6c",
+                    "name": "AirPods"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/045a70ff-2893-ee8f-d46b-7f7c2204b485",
+                    "name": "MacBook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tom's Guide",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZOBoD-K8gMIgZf9nscv2_Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T10:03:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Building Apple Products Has Become a Side Hustle for China\u2019s Biggest EV Maker",
+            "url": "https://www.wsj.com/tech/building-apple-products-has-become-a-side-hustle-for-chinas-biggest-ev-maker-f26e251c",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.GdC6os6oLqHWQLB3nmNe9S&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "BYD has grown into a top iPad assembler and has put around 100,000 people to work for Tim Cook\u2019s company.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+                    "name": "China"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f5500d5-a48c-dc47-2c90-f8cc8558d9d2",
+                    "name": "iPad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c362ebf-ffb9-72b2-ed6c-f829041ca180",
+                    "name": "BYD Company"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Wall Street Journal",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.15fnkpKGfQuTaaskfJ-smw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T05:06:00.0000000Z",
+            "video": {
+                "name": "Building Apple Products Has Become a Side Hustle for China\u2019s Biggest EV Maker",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.jrXKItLtGcgLhPTudjlctQ&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 260
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Practically Every Apple Product Is on Sale: 17 of the Best Early Cyber Monday Deals We Found",
+            "url": "https://www.msn.com/en-us/news/other/practically-every-apple-product-is-on-sale-for-cyber-monday-17-of-the-best-deals-we-found/ar-AA1v4B4s",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Qer9g9OER6Z6hMfRZLwNpC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "We don't know about you, but we love Apple products. But let's be honest, it's more the high quality than the high prices. So we're particularly excited about all the Cyber Monday deals that are already here.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a012213e-f970-bbc0-9652-57a07be959fd",
+                    "name": "PCMag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/244ba145-459c-ab3b-eeeb-1a25a7a4de6c",
+                    "name": "AirPods"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.zQjYLB70j-WJs8cTJd3iGQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T01:05:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Apple News",
+            "url": "https://www.consumeraffairs.com/news/apple-news/",
+            "description": "ConsumerAffairs is not a government agency. Companies displayed may pay us to be Authorized or when you click a link, call a number or fill a form on our site. Our content is intended to be used ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ConsumerAffairs"
+                }
+            ],
+            "datePublished": "2024-11-19T00:01:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "All the ways you can get an Apple TV Plus free trial in 2024",
+            "url": "https://www.techradar.com/news/apple-tv-plus-free-trial",
+            "description": "An Apple TV Plus free trial is the best way to try out one of the best streaming services. While it has a far more slender content library than giants like Netflix and Prime Video, the service has ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar"
+                }
+            ],
+            "datePublished": "2024-11-18T17:08:00.0000000Z"
+        },
+        {
+            "name": "16 Fantastic Apple Pie Recipes to Make This Fall",
+            "url": "https://www.foodandwine.com/desserts/pies/apple-pie/apple-pie",
+            "description": "A golden, walnut-studded streusel tops a filling of cinnamon-spiced apples and a simple homemade crust in this apple pie from F&W's former senior Test Kitchen editor Grace Parisi. In her no-frills ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Food & Wine"
+                }
+            ],
+            "datePublished": "2024-11-17T00:00:00.0000000Z"
+        },
+        {
+            "name": "Apple II emulator for Windows",
+            "url": "https://github.com/AppleWin/AppleWin",
+            "description": "AppleWin is a fully-featured emulator supporting different Apple II models and clones. A variety of peripheral cards and video display modes are supported (eg. NTSC, RGB); and there's an extensive built-in symbolic debugger.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2024-11-16T00:01:00.0000000Z"
+        },
+        {
+            "name": "Apple iPhone 12 mini",
+            "url": "https://www.gsmarena.com/apple_iphone_12_mini-10510.php",
+            "description": "4G bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2176 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18 ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GSM Arena"
+                }
+            ],
+            "datePublished": "2024-11-13T00:00:00.0000000Z"
+        },
+        {
+            "name": "Apple iPhone 12 Pro Max",
+            "url": "https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php",
+            "description": "Main Camera Triple 12 MP, f/1.6, 26mm (wide), 1/1.9\", 1.7\u00b5m, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.2, 65mm (telephoto), 1/3.4\", 1.0\u00b5m, PDAF, OIS, 2.5x ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GSM Arena"
+                }
+            ],
+            "datePublished": "2024-11-13T00:00:00.0000000Z"
+        },
+        {
+            "name": "Best Black Friday Apple deals 2024: early deals now live",
+            "url": "https://www.techradar.com/black-friday/apple-black-friday-deals",
+            "description": "Early Black Friday Apple deals are available to shop right now. Thanks to early sales in the US and UK, you can score record-low prices on AirPods, iPads, MacBooks, smartwatches, and more.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar"
+                }
+            ],
+            "datePublished": "2024-11-12T20:33:00.0000000Z"
+        },
+        {
+            "name": "Apple Watch Series 10: Release date, price, colors, review, features, and more",
+            "url": "https://bgr.com/guides/apple-watch-series-10-release-date-price-specs/",
+            "description": "Apple Watch Series 10 bigger display Image source: Apple Inc. Apple says the Apple Watch Series 10 is nearly 10% thinner than the Apple Watch Series 7, Series 8, and Series 9. This wearable is ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BGR"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "Apple\u2019s Ambitious iPhone 17 Plans Face Difficult Design Challenges",
+            "url": "https://www.forbes.com/sites/ewanspence/2024/11/11/apple-phone-17-slim-design-leak-specs-thin-iphone-se-new-iphone/",
+            "description": "Apple\u2019s upcoming iPhone 17 family may feature a new iPhone design, with the recently reported iPhone Slim replacing the large-screened iPhone Plus. By offering the thinnest iPhone ever ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-11T19:57:00.0000000Z"
+        },
+        {
+            "name": "25+ Best Black Friday Apple Deals: Early Sales",
+            "url": "https://manofmany.com/tech/apple/apple-deals-black-friday",
+            "description": "Apple fans, enthusiasts and loyalists rejoice, it\u2019s that time of year again. The annual Black Friday Apple sales event promises to deliver more discounts on your favourite tech products, from iPads and iPhones to MacBooks and AirPods. If you\u2019re tired ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Man of Many"
+                }
+            ],
+            "datePublished": "2024-11-11T08:20:00.0000000Z"
+        },
+        {
+            "name": "Apple Inc sets up first subsidiary in India for R&D",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-inc-sets-up-first-subsidiary-in-india-for-rd/articleshow/115095502.cms",
+            "description": "Apple established a new subsidiary in India, Apple Operations India, marking its first direct presence in the country. This subsidiary will focus on research, design, testing, and providing support to third-party manufacturers. This move signifies Apple's ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes"
+                }
+            ],
+            "datePublished": "2024-11-09T11:00:00.0000000Z"
+        },
+        {
+            "name": "Apple iMac M4 Review: Familiar Outside, All-New Performance Inside",
+            "url": "https://www.forbes.com/sites/davidphelan/2024/11/07/apple-imac-m4-review-familiar-outside-all-new-performance-inside/",
+            "description": "Apple\u2019s desktop computer, the iMac, has just been re-released with an upgraded processor, new colors and more. The memory in the entry-level version has doubled, from 8GB to 16GB, though with ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-07T14:00:00.0000000Z"
+        },
+        {
+            "name": "Indonesia iPhone Ban: Apple Proposes $10M Manufacturing Investment",
+            "url": "https://www.macrumors.com/2024/11/05/indonesia-iphone-ban-apple-10m-investment/",
+            "description": "Apple has proposed investing nearly $10 million in Indonesian manufacturing operations in an effort to lift the country's recent ban on iPhone 16 sales, according to sources familiar with the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MacRumors"
+                }
+            ],
+            "datePublished": "2024-11-05T10:24:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "All New Apple Products in Order: 2024/2025 Releases",
+            "url": "https://www.techopedia.com/all-new-apple-products-in-order",
+            "description": "The first of Apple\u2019s new products in 2024 was the Vision Pro. Rather than calling it a VR, XR, MR, or AR headset, it referred to the headset as a spatial computer that can blend the digital and physical worlds. The jury is still out on whether it was to ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Techopedia"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "Apple Music Revenue and Usage Statistics (2024)",
+            "url": "https://www.businessofapps.com/data/apple-music-statistics/",
+            "description": "That now seems quaint, but for over a decade it was the way most people listened to music. Apple held a lead over all other music players with the iPod, which was catapulted further ahead by the iPhone. However, Apple failed to see music streaming as the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Uber"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "4 Apple products you shouldn't buy right now (including a popular iPhone model)",
+            "url": "https://www.zdnet.com/article/4-apple-products-you-shouldnt-buy-right-now-including-a-popular-iphone-model/",
+            "description": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the Multicloud The Future of the Internet ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ZDNet"
+                }
+            ],
+            "datePublished": "2024-11-04T15:00:00.0000000Z"
+        },
+        {
+            "name": "mParticle Apple SDK",
+            "url": "https://github.com/mParticle/mparticle-apple-sdk",
+            "description": "This is the mParticle Apple SDK for iOS and tvOS. At mParticle our mission is straightforward: make it really easy for apps and app services to connect and allow you to take ownership of your 1st party data. Like most app owners, you end up implementing ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2024-11-04T00:00:00.0000000Z"
+        },
+        {
+            "name": "Today's fresh apples could be a year old: Surprising apple facts",
+            "url": "https://www.usatoday.com/story/news/nation/2024/11/03/surprising-apple-facts/75917754007/",
+            "description": "And that's just the beginning of the surprising modern reality of a quintessentially American fruit \u2012 one that captures our imagination each fall with apple-picking, apple cider doughnuts and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today"
+                }
+            ],
+            "datePublished": "2024-11-03T10:07:00.0000000Z"
+        },
+        {
+            "name": "Apple to invest up to $1.5 bln in Globalstar for satellite coverage expansion",
+            "url": "https://www.reuters.com/technology/apple-invest-up-15-bln-globalstar-satellite-coverage-expansion-2024-11-01/",
+            "description": "Nov 1 (Reuters) - Apple (AAPL.O), opens new tab will invest up to $1.5 billion in Globalstar (GSAT.A), opens new tab to fund the expansion of its iPhone communication services, the satellite ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters"
+                }
+            ],
+            "datePublished": "2024-11-01T16:03:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Company Reports",
+            "url": "https://www.morningstar.com/company-reports?listing=0P000000GY",
+            "description": "Apple Earnings: Our Valuation Rises to Reflect Stronger Long-Term Growth, but Less of an AI Impact We raise our fair value estimate for wide-moat Apple to $200 from $185 as we raise our longer ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar"
+                }
+            ],
+            "datePublished": "2024-11-01T00:00:00.0000000Z"
+        },
+        {
+            "name": "Apple earnings: Stock falls as China miss outweighs iPhone revenue beat",
+            "url": "https://www.marketwatch.com/livecoverage/apple-earnings-stock-iphone-16-results-revenue-q4-ai",
+            "description": "Apple posted a headline beat on Thursday for the fiscal fourth quarter, but investors may have found at least one item to nitpick. Greater China revenue, while largely stabilizing after four ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch"
+                }
+            ],
+            "datePublished": "2024-10-31T22:48:00.0000000Z"
+        },
+        {
+            "name": "Apple reports fourth quarter results",
+            "url": "https://www.businesswire.com/news/home/20241031454158/en/Apple-reports-fourth-quarter-results",
+            "description": "CUPERTINO, Calif.--(BUSINESS WIRE)--Apple\u00ae today announced financial results for its fiscal 2024 fourth quarter ended September 28, 2024. The Company posted quarterly revenue of $94.9 billion ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Wire"
+                }
+            ],
+            "datePublished": "2024-10-31T16:30:00.0000000Z"
+        },
+        {
+            "name": "Every Apple Mac announcement this week - and what models we're still waiting for",
+            "url": "https://www.zdnet.com/article/every-apple-mac-announcement-this-week-and-what-models-were-still-waiting-for/",
+            "description": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the Multicloud The Future of the Internet ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ZDNet"
+                }
+            ],
+            "datePublished": "2024-10-31T00:44:00.0000000Z"
+        },
+        {
+            "name": "Apple Earnings Preview: Numbers and Themes To Watch",
+            "url": "https://www.investopedia.com/apple-q4-fy-2024-earnings-preview-8734810",
+            "description": "Apple will report earnings after the market closes Thursday, the company\u2019s first report since the release of the iPhone 16. The company is expected to report growing revenue and net income year ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investopedia"
+                }
+            ],
+            "datePublished": "2024-10-31T00:00:00.0000000Z"
+        },
+        {
+            "name": "The first Apple Intelligence features are hit-and-miss",
+            "url": "https://www.macworld.com/article/2490770/the-first-apple-intelligence-features-are-hit-and-miss.html",
+            "description": "Apple Intelligence is finally here (sort of). With iOS 18.1, the first tranche set of AI features finally comes to our phones (albeit in beta and temporarily behind a waitlist). The iPhone 16 line ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Macworld"
+                }
+            ],
+            "datePublished": "2024-10-29T11:15:00.0000000Z"
+        },
+        {
+            "name": "Apple Intelligence Supported Devices: Will Your Device Get Apple\u2019s AI Features?",
+            "url": "https://beebom.com/apple-intelligence-supported-devices/",
+            "description": "Apple is expected to roll out Apple Intelligence features with iOS 18.1 update on October 28, 2024. Only devices powered by Apple silicon, including the A18 Pro, A18, A17 Pro, and the M-series chips, will support Apple Intelligence. This means the iPhone ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Beebom"
+                }
+            ],
+            "datePublished": "2024-10-28T00:00:00.0000000Z"
+        },
+        {
+            "name": "Apple iOS 18 Review",
+            "url": "https://www.pcmag.com/reviews/apple-ios-18",
+            "description": "My career has taken me through an eclectic assortment of fields, and connected me with people from all walks of life. This experience includes construction, professional cooking, podcasting, and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC Magazine"
+                }
+            ],
+            "datePublished": "2024-09-23T18:14:00.0000000Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Aislinn Murphy"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-14 11:58:09",
+    "description": "Tesla is recalling 2,431 Cybertrucks over a potential issue with their drive inverters, according to a recall report submitted to the National Highway Traffic Safety Administration.",
+    "filename": ".json",
+    "image_url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/Tesla-Cybertruck-Elon-Musk_04.jpg?ve=1&tl=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla is recalling 2,431 Cybertrucks over a potential issue with their drive inverters.\nThe driver inverters in the recalled Cybertrucks may contain a \"fault\" that could \"cause a loss of drive power to the wheels,\" the National Highway Traffic Safety Administration (NHTSA) said.\nThe agency said it could \"increase the risk of a crash.\"\nIt is the sixth recall for the model in about a year.\n\"No warning occurs prior to the loss of propulsion,\" Tesla said on its website. \"However, when the driver loses the ability to apply torque, they will immediately receive a visual alert on the user interface, with an instruction to safely pull over the vehicle to the side of the road and contact Tesla Roadside Assistance.\"\nTESLA HEADED FOR $2 TRILLION VALUATION AFTER MUSK'S \u2018BIG BET\u2019 ON TRUMP WIN, ANALYSTS SAY\nTesla manufactured the recalled Cybertrucks over a nearly nine-month span between Nov. 6 of last year and July 30 of this year. They \"are or were equipped with metal-oxide-semiconductor field-effect transistors (MOSFET) in the drive inverter,\" according to the recall report.\nThe problem with the driver inverter hasn\u2019t caused any crashes, injuries or fatalities, Tesla said.\nThe electric vehicle maker will install a new drive inverter \"equipped with a properly functioning MOSFET component\" in recalled vehicles for free, according to the recall report. That service will become available around Dec. 9 and take about three hours to complete, Tesla said.\nFEDS INVESTIGATING THE SAFETY OF TESLA'S \u2018FULL SELF-DRIVING\u2019 FEATURE\nAffected Cybertruck owners will get mailed notification of the recall in early January, according to NHTSA.\nThe Cybertruck has been available since November of last year.\nMUSK UNVEILS ROBOTAXI, UNSUPERVISED FULL SELF-DRIVING FUTURE: \u2018THAT\u2019S WHAT WE WANT'\nTicker Security Last Change Change % TSLA TESLA INC. 357.09 +11.93 +3.46%\nThe company built nearly 469,800 vehicles across its various models in the third quarter.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla issues sixth recall this year for Cybertrucks",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

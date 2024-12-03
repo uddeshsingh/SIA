@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Jak Connor",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 00:03:03",
+    "description": "Elon Musk has touched on rumors about Tesla having a smartphone in development during a recent interview on 'The Joe Rogan Experience' podcast.",
+    "filename": ".json",
+    "image_url": null,
+    "language": "en",
+    "localpath": null,
+    "maintext": "TL;DR: Elon Musk, on \"The Joe Rogan Experience\" podcast, addressed rumors about Tesla developing a smartphone, stating that Tesla is not currently making a phone. He mentioned that Tesla could potentially create a phone, given its Linux-based operating system, but emphasized that it's not a priority unless necessary.\nTesla and SpaceX CEO Elon Musk has sat down for a lengthy discussion on \"The Joe Rogan Experience\" podcast, where he touched on the rumors that Tesla is developing a smartphone behind closed doors.\nSkip to 1:33:13\nIt has been long rumored that Tesla is developing a smartphone that will separate itself from the duopoly of operating systems, Android and iOS. However, these rumors have been just that, rumors, and have mostly been unfounded or simply murmurings. In fact, Musk has brought up the topic before as the Tesla CEO said in November 2022 that if Apple and Google decided to \"boot\" then-Twitter, and now X, from its respective app stores, Musk said there would be no other choice but to \"make an alternative phone.\nNow, on a recent episode of the JRE podcast, Musk was asked if there is any credibility to these rumors, or if he has ever considered making a smartphone. Musk responded quickly by saying, \"No, we aren't doing a phone\". When asked if he had ever thought about making one, Musk said, \"We could do a phone. The operating system of a Tesla is Linux-based, but we have written a massive of software on top of that.\"\nMusk added, \"Probably Tesla is in a better position to create a new phone that's not Android or iPhone than maybe any company in the world. But, it's not something we want to do unless we have to.\"",
+    "source_domain": null,
+    "text": null,
+    "title": "Elon Musk confirms if Tesla is making a smartphone to rival Apple and Google",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

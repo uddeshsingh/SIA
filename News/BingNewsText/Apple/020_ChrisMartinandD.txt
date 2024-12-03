@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Emma Aerin Becker",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 16:31:48",
+    "description": "Chris Martin shares daughter Apple, 20, and son Moses, 18, with ex-wife Gwyneth Paltrow. Apple made her debutante debut at Le Bal des D\u00e9butantes in Paris on Nov. 30.",
+    "filename": ".json",
+    "image_url": "https://people.com/thmb/QYomoF23VZani6Uht4V-jiPLLyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/apple-martin-chris-martin-120224-6ae58338800149279c02f0364f7a84c0.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Chris Martin and Apple Martin shared a sweet father-daughter moment during her debutante debut.\nOn Saturday, Nov. 30, the 20-year-old daughter of the Coldplay frontman, 47, and his ex-wife Gwyneth Paltrow, 52, made her society debut at the Le Bal des D\u00e9butantes in Paris. At the event, Chris and Apple were spotted sharing a slow dance in a sweet video from Paris Match.\nThe duo can be seen chatting and laughing while they move in sync, though their conversation cannot be heard over the clip's music.\nNever miss a story \u2014 sign up for PEOPLE's free daily newsletter to stay up-to-date on the best of what PEOPLE has to offer\u200b\u200b, from celebrity news to compelling human interest stories.\nPaltrow was also in attendance at the celebratory event, sharing a carousel of photos and clips from her weekend on Instagram on Sunday, Dec. 1. \"A special long weekend in Paris,\" the actress captioned the post.\nThe first visual in the celebratory post was a video of the actress\u2019s cloudy view from the airplane as she flew overseas. Next, she shared a mirror selfie of her and her daughter, who was wearing an elaborate custom Valentino gown, which Vogue reports took Valentino Creative Director Alessandro Michele\u2019s atelier 750 hours to make.\nThe third slide showed a snap seemingly featuring Martin and their son Moses, 18, as they sat on a bench outside with their backs toward the camera.\nThe PEOPLE Puzzler crossword is here! How quickly can you solve it? Play now!\nThe sweet photo was followed by a family picture of Paltrow, her mother Blythe Danner, and Moses in a white room with art pieces hanging behind them.\nPaltrow continued the carousel with another family snap, including her former husband, at the formal event. The Iron Man alum wore a glittery sheer black gown from Valentino\u2019s spring 2025 collection for the occasion. The dress featured ruffle details throughout, mainly along the neckline, sleeves and skirt.",
+    "source_domain": null,
+    "text": null,
+    "title": "Chris Martin and Daughter Apple Share a Slow Dance During Le Bal Debut",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Peter Hoskins"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2023-05-24 03:35:55",
+    "description": "The firm reaches an agreement with Broadcom as the tech trade row between US and China intensifies.",
+    "filename": ".json",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/E8C0/production/_129848595_gettyimages-1246838921.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Apple says it has struck a multi-billion dollar deal with chipmaker Broadcom to use more US-made parts.\nUnder the multi-year agreement, the two US companies will develop components for 5G devices that will be designed and manufactured in America.\nApple says the deal is part of a plan it announced in 2021 to invest $430bn (\u00a3346bn) in the US economy.\nThe move comes as a trade row centred on the technology industry intensifies between Washington and Beijing.\nThe long-running dispute has seen the US impose a series of measures against China's chip making industry and invest billions of dollars to boost America's semiconductor sector.\nIn recent months, US tech giants have come under increased scrutiny from both Democrat and Republican lawmakers over their reliance on Chinese manufacturers and components.\nApple has been gradually diversifying its supply chains, with more of its devices now made in countries like India and Vietnam.\nLast year, it said that it will buy semiconductors from a factory being built in the US state of Arizona by Taiwanese chipmaking giant TSMC.\nIn 2022, Apple also announced plans to make the iPhone 14 in India, a significant milestone in the company's strategy to diversify manufacturing outside of China.\nThe move expanded the company's Indian manufacturing operations - it has been making iPhones in the southern state of Tamil Nadu since 2017.\nLast month, Apple launched its first Indian retail stores - in the financial hub Mumbai and the country's capital Delhi.\nUnder the latest deal, which expands the iPhone maker's existing relationship with Broadcom, components for Apple devices will be designed and built in Colorado and other parts of the US.\n\"We're thrilled to make commitments that harness the ingenuity, creativity, and innovative spirit of American manufacturing,\" Apple's chief executive Tim Cook said in a statement.\nTensions between the US and China have escalated in recent months.\nEarlier this week, China said products made by US memory chip giant Micron Technology were a national security risk, in Beijing's first major move against a US chip maker.",
+    "source_domain": null,
+    "text": null,
+    "title": "Chip war: Apple strikes major US-made semiconductor deal",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

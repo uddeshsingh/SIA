@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Zack Zwiezen"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-05 17:10:00",
+    "description": "Only four titles will remain on the service after December 1",
+    "filename": ".json",
+    "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f7be6996cb455db3c3b305addedbd5be.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Remember a few years ago when Netflix dipped its toes into the world of video games by creating interactive choose-your-own-adventure movies and TV shows? Well, almost all of those odd experiments are being removed from the service with little warning next month.\nIn 2017, Netflix launched its first interactive short film, Puss In Book. But most people didn\u2019t really start paying attention to the streamer\u2019s interactive output until 2018's critically panned Black Mirror special: Bandersnatch. The tech behind these early choose-your-own-adventure-like productions was then used to create about 20 or so different shows and movies, including ones based on Jurassic World, Carmen San Diego, and Boss Baby. And almost all of those interactive titles will be removed from Netflix on December 2.\nOn November 5, The Verge confirmed with Netflix that 20 of the 24 previously produced interactive specials and shows would not be available to watch after December 1. The only four that will be left on the service after the purge will be the already mentioned Black Mirror: Bandersnatch, as well as Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend, Ranveer vs. Wild with Bear Grylls, and You vs. Wild.\n\u201cThe technology served its purpose, but is now limiting as we focus on technological efforts in other areas,\u201d a Netflix spokesperson told The Verge.\nIt\u2019s not too surprising that Netflix is removing these interactive specials from the service. In January, it was confirmed by Netflix\u2019s gaming boss Mike Verdu that the company was no longer making interactive titles anymore. Also, that Puss In Book interactive special from 2017 was seemingly removed months ago without many people noticing.\nMeanwhile, Netflix is also backing away from video game production after spending a lot of money and time trying to break into the industry. In late October, Netflix quietly shut down its big AAA game studio, Team Blue, after just two years and with nothing to show. And after laying off those developers, Netflix is now\u2014just days later\u2014touting its plans to use generative AI to create games. I can\u2019t wait for Netflix to give up on that plan in a year or two, lay off more people, and try another pivot to games.",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix Delisting 20 Interactive Shows And Movies Next Month",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-10 05:50:00",
+    "description": "Letter: The time will soon come when Americans will need to answer for why they elected a man who tried to overthrow the government.",
+    "filename": ".json",
+    "image_url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/1f/d1f31ec0-9d81-11ef-aafd-f71c3bbd9c6b/672d867d0aa78.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+    "language": "en",
+    "localpath": null,
+    "maintext": "There\u2019s a lot to process about Donald Trump\u2019s election victory last week. Economic concerns and durable dissatisfaction are complex issues poorly addressed by the Democratic Party and the Kamala Harris campaign, especially amongst voter groups they took for granted. There are equally complex critiques of the efficacy behind Trump\u2019s policy proposals.\nBut those critiques must come downstream of a clean and straightforward truth that paraphrases Ta Nehisi Coates\u2019 assessment of Trump\u2019s first win in 2016: Certainly not every Trump voter is a racist, sexist, homophobe, transphobe, xenophobe, insurrectionist, or convicted felon. But this is not exculpatory; every single 2024 Trump voter felt it acceptable to hand the fate of the country over to one.\nThat assessment is not media bias or leftist alarmism. It's based on Trump's own words and actions, recorded on camera and in writing over and over and over again. He is who he says he is. He\u2019ll do what he says he\u2019ll do.\nThe time will soon come when Americans will need to answer for why they elected a man who tried to overthrow the government \u2014 on camera, in front of the world \u2014 in order to lead it.\nRyan Bueckendorf\nClifton Heights",
+    "source_domain": null,
+    "text": null,
+    "title": "Letter: Americans will regret electing a man who attempted a coup",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

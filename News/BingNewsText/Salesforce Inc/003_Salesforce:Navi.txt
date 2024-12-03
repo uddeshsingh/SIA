@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tipranks"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:34:55",
+    "description": "Monness analyst Brian White has maintained their neutral stance on CRM stock, giving a Hold rating on November 27.Don't Miss our Black Friday O...",
+    "filename": ".json",
+    "image_url": null,
+    "language": "en",
+    "localpath": null,
+    "maintext": "Monness analyst Brian White has maintained their neutral stance on CRM stock, giving a Hold rating on November 27.\nBrian White has given his Hold rating due to a combination of factors including Salesforce\u2019s current growth challenges and its strategic investments in AI. Although Salesforce is well positioned with its strong cloud portfolio and AI capabilities, the company is navigating through a period of reduced growth rates. The projected revenue growth for FY25 is at its lowest annual rate, indicating a slowdown compared to previous years.\nDespite these growth challenges, Salesforce has managed to maintain a high operating margin, demonstrating effective cost management. The company is also making significant bets on AI with innovations like Agentforce, which could drive future growth. However, the overall software sector is facing a tough recovery path, and the macroeconomic environment remains unstable. These factors contribute to the neutral outlook and the recommendation to hold the stock for the time being.\nWhite covers the Technology sector, focusing on stocks such as Apple, Workday, and Salesforce. According to TipRanks, White has an average return of 20.6% and a 69.33% success rate on recommended stocks.\nIn another report released on November 27, Citi also maintained a Hold rating on the stock with a $368.00 price target.\nTipRanks tracks over 100,000 company insiders, identifying the select few who excel in timing their transactions. By upgrading to TipRanks Premium, you will gain access to this exclusive data and discover crucial insights to guide your investment decisions. Begin your TipRanks Premium journey today.\nSalesforce (CRM) Company Description:\nsalesforce.com, inc. engages in the design and development of cloud-based enterprise software for customer relationship management. Its solutions include sales force automation, customer service and support, marketing automation, digital commerce, community management, collaboration, industry-specific solutions, and salesforce platform. The firm also provides guidance, support, training, and advisory services. The company was founded by Marc Russell Benioff, Parker Harris, David Moellenhoff, and Frank Dominguez in February 1999 and is headquartered in San Francisco, CA.",
+    "source_domain": null,
+    "text": null,
+    "title": "Salesforce: Navigating Growth Challenges and Strategic AI Investments Amidst Market Uncertainty",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

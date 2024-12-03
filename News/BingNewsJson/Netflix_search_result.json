@@ -1,0 +1,1848 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Netflix",
+    "queryContext": {
+        "originalQuery": "Netflix",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 48900,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Netflix"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Netflix&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Ted Danson to be honored with Carol Burnett Award at the Golden Globes",
+            "url": "https://www.kcci.com/article/ted-danson-honored-carol-burnett-award-at-golden-globes/63072290",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.t-A15PskL1r_iv3kQTC5ry&pid=News",
+                    "width": 700,
+                    "height": 395
+                }
+            },
+            "description": "The Golden Globes are raising a glass to former \"Cheers\" star Ted Danson by naming him the Carol Burnett Award honoree for 2025.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/191a74f3-d926-fc2f-6849-fec1101210d8",
+                    "name": "Ted Danson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5197088b-13cf-3c52-cbb1-9bd20050ce4d",
+                    "name": "Golden Globe Awards"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5e5b7d76-09ae-bdd5-ea79-a28e4bbe02cf",
+                    "name": "Cheers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/79c9c04d-2084-19bf-1728-95b9d30b3c59",
+                    "name": "Boston"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/51ca11bd-1924-081c-b320-3f160bc4ecd6",
+                    "name": "Sam Malone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/30aa2ae8-a47b-7834-536f-1559ccf508a7",
+                    "name": "NBC"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/edd08380-f110-03a6-4c8b-b4d085ae0dd4",
+                    "name": "The Good Place"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/50a6fc95-8fb9-4d09-527b-e6184c29e1f6",
+                    "name": "Mr. Mayor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b676e67e-228e-5d4c-be03-7fa6f1dfce35",
+                    "name": "Fargo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6e2e5b20-2ec4-37ab-8368-49945b47aa01",
+                    "name": "CSI"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/96518c3f-6a5b-4659-122b-203fb2e1bdbd",
+                    "name": "CSI: Cyber"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0cb4758a-df05-58d1-e488-661234f3e0d1",
+                    "name": "Damages"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/54fe376e-5f0d-8c23-d6b2-53a11219c362",
+                    "name": "Becker"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KCCI Des Moines",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.URFpI0xGFgHBSXOn9NJJBw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:07:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "This $299 15-inch Intel Core HP laptop is actually NOT hot garbage! (Fired Intel CEO not included)",
+            "url": "https://www.windowscentral.com/hardware/laptops/this-usd299-15-inch-intel-core-hp-laptop-is-actually-not-hot-garbage-fired-intel-ceo-not-included",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.rusEDrO2TnR9wT0k9vV0AC&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "\u274cAvoid if: You're looking to do some heavy gaming or need long battery life. Display: 15.6-inch 1366x768 HD, anti-glare, 250 nits CPU: Intel Core i5-1334U (up to 4.6 GHz) GPU: Iris Xe RAM: 8GB DDR4-3200. SSD: 256 GB M.2 PCIe NVMe. AI PC: No Copilot+ PC: No Launch date: Late-2023",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/13bd06e2-4f85-6efa-2990-77f453335fc0",
+                    "name": "HP Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Windows Central",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.k6WgtcFldEJeVYyScp3IPg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-03T00:05:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)",
+            "url": "https://www.yahoo.com/entertainment/netflix-5-movies-shows-watch-050000830.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.NYTZyhyir4C2HvXATrmlty&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Fortune Feimster is returning to Netflix this week with her third Netflix comedy special, \"Fortune Feimster: Crushing It.\" Her previous specials, \"Good Fortune\" (2022) and \"Sweet & Salty\" (2020) were critical hits for the streaming service, and it won't be a surprise if this special is a success as well.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2ef32af0-dd84-d2b8-df8a-0966a5629635",
+                    "name": "Keira Knightley"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ab2a2caa-1517-07c2-23ed-dae90e3bd430",
+                    "name": "Ben Whishaw"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d96d3fca-f8cd-1d26-0e3d-af5cbc0967b6",
+                    "name": "Anthony Hopkins"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d48490e0-0da3-6cc1-2eb1-76736ca30e2e",
+                    "name": "Herod the Great"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:42:00.0000000Z",
+            "video": {
+                "name": "New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.9bqEoSC37KAq3lHnXmCPvQ&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "Entertainment"
+        },
+        {
+            "name": "It\u2019s Opposite Week as \u2018Conclave\u2019 and \u2018Terrifier 3\u2019 See Split VOD Results",
+            "url": "https://www.indiewire.com/news/box-office/vod-charts-conclave-terrifier-3-itunes-fandango-1235071669/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.MFzixLwA8wR_k3Vn8-5TKy&pid=News",
+                    "width": 650,
+                    "height": 271
+                }
+            },
+            "description": "Tunes and Fandango VOD's top 10s yield wildly different first week results, when they're usually quite aligned. Plus, Lindsay Lohan leads Netflix. For once, the top 10 movies on iTunes and Fandango aren\u2019t close to a mirror image of each other.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ef01e3b-7c0e-d8ab-ab9e-72c646bf21a3",
+                    "name": "iTunes"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fb5d9f55-8ce7-084b-2dca-b116f2633116",
+                    "name": "Damien Leone"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "IndieWire",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RWnlRXkBPz1HGpw0pioCxA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T23:03:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "\u2018Perfect Match\u2019 Taiwan Period Drama Coming to Netflix Exclusively",
+            "url": "https://www.whats-on-netflix.com/news/perfect-match-taiwan-period-drama-coming-to-netflix-exclusively/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.IZr6aL5jrPJMat9UKQ3gFS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Perfect Match, a stunning new period drama from Taiwan, is headed to Netflix exclusively. The series stars a fantastic ensemble featuring some of Taiwan\u2019s most exciting actors and actresses. We\u2019re keeping track of everything you need to know about Perfect Match, including the plot, cast, trailer and Netflix release date.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d7841878-3caa-a6b0-677e-dc93407620cb",
+                    "name": "The Perfect Match"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2062e34-9038-4cf6-913e-70f770fdfe0b",
+                    "name": "Taiwan"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "What's on Netflix",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.735Kk1rAgHw2V2gUUyi93Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:59:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Menendez brothers case timeline: Murder to resentencing",
+            "url": "https://www.newsnationnow.com/crime/menendez-brothers-case-timeline/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.NYTDKe_KoeAqz1DqpHIU1S&pid=News",
+                    "width": 700,
+                    "height": 584
+                }
+            },
+            "description": "In the months following a Netflix special,\u00a0relatives of the Menendez brothers came forward\u00a0in support of a reduced sentence.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cdf3fe84-bef3-eb8a-5788-7f937cd64c02",
+                    "name": "Lyle and Erik Menendez"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ce5bc29-8777-3cdc-4b7d-d118bd756c3c",
+                    "name": "Life imprisonment"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b9df7bb9-daac-c10b-09ad-a4dafa1bef9f",
+                    "name": "California Department of Corrections and Rehabilitation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NewsNation",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.npGlUre2FIm6XIGHjCyFaQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:52:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "Joe Exotic says President Biden should release 'normal citizens' like him after Hunter Biden pardon",
+            "url": "https://www.koco.com/article/joe-exotic-biden-pardon/63071529",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qarpALUGEFu_GmYGwxYiGS&pid=News",
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "description": "Joseph Maldonado, who is known as \"Joe Exotic\" from Netflix's \"Tiger King,\" said President Joe Biden should pardon anybody who has filed for a clemency application, including himself.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e5dd43c5-2e95-aa07-3f7f-901db2057e8b",
+                    "name": "Joe Exotic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/28ad7551-8959-3142-9c4e-d9d2bafebc2c",
+                    "name": "Hunter Biden"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e83fe81a-a8cc-5cee-8975-28a573d4b878",
+                    "name": "Tiger King"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/927d0c6b-1bba-3a48-b430-c5d3cb5dffe5",
+                    "name": "Software AG"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/180def5b-a450-41e4-a7e0-cb8fabbd95f6",
+                    "name": "Matt Gaetz"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6f20d1b2-0d1c-41ef-85ce-7e5a7eb2da08",
+                    "name": "Fort Worth, Texas"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "koco.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.uQjls0euqsOjViZdVAzn0Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:33:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Why is America Still Obsessed With JonBen\u00e9t Ramsey's Case Almost 30 Years Later, When Black Kids Go Missing With No Media Coverage Everyday?",
+            "url": "https://www.theroot.com/why-is-america-still-obsessed-with-jonbenet-ramseys-cas-1851711375",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jSlU5OPTMqKplWhFnUvFZi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "However, the lack of coverage for Jackson, Raymond and Jones \u2014 all young Black girls who went missing in the \u201890s, and whose cases did not receive the national media attention that Ramsey\u2019s did \u2014 underlines that when white women and girls are victims, they are seen as more important.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/831ae5ea-1830-0a99-0758-bfd31601ac78",
+                    "name": "The Case of: JonBen\u00e9t Ramsey"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8f670e6-8bdb-6010-20e2-c2fff9a3affa",
+                    "name": "Christmas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c35b08f6-8f5d-e9ce-d9c6-bc1c545583e3",
+                    "name": "Disappearance of Asha Degree"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Root",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.PWeSJsJtwb4iZ8edapY_QA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:23:00.0000000Z"
+        },
+        {
+            "name": "\u2018Bridgerton\u2019 & \u2018Monsters\u2019 Composers & Music Supervisors On How Song & Score Are Vital Characters Worth Fighting For \u2013 Crew Call Live",
+            "url": "https://deadline.com/video/bridgerton-monsters-netflix-behind-the-music/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._CodHqxdrpUwZm4r21jbFC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Netflix's The Fall Edit - Behind the Music symposium featured the composers and music supervisors of 'Bridgerton' and 'Monsters' series talking about their work.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39f87b67-2f38-133f-227f-aaf98e04703e",
+                    "name": "Bridgerton"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/adcc9452-a6ac-4e8e-8603-e28d456034d3",
+                    "name": "Kris Bowers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b373a248-8cb2-8ca2-5915-672302ecd7ed",
+                    "name": "Nick Jonas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8441eb2-0e83-ad23-7b9a-e2cf35ffab57",
+                    "name": "SIA S.p.A."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/433a1925-544f-377e-fcc2-4815f2cde537",
+                    "name": "Ariana Grande"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6a4b2bee-22b9-88af-f179-9486a6fb7006",
+                    "name": "Billie Eilish"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Deadline.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.AcsXDScGqcO7Z3nNxcYadw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:22:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Streaming Ratings: \u2018Agatha All Along' Hits High With Season 4 Finale",
+            "url": "https://www.msn.com/en-us/tv/other/streaming-ratings-agatha-all-along-hits-high-with-season-4-finale/ar-AA1v9arq",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.pdpa4vUwnj95O8XOhdR3Iy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The season finale of Agatha All Along helped push the Marvel series to its best showing in the Nielsen streaming rankings. The Kathryn Hahn-led show tallied 744 million minutes of viewing on Disney+ for the week of Oct.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e767813b-263b-559b-71b8-074cd31651fa",
+                    "name": "Kathryn Hahn"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4a56cfc-dcc0-c528-f179-ef9839727028",
+                    "name": "Disney+"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4430c0d1-7922-6b25-1f25-ddf318311090",
+                    "name": "Only Murders in the Building"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f4920153-8f0d-4a86-90fe-848d5fb88702",
+                    "name": "Hulu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/67bcaaa0-031a-7548-4b51-2ccdc2a4f9f6",
+                    "name": "The Diplomat"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.AbC5rVAeDISagi5hJP8Pwg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:20:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Macy's Multimillion-Dollar Error",
+            "url": "https://www.aol.com/finance/macys-multimillion-dollar-error-202100024.html",
+            "description": "In this podcast, Motley Fool analyst Jason Moser and host Ricky Mulvey discuss: How more than a hundred million dollars can go missing. The impact of weight loss drugs on junk food manufacturers. Some advice for investors looking for artificial intelligence pick-and-shovel plays.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c5ad466d-fd68-f389-4727-7f3b9daaebf6",
+                    "name": "Bloomberg L.P."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+                    "name": "The Motley Fool"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:20:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "\u2018Later Daters\u2019: Baby boomers gamble on romance after divorce, death of spouse",
+            "url": "https://currently.att.yahoo.com/entertainment/later-daters-baby-boomers-gamble-133029132.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Xpo7MPjwFCm4AG0YOswA1S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Baby boomers ranging from the ages of approximately 50 to 70 years old, give love another chance with the help of their adult children, closest friends and relationship expert in the Netflix docuseries \"The Later Daters.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/42cd1f37-8f12-3e35-943c-a2a3ca0f56b2",
+                    "name": "Baby boomers"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lL21TzKCRUqiztUEhBZL7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:09:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "\u2018Nobody Wants This\u2019 Season 2: Everything We Know",
+            "url": "https://decider.com/2024/12/02/nobody-wants-this-season-2-everything-we-know/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.dnLiCLNWRvo98ppXphEyPi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Sadly, no date for Nobody Wants This Season 2 has been confirmed. But fear not, there is a hopeful and exciting update on the show\u2019s progress, straight from one of the stars. In November, Brody spoke with Variety and shared that filming for Season 2 begins in February.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3d05a7a7-b233-cb29-9d7b-11f9f0461cfc",
+                    "name": "Rabbi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9872c00e-fb5d-883a-e578-150d34ed7881",
+                    "name": "Adam Brody"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7c4d03e5-b25e-c46c-9ca9-ee530476311b",
+                    "name": "Kristen Bell"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Decider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.9klm56aD22GCZ2Vwz1SPfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:00:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Who Is Cristiano Ronaldo's Girlfriend? All About Georgina Rodriguez",
+            "url": "https://www.si.com/onsi/soccer/real-madrid/general/who-is-cristiano-ronaldos-girlfriend-all-about-georgina-rodriguez",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.VORvXqIsEkRdm8LIzduvPy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Georgina Rodriguez, born Georgina Rodriguez Hernandez, is the girlfriend of global soccer star and Real Madrid legend Cristiano Ronaldo. Rodriguez currently wor",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f000a53-9f54-c150-fcb5-e9ba469fb199",
+                    "name": "Cristiano Ronaldo: Impossible to Ignore"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/857a6814-3fe8-c414-84da-24018be87fce",
+                    "name": "Buenos Aires"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/87153d87-9bb0-166a-3d56-613bdc274e1b",
+                    "name": "Argentina"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/65e3a8bc-829b-41cc-d2b4-5ace0e7efc6a",
+                    "name": "Jaca"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f971b5ec-d358-513c-cd10-ce99548ab0d7",
+                    "name": "Classical ballet"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a497c067-c4c6-4bf4-9a5d-34fd30589bda",
+                    "name": "Madrid"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1808707e-b28b-aa2f-ca81-e523ef85d10d",
+                    "name": "Gucci"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Sports Illustrated",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DAlg1K6d6FcCd2ockBPdcQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:56:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "How \u2018A Man on the Inside\u2019 Pulled Off Its Baseball Scene (and What Had to Get Cut)",
+            "url": "https://www.hollywoodreporter.com/tv/tv-features/a-man-on-the-inside-baseball-scene-1236073000/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.RH9EidFl_zC1sE4lOiOGni&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "It\u2019s a touching scene, and also a big one for Schur, a huge baseball fan who has written about the game (at the late, great Fire Joe Morgan website) and co-hosts a podcast with sportswriter Joe Posnanski that is (often) about baseball.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2468e4af-2f20-1a22-40fc-e932fe5418aa",
+                    "name": "Major League Baseball"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37181124-e096-403d-a455-576a61b83525",
+                    "name": "San Francisco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fad4a4e0-1d6e-2b53-d977-ede0a0c1a3c1",
+                    "name": "Oracle Park"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7fce50ad-775e-ec1e-779a-2fb6e8b6abd5",
+                    "name": "Ferris Bueller"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/191a74f3-d926-fc2f-6849-fec1101210d8",
+                    "name": "Ted Danson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c8b4820-74a6-8d04-73a8-b3f44bfa4d15",
+                    "name": "Stephen McKinley Henderson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3fce7e0e-8ca9-4144-951b-e848dcb6b3a7",
+                    "name": "Alcatraz"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e61e411-4e4e-9aa4-de16-704ab00a1d57",
+                    "name": "Golden Gate Bridge"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3165b2c1-3b34-01b0-f33c-37a227aee4c4",
+                    "name": "Palace of Fine Arts"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hollywood Reporter",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.AbC5rVAeDISagi5hJP8Pwg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:39:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Netflix's Wednesday fans beg show to axe major part of season 2 after huge update",
+            "url": "https://www.msn.com/en-us/tv/news/netflix-s-wednesday-fans-beg-show-to-axe-major-part-of-season-2-after-huge-update/ar-AA1v97py",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.yMYbWt5xsOUd4yIQt3zCdS&pid=News",
+                    "width": 700,
+                    "height": 465
+                }
+            },
+            "description": "Netflix has confirmed that season two of Wednesday has officially wrapped filming and is on track to be released next year, although a specific date is yet to be announced.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/20757754-e543-a49f-c338-3463e22655c3",
+                    "name": "Reddit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6e1cc37-e40b-2156-852d-1f630d7e4b97",
+                    "name": "The Mirror"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6c37fe66-735b-9099-9bd2-a3bf0653512a",
+                    "name": "Wynonna Judd"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6piLlUOi69jaEZFDCSv37Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:39:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "I Finally Watched Man Vs. Bee With My Kids, And We Had Two Completely Different Experiences",
+            "url": "https://www.cinemablend.com/streaming-news/i-finally-watched-man-vs-bee-with-my-kids-we-had-two-completely-different-experiences",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.CaVnnxLl7Bj1JvoJ479zLy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Man vs. Anxiety is more like it. When you purchase through links on our site, we may earn an affiliate commission. Here\u2019s how it works. And let me tell you, my kids and I had two completely different experiences watching this 10-part series of unfortunate events unfold as Atkinson\u2019s house-sitting character went to great lengths to kill a pesky bee.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0ee17784-d1dc-2269-f15c-da45ad10eb4d",
+                    "name": "Rowan Atkinson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8dc05fa6-c01e-4236-a80f-ff20ddcdbf1e",
+                    "name": "Mr. Bean"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Watched"
+                },
+                {
+                    "name": "Experience"
+                },
+                {
+                    "name": "Child"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Cinema Blend",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.eIH-1EVSqFV43moQPlHJbQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:04:00.0000000Z"
+        },
+        {
+            "name": "Watch: '2024 Movie Mashup' Annual Recap Video from Wagman Studio",
+            "url": "https://www.firstshowing.net/2024/watch-2024-movie-mashup-annual-recap-video-from-wagman-studio/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.2fv-BDB4dIj_YqC8UirElS&pid=News",
+                    "width": 700,
+                    "height": 329
+                }
+            },
+            "description": "\"What makes you think I want someone to be in love with me?\" The very first movie trailer mashup 2024 retrospective video has dropped today, created by the London-based movie lover Jed Wagman of Wagman Studios.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27a957b3-ac95-4445-a5f9-a78a1242161b",
+                    "name": "2024"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a9e75d6-21f6-f4bc-c691-2d0bc33c7783",
+                    "name": "Kneecap"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ff9d4f4a-47d3-218d-158c-44d37158bea3",
+                    "name": "Hit Man"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5000f5aa-4111-6a76-eece-2d393e488743",
+                    "name": "Sing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "FirstShowing.net",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.i9foy-sYR-jDK6V4c1FiDQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:57:00.0000000Z"
+        },
+        {
+            "name": "Police \u2018optimistic\u2019 that JonBen\u00e9t Ramsey case can be solved",
+            "url": "https://www.newsnationnow.com/crime/police-optimistic-jonbenet-ramsey-solved/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3vBvJcrCogPuufD25xl4cS&pid=News",
+                    "width": 700,
+                    "height": 550
+                }
+            },
+            "description": "( NewsNation) \u2014 Police in Boulder, Colorado, say there are fresh leads in a decades-old cold case and they believe it is possible they will find out who killed six-year-old JonBen\u00e9t Ramsey. The news comes following a recent Netflix documentary that shed light on one of the most shocking cases in modern history.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f9316d8-f88e-4b76-98f5-ccfb898e9cd7",
+                    "name": "Boulder, Colorado"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Police"
+                },
+                {
+                    "name": "Crime"
+                },
+                {
+                    "name": "Criminal defense lawyer"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NewsNation",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.npGlUre2FIm6XIGHjCyFaQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:57:00.0000000Z",
+            "category": "US"
+        },
+        {
+            "name": "Jimmy Carr at Playhouse Square in October | Did You Year?",
+            "url": "https://www.news-herald.com/2024/12/02/jimmy-carr-at-playhouse-square-in-october-did-you-year/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3FMs0oLdBfm1-_FU9sr4pi&pid=News",
+                    "width": 624,
+                    "height": 627
+                }
+            },
+            "description": "The fast-paced comedic styling of Jimmy Carr has made him one of the U.K.\u2019s top comedians. After releasing his most recent Netflix special, \u201cNatural Born Killer,\u201d last year, Carr announced a",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b87c87a3-3f9c-083b-9cf1-eb63873279e6",
+                    "name": "Jimmy Carr"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/16b0acc9-9cef-93de-9b76-a899ded5be14",
+                    "name": "Playhouse Square"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a1a94281-cef1-4d80-ae82-26cee4bf3bc1",
+                    "name": "Cleveland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7803d4d2-a055-eb33-e010-7870dfddba16",
+                    "name": "Adam Ray"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a66dae4-2437-ae95-338d-dc4bf835a204",
+                    "name": "Phil McGraw"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2f728f69-ec3e-5969-0fcc-eb6f9a226357",
+                    "name": "Northeast Ohio"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4306f186-4c34-9657-985a-28da91c1a44a",
+                    "name": "Iliza Shlesinger"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The News-Herald",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4tkNBJ-DdLIGgynJteUdQQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:54:00.0000000Z",
+            "video": {
+                "name": "Jimmy Carr at Playhouse Square in October | Did You Year?",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.ll5VwgPdB1P8%2BtCtz4QvPw&pid=News",
+                "thumbnail": {
+                    "width": 517,
+                    "height": 520
+                }
+            }
+        },
+        {
+            "name": "Netflix Top Ten Show Has An AI Star To Thank For Its Popularity",
+            "url": "https://www.forbes.com/sites/carolinereid/2024/12/02/netflix-top-ten-show-has-an-ai-star-to-thank-for-its-popularity/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mM33DYeLVKXue9ZNvtcaYy&pid=News",
+                    "width": 700,
+                    "height": 445
+                }
+            },
+            "description": "The streaming landscape has become so crowded with content that the season-ender of a strong show is no longer guaranteed to get widely reported and watched.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0d5e61e9-56ad-61f5-014f-98892809c753",
+                    "name": "Cobra Kai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d90ddd42-3f7f-d1ac-ecfa-4067e6b32fac",
+                    "name": "YouTube Premium"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c5b7fc3-de67-48b8-94b9-8314cff5ee80",
+                    "name": "The Karate Kid"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3d776cdc-2ace-9035-20d9-34956f8caad3",
+                    "name": "Ralph Macchio"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/90defbd6-3b7c-9e9d-35ba-4923f599e063",
+                    "name": "Karate"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b02d3a12-c8e7-2b68-24c4-eb061803d63a",
+                    "name": "Sylvester Stallone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e82ae937-4cd9-37d1-cae7-49e313ff8414",
+                    "name": "Arnold Schwarzenegger"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:53:00.0000000Z"
+        },
+        {
+            "name": "Ted Danson to receive Carol Burnett Award at 2025 Golden Globes",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2024/12/02/ted-danson-carol-burnett-award-golden-globes/76708947007/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.udiTqMFFUnKl2zzG2-LhhS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Ted Danson is set to receive the Carol Burnett Award at the 2025 Golden Globes to honor the actor's \"renowned career\" in television.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/191a74f3-d926-fc2f-6849-fec1101210d8",
+                    "name": "Ted Danson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5197088b-13cf-3c52-cbb1-9bd20050ce4d",
+                    "name": "Golden Globe Awards"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c7b04444-1bbb-a606-333d-28d5c4ba7467",
+                    "name": "Carol Burnett"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d7f5608-6803-4683-c3fd-3e1bb304bea7",
+                    "name": "Ellen DeGeneres"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/44ff9fc4-a8c6-8906-7f48-f6ec2f0b2f78",
+                    "name": "Norman Lear"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/aaec7a48-71d4-4134-5cf2-33ce545a5be1",
+                    "name": "Ryan Murphy"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.m1iod5ODNIyyKu23kGIllQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:35:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "2 Netflix original shows returning with new seasons this week",
+            "url": "https://bgr.com/entertainment/2-netflix-original-shows-returning-with-new-seasons-this-week/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.RG4xVDHJ8wvIVWF0vBCJvC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Netflix is bringing back two original shows for new seasons this week: the anime series Beastars and The Ultimatum: Marry or Move On.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37639bc6-5234-d932-65e4-9a707fd25c87",
+                    "name": "Beastars"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37c0aefb-ac7e-c309-0f42-db59a1887ccf",
+                    "name": "Vanessa Lachey"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BGR",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.l9XKvuAaphqgXpFEHtKlKg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:32:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Netflix Isn't On Sale, But These 7 Streaming Services Are Deeply Discounted for Cyber Monday",
+            "url": "https://www.yahoo.com/tech/netflix-isnt-sale-7-streaming-181604568.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.K2C6y52X6zgEJr4QJRfcFC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Hulu, Peacock, Max, and pretty much all of the \"Plus's\" are out here, today, right now, trying to put a little money back in your pocket this holiday shopping season.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f4920153-8f0d-4a86-90fe-848d5fb88702",
+                    "name": "Hulu"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:15:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Stream These 6 Titles Before They Leave Netflix This Month",
+            "url": "https://www.nytimes.com/2024/12/02/arts/television/leaving-netflix-december.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.UcsR9oRmIQFL7YiUd4a0MC&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "A bunch of movies and TV shows are leaving for U.S. subscribers by the end of December. Here\u2019s a roundup of the best.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/25d13eda-1d03-ae79-ce97-c06248319b9b",
+                    "name": "Liam Neeson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/af6c5bdc-8a75-08a1-28d8-5bbec491a5b6",
+                    "name": "Morgan Saylor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/815eb939-7d4f-497e-8466-c08e799bdf75",
+                    "name": "Homeland"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.GzcmUDr41J6Qc1JEQyNTCA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:05:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Halle Berry And Jamie Foxx Had A Sweet Exchange After He Announced New Netflix Special \u2018What Had Happened Was\u2019",
+            "url": "https://www.cinemablend.com/streaming-news/halle-berry-jamie-foxx-sweet-exchange-after-he-announced-new-netflix-special-what-had-happened-was",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.srVaHi9kvd-tlw-dHG1G-y&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Jamie Foxx has, for the most part, been largely absent from the spotlight since suffering a mysterious health scare back in April 2023, though he did return to host Beat Shazam after having Nick Cannon as replacement.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dbbf3495-1074-c791-5366-94a80c353dce",
+                    "name": "Halle Berry"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e1f1e28e-88d7-ecc1-ce0f-bba1d527a8d6",
+                    "name": "Jamie Foxx"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4cca7df4-bf0e-a5dd-7671-ed8577113b1a",
+                    "name": "Beat Shazam"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7e8b4f2f-19df-0bb7-a4ff-66ef11f83c2a",
+                    "name": "Nick Cannon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Cinema Blend",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.eIH-1EVSqFV43moQPlHJbQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T18:09:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "What to stream: Sabrina Carpenter holiday special, 'Beetlejuice Beetlejuice' and Ros\u00e9 goes solo",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/stream-sabrina-carpenter-holiday-special-beetlejuice-beetlejuice-ros-116362627",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.SXCVTnd-nnpysOanb57_tS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Sabrina Carpenter hosting a holiday variety music special on Netflix and Keira Knightley and Ben Whishaw playing a spy and an assassin in the TV series \u201cBlack Doves\" are some of this week\u2019s new stream",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b5556b46-1b1b-49b0-860d-7747d71dcbef",
+                    "name": "Sabrina Carpenter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe41bc16-57a0-f1e6-9fd8-e27bc36b6624",
+                    "name": "Beetlejuice"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/90a8e697-f8af-f003-149d-0efd5d16c1d8",
+                    "name": "Ros\u00e9"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2ef32af0-dd84-d2b8-df8a-0966a5629635",
+                    "name": "Keira Knightley"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ab2a2caa-1517-07c2-23ed-dae90e3bd430",
+                    "name": "Ben Whishaw"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2843a2b-80fd-2fa0-10d0-97b51563ffcb",
+                    "name": "Associated Press"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/adc92e8a-f413-7027-dc59-eb987708ab0a",
+                    "name": "K-pop"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/148e1cdb-66e2-0102-2b0f-78938f20446c",
+                    "name": "Tim Burton"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/60a2cb38-1aee-8428-5178-59eb416cb8f2",
+                    "name": "Blackpink"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6e2ff620-8e78-9b4e-e501-e5055159547f",
+                    "name": "Lydia"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ABC",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.-LMnifaGw_NvPvJr_0E9tA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T05:17:00.0000000Z",
+            "video": {
+                "name": "What to stream: Sabrina Carpenter holiday special, 'Beetlejuice Beetlejuice' and Ros\u00e9 goes solo",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.Jx8Jz5Ixz3tzbXd88d5FcQ&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "Entertainment"
+        },
+        {
+            "name": "What's new on Max, Netflix and other streamers in December - and which subscriptions to keep and which to pause",
+            "url": "https://www.morningstar.com/news/marketwatch/20241201170/whats-new-on-max-netflix-and-other-streamers-in-december-and-which-subscriptions-to-keep-and-which-to-pause",
+            "description": "There are only two new releases on tap: \"Fly Me to the Moon\" (Dec. 6), the streaming premiere of the astronaut rom-com starring Scarlett Johansson and Channing Tatum that fizzled in theaters earlier this year, and \"The Secret Lives of Animals\" (Dec. 18), a nature documentary series narrated by Hugh Bonneville.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ded3e42-d911-3462-b7ee-e5ef4dd3359b",
+                    "name": "Dexter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7fc0c97f-be3f-a8df-7bea-1abd9e0b9285",
+                    "name": "The Escapist"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdhGhyibFfGjObZVPq7WEw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T21:23:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "What\u2019s new on Netflix in December 2024: Maria, Squid Game, a Sabrina Carpenter special, and Jamie Foxx's return",
+            "url": "https://ew.com/new-on-netflix-december-2024-maria-sabrina-carpenter-more-8749882",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.RnofpzHK_tJOZsh4a4EEoS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Netflix offers a bounty of gifts this December, from new specials by Sabrina Carpenter and Jamie Foxx, to its first NFL offerings, and Angelina Jolie's 'Maria.'",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b5556b46-1b1b-49b0-860d-7747d71dcbef",
+                    "name": "Sabrina Carpenter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e1f1e28e-88d7-ecc1-ce0f-bba1d527a8d6",
+                    "name": "Jamie Foxx"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2ef32af0-dd84-d2b8-df8a-0966a5629635",
+                    "name": "Keira Knightley"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ead3cd91-0b54-ae8c-f8b8-d4aa7a155379",
+                    "name": "Queer Eye"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2348caae-1946-57fa-a0c7-bcc537ab6837",
+                    "name": "Virgin River"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4e4735f9-210f-629f-2c4b-d53bc8b0cd6a",
+                    "name": "Pablo Larra\u00edn"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f37b78a2-2f9e-3d99-858d-107b96c92631",
+                    "name": "Maria Callas"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Entertainment Weekly",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.bnLbKleWlUIeZi6E8E6oDA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T18:02:00.0000000Z",
+            "video": {
+                "name": "New on Netflix December: 'Maria,' 'Squid Game' season 2, NFL, more",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.YvRQ39pjXCaS6BVwAgcCSA&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 346
+                }
+            }
+        },
+        {
+            "name": "Netflix Games Set to Release Squid Game: Unleashed in December",
+            "url": "https://www.cnet.com/tech/gaming/netflix-games-set-to-release-squid-game-unleashed-in-december/",
+            "description": "If you're a fan of the series Squid Game and can't wait for Netflix to drop season two on Dec. 26, you'll be able to play Squid Game: Unleashed on Netflix Games on Dec. 17. Netflix announced ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNET"
+                }
+            ],
+            "datePublished": "2024-11-19T17:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The 50 Best Movies on Netflix Right Now",
+            "url": "https://www.nytimes.com/article/best-netflix-movies.html",
+            "description": "There are so many film experiences to choose from on Netflix, let us help you narrow down your choices. By Jason Bailey Sign up for our Watching newsletter to get recommendations on the best films ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times"
+                }
+            ],
+            "datePublished": "2024-11-18T00:00:00.0000000Z"
+        },
+        {
+            "name": "Beyonc\u00e9 to Headline NFL Christmas Day Halftime Show on Netflix",
+            "url": "https://www.rollingstone.com/music/music-news/beyonce-nfl-christmas-day-halftime-netflix-1235169920/",
+            "description": "The holidays have come early: Beyonc\u00e9 will perform during Netflix\u2018s inaugural NFL Christmas Gameday live on Netflix on Dec. 25. Her performance will take place during the second of Netflix\u2019s ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Rolling Stone"
+                }
+            ],
+            "datePublished": "2024-11-18T00:00:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Netflix exec makes admission after Jake Paul-Mike Tyson streaming debacle",
+            "url": "https://nypost.com/2024/11/17/sports/netflix-exec-makes-admission-after-jake-paul-mike-tyson-streaming-debacle/",
+            "description": "Netflix has heard all the complaints and they\u2019re vowing to improve. The streaming company announced Saturday that 60 million people tuned in for its heavily anticipated Mike Tyson-Jake Paul ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Post"
+                }
+            ],
+            "datePublished": "2024-11-17T20:13:00.0000000Z"
+        },
+        {
+            "name": "Mike Tyson vs. Jake Paul fight 'shattered records,' Netflix says",
+            "url": "https://www.usatoday.com/story/sports/boxing/2024/11/16/netflix-mike-tyson-jake-paul-fight-viewership/76368005007/",
+            "description": "Netflix dove headfirst into the arena of live sporting events with the broadcast of Mike Tyson vs. Jake Paul on Friday and the streaming service said it delivered a knockout punch, despite some ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today"
+                }
+            ],
+            "datePublished": "2024-11-16T23:43:00.0000000Z"
+        },
+        {
+            "name": "Netflix says 60M households worldwide watched Paul-Tyson",
+            "url": "https://www.espn.com/boxing/story/_/id/42431417/netflix-says-60m-households-worldwide-watched-paul-tyson",
+            "description": "Streaming giant Netflix said Saturday that 60 million households tuned in live to watch YouTuber-turned-prizefighter Paul, 27, cruise to a unanimous decision over Tyson, the 58-year-old former ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ESPN"
+                }
+            ],
+            "datePublished": "2024-11-16T22:49:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Netflix experiences streaming delays leading up to Tyson-Paul fight",
+            "url": "https://apnews.com/article/tyson-paul-netflix-f8815c0789e4f202731cbaff9bf85bf6",
+            "description": "(AP Photo/Julio Cortez) LOS ANGELES (AP) \u2014 Netflix\u2019s first attempt at handling a live sports event did not receive a passing grade. The fight Friday night between Mike Tyson and Jake Paul experienced streaming problems according to many viewers on ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Associated Press"
+                }
+            ],
+            "datePublished": "2024-11-16T22:44:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "NFL fans worried about Christmas games streamed on Netflix after Paul-Tyson fight buffering debacle",
+            "url": "https://www.foxnews.com/sports/nfl-fans-worried-about-christmas-games-streamed-netflix-after-paul-tyson-fight-buffering-debacle",
+            "description": "Netflix may be hearing from the NFL after the way the Jake Paul-Mike Tyson stream went on Friday night. Many streamers weren\u2019t pleased with how the event was buffering throughout the fight card ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox News"
+                }
+            ],
+            "datePublished": "2024-11-16T20:52:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Netflix streaming debacle for Jake Paul-Mike Tyson fight sparks concern for Christmas NFL games",
+            "url": "https://nypost.com/2024/11/16/sports/netflix-stream-debacle-for-tyson-paul-fight-sparks-concern-for-christmas-nfl-games/",
+            "description": "Netflix has about six weeks to figure it out. The streaming service\u2019s first foray into airing a big live sporting event with Mike Tyson boxing Jake Paul on Friday night turned into a nightmare ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Post"
+                }
+            ],
+            "datePublished": "2024-11-16T15:01:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "These Netflix Sci-Fi TV Shows Will Keep You on the Edge of Your Seat",
+            "url": "https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/",
+            "description": "Instead of turning your world upside down to find the best sci-fi TV shows, just flip on Netflix. The compnay is at the top of the streaming TV food chain for a reason, and when it comes to genre ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNET"
+                }
+            ],
+            "datePublished": "2024-11-16T15:00:00.0000000Z"
+        },
+        {
+            "name": "Netflix slammed for tech issues: Jake Paul-Mike Tyson card broadcast addled by buffering",
+            "url": "https://www.azcentral.com/story/sports/boxing/2024/11/15/social-media-backlash-as-netflix-keeps-buffering-during-boxing-mike-tyson-jake-paul/76345399007/",
+            "description": "Netflix subscribers across the country took to social media Friday evening complaining that the steaming service was buffering during the opening fight that was part of the highly touted Jake Paul ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AZ Central"
+                }
+            ],
+            "datePublished": "2024-11-16T08:43:00.0000000Z"
+        },
+        {
+            "name": "Netflix back up for most users in US after outage, Downdetector shows",
+            "url": "https://finance.yahoo.com/news/netflix-down-thousands-users-us-022827572.html",
+            "description": "(Reuters) -Video streaming platform Netflix was back up on Saturday after an outage that lasted roughly six hours in the United States, according to the outage tracking website Downdetector.com.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-16T00:01:00.0000000Z"
+        },
+        {
+            "name": "Tyson-Paul fight gives Netflix opportunity to show it can handle big events with NFL, WWE on horizon",
+            "url": "https://apnews.com/article/tyson-paul-netflix-nfl-wwe-0e7189bdfd5419f3032480a12bade818",
+            "description": "Copyright 2024 The Associated Press. All Rights Reserved. Jake Paul steps on the scale during a weigh-in ahead of his heavyweight bout against Mike Tyson, Thursday ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Associated Press"
+                }
+            ],
+            "datePublished": "2024-11-15T17:27:00.0000000Z"
+        },
+        {
+            "name": "Best Netflix movies: 46 amazing films to stream in November 2024",
+            "url": "https://www.techradar.com/uk/best/best-netflix-movies",
+            "description": "Welcome to TechRadar's best Netflix movies article. In this guide, you'll find a collection of the 46 greatest films that are available to stream on the world's most popular streaming platform ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar"
+                }
+            ],
+            "datePublished": "2024-11-13T15:47:00.0000000Z"
+        },
+        {
+            "name": "'Hot Frosty' is the latest film in Netflix's Christmas Cinematic Universe. Here's how it connects to 'Falling For Christmas' and other movies.",
+            "url": "https://www.businessinsider.com/hot-frosty-netflix-christmas-cinematic-universe-explained-mean-girls-2024-11",
+            "description": "The Netflix Christmas Cinematic Universe is expanding again with the streamer's new movie \"Hot Frosty.\" Since 2017's movie \"Christmas Inheritance,\" Netflix has been making some of its bigger ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider"
+                }
+            ],
+            "datePublished": "2024-11-12T17:36:00.0000000Z"
+        },
+        {
+            "name": "Netflix releases trailer for biblical epic \u2018Mary\u2019: \u2018An origin story of Christianity\u2019",
+            "url": "https://www.christianpost.com/news/netflix-releases-trailer-for-biblical-epic-mary.html",
+            "description": "This Christmas season, Netflix is set to bring a retelling of the Nativity story to audiences around the world, offering a fresh perspective on an ancient narrative in the forthcoming film \u201cMary.\u201d Directed by D.J. Caruso and releasing Dec. 6 ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Christian Post"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "How to unblock and watch U.S. Netflix",
+            "url": "https://mashable.com/uk/roundup/best-vpn-netflix",
+            "description": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mashable"
+                }
+            ],
+            "datePublished": "2024-11-08T00:00:00.0000000Z"
+        },
+        {
+            "name": "Stranger Things Day 2024: Netflix Unveils Episode Titles for \u2018Stranger Things\u2019 Season 5",
+            "url": "https://www.whats-on-netflix.com/news/netflix-officially-unveils-episodes-titles-for-final-season-of-stranger-things/",
+            "description": "After months of rumor and speculation, for Stranger Things Day 2025, Netflix has revealed the titles of all eight episodes of the final season of Stranger Things. What is Stranger Things Day? It\u2019s the annual celebration of Stranger Things held each ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "What's on Netflix"
+                }
+            ],
+            "datePublished": "2024-11-06T14:00:00.0000000Z"
+        },
+        {
+            "name": "Netflix under tax fraud investigation as offices in France and Netherlands raided",
+            "url": "https://www.reuters.com/business/media-telecom/investigators-search-netflix-offices-france-netherlands-source-2024-11-05/",
+            "description": "PARIS, Nov 5 (Reuters) - Investigators searched the offices of U.S. streaming giant Netflix (NFLX.O), opens new tab in France and the Netherlands on Tuesday as part of a preliminary investigation ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters"
+                }
+            ],
+            "datePublished": "2024-11-05T20:21:00.0000000Z"
+        },
+        {
+            "name": "Netflix Europe Offices Raided in Tax Fraud Probe",
+            "url": "https://www.hollywoodreporter.com/business/business-news/netflix-europe-offices-raided-tax-fraud-probe-1236053973/",
+            "description": "By Etan Vlessing Canada Bureau Chief Prosecutors and police investigators focused on tax fraud and corruption raided Netflix offices in Paris and Amsterdam on Tuesday as part of an ongoing probe ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hollywood Reporter"
+                }
+            ],
+            "datePublished": "2024-11-05T07:26:00.0000000Z"
+        },
+        {
+            "name": "Netflix Delisting Almost All Its Interactive Shows And Movies Next Month",
+            "url": "https://kotaku.com/netflix-interactive-movies-shows-black-mirror-removed-1851690321",
+            "description": "Remember a few years ago when Netflix dipped its toes into the world of video games by creating interactive choose-your-own-adventure movies and TV shows? Well, almost all of those odd experiments ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Kotaku"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "47 best Netflix movies in 2024",
+            "url": "https://www.tomsguide.com/best-picks/best-movies-on-netflix",
+            "description": "With the best Netflix movies, you may never have to leave the house. They'll provide hundreds of hours of entertainment, whether you're in the mood for action, comedy, thrills, romance ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Tom's Guide"
+                }
+            ],
+            "datePublished": "2024-11-04T21:26:00.0000000Z"
+        },
+        {
+            "name": "Netflix gaming exec reveals a new AI role after the shutdown of a buzzy games studio and layoffs",
+            "url": "https://www.businessinsider.com/netflix-gaming-executive-reveals-new-ai-role-studio-shutdown-cuts-2024-11",
+            "description": "Mike Verdu, Netflix's former games chief, has moved into a new role: he's now leading a generative AI gaming division at the streaming giant. Verdu wrote on LinkedIn late Sunday that he'd be ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider"
+                }
+            ],
+            "datePublished": "2024-11-04T13:41:00.0000000Z"
+        },
+        {
+            "name": "Best Netflix movies: the 42 best films worth watching in December 2024",
+            "url": "https://www.techradar.com/best/best-netflix-movies",
+            "description": "Searching for the best Netflix movies to stream today? You're in luck. TechRadar's entertainment experts have put in the hard yards to compile a list of the 42 best movies to watch on Netflix ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar"
+                }
+            ],
+            "datePublished": "2024-11-04T12:38:00.0000000Z"
+        },
+        {
+            "name": "Backstage News On WWE Raw's Netflix Transition",
+            "url": "https://www.wrestlinginc.com/1704262/backstage-news-wwe-raw-netflix-transition/",
+            "description": "\"WWE Raw\" is heading to Netflix on January 6, after 30 years on cable television. As WWE prepares for the big streaming debut, new details have emerged about the Netflix premiere. According to ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WrestlingInc.com"
+                }
+            ],
+            "datePublished": "2024-11-03T20:53:00.0000000Z"
+        },
+        {
+            "name": "A new Netflix feature is about to blow up your group chat",
+            "url": "https://www.pocket-lint.com/netflix-way-to-bookmark-and-share-moments/",
+            "description": "Please verify your email address. Netflix's Moments feature allows users to bookmark scenes and easily share them with others. This feature may lead to more viral discussions about shows and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Pocket-lint"
+                }
+            ],
+            "datePublished": "2024-10-28T00:00:00.0000000Z"
+        },
+        {
+            "name": "Best VPN for streaming Netflix 2024: Watch from wherever you are",
+            "url": "https://www.pcworld.com/article/618517/best-vpn-for-streaming-netflix.html",
+            "description": "For my money, the best option for streaming Netflix is NordVPN. From the very beginning, it has been challenging the Netflix VPN ban. It\u2019s also had a goal of making all of its servers work with ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC World"
+                }
+            ],
+            "datePublished": "2024-06-01T07:19:00.0000000Z"
+        },
+        {
+            "name": "The 25 best shows to watch on Netflix right now",
+            "url": "https://ew.com/best-shows-on-netflix-8627860",
+            "description": "What retail worker hasn\u2019t wanted to let loose on a rude customer? When meek loser Lee Tang (Choi Woo-shik) gives in to that impulse with a hammer, he\u2019s horrified\u2026 until he finds out he ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Entertainment Weekly"
+                }
+            ],
+            "datePublished": "2024-04-06T14:38:00.0000000Z"
+        },
+        {
+            "name": "Best Movies on Netflix (2024)",
+            "url": "https://www.rottentomatoes.com/browse/movies_at_home/affiliates:netflix~sort:popular",
+            "description": "Link to 61 Best Thanksgiving Movies: Your Holiday Movie Feast What to Watch: In Theaters and On Streaming. Link to What to Watch: In Theaters and On Streaming. The Most Anticipated Movies of 2025 ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Rotten Tomatoes"
+                }
+            ],
+            "datePublished": "2022-05-19T19:28:00.0000000Z"
+        },
+        {
+            "name": "Is Netflix's Seaspiracy film right about fishing damaging oceans?",
+            "url": "https://www.bbc.com/news/56660823",
+            "description": "We looked into some of the main claims in the Seaspiracy film on Netflix. Claim: Oceans will be 'virtually empty' by 2048 \"If current fishing trends continue, we will see virtually empty oceans by ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC"
+                }
+            ],
+            "datePublished": "2021-04-07T23:59:00.0000000Z"
+        },
+        {
+            "name": "The 25 Best Comedies on Netflix to Watch Now",
+            "url": "https://www.esquire.com/entertainment/movies/g25217018/best-comedies-on-netflix/",
+            "description": "Grab a snack and a drink, then pop a squat on the couch. While you\u2019re at it, head over to Netflix. We\u2019re embarking on, you know, a pretty stressful week\u2014so now is a good time to remind you ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Esquire"
+                }
+            ],
+            "datePublished": "2021-03-08T22:52:00.0000000Z"
+        }
+    ]
+}

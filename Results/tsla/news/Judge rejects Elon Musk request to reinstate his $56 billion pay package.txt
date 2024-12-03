@@ -1,0 +1,17 @@
+Authors: ['Aimee Picchi', 'AOL Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:06:40
+Description: Elon Musk was seeking to reinstate a massive 2018 Tesla pay package after shareholders had reapproved it, but a judge denied his request.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/fe2JcaaxSjUgOdr83oGPmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_cbs_news_articles_189/057a20a6f1a81ca9ac17e6ffa84d79df
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Judge rejects Elon Musk request to reinstate his $56 billion pay package
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The decision, issued by Delaware Chancery Court Judge Kathaleen St. J. McCormick, comes after a majority of Tesla shareholders in August reauthorized the compensation package during the electric vehicle maker's annual meeting. "The large and talented group of defense firms got creative with the ratification argument, but their unprecedented theories go against multiple strains of settled law," McCormick noted. The stock has gained 47% in the last month, buoyed by investor optimism that President-elect Donald Trump's victory at the polls will help boost Tesla's prospects, given Musk's support for his campaign. Among the issues in their latest arguments, McCormick wrote, was a lack of procedural grounds for "flipping the outcome of an adverse post-trial decision based on evidence they created after trial." Maryland island struggles to survive impact of rising sea level, erosion | 60 Minutes "The Barn": A murder in Mississippi, and the evil hiding in plain sight
+Financial_Events: []

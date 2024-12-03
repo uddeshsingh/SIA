@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "DUNCAN RILEY",
+        "MIKE WHEATLEY",
+        "MARIA DEUTSCHER"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-19 09:00:26",
+    "description": "Front acquires Idiomatic to bolster AI-driven customer service solutions - SiliconANGLE",
+    "filename": ".json",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/11/idiomatic.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Artificial intelligence-powered customer service platform provider FrontApp Inc. today announced it has acquired AI-powered voice-of-customer intelligence platform startup Idiomatic Inc. for an undisclosed price.\nFounded in 2016 and known commonly as Front, Idiomatic offers an AI-driven customer intelligence platform that is designed to help businesses transform customer feedback into actionable insights. The platform analyzes data from different sources, such as surveys, social media, app reviews and help desks, to uncover the underlying reasons behind customer sentiments and issues.\nThe company\u2019s offerings include customer feedback analytics, sentiment analysis and customer experience management. The platform enables companies to identify pain points, improve customer satisfaction and retain loyal users by categorizing and quantifying customer input. The platform\u2019s marketing intelligence capabilities also help brands refine their messaging and monitor campaign effectiveness.\nOne notable feature offered by Idiomatic is its use of custom data labels, which tailor the analysis to the unique language of each business. The feature allows companies to bridge the gap between customer terminology and internal processes while surfacing trends that might otherwise be missed. Real-time integrations with tools like Zendesk Inc. and Salesforce Inc. also ensure businesses have up-to-date insights at their fingertips.\nIdiomatic customers include Upwork Global Inc., Pinterest Inc., Instacart, HubSpot Inc. and Slack.\nThe acquisition of Idiomatic will enhance Front\u2019s ability to deliver automated insights, such as inferred customer satisfaction and product feedback, directly from every customer conversation, irrespective of whether the conversation involves an agent or AI. By unlocking previously siloed customer service data, Front is aiming to empower businesses to make smarter, customer-centric and data-driven decisions.\n\u201cIdiomatic\u2019s expertise in both AI and voice-of-customer analytics will redefine how Front\u2019s 9,000+ customers engage with and learn from their customers,\u201d said Front Chief Executive Dan O\u2019Connell. \u201cThis acquisition will strengthen Front\u2019s position in the customer service space, helping turn customer feedback into actionable data for all.\u201d\nAs part of the acquisition, Idiomatic founder and CEO Kevin Yang has been appointed to drive Front\u2019s AI strategy and product roadmap moving forward. Idiomatic\u2019s research and development team will also be joining Front.\nComing into its acquisition, Idiomatic had raised a single round of $4 million, according to Tracxn. Investors included Freestyle Capital, Gaingels Syndicate, Hyphen Capital and Xoogler Angels.\nFront is also a venture capital-backed company, having raised $204 million over six rounds, including rounds of $65 million on a $1.7 billion valuation in June 2022 and $10 million in 2016.\nImage: Idiomatic",
+    "source_domain": null,
+    "text": null,
+    "title": "Front acquires Idiomatic to bolster AI",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

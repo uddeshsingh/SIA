@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-16 05:47:47",
+    "description": "Netflix\u2019s first attempt at handling a live sports event did not receive a passing grade. Friday\u2019s fight between Mike Tyson and Jake Paul experienced streaming problems according to many viewers on social media.",
+    "filename": ".json",
+    "image_url": "https://dims.apnews.com/dims4/default/c0c8fc2/2147483647/strip/true/crop/2544x1431+0+133/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2Fe9%2F6b09011e259a6e9b936a63a0c179%2Fe52457d6f89641d5bdd5ebc7b1ba0b96",
+    "language": "en",
+    "localpath": null,
+    "maintext": "LOS ANGELES (AP) \u2014 Netflix\u2019s first attempt at handling a live sports event did not receive a passing grade.\nThe fight Friday night between Mike Tyson and Jake Paul experienced streaming problems according to many viewers on social media. Many viewers took to Twitter/X and Bluesky to express their frustrations with streaming and buffering problems before and during the fight.\nAccording to the website Down Detector, nearly 85,000 viewers logged problems with outages or streaming leading up to the fight.\nThe bout was scheduled for eight two-minute rounds, as opposed to the normal three minutes and 10 or 12 rounds for most pro fights.\nPaul won the fight by unanimous decision.\nNetflix representatives had no comment via e-mails to The Associated Press on the streaming problems viewers experienced leading up to or during the fight.\nNetflix said Saturday that the bout was watched by a worldwide audience of 60 million and peaked at 65 million concurrent streams. It said nearly 50 million households were turned in for the co-main event between Katie Taylor and Amanda Serrano in which Taylor kept her undisputed super lightweight championship with another disputed decision. Netflix said it would provide additional viewership information, including total viewers, this coming week.\nThe bout between the YouTuber-turned-boxer Paul, and Tyson, 58-year-old former heavyweight champion, from AT&T Stadium in Arlington, Texas, was Netflix\u2019s biggest live sports event to date, and an opportunity to make sure it can handle audience demand with the NFL and WWE on the horizon. It streamed globally to Netflix\u2019s 280 million subscribers at no additional cost.\nNetflix will broadcast two NFL games on Christmas Day and will begin streaming WWE \u201cRaw\u201d on Jan. 6.\nThe streaming delays weren\u2019t the only problems Netflix experienced leading up to the fight.\nViewers saw Tyson\u2019s bare butt in only a jockstrap when he walked away at the end of a pre-fight interview in his locker room.\nFor some reason, Netflix chose to make light of the faux pas.\n___",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix experiences streaming delays leading up to Tyson-Paul fight",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

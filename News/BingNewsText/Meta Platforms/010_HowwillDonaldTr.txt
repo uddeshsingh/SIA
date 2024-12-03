@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 14:17:51",
+    "description": "President-elect Donald Trump has hinted at significant policy changes aimed at tackling tech monopolies once he returns to the White House in 2025. These proposals, aimed at breaking up what Trump has previously called...",
+    "filename": ".json",
+    "image_url": "https://f1.econotimes.com/2024/12/3uc9i5ie7z_th_1024x0.jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "President-elect Donald Trump has hinted at significant policy changes aimed at tackling tech monopolies once he returns to the White House in 2025. These proposals, aimed at breaking up what Trump has previously called \u201cdangerous monopolies,\u201d could mark one of the most aggressive federal approaches to regulating the technology sector in recent history.\nThroughout his campaign, Trump criticized major tech companies for wielding \u201cunchecked power\u201d over free speech, commerce, and data. His statements have suggested that the tech giants\u2014particularly platforms like Google, Amazon, Meta, and Apple\u2014may face antitrust investigations or legal actions under his administration.\nIn a rally speech earlier this year, Trump described Big Tech as a \u201cthreat to democracy,\u201d pledging to hold them accountable. \u201cThey\u2019re too powerful, too biased, and too entrenched,\u201d Trump declared. Experts believe his administration could pursue strategies such as strengthening antitrust laws, dismantling monopolistic practices, and ensuring greater regulatory oversight of tech giants.\nPotential Policy Changes in Focus\nTrump\u2019s administration has not provided specific details, but several proposals are believed to be on the table. These include:\nAntitrust Actions\nRenewed efforts could be directed at dismantling monopolies through legal challenges, similar to past federal cases against Microsoft. Experts suggest Google and Amazon may be the first targets.\nSocial Media Regulation\nTrump has been a vocal critic of perceived censorship on platforms like Meta\u2019s Facebook and X (formerly Twitter). His plans could involve mandating greater transparency around content moderation policies.\nData Privacy Laws\nEnhancing federal oversight over user data practices is likely to be a major focus, potentially imposing stricter regulations on how companies collect, store, and share personal information.\nBreakup of Vertical Mergers\nTrump may support the separation of companies that own multiple platforms and services, such as Amazon\u2019s control over both retail and cloud computing.\nNetizens Debate Trump\u2019s Big Tech Agenda\nThe announcement of Trump\u2019s intent to address Big Tech has divided social media users. While some praise his proposals, others have raised concerns about political motivations:",
+    "source_domain": null,
+    "text": null,
+    "title": "How will Donald Trump address tech monopolies in 2025?",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

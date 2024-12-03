@@ -1,0 +1,17 @@
+Authors: ['Brooke Crothers']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-03 23:16:05
+Description: After Tesla dropped the price of Cybertruck last month, the pickup finally began to shed its outlandish cost stigma.
+Filename: .json
+Image_Url: https://secure.gravatar.com/avatar/48b729581bf21a98a52694370573c39f?s=400&d=mm&r=g
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: With Cybertruck Price Drop, Will Tesla Have A Hit?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: After Tesla dropped the price of Cybertruck last month, the pickup finally began to shed its outlandish cost stigma. No, it’s not quite there yet but if you include the $7,500 Commercial Clean Vehicle Credit, an AWD Cybertruck can be had for $72,490 before taxes and fees. “The Cybertruck is so unique and unprecedented that there is no benchmark for it and no way of knowing what its potential is,” Tom Libby, an analyst at S&P Global Mobility, told me. Throw in the insatiable appetite for Cybertruck chatter on social media and you have a cultural phenomenon. “I will say that I think people who dismiss it as being a fad and fading as soon as all the households with reservations have one, need to bear in mind that the Tesla brand remains very strong in the US market and needs to be taken seriously,” Libby said.
+Financial_Events: []

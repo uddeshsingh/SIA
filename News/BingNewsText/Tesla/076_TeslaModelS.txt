@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-29 11:15:00",
+    "description": "Get the latest news on Tesla Model S. From motoring stories and spy shots to first drives, special features, videos and photos, we've got you covered.",
+    "filename": ".json",
+    "image_url": "https://www.carscoops.com/wp-content/uploads/2024/11/Tesla-Referral-USA-Canada-1024x576.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Model S, Model X, and Cybertruck buyers with an referral in the US will get a $2,000 discount\nIt\u2019s unclear if the Californian tuner has received any orders for its Model S Plaid police cruiser\nAll three bodykits from the Taiwanese firm are named after Greek gods\nThe NHTSA is aware of four crashes involving Tesla vehicles using FSD in reduced visibility conditions\nThese are the two top dogs of the electric vehicle sedan world and now they\u2019re going racing\nDepreciation trends show that electric vehicles are losing value faster than their gasoline counterparts\nThe Lucid Air Pure is rated at 146 MPGe compared to the 122 MPGe of the Tesla Model S\nAuthorities say the driver admitted to police that he was inattentive during the crash\nThe blaze happened just a couple of weeks after Elon Musk paused Tesla\u2019s planned factory in Mexico\nModel 3, Model S, Model X, and Model Y vehicles are all affected by the recall, which has been handled by an over-air software update\nData shows that consumer interest in EVs is on the rise, but that the high average prices limit their appeal\nOnly four out of the top ten most American-made cars are actually from US manufacturers\nThe driver reportedly told police he was using his phone, while letting the car drive itself\nAutoTrader will put the high-mileage Model S through a series of tests in future videos",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla Model S",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

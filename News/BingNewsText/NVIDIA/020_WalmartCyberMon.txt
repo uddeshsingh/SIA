@@ -1,0 +1,24 @@
+{
+    "authors": [
+        "Elvis Shida",
+        "Vineet Washington",
+        "Michael Akuchie",
+        "Dominik Bo\u0161njak",
+        "Sai Vsr"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 18:55:14",
+    "description": "Save big on upgrading your PC gaming with this pre-built option, on sale through Walmart for Cyber Monday.",
+    "filename": ".json",
+    "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/walmart-cyber-monday-sale-drops-this-powerful-ibuypower-rtx-4070-gaming-pc-to-1199-game-rant-deals-feature.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "After dropping the best RTX 4060 PC deal on Black Friday, Walmart has unveiled another incredible gaming PC deal during its Cyber Monday sale. If you're still on the hunt for a new gaming PC, you're in luck. Right now, Walmart has the iBuyPower Y40 Gaming Desktop equipped with an RTX 4070 and liquid-cooled Ryzen 7-7700 on sale for $1,199. This is the lowest price we've seen on Cyber Monday for an RTX 4070 pre-built PC, offering a huge $400 in savings for one of the best 1440p gaming PCs.\nWalmart has been on fire this holiday season, offering some of the best gaming deals we've seen all year. Previously, they had the iBuyPower Slate 6 Mesh with an RTX 4060 on sale for a record-low $800 on Black Friday. It sold out really quickly, and Walmart seems to have added the iBuyPower Y40 just in time for Cyber Monday. Such good deals don't typically last long, so we suggest you act fast if you want to snag one.\niBuyPower Y40: Powerful 1440p Gaming for Less\nThe iBuyPower Y40 is powered by AMD's Ryzen 7-7700 and NVIDIA's RTX 4070 GPU, offering a solid hardware combination for 1080p and 1440p gaming. The Ryzen 7-7700 is a capable mid-range gaming processor that delivers decent performance for the price. Part of AMD's previous Zen 4 chips, it brings an 8-core, 16-thread design, 32 MB of L3 cache, and a max boost clock of 5.4 GHz. You shouldn't have problems running modern games or even multi-threaded workloads like video editing.\nThe RTX 4070 GPU is no slouch when it comes to gaming, either. It's not the fastest gaming GPU, but it can deliver higher FPS in most games at 1440p, which is the sweet spot for many gamers. With its 12GB VRAM and the help of NVIDIA's DLSS and framegen, it can hit amazing framerates even on the most demanding titles. If you have a 1080p monitor, you don't have to worry about performance, as the RTX 4070 and Ryzen 7-7700 pairing will enable you to play any game on max settings at 1080p.\nAs the name suggests, the iBuyPower Y40 is housed inside the Hyte Y40 case. It's a beautiful, panoramic mid-tower case that lets you showcase the vertically mounted GPU and RGB lighting while offering excellent airflow. We love that iBuyPower still went with a 280mm AIO liquid cooler, despite the Ryzen 7-7700 being an efficient CPU. You're also getting the latest DDR5 memory, fast 1TB NVMe storage, and a 700W 80+ Gold PSU. Add iBuyPower's solid reputation, and you get one of the most powerful and reliable gaming PCs available.\nIs the iBuyPower Y40 a Good Deal This Cyber Monday?\nThe iBuyPower Y40 has a regular price of $1,600, similar to most RTX 4070 gaming PCs on the market. With the $400 Cyber Monday discount, you're getting the best price for a pre-built PC with an RTX 4070 gaming PC. Whether upgrading or looking for a new gaming PC, this is one of the best deals you'll find this Black Friday. Walmart also has great deals on gaming laptops, including the Lenovo Legion 5i with an RTX 4060.",
+    "source_domain": null,
+    "text": null,
+    "title": "Get the iBuyPower RTX 4070 Gaming PC for $400 Less During Cyber Monday",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

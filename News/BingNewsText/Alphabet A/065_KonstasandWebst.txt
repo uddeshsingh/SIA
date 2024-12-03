@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 23:30:00",
+    "description": "AUS-A 223 & 169/4 vs IND-A 161 & 229 - Australia A won by 6 wickets in Melbourne, AUS-A vs IND-A 2024, November 07 - 09, 2024",
+    "filename": ".json",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/390600/390639.6.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "All over! Webster dances down to the length ball to hammer it past the bowler to seal the 2-0 series win for Australia A\nFuller on middle, defended back towards the bowler\nFull on leg, drives it to mid-on for a quick one\nFuller on leg, turned through wide mid-on\nFlatter and on a length on leg, Konstas goes back and slaps it through covers\nFull and wide outside off, carved through point for a double. Australia A need just eight more\nFull and angling away, hit wide of mid-off\nShort ball again, pulled through forward square leg\nFull on middle, driven to mid-on for a quick sprint\nDropped! Looks like Porel, the sub. Short ball around middle, Konstas seemed to have nailed the pull. It is the longer boundary and it was in the air. Porel covered good ground from deep backward square leg, got both hands to it but could not hang on\nYorker just outside off, Konstas dances down and misses it completely\nFuller on leg, blocked\n\"Catch\" the call but it is well away from mid-on. Flatter and quicker length ball, Webster hurries down the track and belts it straight\nHalf-tracker down leg, he sweep-pulls it past leg slip. Long leg couldn't even get in the frame\nFull on middle and leg, defended solidly\nSlows it down, fuller on leg, misses the defence and is hit high on the front pad\nFlatter on leg, turned past short leg\nShort and down leg, swats it to fine leg\nYorker on off, dug out to mid-off\nShort again, on middle and leg, pulled through backward square leg",
+    "source_domain": null,
+    "text": null,
+    "title": "Australia A beat India A, Australia A won by 6 wickets",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

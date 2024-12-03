@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "None",
+    "description": "Salesforce Extensions for VS Code. Contribute to forcedotcom/salesforcedx-vscode development by creating an account on GitHub.",
+    "filename": ".json",
+    "image_url": "https://opengraph.githubassets.com/1dd5b02404f38e0b8604dae2aa314b88f8ba4be4bf8551804d3e3951ae858560/forcedotcom/salesforcedx-vscode",
+    "language": "en",
+    "localpath": null,
+    "maintext": "This repository contains the source code for Salesforce Extensions for VS Code: the Visual Studio Code (VS Code) extensions for Salesforce DX.\nCurrently, we have the following extensions:\nsalesforcedx-vscode\nA top-level extension pack that automatically installs the following extensions for you.\nsalesforcedx-vscode-core\nThis extension interacts with the Salesforce CLI to provide basic Salesforce DX functionality.\nsalesforcedx-vscode-apex\nThis extension uses the Apex Language Server to provide features such as syntax highlighting and code completion.\nsalesforcedx-vscode-apex-debugger\nThis extension enables VS Code to use the real-time Apex Debugger with your scratch orgs and to use ISV Customer Debugger with your subscribers\u2019 sandbox orgs.\nsalesforcedx-vscode-apex-replay-debugger\nThis extension enables VS Code to replay Apex execution from Apex debug logs.\nsalesforcedx-vscode-lightning\nThis extension supports Aura component bundles. It uses the HTML language server from VS Code.\nsalesforcedx-vscode-visualforce\nThis extension supports Visualforce pages and components. It uses the HTML language server from VS Code.\nsalesforcedx-vscode-soql\nThis extension enables you to interactively build a SOQL query via a form-based visual editor, view the query as you build, and save the output to a .csv or .json file.\nDreamforce 2018 session on how to use Visual Studio Code and Salesforce Extensions for VS Code:\nIf you are interested in contributing, please take a look at the CONTRIBUTING guide.\nIf you are interested in building the extensions locally, please take a look at the developing doc.\nYou can find more information about using the Salesforce Extensions for VS Code in the public documentation. If the docs don\u2019t cover what you are looking for, please feel free to open an issue.\nFor information about using the extensions, consult the README.md file for each package.",
+    "source_domain": null,
+    "text": null,
+    "title": "Salesforce Extensions for VS Code",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

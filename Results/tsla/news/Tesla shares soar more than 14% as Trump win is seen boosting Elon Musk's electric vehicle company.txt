@@ -1,0 +1,17 @@
+Authors: ['DAMIAN J. TROISE']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 14:56:04
+Description: Shares of Tesla soared Wednesday as investors bet that the electric vehicle maker and its CEO Elon Musk will benefit from Donald Trump’s return to the White House.
+Filename: .json
+Image_Url: https://dims.apnews.com/dims4/default/cffb093/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2Fbf%2Ff2251f9072e679fb4fda2e1ebad7%2Fcea7ac7f3eae45719e7e042a6aef9be1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla shares soar more than 14% as Trump win is seen boosting Elon Musk's electric vehicle company
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: NEW YORK (AP) — Shares of Tesla soared Wednesday as investors bet that the electric vehicle maker and its CEO Elon Musk will benefit from Donald Trump’s return to the White House. Tesla stands to make significant gains under a Trump administration with the threat of diminished subsidies for alternative energy and electric vehicles doing the most harm to smaller competitors. “This dynamic could give Musk and Tesla a clear competitive advantage in a non-EV subsidy environment, coupled by likely higher China tariffs that would continue to push away cheaper Chinese EV players.” Tesla shares jumped 14.8% Wednesday while shares of rival electric vehicle makers tumbled. Subsidies for clean energy are part of the Inflation Reduction Act, signed into law by President Joe Biden in 2022. The U.S. opened an investigation into the company’s “Full Self-Driving” system after reports of crashes in low-visibility conditions, including one that killed a pedestrian.
+Financial_Events: ['He also pledged to give away $1 million a day to voters signing a petition for his political action committee.\nIn some ways, it has been a rocky year for Tesla, with sales and profit declining through the first half of the year', 'Profit did rise 17.3% in the third quarter.\nThe U.S']

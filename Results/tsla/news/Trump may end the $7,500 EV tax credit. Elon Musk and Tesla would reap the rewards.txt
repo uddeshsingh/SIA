@@ -1,0 +1,17 @@
+Authors: ['Chris Isidore']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-15 14:16:29
+Description: The $7,500 tax credit for buyers of electric vehicles could be vanishing early in the new Trump administration, but that might actually be good news for Tesla and its CEO Elon Musk, one of President-elect Donald Trump’s most prominent backers.
+Filename: .json
+Image_Url: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184830381.jpg?c=16x9&q=w_800,c_fill
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Trump may end the $7,500 EV tax credit. Elon Musk and Tesla would reap the rewards
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: When Tesla sold a relatively small number of EVs back in the last decade, it also lost money – but it is now among the most profitable automakers. The Alliance for Automotive Innovation, an industry trade group which represents all of the major global automakers other than Tesla, wrote a letter to Congress in October, ahead of the election, urging that the tax credit remain in place. As legacy automakers have introduced more of their own EV models to American car buyers in recent years, Tesla’s sales have slowed. Musk, who donated $119 million to a political action committee supporting Trump’s campaign according to Federal Election Commission filings, is the world’s richest person, with a net worth of $307 billion based on Bloomberg’s Real Time Billionaire Tracker. Reuters, citing two sources with direct knowledge of the matter reported Thursday that Trump’s transition team is planning to kill the $7,500 credit as part of broader tax-reform legislation.
+Financial_Events: ['When an earlier version of the tax credit phased out several years ago, Tesla was forced to cut prices on its vehicles by roughly half of the amount of the credit its buyers were no longer getting.\nTesla, the world’s largest maker of EVs, is the only automaker making a profit on its US EV sales', 'When Tesla sold a relatively small number of EVs back in the last decade, it also lost money – but it is now among the most profitable automakers.\nSo if the EV tax credit goes away, the price of all EVs might come down', 'But that would only reduce Tesla profits, not increase losses the way it might at established automakers trying to get into the market', 'Some of those automakers might even pull back on their EV production and sales in order to limit the losses, which would mean less competition among EV buyers for Tesla.\nEven with the EV tax credit in place, Tesla and Musk have used this greater profitability to cut prices on his EVs in order to support demand in the face of greater competition and to put pressure on his established automaker rivals.\n‘It will only help Tesla’\nMusk signaled during the campaign that he would support ending the EV tax credit, even if raised the cost of Tesla purchases for American buyers.\n“Take away the subsidies, it will only help Tesla,” he posted on his social media platform X in July.\nBut the rest of the auto industry wants to keep the tax credit in place', 'Tesla (TSLA) shares rebounded a bit in premarket trading Friday.\nThe end of the credit “will widen Tesla’s competitive moat by making competing EV models even more uneconomic, as we believe TSLA is the only profitable manufacturer of EVs,” wrote Garrett Nelson, analyst for CFRA Research, in a note to clients the day after the election']

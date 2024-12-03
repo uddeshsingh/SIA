@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Richard Priday"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-30 15:43:49",
+    "description": "A whole bunch of iPhone deals are available this Cyber Monday \u2014 and these are the best ones.",
+    "filename": ".json",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Jz6yqvQTbVitCSfBQxY9kK-1200-80.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "We're more than halfway through Cyber Monday, but fortunately you can still snag some of the best Cyber Monday iPhone deals while they\u2019re still in stock. So let us guide you towards the top deals on the latest iPhones as well as older models that are still worth buying at a discounted price.\nIt may sound like a typo, but one of the best Cyber Monday deals has been one that gives you an iPhone 16 or 16 Pro for just one cent up front. You just need to sign up for a Boost Infinite Plan, which provides unlimited data for $65/month. The same $0.01 offer applies to the iPhone 16 Pro, but that model's been out of stock at various points this weekend. If you want the Pro version for a penny, act now.\nWant your iPhone 16 with a different carrier? Best Buy gives you a $100 gift card when you buy an iPhone 16 tied to AT&T. Verizon-owned Visible is offering a $250 gift card for iPhone 16 Pro Max purchases. (Other iPhones fetch gift cards with smaller amounts from Visible.)\nAs for older models, the iPhone 15 is just $349 with an unlimited plan at Boost Mobile. You just don't get access to Apple Intelligence features that run on the iPhone 15 Pro and iPhone 16 models.\nSpeaking of older models, Apple isn't offering any discounts on its phones for Cyber Monday. But the iPhone maker's Apple Store Shopping Event wraps up at the end of the day, and you can pick up a $75 gift card should you buy an iPhone 15, iPhone 14 or iPhone SE directly from Apple. It's a way to save if you plan on making future purchases at Apple's store.\nHere's the best Cyber Monday iPhone deals we've spotted so far today. And make sure you check out our Cyber Monday deals live blog for the latest sales on TVs, laptops and more.\nApple iPhone 16 Pro: was $829 now $0.01 @ Amazon\nApple iPhone 16 Pro 128GB: was $999 now $0.01 @ Amazon\nApple iPhone 16 Pro: was $999 now free @ Verizon\nApple iPhone 15 Plus: Get 4 iPhone 15 Plus devices for free @ Verizon\niPhone 16: free with trade-in @ Verizon\niPhone 16 Plus: was $922 now free @ Verizon\niPhone 16 Pro: half off unlimited service for a year @ Mint Mobile\niPhone 16 Pro: free $200 gift card @ Visible\nApple iPhone 16 Pro: free AirPords 4 with purchase @ T-Mobile\niPhone 16 Pro Max: free $250 gift card @ Visible\nApple iPhone SE 2022: $2/month @ AT&T\nApple iPhone 15: was $729 now $589 @ BestBuy\nApple iPhone 15: was $699 now $349 @ Boost Mobile\niPhone 12: was $299 now $199 @ Walmart\niPhone 12 w/ Apple Watch SE: $99 @ Metro by T-Mobile",
+    "source_domain": null,
+    "text": null,
+    "title": "Best Cyber Monday iPhone deals: Lowest prices on iPhone 16 Pro, iPhone 16 and more",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

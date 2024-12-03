@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Juxtaposed Ideas",
+        "seekingalpha.com",
+        "juxtaposed-ideas"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-30 10:00:00",
+    "description": "Nvidia Corporation leads in AI with strong financial results, growth potential in cloud computing, and projected market expansion. Click for my NVDA Q3 update.",
+    "filename": ".json",
+    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1306871635/image_1306871635.jpg?io=getty-c-w1536",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Analyst\u00e2\u0080\u0099s Disclosure: I/we have a beneficial long position in the shares of NVDA, AVGO, TSM either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\nThe analysis is provided exclusively for informational purposes and should not be considered professional investment advice. Before investing, please conduct personal in-depth research and utmost due diligence, as there are many risks associated with the trade, including capital loss.\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia's Deceleration Attributed To Law Of Large Numbers \u00e2\u0080\u0094 Top AI Leadership (NASDAQ:NVDA)",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

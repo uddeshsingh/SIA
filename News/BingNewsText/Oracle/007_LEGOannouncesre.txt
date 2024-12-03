@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Kate Goodacre"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:30:00",
+    "description": "LEGO announces a replica of Formula 1 champion Max Verstappen's Red Bull RB20 car as part of its multi-year partnership. It's available to pre-order now.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/FMXa8.iKwoeJqJj5BIqO.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDI-/https://media.zenfs.com/en/digital_spy_281/69423ccb6b6ac24c40a753b6dc6bd465",
+    "language": "en",
+    "localpath": null,
+    "maintext": "LEGO has announced a replica of Formula 1 world champion Max Verstappen's 2024 Red Bull Racing car.\nThe LEGO Technic Oracle Red Bull Racing RB20 is a 1:8 scale version of the car driven by Verstappen and his teammate Sergio Perez during the 2024 Formula 1 season \u2013 and follows on from similar LEGO Technic models of Mercedes and McLaren F1 cars.\nThe new LEGO Technic Red Bull will launch on March 1, 2025 \u2013 the same day as the new LEGO Technic Ferrari F1 car model \u2013 and is available to pre-order now priced at \u00a3199.99. There's a limit of three items per customer.\nOracle Red Bull Racing RB20 F1 Car\n\u00a3199.99 at lego.com.uk\nRelated: The best F1 and motorsport LEGO sets for the racing fans in your life\nThis 1,639-piece set is aimed at builders aged 18 years and over and features moving suspension, a two-speed gearbox and V6 engine with moving pistons. It also has a rear wing that opens to replicate DRS on the real-life cars.\nEquipped with replica soft Pirelli tyres, the car's livery also matches the real-life 2024 Red Bull. When assembled, the model is 63cm (25in) long, 23cm (9.5in) wide and 14cm (5.5in) tall.\nRelated: LEGO and Formula 1 star Lando Norris team up for ambitious project\nLEGO and the Formula 1 organisation recently announced an extensive multi-year partnership ahead of the sport's 75th anniversary year in 2025.\nAll 10 current teams on the Formula 1 grid will be represented across new LEGO sets, the first of which were unveiled at the Las Vegas grand prix last month.\nIn addition to new Technic, Speed Champions, LEGO City and LEGO Duplo items, a new LEGO Icons set has been commissioned to celebrate Nigel Mansell's 1992 championship win and his Williams FW14B.\nEcho Spot\nat Amazon\nShop Sky TV, broadband and mobile Black Friday sale\nat sky.com\nRichard Osman: We Solve Murders\nat amazon.co.uk\nPS5 Slim Consoles\nat\nApple AirPods Pro 2\nat amazon.co.uk\nBuy Alison Hammond's outfits\nat digitalspy.com\nGoogle Pixel 9 (128GB, SIM-free in Obsidian)\nat amazon.co.uk\nApple TV+ 7-day free trial\nat Apple\nGlen Powell Twisters T-shirt\nat digitalspy.com\nBuy Cat Deeley's This Morning outfits\nat digitalspy.com\nSign up for Disney+\nat disneyplus.com\nThe Street of Lies: An Official Coronation Street Interactive Novel\nat amazon.co.uk\nDeath in Paradise: The Puzzle Book\nat amazon.co.uk\nYou Might Also Like",
+    "source_domain": null,
+    "text": null,
+    "title": "LEGO announces replica of Formula 1 champion Max Verstappen's Red Bull car",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

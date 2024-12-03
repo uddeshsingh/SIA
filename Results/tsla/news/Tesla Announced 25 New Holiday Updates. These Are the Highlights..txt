@@ -1,0 +1,17 @@
+Authors: ['Ana Altchek']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:43:52
+Description: Tesla owners will finally be able to adjust climate controls and open the frunk from their Apple Watch.
+Filename: .json
+Image_Url: https://i.insider.com/674dea0b9e9761932b4a2d5a?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla Announced 25 New Holiday Updates. These Are the Highlights.
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Tesla unveiled an Apple Watch app, allowing drivers to open the frunk and adjust controls remotely. Once owners install the software, drivers can try out a free one-month trial to SiriusXM, which will show up on the media source menu. Drivers can save Dashcam and Sentry Mode clips directly from the Tesla app and edit or share with others from their phones. Sentry Mode, a security feature, is also receiving an update that will send mobile app notifications if the vehicle's door handle is pulled. The company didn't miss the opportunity to put its signature sense of humor on display with a playful feature that allows owners to activate a whoopee cushion sound from any seat.
+Financial_Events: []

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Jared Schwartz"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-17 20:13:26",
+    "description": "Netflix heard all the complaints, and one of their execs made an admission after there were streaming issues during the Jake Paul-Mike Tyson fight.",
+    "filename": ".json",
+    "image_url": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-qfp7fd4m0-1731872718906.jpg?quality=75&strip=all&1731854792&w=1024",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Netflix has heard all the complaints and they\u2019re vowing to improve.\nThe streaming company announced Saturday that 60 million people tuned in for its heavily anticipated Mike Tyson-Jake Paul Friday night at AT&T Stadium.\nBut scores of fans complained throughout the broadcast that their stream froze or crashed.\n\u201cThis unprecedented scale created many technical challenges, which the launch team tackled brilliantly by prioritizing stability of the stream for the majority of viewers,\u201d Netflix CTO Elizabeth Stone wrote to employees, according to Bloomberg. \u201cI\u2019m sure many of you have seen the chatter in the press and on social media about the quality issues.\n\u201cWe don\u2019t want to dismiss the poor experience of some members, and know we have room for improvement, but still consider this event a huge success.\u201d\nNetflix\u2019s streaming issues are notable since the company is set to air an NFL doubleheader on Christmas \u2014 Chiefs vs. Steelers and the Ravens vs. Texans.\n\u201c60 million households around the world tuned in live to watch Paul vs. Tyson! The boxing mega-event dominated social media, shattered records, and even had our buffering systems on the ropes,\u201d Netflix wrote on X on Saturday.\nFriday\u2019s bout was Netflix\u2019s first foray into streaming live boxing fights and one of its first attempts to stream live events in general.\nIt\u2019s an area Netflix has said it wants to grow in \u2014 it will become the new home of WWE \u201cRaw\u201d in 2025.\nThe 27-year-old Paul beat Tyson, now 58, via unanimous decision.\n\u201cBoxing is ebbs and flows, ups and downs, big events, small events, medium-size events,\u201d Nakisa Bidarian, Paul\u2019s promoter, said after the bout. \u201cOur philosophy is it\u2019s not about what is the decision that happens in the ring. It\u2019s about the attitude that you have and the product you create and how you entertain the fans. And there\u2019s no more entertaining of an athlete than Jake Paul.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix exec makes admission after Jake Paul-Mike Tyson streaming debacle",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

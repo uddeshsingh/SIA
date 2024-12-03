@@ -1,0 +1,17 @@
+Authors: ['Aislinn Murphy']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-14 11:58:09
+Description: Tesla is recalling 2,431 Cybertrucks over a potential issue with their drive inverters, according to a recall report submitted to the National Highway Traffic Safety Administration.
+Filename: .json
+Image_Url: https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/Tesla-Cybertruck-Elon-Musk_04.jpg?ve=1&tl=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla issues sixth recall this year for Cybertrucks
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The driver inverters in the recalled Cybertrucks may contain a "fault" that could "cause a loss of drive power to the wheels," the National Highway Traffic Safety Administration (NHTSA) said. "However, when the driver loses the ability to apply torque, they will immediately receive a visual alert on the user interface, with an instruction to safely pull over the vehicle to the side of the road and contact Tesla Roadside Assistance." They "are or were equipped with metal-oxide-semiconductor field-effect transistors (MOSFET) in the drive inverter," according to the recall report. The problem with the driver inverter hasn’t caused any crashes, injuries or fatalities, Tesla said. Affected Cybertruck owners will get mailed notification of the recall in early January, according to NHTSA.
+Financial_Events: []

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Benzinga Insights",
+        "Benzinga Staff"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-29 10:01:08",
+    "description": null,
+    "filename": ".json",
+    "image_url": "https://cdn.benzinga.com/files/images/story/2023/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Whales with a lot of money to spend have taken a noticeably bullish stance on Broadcom.\nLooking at options history for Broadcom AVGO we detected 17 trades.\nIf we consider the specifics of each trade, it is accurate to state that 58% of the investors opened trades with bullish expectations and 23% with bearish.\nFrom the overall spotted trades, 2 are puts, for a total amount of $73,928 and 15, calls, for a total amount of $814,841.\nPredicted Price Range\nAnalyzing the Volume and Open Interest in these contracts, it seems that the big players have been eyeing a price window from $136.0 to $205.0 for Broadcom during the past quarter.\nVolume & Open Interest Development\nIn today's trading context, the average open interest for options of Broadcom stands at 1964.38, with a total volume reaching 2,703.00. The accompanying chart delineates the progression of both call and put option volume and open interest for high-value trades in Broadcom, situated within the strike price corridor from $136.0 to $205.0, throughout the last 30 days.\nBroadcom Call and Put Volume: 30-Day Overview\nLargest Options Trades Observed:\nSymbol PUT/CALL Trade Type Sentiment Exp. Date Ask Bid Price Strike Price Total Trade Price Open Interest Volume AVGO CALL SWEEP BULLISH 02/21/25 $6.05 $5.95 $6.05 $205.00 $173.0K 3.6K 588 AVGO CALL SWEEP NEUTRAL 11/15/24 $8.7 $8.55 $8.65 $170.00 $86.5K 3.5K 235 AVGO CALL SWEEP BULLISH 03/21/25 $18.55 $18.4 $18.55 $175.00 $85.3K 1.0K 62 AVGO CALL SWEEP BULLISH 11/15/24 $8.15 $8.05 $8.12 $170.00 $81.3K 3.5K 134 AVGO CALL SWEEP BEARISH 11/08/24 $4.4 $4.3 $4.3 $175.00 $47.7K 1.4K 122\nAbout Broadcom\nBroadcom is the sixth-largest semiconductor company globally and has expanded into various software businesses, with over $30 billion in annual revenue. It sells 17 core semiconductor product lines across wireless, networking, broadband, storage, and industrial markets. It is primarily a fabless designer but holds some manufacturing in-house, like for its best-of-breed FBAR filters that sell into the Apple iPhone. In software, it sells virtualization, infrastructure, and security software to large enterprises, financial institutions, and governments.Broadcom is the product of consolidation. Its businesses are an amalgamation of former companies like legacy Broadcom and Avago Technologies in chips, as well as Brocade, CA Technologies, and Symantec in software.\nIn light of the recent options history for Broadcom, it's now appropriate to focus on the company itself. We aim to explore its current performance.\nPresent Market Standing of Broadcom\nTrading volume stands at 1,403,950, with AVGO's price up by 0.2%, positioned at $172.37.\nRSI indicators show the stock to be may be approaching overbought.\nEarnings announcement expected in 37 days.\nExpert Opinions on Broadcom\nOver the past month, 3 industry analysts have shared their insights on this stock, proposing an average target price of $216.66666666666666.\nUnusual Options Activity Detected: Smart Money on the Move\nBenzinga Edge's Unusual Options board spots potential market movers before they happen. See what positions big money is taking on your favorite stocks. Click here for access. * An analyst from Cantor Fitzgerald has decided to maintain their Overweight rating on Broadcom, which currently sits at a price target of $225. * An analyst from Mizuho persists with their Outperform rating on Broadcom, maintaining a target price of $220. * Consistent in their evaluation, an analyst from Truist Securities keeps a Buy rating on Broadcom with a target price of $205.",
+    "source_domain": null,
+    "text": null,
+    "title": "Broadcom Unusual Options Activity For October 29",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

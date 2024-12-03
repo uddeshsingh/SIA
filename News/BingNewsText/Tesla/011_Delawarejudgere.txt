@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tom Hals"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:22:26",
+    "description": "The ruling by the judge follows her January decision that called the pay package excessive and rescinded it, surprising investors.",
+    "filename": ".json",
+    "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/15/USAT/76332719007-20241115-t-155632-z-1381723077-rc-2-cl-7-an-545-d-rtrmadp-3-openaimusklawsuit.JPG?crop=6499,3657,x0,y338&width=3200&height=1801&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A Delaware judge ruled on Monday that Tesla TSLA.O CEO Elon Musk still is not entitled to receive a $56 billion compensation package despite shareholders of the electric vehicle company voting to reinstate it.\nThe ruling by the judge, Chancellor Kathaleen McCormick of the Court of Chancery, follows her January decision that called the pay package excessive and rescinded it, surprising investors, and cast uncertainty over Musk's future at the world's most valuable carmaker.\nMusk did not immediately respond to an emailed request for comment.\nTesla has said in court filings that the judge should recognize a subsequent June vote by its shareholders in favor of the pay package for Musk, the company's driving force who is responsible for many of its advances, and reinstate his compensation.\nMcCormick also ordered Tesla to pay the attorneys who brought the case $345 million, well short of the $6 billion they initially requested.\nInvest wisely: Best online brokers\nShareholders also flooded the court with thousands of letters arguing that the January ruling increased the possibility that Musk would leave Tesla or develop some products like artificial intelligence at ventures other than Tesla.\nMore:Tesla leads November's global market value surge\nAttorneys for shareholder Richard Tornetta, who sued in 2018 to challenge Musk's compensation package, had argued that Delaware law does not permit a company to use a ratification vote to essentially overturn the ruling from a trial.\nMcCormick in January found that Musk improperly controlled the 2018 board process to negotiate the pay package. The board had said that Musk deserved the package because he hit all the ambitious targets on market value, revenue and profitability.\nBut the judge criticized Tesla's board as \"beholden\" to Musk, saying the compensation plan was proposed by a board whose members had conflicts of interest due to close personal and financial ties to him.\nAfter the January ruling, Musk criticized the judge on his social media platform X and encouraged other companies to follow the lead of Tesla and reincorporate in Texas from Delaware, although it is unclear if any companies did so.\nThe judge in her January ruling called the pay package the \"biggest compensation plan ever - an unfathomable sum.\" It was 33 times larger than the next biggest executive compensation package, which was Musk's 2012 pay plan.\nMusk's 2018 pay package gave him stock grants worth around 1% of Tesla's equity each time the company achieved one of 12 tranches of escalating operational and financial goals.\nMusk did not receive any guaranteed salary. Tornetta argued that shareholders were not told how easily the goals would be achieved when they voted on the package.\nReporting by Tom Hals in Wilmington, Delaware; Editing by Bill Berkrot",
+    "source_domain": null,
+    "text": null,
+    "title": "Judge voids Elon Musk's $56 billion Tesla compensation",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,2146 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Meta+Platforms",
+    "queryContext": {
+        "originalQuery": "Meta Platforms",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 9200,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Meta+Platforms"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Meta+Platforms&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Cyber Monday deal: Meta Quest 3 bundle deal for gamers",
+            "url": "https://www.yahoo.com/tech/cyber-monday-deal-meta-quest-095307543.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.dMMtWh4gqFBjQE_CyA5UHS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Meta Quest 3 128GB is $299 at Amazon for Cyber Monday, now with 'Batman: Arkham Shadow' and 3 months of Meta Quest+.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a566fb35-e76d-26eb-0aa5-b125f0c53986",
+                    "name": "Cyber Monday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8aa5a00c-3c60-f287-e386-b729c0ce9d07",
+                    "name": "Mashable"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82f47c49-8a7d-1e95-8cbd-1dcfc11c402d",
+                    "name": "VR Group"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/223254a0-4974-4525-58b0-f37330e7bc59",
+                    "name": "Penguin Books"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:22:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Australian Parliament bans social media ban for under-16s with world-first law",
+            "url": "https://accesswdun.com/article/2024/11/1274362",
+            "description": "A social media ban for children under 16 passed the Australian Parliament on Friday in a world-first law. The law will make platforms including TikTok, Facebook, Snapchat, Reddit, X and Instagram liable for fines of up to 50 million Australian dollars ($33 million) for systemic failures to prevent children younger than 16 from holding accounts.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5e28c584-3fa5-3e3d-1327-6bc510f10bd4",
+                    "name": "Parliament of Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ce177ea-a99f-5e40-7159-82f7b5581be3",
+                    "name": "Social media"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/564159fa-3d5c-4e17-a29e-35b26ac7182c",
+                    "name": "Snapchat"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/20757754-e543-a49f-c338-3463e22655c3",
+                    "name": "Reddit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b4c2306e-2065-801a-2c91-fea1cf1bbe68",
+                    "name": "Senate"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/78dbf457-fe85-aa64-d23c-46c99a7b7950",
+                    "name": "House of Representatives"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/00f8b947-2f64-9828-df4d-5993583bdbe4",
+                    "name": "Anthony Albanese"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Access WDUN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FJuvtN1xWw5ahxycKBW5qg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:08:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Proposed Australia law would fine Big Tech over digital competition",
+            "url": "https://japantoday.com/category/tech/proposed-australia-law-would-fine-big-tech-over-digital-competition",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.sPX6WT4VNs8kRH9qY2lKCi&pid=News",
+                    "width": 700,
+                    "height": 476
+                }
+            },
+            "description": "Australia proposed a law on Monday that could impose fines of up to A$50 million ($33 million) on global technology companies if they suppress competition and prevent consumers from switching between services.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ce177ea-a99f-5e40-7159-82f7b5581be3",
+                    "name": "Social media"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c2a1dcc6-81ec-03e1-69eb-8393bcf52228",
+                    "name": "Stephen Jones"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3ecec2e8-2993-42e7-7299-f693bbe3b9b9",
+                    "name": "Sydney"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Japan Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.iOQRAwzZyxRkx68PlojYAQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:44:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Meta Platforms, Inc. (META) Among Wells Fargo\u2019s Top Tech Stocks to Beat the S&P",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-among-wells-fargos-top-tech-stocks-to-beat-the-sp-1400920/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4f-HfO1s554DHUlOjlxvsi&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "We recently published a list of Wells Fargo\u2019s Tech Stocks To Beat The S&P: 14 Top AI & Non-AI Stocks. In this article, we are going to take a look at where Qorvo Inc.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a12d5753-db05-3c39-eb66-e4ec8d7b73ff",
+                    "name": "Wells Fargo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d504280-8e5f-99e5-4688-5e3b38e4c30d",
+                    "name": "Federal Reserve"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe593106-a52e-eede-658f-ed5a53705959",
+                    "name": "Interest rate"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:46:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Bluesky says users weary of X's \"partisan microphone\" are switching to service. Here's what to know.",
+            "url": "https://www.cbsnews.com/news/bluesky-x-twitter-why-are-people-switching-how-to-join/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.UVKdEohhO32W_-ghy1DCdi&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Musk, who bought Twitter in 2022 for $44 billion, has overhauled the service, changing its name to X and prioritizing accounts from people who pay for a blue checkmark \u2014 although accounts with more than 2,500 \"verified subscriber followers\" get access to Premium features for free.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1807a4cd-02f5-b419-06bc-41c8a442940c",
+                    "name": "Bluesky"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/860dea43-a2c0-7912-8370-4ef51face341",
+                    "name": "X"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c47da78b-4fdf-3297-761e-74439706bca1",
+                    "name": "Twitter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6910ac-d399-47b2-9ee5-d0c3d8ca491b",
+                    "name": "TikTok"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CBS News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lisIXhXb-iy9Ku1HbFcCEw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:25:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Why Meta Platforms (META) Is the Best Stock to Buy For Long Term Growth?",
+            "url": "https://www.msn.com/en-us/money/savingandinvesting/why-meta-platforms-meta-is-the-best-stock-to-buy-for-long-term-growth/ar-AA1v8IAp",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Qq_kLSWKFiotFfPI3kPgMC&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "We recently published a list of 10 Best Stocks to Buy For Long Term Growth. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against other best stocks to buy for long term growth.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9fb91659-3521-96df-b9d4-f4441da7efdd",
+                    "name": "Barclays"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1cb8ca46-c867-a19a-b118-0f594a12fafe",
+                    "name": "Yahoo! Finance"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:01:47.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Morgan Stanley Analyst Says Meta Platforms (META) \u2018Farthest Along\u2019 in AI Monetization",
+            "url": "https://www.msn.com/en-us/money/savingandinvesting/morgan-stanley-analyst-says-meta-platforms-meta-farthest-along-in-ai-monetization/ar-AA1v8xNh",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.sAfhGieS8UlMgt3c7C1xdi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "We recently published a list of 10 Trending AI Stocks to Watch in December. In this article, we are going to take a look at where Meta Platforms (NASDAQ:META) stands against other trending AI stocks to watch in December.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d723f831-d7a8-cbb0-451f-eecb275a56b2",
+                    "name": "Morgan Stanley"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cbcbbf1e-4e24-0d7b-6d14-53ebedcb680f",
+                    "name": "Jared Cohen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cec1ad2-91b5-1585-e8b3-935fcd91d29e",
+                    "name": "Goldman Sachs"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:48:03.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The State Of XR In 2024, Part 2: Tier-Two XR Platform Players",
+            "url": "https://www.forbes.com/sites/moorinsights/2024/12/02/the-state-of-xr-in-2024-part-2-tier-two-xr-platform-players/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.kDMBZGbpqAIo364YNuYGdy&pid=News",
+                    "width": 448,
+                    "height": 540
+                }
+            },
+            "description": "Snap, Niantic and Valve are following different paths to commercializing XR and AR as they work to bring spatial computing to a broader base of consumers.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7f84b6ca-71e0-43c1-b27a-84bb052a42ae",
+                    "name": "iPhone XR"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/63fe3f5b-ca98-34ab-6a00-2417d7dd8069",
+                    "name": "Snap"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3a6bb85b-27b1-4425-b844-c65bb0faa587",
+                    "name": "Niantic, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2b72bdc9-176e-f08f-45ca-8d950bd8b053",
+                    "name": "Magic Leap"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b9f99efc-0212-eb5d-458a-4a6b0227fd72",
+                    "name": "Valve"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3188c46d-0cce-1a7f-5c4d-7594776d9c08",
+                    "name": "Spectacles"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c3f15db4-c9a0-2189-03d4-f43ccb56f27f",
+                    "name": "Physical optics"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T16:06:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "What Google Chrome\u2019s potential sale means for the future of advertising",
+            "url": "https://www.marketingdive.com/news/google-chrome-sale-means-future-digital-advertising/733812/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.ez4pGRL8bwHyZ1I1BcWsqy&pid=News",
+                    "width": 600,
+                    "height": 338
+                }
+            },
+            "description": "The pressure is on for marketers to establish data-driven, adaptable strategies, according to Keen Decision Systems\u2019 Bradley Keefer.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/79e515f6-5b00-082e-776b-8a6b6112fe92",
+                    "name": "Google Chrome"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b28458de-1324-8911-b01c-c1622a7cf159",
+                    "name": "Department of Justice"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Marketing Dive",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ODhJ6q1A7hmYRTkIn82xNA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T15:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "How will Donald Trump address tech monopolies in 2025?",
+            "url": "https://www.econotimes.com/How-will-Donald-Trump-address-tech-monopolies-in-2025-1695697",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.ZKrh5is_DPLodU1JfehGuy&pid=News",
+                    "width": 700,
+                    "height": 419
+                }
+            },
+            "description": "President-elect Donald Trump has hinted at significant policy changes aimed at tackling tech monopolies once he returns to the White House in 2025. These proposals, aimed at breaking up what Trump has previously",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/541cd519-750b-9c92-8413-a537def6abbe",
+                    "name": "White House"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cfe7e179-8e15-c3df-4aca-064e37246d45",
+                    "name": "Freedom of speech"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ae53d01-1200-07ff-f955-9b56df1a39cc",
+                    "name": "Meta"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "EconoTimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6ak8EFvo-jj7ASiNXowAbw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T14:17:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Lightspark CEO David Marcus Reveals How Facebook-led Libra Initiative Was \u201cKilled\u201d",
+            "url": "https://www.crowdfundinsider.com/2024/12/233591-lightspark-ceo-david-marcus-reveals-how-facebook-led-libra-initiative-was-killed/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n2zfOihFFlcWDXTrRvp40i&pid=News",
+                    "width": 700,
+                    "height": 586
+                }
+            },
+            "description": "David Marcus recently shared via social media just how the Facebook-led Libra initiative was \"killed\" (according to his experience).",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/64dfc0f1-4e45-d3d0-89e9-a09e0eae8d5f",
+                    "name": "Lightspark"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e20cbaae-035f-45ba-b7c0-6bcd59a27cc2",
+                    "name": "David A. Marcus"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+                    "name": "Bitcoin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d946bcf-5145-2002-1b24-fb08b9aca29a",
+                    "name": "Diem"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/906e4245-16b1-1454-7536-1c1e7c9e7a0a",
+                    "name": "Joe Rogan"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Crowdfund Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.oSZPaedojiaxzQf3-kdw4Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T13:07:00.0000000Z"
+        },
+        {
+            "name": "The apocalypse that wasn\u2019t: AI was everywhere in 2024\u2019s elections, but deepfakes and misinformation were only part of the picture",
+            "url": "https://www.timesunion.com/news/article/the-apocalypse-that-wasn-t-ai-was-everywhere-19953208.php",
+            "description": "And there was AI-created misinformation and propaganda, even though it was not as catastrophic as feared. Days before a Slovakian election in 2023, fake audio discussing election manipulation went viral. This kind of thing happened many times in 2024, but it\u2019s unclear if any of it had any real effect.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27a957b3-ac95-4445-a5f9-a78a1242161b",
+                    "name": "2024"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7564c67e-1554-57ad-b101-f6632c4fbba5",
+                    "name": "Deepfake"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fdc5532e-9638-6329-9703-802183a3731e",
+                    "name": "Misinformation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d6da6b44-a36a-aed3-6381-16b11c69bda1",
+                    "name": "Pew Research Center"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Times Union",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.fySAIDV0K94u9OLzDx14TQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T13:03:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Why Is Meta Platforms, Inc. (META) Among the Stocks Ray Dalio\u2019s Bridgewater Is Crazy About?",
+            "url": "https://www.insidermonkey.com/blog/why-is-meta-platforms-inc-meta-among-the-stocks-ray-dalios-bridgewater-is-crazy-about-1401170/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4f-HfO1s554DHUlOjlxvsi&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "We recently compiled a list of the Billionaire Ray Dalio\u2019s Bridgewater Is Crazy About These 15 Stocks. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:META) stands against the other stocks Ray Dalio\u2019s Bridgewater is crazy about.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1020a0f7-8a1a-d175-751b-5b095c7ec2bd",
+                    "name": "Ray Dalio"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/75990209-c755-3dd2-042e-60d0b31e55df",
+                    "name": "Bridgewater Associates"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/60d5dc2b-c915-460b-b722-c9e3485499ca",
+                    "name": "New York City"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7f441ba3-040a-f076-45f2-2bf06dba0e65",
+                    "name": "Financial crisis of 2007\u20132008"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39d000e8-389d-22a3-4309-ffffc115d00e",
+                    "name": "Time"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T12:05:00.0000000Z"
+        },
+        {
+            "name": "3 No-Brainer Stocks to Buy in December",
+            "url": "https://www.fool.com/investing/2024/12/02/3-no-brainer-stocks-to-buy-in-december/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HqRyJziwGt0T6HY7nWQUfi&pid=News",
+                    "width": 700,
+                    "height": 428
+                }
+            },
+            "description": "Three stocks that I've got my eye on to buy more of in December are ASML ( ASML 3.62%), Taiwan Semiconductor Manufacturing ( TSM 5.28%), and Meta Platforms ( META 3.22%). All three of these companies are set to be long-term beneficiaries of the artificial intelligence (AI) arms race and make for great investments right now.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+                    "name": "The Motley Fool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e37b4a41-1389-8cad-e40f-0d020f98a856",
+                    "name": "ASML Holding"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T10:08:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Tracking Ray Dalio's Bridgewater Associates 13F Portfolio - Q3 2024 Update",
+            "url": "https://seekingalpha.com/article/4741442-tracking-ray-dalios-bridgewater-associates-13f-portfolio-q3-2024-update",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.gXycta1WwUbxvtT-drY1oS&pid=News",
+                    "width": 700,
+                    "height": 432
+                }
+            },
+            "description": "Bridgewater Associates' 13F portfolio decreased to ~$17.66B. Read more to see the portfolio's Q3, 2024 update.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/75990209-c755-3dd2-042e-60d0b31e55df",
+                    "name": "Bridgewater Associates"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f0f6d14-bc19-4529-8e88-8bec9d3faac1",
+                    "name": "Alphabet Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/91b2563a-b5b6-72ce-c7d8-35b14613e76c",
+                    "name": "Procter & Gamble"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4eea1bc2-3ee5-2523-c876-721806e1826b",
+                    "name": "Lam Research"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e81f01de-eb36-b915-9cf8-0eff0ffe3586",
+                    "name": "KLA Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a5d482fa-2e60-df06-37fe-cc12bc63003a",
+                    "name": "Qualcomm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caa93092-0f4a-f01a-91a7-7b5c6c2e3c2a",
+                    "name": "Applied Materials"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6582d6a6-3020-f962-2e5a-bbbb9e741fe1",
+                    "name": "Johnson & Johnson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/90757bdd-1475-10e5-29ae-d8c11d379dc5",
+                    "name": "Visa Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T07:46:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "China\u2019s dystopian tech influence grows in Vietnam",
+            "url": "https://www.butlereagle.com/20241202/chinas-dystopian-tech-influence-grows-in-vietnam/",
+            "description": "Vietnam has positioned itself in recent years as an attractive destination for Big Tech companies looking to move away from China. But Hanoi\u2019s policies regarding social media have increasingly been",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+                    "name": "China"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9eb3adfc-79da-211b-6de2-580a522f56a5",
+                    "name": "Vietnam"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0ac97487-debb-537a-b806-132c4e5513e6",
+                    "name": "Hanoi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e43bc499-902a-5deb-aced-aa4a247e6822",
+                    "name": "Beijing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/68f1a4f8-ab3f-b7e1-989c-7d3130696360",
+                    "name": "Chinese Communist Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cfe7e179-8e15-c3df-4aca-064e37246d45",
+                    "name": "Freedom of speech"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Butler Eagle",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.hHu0Zy9VV7oMbwSyZ3a0vQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T05:28:00.0000000Z"
+        },
+        {
+            "name": "Trump\u2019s FCC chairman nominee says social media should follow X on free speech",
+            "url": "https://www.washingtonexaminer.com/news/white-house/3246420/trump-fcc-brendan-carr-social-media-free-speech/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mjODeA7PlPUoxfBG_6a61y&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Brendan Carr praised Elon Musk\u2019s advocacy for free speech with X, arguing more people need to move in his direction and \u201caway from government control.\u201d",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/550261e6-0f62-6da9-98ee-3d4b1a362924",
+                    "name": "Brendan Carr"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/641dfd98-462e-f0b0-9d52-86e8e5d8ca11",
+                    "name": "Federal Communications Commission"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cfe7e179-8e15-c3df-4aca-064e37246d45",
+                    "name": "Freedom of speech"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6910ac-d399-47b2-9ee5-d0c3d8ca491b",
+                    "name": "TikTok"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+                    "name": "Fox News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/62791b1a-0a16-cebf-b5b1-a8f460b6698f",
+                    "name": "Maria Bartiromo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c47da78b-4fdf-3297-761e-74439706bca1",
+                    "name": "Twitter"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Washington Examiner",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.v83iYtzAo_6HTXUpN2T7TA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T22:15:00.0000000Z"
+        },
+        {
+            "name": "Meta Tightens Financial Ad Rules in Australia to Combat Rising Social Media Scams",
+            "url": "https://www.econotimes.com/Meta-Tightens-Financial-Ad-Rules-in-Australia-to-Combat-Rising-Social-Media-Scams-1695624",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.t4jGd09y23KD3wmiLq5wjC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Meta Platforms has introduced stricter ad regulations for financial products in Australia, aiming to curb scams. Advertisers must now verify credentials, including financial licenses, to ensure transparency and",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "EconoTimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6ak8EFvo-jj7ASiNXowAbw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T21:26:00.0000000Z"
+        },
+        {
+            "name": "Trump FCC pick says bringing 'censorship cartel' to heel will be a 'top' priority: 'It's got to end'",
+            "url": "https://www.foxnews.com/media/trump-fcc-pick-says-bringing-censorship-cartel-heel-top-priority-its-got-end",
+            "description": "Trump FCC chair pick Brendan Carr spoke on the issue of Big Tech censorship on \"Sunday Morning Futures,\" saying tackling the issue will be a top priority under his leadership.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdH-v7wPV5psO7NVm756zg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T18:02:00.0000000Z",
+            "video": {
+                "name": "'IT'S GOT TO END': Incoming FCC chair vows to bring 'censorship cartel' to heel",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1ecba49c-40cb-4685-a25b-a8587ea3d2c4/a7426e7e-8a41-42d3-a1ce-29e635d632f8_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Social media ban on Facebook, TikTok and others fails to teach children how to think",
+            "url": "https://stockhead.com.au/tech/social-media-ban-on-facebook-tiktok-and-others-fails-to-teach-children-how-to-think/",
+            "description": "What our policymakers have not spelt out is how social media titans will verify a child\u2019s age to ensure social media ban compliance.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "stockhead",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.X4W6Hew2WSUizrF5Z6Oyfg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T17:56:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Meta tightens ad rules to curb financial scams aimed at Australians",
+            "url": "https://www.reuters.com/technology/meta-tightens-ad-rules-curb-financial-scams-aimed-australians-2024-12-01/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.L3G96quCMBDa6tkJcgkGsC&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "The move comes after Meta in October said it took down 8,000 so-called \"celeb bait\" ads, as part of an effort with Australian banks to curb the scams that use images of famous people to trick consumers into giving money to fake investment schemes.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3ecec2e8-2993-42e7-7299-f693bbe3b9b9",
+                    "name": "Sydney"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T17:07:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Should You Forget Nvidia and Buy 2 Other Artificial Intelligence (AI) Stocks Right Now?",
+            "url": "https://www.fool.com/investing/2024/12/01/forget-nvidia-buy-artificial-intelligence-ai-stock/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.dYl16tQZLEBjuIH0t55ENy&pid=News",
+                    "width": 700,
+                    "height": 476
+                }
+            },
+            "description": "There's no denying that Nvidia (NVDA 2.15%) is the poster child of the artificial intelligence (AI) craze. The semiconductor business elevated to new heights thanks to sizable inv",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+                    "name": "The Motley Fool"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T09:52:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Meta Platforms (NASDAQ:META) Shares Down 0.8% \u2013 Here\u2019s What Happened",
+            "url": "https://www.etfdailynews.com/2024/12/01/meta-platforms-nasdaqmeta-shares-down-0-8-heres-what-happened/",
+            "description": "Meta Platforms, Inc. (NASDAQ:META \u2013 Get Free Report) fell 0.8% during mid-day trading on Friday . The stock traded as low as $564.10 and last traded at $569.20. 7,200,228 shares traded hands during mid-day trading,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d7c68896-bb4c-4ac9-f907-08f060d0c9a0",
+                    "name": "Cantor Fitzgerald"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3a122b35-1935-8240-5573-7df3a915e198",
+                    "name": "Bank of America"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cec1ad2-91b5-1585-e8b3-935fcd91d29e",
+                    "name": "Goldman Sachs"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ETF Daily News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FPNBtZBwlBAo1FUZAl2_vg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T07:33:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Trump Must Lead Big Tech Accountability in the Fight Against Child Exploitation",
+            "url": "https://townhall.com/columnists/jasonpiccolo/2024/12/01/trump-must-lead-big-tech-accountability-in-the-fight-against-child-exploitation-n2648440",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4lAfcLkl0mo27Zn90nt2Ci&pid=News",
+                    "width": 650,
+                    "height": 433
+                }
+            },
+            "description": "While Musk has shown that tech giants can prioritize swift action against exploitation on X (formerly Twitter), other platforms continue to drag their feet. The crisis recently came into sharp focus when Meta faced a landmark lawsuit from 30 state attorneys general.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/541cd519-750b-9c92-8413-a537def6abbe",
+                    "name": "White House"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c47da78b-4fdf-3297-761e-74439706bca1",
+                    "name": "Twitter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Townhall",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q5GdDLoVpZshfzDDgoruyQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T04:01:00.0000000Z"
+        },
+        {
+            "name": "After Australia Legislated a Teen Social Media Ban, It Has to Figure Out How to Enforce It",
+            "url": "https://money.usnews.com/investing/news/articles/2024-11-28/analysis-after-australia-legislated-a-teen-social-media-ban-it-has-to-figure-out-how-to-enforce-it",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8ajalWgkO5S9SXapkb_dhi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "SYDNEY (Reuters) -Software testers hired by Australia's government to determine how to enforce the world's first national teen social media ban have worked on defence and election contracts but will use another experience to guide their study: wrangling their own children online.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/34638654-bb5b-0392-cacf-ffae99e6c75e",
+                    "name": "Elon Musk: The Real Life Iron Man"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/36d9648a-8d0f-def7-8d62-78eaa46c4fc8",
+                    "name": "The Australian"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3ecec2e8-2993-42e7-7299-f693bbe3b9b9",
+                    "name": "Sydney"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/43f42e33-be31-cecd-9340-25a6f6f8b7f9",
+                    "name": "KJR"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "U.S. News & World Report",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.IAPYiOumtNGL9OqqzRMlsg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T02:31:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Bluesky wakes up to impersonation nightmare with strict rules",
+            "url": "https://www.digitaltrends.com/mobile/bluesky-policy-update-impersonation-account-identity-verify-social-media/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.tXzGRdDPIF6QRcAxm3BDmy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "A healthy chunk of Bluesky\u2019s top accounts have an impersonator lurking around, per research. Now, the platform is taking strict measures to curb such activity.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1807a4cd-02f5-b419-06bc-41c8a442940c",
+                    "name": "Bluesky"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/860dea43-a2c0-7912-8370-4ef51face341",
+                    "name": "X"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Digital Trends",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.x644vROjZrRe0pKC7YX3XQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T15:06:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Lawmakers press Google, Meta, others on addressing deep fake pornography",
+            "url": "https://justthenews.com/nation/states/center-square/lawmakers-press-google-meta-others-addressing-deep-fake-pornography",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n9aFDSGlCeUIs-DBmAQWPy&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "Number of artificially generated, sexually explicit impersonations of nonconsenting individuals increased by 550% from 2019 to 2023.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6888628e-5d92-d4d4-82f6-55e5b663c3bd",
+                    "name": "ByteDance"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/564159fa-3d5c-4e17-a29e-35b26ac7182c",
+                    "name": "Snapchat"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/be1828e7-cd27-6c34-b82d-ceff81903eb2",
+                    "name": "Debbie Dingell"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/467b6f94-400c-f8c8-baef-f6be4cf7e107",
+                    "name": "August Pfluger"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "justthenews",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.JalbU3dQPyU3-l8DLZI6dA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T06:20:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Gunmaker Smith & Wesson applauds Elon Musk\u2019s X after getting suspended by Facebook",
+            "url": "https://nypost.com/2024/11/29/tech/gunmaker-smith-amp-wesson-applauds-elon-musks-x-after-getting-suspended-by-facebook/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Ybo6gpffOT4mmRR8LhYynS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "After its Facebook account was suspended, the popular American gun manufacturer Smith & Wesson thanked\u00a0Elon Musk and X\u00a0for supporting free speech amid what it called ongoing attacks against",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1bb872f6-f880-fa7f-b267-4d053f1c537e",
+                    "name": "Smith & Wesson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/34638654-bb5b-0392-cacf-ffae99e6c75e",
+                    "name": "Elon Musk: The Real Life Iron Man"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cfe7e179-8e15-c3df-4aca-064e37246d45",
+                    "name": "Freedom of speech"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/179b1be0-7f11-d8f6-ee68-8282dd625eed",
+                    "name": "Norwich, Connecticut"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/66963669-483c-4912-d33d-661057db2e02",
+                    "name": "Maryville, Tennessee"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Post",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ajvVh9V9VQOkNrdxJ1ZcWw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T02:01:00.0000000Z",
+            "video": {
+                "name": "Gunmaker Smith & Wesson applauds Elon Musk\u2019s X after getting suspended by Facebook",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.6v5OUe4Kko1lQPeafV1Wvg&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 346
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Bluesky 101: Everything you should know about X and Meta\u2019s latest headache",
+            "url": "https://www.yahoo.com/news/bluesky-101-everything-know-x-235120207.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.oQe-5jIf3v6qssWdZB1h6i&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Learn what makes Bluesky different by taking an in-depth look at its technological framework, privacy commitments, and user-centric innovations.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/860dea43-a2c0-7912-8370-4ef51face341",
+                    "name": "X"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c47da78b-4fdf-3297-761e-74439706bca1",
+                    "name": "Twitter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bfe24d86-1ea6-357a-2246-7596a42aafe2",
+                    "name": "Trolling"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9b8a1aeb-1931-a0d2-dd5c-50d79ff3d57f",
+                    "name": "Hate speech"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1807a4cd-02f5-b419-06bc-41c8a442940c",
+                    "name": "Bluesky"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T01:50:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Australia Social Media Ban For Under-16s Approved By Both Houses Of Parliament",
+            "url": "https://www.newson6.com/story/674a5d508cb3d68478b24954/australia-social-media-ban-for-under-16s-approved-by-both-houses-of-parliament",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mIQHJ0vRflNycPH8yQE4FS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Australia's major parties in the House all supported the bill, which will see social media companies such as TikTok, Facebook, Snapchat, Reddit, X and Instagram face fines of up to 50 million Australian dollars ($33 million) for failing to prevent people under 16 from creating accounts on their platforms.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6910ac-d399-47b2-9ee5-d0c3d8ca491b",
+                    "name": "TikTok"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/564159fa-3d5c-4e17-a29e-35b26ac7182c",
+                    "name": "Snapchat"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/20757754-e543-a49f-c338-3463e22655c3",
+                    "name": "Reddit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/36d9648a-8d0f-def7-8d62-78eaa46c4fc8",
+                    "name": "The Australian"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "News on 6",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.0c-rXawofeE1BkXtavFVqw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T00:38:00.0000000Z"
+        },
+        {
+            "name": "Tech Companies Chide Australia\u2019s Under 16 Social Media Ban",
+            "url": "https://www.inc.com/reuters/tech-companies-chide-australias-under-16-social-media-ban/91033332",
+            "description": "Australia approved the social media ban for children late on Thursday. The law forces tech giants from Instagram and Facebook owner Meta to TikTok to stop minors logging in or face fines of up to A$49.5 million ($32 million).",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Inc",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.d2sNjsZFyRqPfTHuti8I3g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T00:08:00.0000000Z"
+        },
+        {
+            "name": "Report: Meta to spend $10B+ on 25,000-mile submarine internet cable",
+            "url": "https://siliconangle.com/2024/11/29/report-meta-spend-10b-25000-mile-submarine-internet-cable/",
+            "description": "Meta Platforms Inc. plans to spend more than $10 billion on a submarine internet cable that will circle the globe, TechCrunch reported today.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ae53d01-1200-07ff-f955-9b56df1a39cc",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/93cd6c79-a746-d559-87ed-f9312a9eb83c",
+                    "name": "TechCrunch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/38a9fd4a-4f7c-6d91-d6dd-4eed3131672d",
+                    "name": "South Africa"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ysUeRt2Q3xQKySmZkxXQ8A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T22:45:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Meta Draws $25.4 Million Fine in India Over WhatsApp Internal Data Sharing",
+            "url": "https://www.cpomagazine.com/data-protection/meta-draws-25-4-million-fine-in-india-over-whatsapp-internal-data-sharing/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.M3h9xFR9haaaWQ3ctuG35C&pid=News",
+                    "width": 700,
+                    "height": 401
+                }
+            },
+            "description": "In addition to the $25.4 million antitrust fine, the CCI has ordered Meta to cease this element of cross-app user data sharing for five years. The order wraps up a probe that began in March 2021.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ae53d01-1200-07ff-f955-9b56df1a39cc",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e222f4ec-6195-a300-6e2a-d15093aece26",
+                    "name": "WhatsApp"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/94fb3d11-9d95-d68d-3116-794374d5c9eb",
+                    "name": "Competition Commission of India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CPO Magazine",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jyiGSrSuSB5-oxJKISxuDg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T22:08:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Popular gun manufacturer thanks Elon Musk after being suspended by Facebook",
+            "url": "https://www.foxnews.com/politics/popular-gun-manufacturer-thanked-elon-musk-after-facebook-suspended-its-account",
+            "description": "After its Facebook account was suspended, Smith & Wesson thanked Elon Musk and X for supporting free speech amid what it called ongoing attacks against the First and Second Amendments.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdH-v7wPV5psO7NVm756zg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T22:04:00.0000000Z",
+            "video": {
+                "name": "Elon Musk is the 'most consequential figure in free speech of our generation': Jonathan Turley",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/475a527f-c35a-43f2-800a-eb930321def2/5d73b4f3-f537-4262-901d-525b26846580_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban",
+            "url": "https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._vQjQBeiLuL9PUMQn0dY3C&pid=News",
+                    "width": 640,
+                    "height": 427
+                }
+            },
+            "description": "Olivia Edwards understands the intent behind Australia\u2019s recent blanket social media ban. \u201cIt makes sense,\u201d she said. \u201cThe thought behind it is protecting children.\u201d The new law established some of th",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/67b9bd42-dc58-455c-9858-ece11da6a2fd",
+                    "name": "Pittsburgh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fece3f4-e8e8-4159-843e-f725a930ad50",
+                    "name": "Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/00a23ccd-3344-461c-8b9f-c2bb55be5815",
+                    "name": "Texas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c7bfe2de-4f82-e23c-ae42-8544b5b5c0ea",
+                    "name": "France"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d56182f6-63ec-a20a-6b5c-46e46d7118f6",
+                    "name": "Shadyside"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TribLIVE.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.OGAtUomKEPj-tfZAXALEKw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T22:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "TikTok Appeals Order Greenlighting Child Addiction, School Suits",
+            "url": "https://news.bloomberglaw.com/litigation/tiktok-appeals-order-greenlighting-child-addiction-school-suits",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.c9_biTmk_uq1YPw9OfPbvy&pid=News",
+                    "width": 700,
+                    "height": 269
+                }
+            },
+            "description": "TikTok Inc. and parent company ByteDance Ltd. filed notice Friday saying they will appeal a pair of court rulings advancing hundreds of lawsuits from parents and school districts alleging the social media app causes addiction among children.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c5ad466d-fd68-f389-4727-7f3b9daaebf6",
+                    "name": "Bloomberg L.P."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "news.bloomberglaw",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.K7CKD7l1uN0lHn02Ekr88g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T21:55:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms Inc. stock underperforms Friday when compared to competitors despite daily gains",
+            "url": "https://www.marketwatch.com/data-news/meta-platforms-inc-stock-underperforms-friday-when-compared-to-competitors-despite-daily-gains-32f47ad0-0cbfea768d35",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n5Kx8XH6vW6TwiPmANhTxi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Meta Platforms Inc. closed $28.63 below its 52-week high ($602.95), which the company achieved on October 7th.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.g28MuDD8Wj91-VMHwbl7qQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T21:32:00.0000000Z"
+        },
+        {
+            "name": "Australia passes landmark social media ban for children under 16",
+            "url": "https://www.washingtontimes.com/news/2024/nov/29/australia-passes-landmark-social-media-ban-childre/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Ad1F4tn7W2DXAIRt8ZadiC&pid=News",
+                    "width": 700,
+                    "height": 408
+                }
+            },
+            "description": "Australia\u2019s Parliament has passed groundbreaking legislation banning social media use for children under 16, marking a significant move that could influence global social media regulation.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ce177ea-a99f-5e40-7159-82f7b5581be3",
+                    "name": "Social media"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b4c2306e-2065-801a-2c91-fea1cf1bbe68",
+                    "name": "Senate"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/78dbf457-fe85-aa64-d23c-46c99a7b7950",
+                    "name": "House of Representatives"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d81af9f6-7821-e4f0-f930-243349aa385a",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6910ac-d399-47b2-9ee5-d0c3d8ca491b",
+                    "name": "TikTok"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/564159fa-3d5c-4e17-a29e-35b26ac7182c",
+                    "name": "Snapchat"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/00f8b947-2f64-9828-df4d-5993583bdbe4",
+                    "name": "Anthony Albanese"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Washington Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.fBfI3mDLESLjZxaW6HbgNQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T18:13:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Meta plans to lay down a $10 billion subsea fiber optic cable",
+            "url": "https://www.techspot.com/news/105769-meta-reportedly-planning-build-10b-subsea-fiber-optic.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HieAq0GqgeAPA3c2uuzo0i&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "TechCrunch reports that Meta plans to pour an estimated $10 billion into an internet infrastructure project to improve global connectivity. The company is a massive driver",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ae53d01-1200-07ff-f955-9b56df1a39cc",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/93cd6c79-a746-d559-87ed-f9312a9eb83c",
+                    "name": "TechCrunch"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e222f4ec-6195-a300-6e2a-d15093aece26",
+                    "name": "WhatsApp"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9a0889fa-b4b3-a589-3d65-74b24d23503a",
+                    "name": "Threads"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechSpot",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lK_Pb1dzSoft564j8nm9vw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T18:03:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Social Media Firms Decry Australia\u2019s Ban on Children Under 16 Using Facebook, TikTok, Other Apps",
+            "url": "https://www.nysun.com/article/rushed-social-media-firms-blast-australias-ban-under-children-under-16-using-facebook-tiktok-other-apps",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.vLsoXdYrNlolGas_E8dinS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Tech giants face hefty fines down under as new law aims to protect children\u2019s online safety. The Social Media industry has spoken out against a new national policy passed into law by the Australian Parliament that bans children under 16 from using apps like Facebook, X and TikTok.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+                    "name": "Facebook"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5e28c584-3fa5-3e3d-1327-6bc510f10bd4",
+                    "name": "Parliament of Australia"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Sun",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.3Vlho8XuqWfExtLzuD9Z3w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T16:50:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms Inc.",
+            "url": "https://www.barrons.com/market-data/stocks/meta/stock-grader?%25252525252525252525253Bmod=searchbar&%252525252525252525252525252525252525253Bmod=searchbar&%2525252525252525252525253Bmod=searchbar&%2525252525252525252525252525252525252525252525253Bmod=searchbar&%25252525252525252525252525253Bmod=searchbar&%2525252525252525252525252525252525252525253Bmod=searchbar",
+            "description": "Stocks: Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive quotes and volume reflect trading in all markets and are delayed at least 15 minutes. International ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Barron's"
+                }
+            ],
+            "datePublished": "2024-11-26T05:01:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Meta showcases Nashville data centers, where your Facebook profile could live",
+            "url": "https://www.bizjournals.com/sanjose/news/2024/11/18/facebook-instagram-whatsapp-data-center-nashville.html",
+            "description": "Social media giant Meta Platforms Inc. held a grand-opening on Nov. 14 to formally mark the start of when its 800-acre Nashville site began serving traffic. Our Nashville newsroom reporter Adam ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Business Journals"
+                }
+            ],
+            "datePublished": "2024-11-18T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Meta Fined $843 Million by EU Over Marketplace Ads Platform",
+            "url": "https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38",
+            "description": "The European Commission fined Meta Platforms META-0.76%decrease; red down pointing triangle the equivalent of around $843 million, saying it tied its classified-ads platform to its flagship social ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Wall Street Journal"
+                }
+            ],
+            "datePublished": "2024-11-14T14:54:00.0000000Z"
+        },
+        {
+            "name": "What the Options Market Tells Us About Meta Platforms",
+            "url": "https://www.benzinga.com/insights/options/24/11/41975096/what-the-options-market-tells-us-about-meta-platforms",
+            "description": "Investors with significant funds have taken a bearish position in Meta Platforms META, a development that retail traders should be aware of. This was brought to our attention today through our ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-11-14T09:46:00.0000000Z"
+        },
+        {
+            "name": "3 Facts You Must Know About Meta Platforms Before Buying the Stock",
+            "url": "https://www.aol.com/3-facts-must-know-meta-104400830.html",
+            "description": "Meta Platforms (NASDAQ: META) is one of the world's leading technology businesses that has come to dominate the internet-era landscape. The company has done a wonderful job taking care of its ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL"
+                }
+            ],
+            "datePublished": "2024-11-14T05:44:00.0000000Z"
+        },
+        {
+            "name": "Meta Must Face Trial After Judge Pares Some FTC Claims",
+            "url": "https://www.bloomberg.com/news/articles/2024-11-13/meta-wins-limits-to-ftc-antitrust-suit-over-instagram-whatsapp",
+            "description": "Meta Platforms Inc. will face a somewhat scaled-back antitrust trial over its alleged dominance of social networking after a federal judge threw out some allegations by the US Federal Trade ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bloomberg L.P."
+                }
+            ],
+            "datePublished": "2024-11-13T23:11:00.0000000Z"
+        },
+        {
+            "name": "Meta Pushes Back Against FTC Effort to Toughen Privacy Order",
+            "url": "https://www.bloomberg.com/news/articles/2024-11-12/meta-pushes-back-against-ftc-effort-to-toughen-privacy-order",
+            "description": "Meta Platforms Inc. rebuffed the Federal Trade Commission\u2019s plans to modify a 2020 privacy settlement with the company, arguing that such a move would need approval from a federal court.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bloomberg L.P."
+                }
+            ],
+            "datePublished": "2024-11-12T17:16:00.0000000Z"
+        },
+        {
+            "name": "After storm over allegations, Australia Today clarifies ban was by Meta platforms, not Canadian government",
+            "url": "https://www.thehindu.com/news/national/after-storm-over-allegations-australia-today-clarifies-ban-was-by-meta-platforms-not-canadian-government/article68856290.ece",
+            "description": "In a statement responding to a denial issued by the Canadian Ministry of Foreign Affairs, the portal, which focuses on Indian diaspora issues, said it was \u201cnot aware\u201d that Meta platforms ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hindu"
+                }
+            ],
+            "datePublished": "2024-11-12T03:06:00.0000000Z"
+        },
+        {
+            "name": "Meta to offer Facebook and Instagram users in Europe less personalized ads after pressure from regulators",
+            "url": "https://www.fastcompany.com/91227348/meta-facebook-instagram-ads-less-personalized-europe-users",
+            "description": "Meta Platforms has been offering European Union an ad-free subscription option for about a year to comply with the continent\u2019s strict data privacy rules, but regulators had accused the company ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fast Company"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "META, UBER, or AMZN: Which \u201cStrong Buy\u201d Tech Stock Could Offer the Highest Upside?",
+            "url": "https://markets.businessinsider.com/news/stocks/meta-uber-or-amzn-which-strong-buy-tech-stock-could-offer-the-highest-upside-1033985990",
+            "description": "Using TipRanks\u2019 Stock Comparison Tool, we placed Meta Platforms (META), Uber Technologies (UBER), and Amazon (AMZN) against each other to find the \u201cStrong Buy\u201d stock with the highest upside ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider"
+                }
+            ],
+            "datePublished": "2024-11-09T15:15:00.0000000Z"
+        },
+        {
+            "name": "Should You Pick META Stock At $560?",
+            "url": "https://www.forbes.com/sites/greatspeculations/2024/11/05/should-you-pick-meta-stock-at-560/",
+            "description": "Also, look at what\u2019s happening with Google stock. Meta Platforms\u2019 revenues of $40.6 billion in Q3 reflected a 19% y-o-y rise, driven by a 7% rise in ad impressions and an 11% growth in average ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-06T04:00:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms\u2019 (META) Q3 Results Point to More Upside despite 80% Rally",
+            "url": "https://finance.yahoo.com/news/meta-platforms-meta-q3-results-215040971.html",
+            "description": "Meta Platforms (META) has recorded a remarkable 80% surge over the past year, and yet, its Q3 report suggests there\u2019s room for further upside ahead.Specifically, Meta showcased robust growth ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms\u2019 (META) Q3 Results Point to More Upside despite 80% Rally",
+            "url": "https://markets.businessinsider.com/news/stocks/meta-platforms-meta-q3-results-point-to-more-upside-despite-80-rally-1033955303",
+            "description": "Meta Platforms (META) has recorded a remarkable 80% surge over the past year, and yet, its Q3 report suggests there\u2019s room for further upside ahead. Specifically, Meta showcased robust growth ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider"
+                }
+            ],
+            "datePublished": "2024-11-05T15:50:00.0000000Z"
+        },
+        {
+            "name": "Meta extends political ad ban until after Election Day",
+            "url": "https://thehill.com/policy/technology/4972408-meta-political-ad-ban-election-day-facebook-instagram/",
+            "description": "Meta extended its ban on new political ads on its platforms through Election Day, the social media giant announced Monday. The parent company of Facebook and Instagram said the restriction on new ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hill"
+                }
+            ],
+            "datePublished": "2024-11-05T15:14:00.0000000Z"
+        },
+        {
+            "name": "Buy Meta Platforms With a Long-Term Perspective After Q3 Earnings Beat",
+            "url": "https://finance.yahoo.com/news/buy-meta-platforms-long-term-123200995.html",
+            "description": "Meta Platforms Inc. META, the undisputed leader of the global social media space, reported strong third-quarter 2024 earnings results. The company provided strong guidance buoyed by its extensive ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued?",
+            "url": "https://www.morningstar.com/markets/after-earnings-is-meta-stock-buy-sell-or-fairly-valued",
+            "description": "Meta reported strong third-quarter financial ... essential to our mission of empowering investor success. We provide a platform for our authors to report on investments fairly, accurately, and ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "Meta Extends Ban on New Political Ads to After Election",
+            "url": "https://www.inc.com/reuters/meta-extends-ban-on-new-political-ads-to-after-election/90999545",
+            "description": "Meta Platforms will extend its ban on new political ads after the U.S. election, maintaining the suspension until later this week, the Facebook-parent said in a blog post on Monday. In response to ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Inc"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "Better Social Media Stock: Meta Platforms vs. Snap",
+            "url": "https://www.nasdaq.com/articles/better-social-media-stock-meta-platforms-vs-snap-0",
+            "description": "Meta Platforms (NASDAQ: META) and Snap (NYSE: SNAP) both recently posted third-quarter reports that exceeded Wall Street's expectations. However, Meta's stock dipped after its earnings beat as ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nasdaq"
+                }
+            ],
+            "datePublished": "2024-11-04T09:25:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms Stock Slips Despite Delivering Record Revenue. Is It Time to Buy the Dip?",
+            "url": "https://www.aol.com/meta-platforms-stock-slips-despite-170028448.html",
+            "description": "Meta Platforms (NASDAQ: META) shares slipped following its third-quarter results, despite the company posting record revenue in the quarter that topped expectations. However, investor focus once ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL"
+                }
+            ],
+            "datePublished": "2024-11-03T12:00:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms: Strong Q3 Results And Amazing Growth Potential",
+            "url": "https://seekingalpha.com/article/4731626-meta-platforms-strong-q3-results-and-amazing-growth-potential",
+            "description": "Meta Platforms' CapEx is set to increase significantly next year as it continues to invest in AI. I previously said META can reach $400 back in 2022. Now that it has surpassed that level by quite ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha"
+                }
+            ],
+            "datePublished": "2024-10-31T19:02:00.0000000Z"
+        },
+        {
+            "name": "Meta projects sharp acceleration in AI costs after results beat Wall Street targets",
+            "url": "https://www.reuters.com/technology/facebook-parent-meta-platforms-forecasts-holiday-quarter-revenue-above-estimates-2024-10-30/",
+            "description": "A column chart of the profits recorded by Meta Platforms over the last year. The company, which trades as META, reported $6.03 earnings per share in the latest quarter. The world's biggest social ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters"
+                }
+            ],
+            "datePublished": "2024-10-31T05:06:00.0000000Z"
+        },
+        {
+            "name": "Meta earnings: Stock falls as company shares more on spending plans",
+            "url": "https://www.marketwatch.com/livecoverage/meta-earnings-stock-facebook-results-ai-revenue-guidance",
+            "description": "Meta Platforms Chief Executive Mark Zuckerberg said that the social media company is going to keep spending on building out its infrastructure because the opportunity is so huge. \"The formula ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch"
+                }
+            ],
+            "datePublished": "2024-10-30T20:40:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "What Wall Street Thinks of Meta Platforms Stock Ahead of Earnings",
+            "url": "https://www.investopedia.com/what-wall-street-thinks-meta-platforms-stock-ahead-earnings-facebook-8736643",
+            "description": "Shares of Meta Platforms (META) ticked higher in early Wednesday trading ahead of the company's next round of financial results, due after the bell. The results are set to arrive with the company ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Investopedia"
+                }
+            ],
+            "datePublished": "2024-10-30T14:30:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms Likely to Beat in Q3 Earnings: ETFs to Buy",
+            "url": "https://sg.finance.yahoo.com/news/meta-platforms-likely-beat-q3-140000231.html",
+            "description": "Social media giant Meta Platforms META is set to release third-quarter fiscal 2024 results today, after market close. META stock has delivered returns of 28.1% over the past three months and has outperformed the industry\u2019s growth of 5.2%. The solid trend ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-10-30T07:00:00.0000000Z"
+        },
+        {
+            "name": "Meta Platforms Q3 Earnings Preview: AI In Focus With New Search Engine Plans, Analyst Says Company 'Well Positioned'",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41610726/meta-platforms-q3-earnings-preview-ai-in-focus-with-new-search-engine-plans-analyst",
+            "description": "Meta Platforms reports Q3 results after market close Wednesday, Oct. 30. A Meta analyst sees a heavier emphasis on AI coming from Meta's conference call for the third quarter. A new report that ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-10-29T16:12:00.0000000Z"
+        },
+        {
+            "name": "Meta reportedly developing custom search engine for its Meta AI chatbot",
+            "url": "https://siliconangle.com/2024/10/28/meta-reportedly-developing-custom-search-engine-meta-ai-chatbot/",
+            "description": "Meta Platforms Inc. plans to integrate a custom search engine into its Meta AI chatbot, The Information reported today. The publication cited sources as saying that the goal is to provide users ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE"
+                }
+            ],
+            "datePublished": "2024-10-28T23:06:00.0000000Z"
+        },
+        {
+            "name": "Pre-Q3 Earnings: Is Meta Platforms Stock a Portfolio Must-Have?",
+            "url": "https://www.nasdaq.com/articles/pre-q3-earnings-meta-platforms-stock-portfolio-must-have",
+            "description": "Meta Platforms META is set to report its third-quarter 2024 results on Oct. 30. It expects total revenues between $38.5 billion and $41 billion for the third quarter of 2024. The Zacks Consensus ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nasdaq"
+                }
+            ],
+            "datePublished": "2024-10-25T16:28:00.0000000Z"
+        },
+        {
+            "name": "Meta just beat Google and Apple in the race to put powerful AI on phones",
+            "url": "https://venturebeat.com/ai/meta-just-beat-google-and-apple-in-the-race-to-put-powerful-ai-on-phones/",
+            "description": "Learn More Meta Platforms has created smaller versions of its Llama artificial intelligence models that can run on smartphones and tablets, opening new possibilities for AI beyond data centers.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "VentureBeat"
+                }
+            ],
+            "datePublished": "2024-10-24T11:57:00.0000000Z"
+        }
+    ]
+}

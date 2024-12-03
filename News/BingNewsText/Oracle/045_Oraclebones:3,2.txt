@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tom Metcalfe"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-11 11:00:00",
+    "description": "Archaeologists say the \"oracle bones\" from ancient China were used in magical attempts to foretell the future.",
+    "filename": ".json",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/55Rwqdrdr4WyyAHiGhQk9P-1200-80.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Name: Oracle Bones\nWhat it is: Tortoise shells or the shoulder blades of oxen that were inscribed with ancient Chinese characters\nWhere it is from: China\nWhen it was made: 3,250 years ago\nRelated: The 3,300-year-old ancient Egyptian statue of Ramesses II said to have inspired Percy Shelley's 'Ozymandias'\nWhat it tells us about the past:\nThere is no one \"oracle bone\" \u2014 about 13,000 have been found \u2014 but these relics hint at the development of writing in ancient China.\nThey date from the late Shang Dynasty, (circa 1250 B.C. to circa 1050 B.C.), although the Bronze Age Shang Dynasty ruled most of northern China from about 1600 B.C. \u2014 the earliest traditional Chinese dynasty for which there is archaeological evidence.\nAccording to Chinese scholars, oracle bone artifacts were often dug up by later farmers in the former Shang territories, and many were exhumed during burial ceremonies in the former Shang capital of Anyang, in China\u2019s Henan province.\nIn the 19th century, villagers near Anyang unearthed oracle bones they thought were \"dragon bones\" and large numbers were ground-up for traditional medicine until they became valuable to antique dealers.\nOracle bones were often made from tortoise shells, as in this photograph, and from the shoulder blades of oxen. According to archaeologists, a fortune teller would carve a question into the bone with a sharp implement, and then heat it until it cracked; they then claimed to interpret the cracks.\nThe bones and shells were reused until there was no more space, and so more than 100,000 inscriptions are known.\nThe surviving oracle bones are the earliest existing form of Chinese writing. Many of the roughly 5,000 characters in the \"oracle bone script\" are still used in modern Chinese (some versions of Chinese recognize tens of thousands of written characters) although some characters are still not well understood. They were also used in divinations for the Shang royal household, and scholars have used them to chart the Shang royal genealogy.\nOracle bones predating the Shang Dynasty have also been found, and in 2003, some archaeologists said they'd found \"Neolithic oracle bones\" from up to 8,600 years ago.\nEarly reports claimed that some of their characters were the same as Shang characters. But other experts doubted the claims, noting it was unlikely that any Shang characters were used more than 5,000 years earlier than thought.",
+    "source_domain": null,
+    "text": null,
+    "title": "Oracle bones: 3,250-year-old engraved bones and tortoise shells from ancient China were used to foretell the future",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Adrian Potoroaca"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-29 12:29:00",
+    "description": "TechCrunch reports that Meta plans to pour an estimated $10 billion into an internet infrastructure project to improve global connectivity. The company is a massive driver of...",
+    "filename": ".json",
+    "image_url": "https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-29-image-11.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "In context: At a time when undersea cables are a prime target for sabotage by bad actors, tech companies are still interested in building more of them. As internet use continues to surge globally due to significant developments in artificial intelligence, Meta plans to install one of the world's longest subsea cables as a dedicated pipeline for its digital platforms.\nTechCrunch reports that Meta plans to pour an estimated $10 billion into an internet infrastructure project to improve global connectivity. The company is a massive driver of internet traffic worldwide, serving billions of users accessing platforms like Facebook, WhatsApp, Instagram, and Threads. This strategic development could take several years but will ultimately improve Meta's ability to serve digital content to a growing audience.\nSubsea cable expert Sunil Tagare was the first to report on Meta's \"mother of all submarine cables\" back in October. While the company already shares ownership of several subsea cables such as Echo, Amite, Havhingsten, Bifrost, 2Africa, and Anjana, Tagare says Meta will wholly own this new internet backbone. The exact route is still subject to speculation, but this sounds like a clear departure from the usual consortium approach it's taken in the past.\nApparently, Meta wants to improve its network resilience in light of incidents earlier this year that saw prolonged downtime for AAE-1 in the Red Sea and other subsea cables. To that end, the company is willing to sacrifice some latency by avoiding the Red Sea region and routing through the Atlantic, Indian Ocean, and Pacific to avoid areas where geopolitical tensions have marred in recent years.\nIn any case, Meta's undersea cable dubbed \"W\" will be one of the most ambitious digital infrastructure projects to date, and the routing underlines the growing importance of Africa and India as key growth markets for digital platforms. At an estimated 40,000 kilometers (~24,585 miles) in length when completed, it will be as gargantuan as the SEA-ME-WE 3 (South-East Asia-Middle East-Western Europe 3) cable which spans 39,000 kilometers (~24,235 miles).",
+    "source_domain": null,
+    "text": null,
+    "title": "Meta plans to lay down a $10 billion subsea fiber optic cable",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

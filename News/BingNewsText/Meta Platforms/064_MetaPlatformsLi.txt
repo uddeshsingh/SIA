@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Sweta Killa"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-30 14:00:00",
+    "description": "Meta Platforms has a high chance of beating earnings estimates. It has also seen positive earnings estimate revision for the to-be-reported quarter.",
+    "filename": ".json",
+    "image_url": "https://media.zenfs.com/en/zacks.com/e611779c44447da8f91a3a605a4ebc8e",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Social media giant Meta Platforms META is set to release third-quarter fiscal 2024 results today, after market close.\nMETA stock has delivered returns of 28.1% over the past three months and has outperformed the industry\u2019s growth of 5.2%. The solid trend is likely to continue given that Meta Platforms has a high chance of beating earnings estimates and has also seen positive earnings estimate revision for the to-be-reported quarter, which is generally a precursor to an earnings beat. This is not enough, as analysts also turned bullish ahead of the earnings (read: How to Play Mag 7 Earnings).\nImage Source: Zacks Investment Research\nThis has put the focus on ETFs \u2014 iShares Global Comm Services ETF IXP, Fidelity MSCI Communication Services Index ETF FCOM, Vanguard Communication Services ETF VOX, Communication Services Select Sector SPDR Fund XLC and First Trust Dow Jones Internet Index Fund FDN \u2014 that have a substantial allocation to this social media giant.\nEarnings Whispers\nMeta Platforms has an Earnings ESP of +2.83% and a Zacks Rank #2 (Buy). According to our methodology, the combination of a positive Earnings ESP and a Zacks Rank #1 (Strong Buy), 2 or 3 (Hold) increases the chances of an earnings beat. You can uncover the best stocks to buy or sell before they\u2019re reported with our Earnings ESP Filter.\nMeta Platforms saw a positive earnings estimate revision of a couple of cents over the past 30 days for the soon-to-be-reported quarter. Analysts increasing estimates right before earnings \u2014 with the most up-to-date information possible \u2014 is a good indicator for the stock. The current Zacks Consensus Estimate for the to-be-reported quarter indicates year-over-year earnings growth of 17.8%. Revenues are expected to increase 17.6%. Meta Platforms delivered an earnings surprise of 12.6%, on average, in the last four quarters.\nMeta Platforms, Inc. Price, Consensus and EPS Surprise\nMeta Platforms, Inc. price-consensus-eps-surprise-chart | Meta Platforms, Inc. Quote\nThe social media giant beat the Zacks Consensus Estimate for earnings in the last seven consecutive quarters and the same for revenues in nine straight quarters. It currently has a Wall Street analyst recommendation of 1.39 on a scale of 1 to 5 (Strong Buy to Strong Sell), made by 49 brokerage firms. This is up from 1.32 a month ago based on 47 recommendations. Of the 49 recommendations, 41 are Strong Buy and one is Buy (read: Big 5 Earnings Ahead: Are Single-Stock ETFs Set for Big Gains?).\nImage Source: Zacks Investment Research",
+    "source_domain": null,
+    "text": null,
+    "title": "Meta Platforms Likely to Beat in Q3 Earnings: ETFs to Buy",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

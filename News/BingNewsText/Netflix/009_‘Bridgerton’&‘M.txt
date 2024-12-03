@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Anthony D'Alessandro"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:22:30",
+    "description": "Netflix's The Fall Edit - Behind the Music symposium featured the composers and music supervisors of 'Bridgerton' and 'Monsters' series talking about their work.",
+    "filename": ".json",
+    "image_url": "https://deadline.com/wp-content/uploads/2024/12/Crew-Call1.jpg?w=1024",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Song and score are prominent characters in the Netflix series Bridgerton and Monsters: The Lyle and Erik Menendez Story, and what\u2019s obvious is that it\u2019s not always a push and pull between the two in the final edit, rather an eloquent complement.\nSuch was the conversation at the recent Netflix symposium The Fall Edit: Behind the Music for a very special Crew Call Live, one that included Bridgerton Oscar winning composer Kris Bowers, Bridgerton series music supervisor Justin Kamps as well as Monsters co-composers, father and daughter Thomas and Julia Newman, as well as the music supervisor for that Ryan Murphy-Ian Brennan co-created series, Amanda Krieg Thomas.\nNeedle drops are signatures for both series: For Bridgerton it\u2019s about the securing of pop ditties from Nick Jonas, Sia, Ariana Grande, Billie Eilish and more which are then transformed into the most calming classical arrangements. Kamps\u2019 coup for season 3? Two Taylor Swift songs, \u201cYou Belong to Me\u201d in episode 7 and her Lana Del Rey collaboration, \u201cSnow on the Beach\u201d in episode 4.\nHowever, the process for securing songs isn\u2019t always a slam dunk as supervisors are continually making a pitch to songwriters and estates who can be quite precious about a song\u2019s potential resonance in a film or series.\nAdmits Kamp, \u201cEvery song is not obtainable; we\u2019ve gotten denials for Bridgerton.\u201d\nAdds Thomas, \u201cMonsters is actually one of the harder shows for us. We got a lot of denials on this show, and we\u2019ve gotten a lot of denials and things in the past, and sometimes people just don\u2019t want to be associated with these real-life people and these real-life events. And especially if it\u2019s historically documented that they were connected to it. So, what we\u2019re always sort of figuring out is how do we sort of explain the use and explain what they\u2019re being a part of.\u201d\nThe use of 1990s pop band Milli Vanilli was a crucial component for Monsters, in fact the first episode which centers around the brothers\u2019 gory murder of their parents was entitled \u201cBlame It On the Rain.\u201d The fraternal duo were die hard fans of the lip-sync group. Per Thomas, there was no back-up plan as far as the use of other music in that episode: \u201cIt was Milli Vanilli or bust.\u201d\nIn regard to how song and score find a balance on a series, Monsters co-composer Julia Newman says that on Monsters \u201cBecause we have so many pieces of source music throughout the show, then it\u2019s a conversation more about how score is interacting with that source in order to make both of those the most effective, dramatically as possible.\u201d\nWatch our conversation above. Both series are now streaming on Netflix.",
+    "source_domain": null,
+    "text": null,
+    "title": "How Music Plays A Character",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

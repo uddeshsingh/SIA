@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Lucia Moses"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-04 13:41:54",
+    "description": "Mike Verdu, Netflix's former games chief, is now leading AI-driven game development for the streaming giant.",
+    "filename": ".json",
+    "image_url": "https://i.insider.com/66c6265f5da406397bf7a812?width=1024&format=jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Mike Verdu, Netflix's former games chief, is now leading AI-driven game development.\nNetflix's games division, launched in 2021, has faced shifts and leadership changes.\nAI's role in gaming has raised concerns for some workers.\nMike Verdu, Netflix's former games chief, has moved into a new role: he's now leading a generative AI gaming division at the streaming giant.\nVerdu wrote on LinkedIn late Sunday that he'd be focused on a \"creator-first vision for AI\" and that he sees AI helping big and small game teams alike.\n\"Many view this technology with fear, but I am a game-maker at heart and I see its potential to unlock all of us, to create mind-blowing new experiences for players, to lift us to new heights,\" Verdu wrote on LinkedIn.\nNetflix launched a games division in 2021. As of September 2023, fewer than 1% of Netflix's subscribers had played its games, per data from the analytics firm Apptopia. Netflix replaced Verdu with Epic Games alum Alain Tascan in July. Shortly after, Netflix shut down a unit dedicated to developing elaborate \"Triple-A\" games to instead focus on casual games. Netflix also laid off a few dozen gaming employees.\nNetflix executives aren't giving up on gaming, though. They have repeatedly said that games will continue to be a small part of the company's overall content investment. Co-CEO Greg Peters said during Netflix's second-quarter earnings call that the company was happy with its progress and that user engagement on games had tripled in 2023. The company sees games as a tool to boost subscriber retention to its streaming services, which could explain why Netflix hasn't introduced advertising as a way of monetizing them.\nVerdu acknowledged questions surrounding the future of Netflix games and his transition, saying there's been \"uninformed speculation in the media\" about the business and that his transition was planned. He wrote that after Netflix games started to scale up, he recognized his strength was in running smaller teams.\n\"Over the past 3 years, I worked with an amazing leadership team to build Netflix Games from the ground up, including the creation of a robust internal game studio, establishment of a world class publishing organization, and collaboration with Netflix cross-functional teams to deliver awesome games to Netflix members on mobile and to TVs (and PCs) through the cloud,\" he wrote. \"We've delivered 100+ games, increased game engagement by multiples, and rolled out a test of cloud streaming to TV and PC in several countries. I'm very proud of this!\"\nNetflix and Verdu didn't immediately reply to requests for comment.",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix Gaming Exec Reveals New AI Role After Studio Shutdown, Cuts",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

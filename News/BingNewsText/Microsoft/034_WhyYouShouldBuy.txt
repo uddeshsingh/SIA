@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Zak Doffman"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-02 03:50:45",
+    "description": "Microsoft\u2019s security surprise should make 2025 a year for exciting PC deals in stores.",
+    "filename": ".json",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/66326c977605f1e72ab87c8d/0x0.jpg?format=jpg&crop=1184,724,x1303,y831,safe&height=900&width=1600&fit=bounds",
+    "language": "en",
+    "localpath": null,
+    "maintext": "All change for Microsoft users this week, with the surprising news that Windows 10 won\u2019t be going quite as end-of-life as expected in October next year. You can have another year of security updates for which you will need to pay $30. But then in October 2026, the end-of-life cliff edge comes back again\u2014no, really this time.\nIf that\u2019s good news for home users\u2014business users and schools already had extended support options, it could be very bad news for PC manufacturers. Less than two weeks ago, the third-quarter global PC sales numbers were lower than hoped, but as Canalys reported, the need for strong growth in 2025 should be boosted \u201cas a large proportion of the Windows PC installed base still needs to be refreshed before the end of life of Windows 10 in October 2025.\u201d Erm, not any more.\nForbesiPhones Under Attack\u2014New Warning As Hackers Target Apple Devices\nWhile Canalys pegged third-quarter growth at just 1.3%, IDC reported \u201cworldwide shipments of traditional PCs dipped 2.4% year-over-year (YoY) to 68.8 million units, during the third quarter of 2024 (3Q24).\u201d\nGartner saw the same decline, reporting a slightly lower 1.3% dip. \u201cThe demand for the Windows PC refresh driven by the end of Windows 10 support in 2025 did not fully pick up during the third quarter, partly due to economic challenges in certain regions,\u201d albeit it still forecasts \u201cmore robust growth in 2025.\u201d\nYou get the point. A softer than expected 2024 has led manufacturers to peg their hopes on a \u201clast minute\u201d rush to stores to get a new machine up and running before the October 2025 deadline\u2014which just became October 2026. Add that to Microsoft\u2019s huge push to encourage users into new AI-enabled PCs, and you have an industry gearing up for an event that has just been canceled\u2014or postponed, at least.\nMicrosoft isn\u2019t wrong when it says you\u2019re more secure with a new PC running Windows 11 than an older device running an older OS. While users might feel ties to the familiar and highly successful Windows 10 look and feel, the reality is that month after month, Microsoft patches serious security flaws. And the older the OS and the less secure their hardware, the more likely those are to bite.\nAs Microsoft\u2019s Yusuf Mehdi posted on Thursday, \u201cadvanced [Windows 11] security features include hardware-based protection through TPM 2.0, enhanced authentication methods and virtualization-based security fully enabled by default. Windows 11 also includes phishing protection, offering robust defense mechanisms, and provides an extra layer of security against common and persistent cyberattacks, like attempts to compromise login credentials or install malware.\u201d\nForbesFBI Warns Gmail, Outlook, AOL, Yahoo Users\u2014Hackers Gain Access To Accounts\nNothing is ever certain, but the basic principles of supply and demand and the imperative for a recovery from a soft 2024, allied to materially lower than expected demand given the extended support options, means 2025 could be a year of exciting PC deals in the marketplace. We will know soon enough\u2014and we could see some movement as the market reacts before the end of 2024.\nAnd so, whether it\u2019s to grab a deal or to bolster the security of your home setup, it does look like 2025 could be the year to buy a new Windows PC.",
+    "source_domain": null,
+    "text": null,
+    "title": "Why You Should Buy A New Microsoft Windows PC In 2025",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

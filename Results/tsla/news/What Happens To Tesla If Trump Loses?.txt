@@ -1,0 +1,17 @@
+Authors: ['Collin Woodard']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 09:45:00
+Description: If Trump loses, so does Elon Musk. That can't be good for Tesla.
+Filename: .json
+Image_Url: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6a1ef5ad4d1680cd92f044e896a696a0.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What Happens To Tesla If Trump Loses?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: It certainly isn’t illegal or unprecedented for a billionaire CEO to use their money and influence in an attempt to sway the election in favor of their preferred candidate, and yet, Musk may still find himself in legal trouble over his political action committee’s possible violation of human trafficking laws, the possible lying on his immigration paperwork and his buddy-buddy relationship with enemy dictator Vladimir Putin. If his cozy little nighttime chats with Putin weren’t enough to prevent the Pentagon from using SpaceX to launch a network of spy satellites, it’s hard to have much faith that the Harris administration won’t continue her predecessor’s policy of simply letting him get away with everything. Whether it’s for show or something he actually believes, Musk’s behavior on Twitter lately certainly suggests he isn’t confident his status as the richest person in the world will keep him safe. In addition to all his other garbage tweets, Musk is also spreading the idea that Democrats plan to destroy him, and in his interview with TV dinner trust fund baby Tucker Carlson, said he’s fucked if Trump loses. The country and the people will be better off under the Harris administration, but even before she has the chance to do any of that, it wouldn’t be surprising to see millionaires and billionaires act like the sky is falling because they might not be able to afford to outfit a new private jet or bust unions and abuse workers without consequences.
+Financial_Events: ['Its value has been completely divorced from its products and profits for years now, and with Musk no longer at the helm, it’s hard to imagine investors wouldn’t flee', 'What Tesla does have is its Supercharger network, which would still be a valuable asset that generates revenue even if every Tesla factory magically disappeared overnight.\nBy the end of the second Harris administration, other networks may have caught up, but at least in the near future, you can’t overlook how important the Supercharger network is as the company faces an uphill battle against competition that only gets tougher every time a new EV goes on sale']

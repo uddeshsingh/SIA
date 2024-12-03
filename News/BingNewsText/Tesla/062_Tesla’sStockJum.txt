@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Jack Ewing",
+        "www.nytimes.com",
+        "jack-ewing"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 15:06:59",
+    "description": "Investors believe that the electric car company led by Elon Musk will benefit from his support of the president-elect.",
+    "filename": ".json",
+    "image_url": "https://static01.nyt.com/images/2024/11/06/multimedia/06TESLA-TRUMP-01-lqfb/06TESLA-TRUMP-01-lqfb-facebookJumbo.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Elon Musk defied conventional corporate wisdom by committing wholeheartedly to Donald J. Trump\u2019s presidential campaign, donating tens of millions of dollars and running a get-out-the-vote drive.\nNow that bet has paid off, giving Mr. Musk a direct line to the White House that he may be able to use to bend policy in ways that could benefit Tesla, his electric car company. Mr. Trump has even floated the idea of appointing Mr. Musk to head a \u201cgovernment efficiency\u201d commission.\nOne indication of how much Tesla could benefit was evident on Wall Street. The company\u2019s share price rose nearly 15 percent on Wednesday.\nIt is too early to say how much of Mr. Musk\u2019s newly acquired political capital he will allocate to Tesla as opposed to his other businesses like SpaceX, a major government contractor, or xAI, an artificial intelligence start-up.\nBut investors clearly believe that a Trump administration will be good for Tesla, despite the president-elect\u2019s often-expressed disdain for electric vehicles and renewable energy.\nMr. Musk\u2019s top priority is likely to be easing regulations on self-driving software that he has described as pivotal to Tesla\u2019s future. That could include pressuring the National Highway Traffic Safety Administration to be less aggressive in scrutinizing the company\u2019s technology. The safety agency is investigating whether a Tesla system that the company calls \u201cfull self-driving (supervised)\u201d was responsible for four collisions, including one that killed a pedestrian.\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber? Log in.\nWant all of The Times? Subscribe.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla\u2019s Stock Jumps After Trump\u2019s Victory",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

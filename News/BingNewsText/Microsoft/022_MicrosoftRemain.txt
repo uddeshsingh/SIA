@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Kenio Fontes",
+        "seekingalpha.com",
+        "kenio-fontes"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 05:03:50",
+    "description": "Microsoft has sustained growth driven by strong management and capital allocation. Read what makes MSFT stock a cautious buy despite a slim margin of safety.",
+    "filename": ".json",
+    "image_url": "https://media.gettyimages.com/id/sb10063680d-001/photo/mother-putting-helmet-on-sons-head-wrapped-in-bubble-wrap.jpg?b=1&s=612x612&w=0&k=20&c=LfrFfbCvNXog65urZ2PE_2j9Bj0EJU0RN53be_IJ4HE=",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Analyst\u00e2\u0080\u0099s Disclosure: I/we have a beneficial long position in the shares of AMZN, GOOGL either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+    "source_domain": null,
+    "text": null,
+    "title": "Microsoft Stock Remains A Cautious Buy Despite Valuation Concerns (NASDAQ:MSFT)",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

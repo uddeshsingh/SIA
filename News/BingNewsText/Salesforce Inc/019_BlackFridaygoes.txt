@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Michelle Del Rey"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 14:41:45",
+    "description": "In-store purchases were stagnant on biggest shopping day of the year, consumer experts reported",
+    "filename": ".json",
+    "image_url": "https://static.independent.co.uk/2024/11/29/18/Black_Friday_51133.jpg?quality=75&width=1200&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Americans spent a staggering $10bn online shopping on Black Friday while in-store purchases continued to dip, according to analysts.\nThis year, consumers took advantage of deals from Amazon and Walmart to purchase desktops, laptops and phones, while sales at Best Buy and Target were stagnant.\nOverall, online sales rose only slightly from $10.2bn in 2023 to $10.8bn in 2024, according to an analysis from Adobe Inc. However, Salesforce, which tracks a separate selection of spending categories, reported that US online sales rose 7 percent on Friday to $17.5bn.\n\u201cCrossing the $10bn mark is a big e-commerce milestone for Black Friday, for a day that in the past was more anchored towards in-store shopping,\u201d Vivek Pandya, lead analyst at Adobe Digital Insights, said in a statement. \u201cAnd with consumers getting more comfortable with everything from mobile shopping to chatbots, we have tailwinds that can prop up online growth for Black Friday moving forward.\u201d\nBetween the hours of 10 a.m. and 2 p.m., shoppers spent $11.3m every minute with consumers purchasing more home appliances and furniture online, the company announced. Salesforce said it analyzed the activity of more than 1.5 billion global shoppers.\nSome top-selling products included makeup, skincare and hair care products. Bluetooth speakers and espresso machines were also highly sought-after products.\nOnline-only retailers like Shein and Temu saw a growth in sales in the seven days through Friday compared to a year earlier, Reuters reported.\nIn-store purchases have only grown 0.7 percent year-over-year, according to Mastercard. Facteus reported that sales this year declined. Shoppers were more likely to visit stores to search for merchandise and deals than to spend their money in them.\nDespite inflation, Michelle Meyer, chief economist at Mastercard Economics Institute, told Reuters that popular holiday purchases, like clothing, appliances, sporting goods, personal care products and jewelry are increasing modestly or declining in price over the last year.\nIt\u2019s predicted that big department stores like Macy\u2019s and Kohl\u2019s might see \u201cmuted\u201d sales this year, the outlet reported.",
+    "source_domain": null,
+    "text": null,
+    "title": "Black Friday goes digital as Americans rack up $10bn worth of online purchases",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

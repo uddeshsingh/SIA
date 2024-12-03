@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Anan Ashraf",
+        "Benzinga Editor"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-08 07:27:56",
+    "description": "EV giant Tesla Inc has opened the option to lease a Cybertruck in the U.S. for as low as $999 a month.",
+    "filename": ".json",
+    "image_url": "https://cdn.benzinga.com/files/images/story/2024/11/08/Tesla-Cybertruck.jpeg?width=1200&height=800&fit=crop",
+    "language": "en",
+    "localpath": null,
+    "maintext": "EV giant Tesla Inc TSLA has opened the option to lease a Cybertruck in the U.S. for as low as $999 a month.\nWhat Happened: The All-Wheel Drive variant of the Cybertruck starts at $79,900 in the U.S. while the higher-end Cyberbeast variant starts at $99,990, placing them in the pricier EV segment.\nHowever, the company has now opened the option for customers to lease the lower-priced variant of the electric stainless steel truck for three years for an estimated $999 per month.\nUpon signing, the customer will have to make a down payment of $7,500, in addition to the first month\u2019s payment of $999 and an acquisition fee of $695.\nLeasing a Cyberbeast variant for 36 months, meanwhile, will cost the customer $1,204 per month.\nCustomers can also avail the option of leasing the vehicle for 2 years for a higher monthly cost.\nWhy It Matters: The Cybertruck is the latest offering from Tesla. The company started delivering the vehicle to customers in the U.S. late in November 2023 and in Mexico and Canada this year.\nAccording to data from automotive research company Kelley Blue Book, Tesla sold 16,692 Cybertrucks in the third quarter in the U.S., trumping EV trucks from rivals including the Ford F-150 Lightning and the Rivian R1T, to become the third best-selling EV behind Model Y and Model 3.\nCybertruck production achieved a positive gross margin for the first time in the third quarter.\nCheck out more of Benzinga\u2019s Future Of Mobility coverage by following this link.\nRead Next:\nLucid Rises Nearly 5% In Pre-Market After Strong Q3 Results, Opening Orders For Gravity SUV\nPhoto courtesy: Tesla",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla Opens Cybertruck Lease Option For As Low As $999 Per Month",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Avi Kapoor",
+        "Benzinga Staff"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 04:40:54",
+    "description": null,
+    "filename": ".json",
+    "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/02/Salesforce.jpeg?width=1200&height=800&fit=crop",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Market News and Data brought to you by Benzinga APIs\n\u00a9 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.",
+    "source_domain": null,
+    "text": null,
+    "title": "Salesforce Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

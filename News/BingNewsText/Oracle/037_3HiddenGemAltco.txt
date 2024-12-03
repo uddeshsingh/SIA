@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tiago Amaral"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-28 16:30:00",
+    "description": "Bitcoin hits a new all-time high as Virtual, Pyth Network, and Raydium showcase growth. Explore how Layer 2 and DeFi fuel altcoins momentum.",
+    "filename": ".json",
+    "image_url": null,
+    "language": "en",
+    "localpath": null,
+    "maintext": "November was marked by Bitcoin reaching a new all-time high, with other coins like Solana and SUI following its lead. Although the altcoins season may not be here yet, as BTC continues to dominate the charts, projects like Virtual Protocol (VIRTUAL), Pyth Network (PYTH), and Raydium (RAY) are showcasing impressive growth.\nVIRTUAL has surged 71.29% in the last seven days, driven by the narrative about artificial intelligence coins. Meanwhile, PYTH and RAY are capitalizing on ecosystem dominance and utility, with both tokens gaining significant traction and highlighting the expanding potential of DeFi and blockchain technology.\nVirtual Protocol (VIRTUAL)\nRecently achieving a new all-time high, VIRTUAL broke past the $1 billion market cap and solidified its position as a rising star in the artificial intelligence altcoins narrative.\nThe coin has surged 161.75% in the past month, driven by growing interest in AI-focused blockchain projects. As the AI coin narrative continues to gain traction, VIRTUAL\u2019s momentum suggests there could still be significant upside potential.\nThis recent surge has propelled VIRTUAL to become the fifth-largest AI coin by market cap. It now ranks behind RENDER, TAO, FET, and WLD while surpassing AKT.\nPyth Network (PYTH)\nPyth (PYTH), the native token of Pyth Network, has risen 27.14% over the past 30 days, reflecting renewed interest in the blockchain oracle for market data. While PYTH reached an all-time high of $1.15 on March 16, 2024, its price remains roughly 60% below that level.\nThe network\u2019s TVL has grown to $520 million from $408 million last month. That shows progress but is still far below its record $1.37 billion in March.\nIf PYTH maintains its current momentum, it could break through the $0.49 resistance and test $0.55 or even $0.60 in the near term. Its oracle business could also be positively impacted by altcoins season.\nRaydium (RAY)\nRaydium (RAY) has emerged as the most dominant decentralized exchange globally, surpassing platforms like Uniswap and PancakeSwap in fees generated.\nOver the past 30 days, Raydium has brought in over $200 million in fees, outperforming major projects like Jito, Solana, Ethereum, Circle, and Uniswap, second only to Tether. Raydium could continue growing as meme coins become more relevant in the crypto ecosystem.\nRAY is currently up 61.40% in the past month and an astounding 1,345.81% in the past year, though it remains 67.87% below its all-time high from 2021.\nGiven Raydium\u2019s dominance and rapid growth, the token\u2019s recent performance could signal the beginning of an even stronger upward trajectory as altcoins season is just getting started.",
+    "source_domain": null,
+    "text": null,
+    "title": "Hidden Altcoins Gems For December",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

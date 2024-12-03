@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Michael Burkhardt",
+        "Justin Kahn",
+        "Zac Hall",
+        "Ben Lovejoy"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 18:21:10",
+    "description": "Although Apple typically follows a two year cycle with process nodes, with the 7nm and 5nm processes lasting two years...",
+    "filename": ".json",
+    "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/iphone-chip-list.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Although Apple typically follows a two year cycle with process nodes, with the 7nm and 5nm processes lasting two years each \u2013 it seems highly likely that Apple is about to use the 3nm process for a third year in a row with the upcoming iPhone 17 lineup. There are a number of reasons for this, which we\u2019ll be delving into.\n3 year silicon cycle\nTechnically speaking, this isn\u2019t the first time that we\u2019ve had the same process node for three years in a row, it\u2019s just that it was hidden the first time.\nApple introduced the A14 chipset, the first generation Apple Silicon built on TSMC\u2019s 5nm architecture in 2020, followed by the A15, built on the second generation 5nm process, in 2021. After that, Apple introduced the A16 chipset with iPhone 14 Pro in 2022 \u2013 which was built on a \u201c4nm\u201d process.\nHowever, the reality is, while it\u2019s branded as 4nm to the public, TSMC refers to the N4 processed used in the A16 Bionic as part of the \u201c5nm technology family\u201d:\nTSMC continues to expand its 5nm technology family to meet diverse customer demands. These include N5P, N4, and N4P for better power, performance and density, N4X, a process tailored for high performance computing (HPC) applications, and N5A for automotive applications.\nNext generation silicon fabrication simply isn\u2019t being developed as fast as it used to, so we\u2019re really on a 3 year release cycle now. In fact, we only saw the first 3nm chips in Apple devices in 2023 because Apple used an early production 3nm process (N3B) that most companies chose to skip over.\nWhen to expect 2nm: iPhone 17 vs iPhone 18\nWhile initial rumors suggested that the iPhone 17 would be built on the cutting edge 2nm manufacturing process from TSMC, that no longer seems to be the case, and supply chain analyst Ming-Chi Kuo believes that we\u2019ll be seeing the third generation 3nm process, N3P, with the iPhone 17 lineup:\nThe processors for 2025 iPhone 17 models will be made by TSMC\u2019s N3P process/3-nanometer technology. The processor for 2026 iPhone 18 models is anticipated to use TSMC\u2019s 2-nanometer technology. However, due to cost concerns, not all new iPhone 18 models may be equipped with a 2-nanometer processor.\nAs Kuo stated, the iPhone 17 lineup won\u2019t be using 2nm, and you should likely hold out for the iPhone 18 Pro models if you\u2019re looking for the latest and greatest in silicon fabrication.\nIt seems likely that the base iPhone 18 models will stick to 3nm chips, so we could either see the same third generation N3P process as the iPhone 17 lineup, or perhaps the fourth generation N3X process. Time will tell.\n2nm production\nTSMC is expected to begin risk production of the first generation 2nm process (N2) at some point in 2025, with volume production taking place later in the year. This timeline would theoretically line up for the iPhone 17 launch, but for one reason or another, Apple has chosen to hold out.\nThis isn\u2019t out of the ordinary, as the first generation 3nm process also began volume production in late 2022, but Apple still elected to not adopt it for another year.\nApple also isn\u2019t expected to adopt 2nm for the M5 family of chips in Macs and iPads. Those chips will also use the third generation 3nm process, according to The Elec (via MacRumors).\nIt\u2019ll be 2026 at the earliest before we see 2nm chips in Apple devices, according to current reporting.",
+    "source_domain": null,
+    "text": null,
+    "title": "Here's when you can expect 2nm chips to come to iPhone, iPad, and Mac",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

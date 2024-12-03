@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 21:26:26",
+    "description": "Meta Platforms has introduced stricter ad regulations for financial products in Australia, aiming to curb scams. Advertisers must now verify credentials, including financial licenses, to ensure transparency and deter...",
+    "filename": ".json",
+    "image_url": "https://f1.econotimes.com/2024/12/1y5n54v4lv_th_1024x0.jpeg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Meta Platforms has introduced stricter ad regulations for financial products in Australia, aiming to curb scams. Advertisers must now verify credentials, including financial licenses, to ensure transparency and deter fraudulent schemes on its platforms.\nMeta Enforces Stricter Rules for Financial Advertisements in Australia\nAccording to Reuters, in an effort to curb scams on social media, Instagram and Facebook owner Meta Platforms announced on Monday that it had implemented more stringent regulations for advertising of financial products and services targeting Australians.\nMeta announced in October that it had removed 8,000 \"celeb bait\" adverts in an effort to combat the prevalence of investment frauds involving the exploitation of famous people's likenesses. The action follows a joint effort by Meta and Australian banks to combat this problem.\nAdvertisers Must Verify Financial Credentials\nAccording to Meta, in order for advertisers to run financial services ads, they must now validate their payer and beneficiary details, as well as their Australian Financial Services License number.\n\"The introduction of financial advertiser verification is an important additional step towards protecting people in Australia from these sophisticated scammers,\" stated Will Easton, managing director of Meta ANZ-Insurance.\nFollowing verification, the business stated that advertisers will be required to provide their payer and beneficiary information in their advertising. This information will be displayed in a \"Paid for By\" disclaimer once the ad is approved.\nBroader Regulatory Actions Targeting Tech Platforms\nInternet platforms in Australia might have been fined up to five percent of their worldwide income if they failed to take measures to stop the spread of disinformation online, but last month, the center-left government shelved those proposals, per Investing.com.\nIn the run-up to the federal election in just over a year, the law was a component of a broad regulatory crackdown by Canberra, where politicians have voiced concerns about tech platforms based overseas infringing on the country's sovereignty.\nAustralia Bans Social Media for Minors Under 16\nA landmark rule that prohibits children under the age of 16 from using social media was approved by Australia this week.",
+    "source_domain": null,
+    "text": null,
+    "title": "Meta Tightens Financial Ad Rules in Australia to Combat Rising Social Media Scams",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

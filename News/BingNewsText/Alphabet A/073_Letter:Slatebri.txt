@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-02 10:15:00",
+    "description": "If you've not voted yet, please consider choosing one of the Grassroots Slate candidates for City Council (Ward 1- Beckett Hunt, Ward 2- Dylan de Honor, Ward 6- Alison Bowden,",
+    "filename": ".json",
+    "image_url": "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/0/e4/0e419094-c6c0-11ee-bb0b-9ba5b531dcbc/624b621f2488a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+    "language": "en",
+    "localpath": null,
+    "maintext": "If you've not voted yet, please consider choosing one of the Grassroots Slate candidates for City Council (Ward 1- Beckett Hunt, Ward 2- Dylan de Honor, Ward 6- Alison Bowden, Ward 7- Roy Rheuben, or Ward 9- Karen Jean Canan).\nThese candidates, with their youth, enthusiasm and commitment, will bring a fresh perspective that is crucially needed as we all attempt to create a just, secure and sustainable future for all of our community.\nBarry Reeves\nCorvallis",
+    "source_domain": null,
+    "text": null,
+    "title": "Letter: Slate brings a needed fresh perspective",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

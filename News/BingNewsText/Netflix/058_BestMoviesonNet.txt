@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "None",
+    "description": "Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets",
+    "filename": ".json",
+    "image_url": "https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/RT_TwitterCard_2018.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Back\nSigning in as username@email\nUser 8 or more characters with a number and a lowercase letter. No spaces.",
+    "source_domain": null,
+    "text": null,
+    "title": "Best Movies on Netflix (2024)",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

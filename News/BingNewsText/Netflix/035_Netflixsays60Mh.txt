@@ -1,0 +1,25 @@
+{
+    "authors": [
+        "ESPN Staff",
+        "Andreas Hale",
+        "Mike Coppinger",
+        "Nick Parkinson",
+        "James Regan",
+        "ESPN News Services"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-16 22:49:00",
+    "description": "Netflix says 60 million households tuned in live to watch Jake Paul's unanimous decision win over Mike Tyson, while 50 million watched Katie Taylor retain her undisputed women's lightweight championship over Amanda Serrano.",
+    "filename": ".json",
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1116%2Fr1415509_1296x729_16%2D9.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Friday night's Mike Tyson-Jake Paul showdown apparently packed a major punch across the world.\nStreaming giant Netflix said Saturday that 60 million households tuned in live to watch YouTuber-turned-prizefighter Paul, 27, cruise to a unanimous decision over Tyson, the 58-year-old former heavyweight champion, at AT&T Stadium in Arlington, Texas. The fight peaked at 65 million concurrent streams.\nIn addition, Netflix said 50 million households globally watched the co-main event, which saw Katie Taylor retain her undisputed women's lightweight championship with a controversial unanimous decision over Amanda Serrano. That number, according to Netflix, likely would make the fight the most-watched professional women's sporting event in United States history.\nNetflix said additional information, including total viewers, would be released in the coming days. Netflix has 280 million subscribers worldwide.\nTraditional ratings are typically compiled by a third-party source like Nielsen.\nThe card marked the company's first foray into streaming a live sports event, and it wasn't seamless.\nAccording to the website Down Detector, nearly 85,000 viewers logged problems with outages or streaming leading up to the fight, resulting in many viewers to express their frustrations on social media Friday night.\n\"The boxing mega-event dominated social media, shattered records and even had our buffering systems on the ropes,\" Netflix said Saturday.\nWhile the Taylor-Serrano showdown proved the fight of the night, Tyson's return to the ring had the millions of viewers logging into Netflix on a Friday night.\nTyson and Paul expressed thanks a day later.\n\"This is one of those situations when you lost but still won,\" Tyson wrote on social media. \"I'm grateful for last night. No regrets to get in ring one last time. I almost died in June. Had 8 blood transfusions. Lost half my blood and 25lbs in hospital and had to fight to get healthy to fight so I won.\n\"To have my children see me stand toe to toe and finish 8 rounds with a talented fighter half my age in front of a packed Dallas Cowboy stadium is an experience that no man has the right to ask for. Thank you.\"\nTyson suffered an ulcer flare-up on an airline flight over the summer, leading him to postpone a fight that was originally scheduled to take place July 20.\nPaul thanked Tyson for taking the fight.\n\"Thank you to every fighter on the card last night, thank u Netflix, thank u Jerry Jones, thank u to my MVP team, thank u to the legend Mike Tyson for giving me a chance to share the ring with him, thank u to my family and close circle of friends..and above all, thank you God,\" he wrote.\nNetflix will broadcast two NFL games on Christmas Day and will begin streaming WWE \"Raw\" on Jan. 6.\nNielsen said the Kansas City Chiefs' 25-22 overtime victory over the San Francisco 49ers in last season's Super Bowl averaged 123.7 million viewers across TV and streaming platforms, making it the most-watched program in television history.",
+    "source_domain": null,
+    "text": null,
+    "title": "Netflix says 60M households worldwide watched Paul",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Verity Babbs"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:54:05",
+    "description": "First discovered in 2004 but confirmed thanks to recent carbon dating, researchers found the world's oldest alphabet in a Syrian tomb.",
+    "filename": ".json",
+    "image_url": "https://p-news-upload.storage.googleapis.com/2024/11/oldest-alphabet-syria-schwarz-johns-hopkins-university-3-scaled.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The earliest known example of alphabetic writing has been discovered etched onto small clay cylinders in an ancient Syrian tomb, which was excavated by researchers from Maryland\u2019s Johns Hopkins University. The characters are neither numerical nor cuneiform (which is the world\u2019s earliest form of writing, predating Egyptian hieroglyphics and first used more than 5,000 years ago). Thus, they are considered a breakthrough in the research of written language.\nCarbon-14 dating confirmed that the cylinders are over 4,000 years old, dating back to around 2400 B.C.E. This makes them around 500 years older than the previous record-holding scripts. Glenn Schwartz, an archaeology professor at the university who co-directed the excavations, noted, \u201cthis new discovery shows that people were experimenting with new communication technologies much earlier and in a different location than we had imagined before now.\u201d\n\u201cAlphabets revolutionized writing by making it accessible to people beyond royalty and the socially elite. Alphabetic writing changed the way people lived, how they thought, how they communicated,\u201d said Schwartz. \u201cPreviously, scholars thought the alphabet was invented in or around Egypt sometime after 1900 B.C.E. But our artifacts are older and from a different area on the map, suggesting the alphabet may have an entirely different origin story than we thought.\u201d\nAlphabetic writing offered those illiterate to hieroglyphics\u2014a system of over 1,000 symbols which was mastered by a very small number of society\u2019s elite\u2014the opportunity to read and write.\nSchwartz led the team who discovered the clay cylinders during a 16-year-long excavation at Umm-el Marra (possibly the ancient city of Tuba). Umm-el Marra, in modern north-western Syria, was the largest site on the Jabbul Plain during the Bronze Age and was occupied consistently from the mid-3rd millennium until the late 2nd millennium B.C.E. The city was a major trade location with two busy routes passing through. The excavation was part of a collaboration with the University of Amsterdam in which researchers were studying the development of cities in the area during the early Bronze Age.\nThe archaeology team discovered a series of ancient tombs in an elite mortuary complex, dating between 3500 and 2000 B.C.E. During a dig at one of the tomb sites, they found remains accompanied by jewelry made from precious metals, a spearhead, stoneware, and the four finger-length clay cylinders. The quality of the items buried with the deceased in the complex suggests that it may have been a burial place for royalty.\nThe cylinders were found scattered around the room rather than all together and were lightly baked and perforated. Schwartz suggested this could mean that there was previously, \u201ca string tethering them to another object to act as a label\u2026 Maybe they detail the contents of a vessel, or maybe where the vessel came from, or who it belonged to. Without a means to translate the writing, we can only speculate.\u201d It is believed that the marks were made with a stick or reed as opposed to a purpose-made stylus, as Schwartz described them as \u201crelatively crude.\u201d\nThis discovery of the world\u2019s oldest alphabet was made in 2004, but Schwarz finally presented his findings at the American Society of Overseas Research\u2019s Annual Meeting on November 21.",
+    "source_domain": null,
+    "text": null,
+    "title": "World\u2019s Oldest Alphabet Turns Up in Ancient Syrian Tomb",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

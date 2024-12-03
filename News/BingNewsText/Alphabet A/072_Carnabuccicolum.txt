@@ -1,0 +1,18 @@
+{
+    "authors": [],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-03 05:00:00",
+    "description": "Let me start by saying I\u2019m not surprised that the LNP | LancasterOnline Opinion editors found someone to write what I viewed as a hit piece about Donald Trump (\u201cDispatches",
+    "filename": ".json",
+    "image_url": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/a/2e/a2eab6c0-55fc-11ed-9b6d-c77847ff0f34/635a89eeaf962.image.jpg?crop=1166%2C612%2C0%2C107&resize=1166%2C612&order=crop%2Cresize",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Let me start by saying I\u2019m not surprised that the LNP | LancasterOnline Opinion editors found someone to write what I viewed as a hit piece about Donald Trump (\u201cDispatches from the demonstration against Trump in Lancaster city\u2019s Penn Square,\u201d column by Karen Carnabucci in the Oct. 27 Sunday LNP | LancasterOnline Perspective section).\nAnd I wasn\u2019t surprised that the columnist was a former journalist, or that many of her complaints could also be said of President Joe Biden. Most, if not all, politicians make promises that either they can\u2019t or won\u2019t keep.\nMy complaint isn\u2019t so much about Carnabucci as it is about LNP | LancasterOnline. In my view, this newspaper stopped being impartial a long time ago, but still wants to be considered a legitimate journalistic endeavor. Most of us know better.\nMost of this probably doesn\u2019t matter, since it appears that LNP | LancasterOnilne is about to become extinct or, at best, a small shell of itself. Can\u2019t say I\u2019m surprised or disappointed.\nDon Carson\nBrecknock Township",
+    "source_domain": null,
+    "text": null,
+    "title": "Carnabucci column wasn\u2019t a surprise [letter]",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

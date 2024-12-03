@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Emma Carey",
+        "Josh Rosenberg",
+        "Bria McNeal"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2018-11-22 11:01:03",
+    "description": "Netflix has a long list of options for funny movies to put on when you need to cheer yourself up. Here are the best comedies to stream right now.",
+    "filename": ".json",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/superbad-1535384075.jpg?crop=0.833xw:0.739xh;0.103xw,0.0227xh&resize=1200:*",
+    "language": "en",
+    "localpath": null,
+    "maintext": "It\u2019s finally cold enough to justify a night in, so why not have a movie night? You don\u2019t have to brave the outdoors to have fun. Grab a snack and a drink, then pop a squat on the couch. While you\u2019re at it, head over to Netflix. We\u2019re embarking on, you know, a pretty stressful week\u2014so now is a good time to remind you that the streamer has plenty of funny movies to choose from.\nBelow I\u2019ve rounded up 25 options to get you through it all. There are classic buddy comedies like Superbad and The Other Guys, starring your favorite comedians, Jonah Hill, Michael Cera, Will Ferrell, and Mark Wahlberg. And if you\u2019re in the mood for a rom-com, look no further than Anyone but You or The Lovebirds\u2014both flicks combine a will-they-won\u2019t-they romance with a load of hilarious hijinks. If you\u2019d rather avoid the mush, you can watch Adam Sandler play a basketball scout in Hustle or a doting father in You Are So Not Invited to My Bat Mitzvah. Or you could skip both and meet up with Benoit Blanc instead in Glass Onion: A Knives Out Mystery.\nNo matter what you choose, I can guarantee you\u2019ll have fun. I won\u2019t hold you up any longer. Here are the best comedies on Netflix.",
+    "source_domain": null,
+    "text": null,
+    "title": "The 25 Best Comedies on Netflix",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "John Alexander"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 14:53:17",
+    "description": "If you want a soundbar and subwoofer for just $85 this Cyber Monday, you need to act now and look at this deal on the Creative Stage V2 before it sells out.",
+    "filename": ".json",
+    "image_url": "https://www.digitaltrends.com/wp-content/uploads/2024/12/Creative-Stage-V2-e1733176615225.jpg?resize=1200%2C630&p=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "If you look at Cyber Monday soundbar deals, you\u2019ll see products all across the price spectrum, but it doesn\u2019t take a PhD in statistic to recognize they\u2019re skewed toward more expensive offerings. But it doesn\u2019t have to be that way. Take, for example, this Amazon Cyber Monday deal on the Creative Stage V2 2.1 Soundbar with Subwoofer. Normally $110, it is 23% off and down to just $85\nDon\u2019t take that savings of $25 for granted, as this is a \u2018Lightning Deal\u2019 on Amazon, meaning there are only a limited number of them available. While there are 97% of them remaining as I write this, we aren\u2019t even at the point where East Coast workers get off yet, so if you want to see (and take advantage) of one of the most exciting Cyber Monday deals under $100 go ahead and tap the button below now. Keep reading to see why we\u2019re so excited about it.\nWhy you should buy the Creative Stage V2 2.1 Sound with Subwoofer\nThe Creative Stage V2 is a subwoofer with soundbar that will give you a fuller sound experience on a budget. It\u2019s made to be super easy to connect to the system you have, whether you need a TV ARC, optical, AUX, Bluetooth, or USB audio connection, which means you won\u2019t need to be a home theater pro to connect this to the system you want it with. The designs are a sleek, traditional black, too, with the soundbar just 26.8 inches across and the subwoofer being 4.64 inches wide by 16.7 inches tall, not too much different than an Xbox One standing vertically. This set also comes with a remote that can control content, volume, bass and treble, as well as speech modes. Overall, its a convenient model and you\u2019ll get more than you\u2019d expect from the price.",
+    "source_domain": null,
+    "text": null,
+    "title": "This $85 Cyber Monday soundbar/subwoofer will sell out soon",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Asher Notheis",
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 18:15:24",
+    "description": "Brendan Carr praised Elon Musk\u2019s advocacy for free speech with X, arguing more people need to move in his direction and \u201caway from government control.\u201d",
+    "filename": ".json",
+    "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2024/12/X-scaled.webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "When asked about a ban of social media platform TikTok in the United States and whether or not Trump would take action to stop this ban, Carr pointed to how this topic is \u201cin the court system,\u201d adding that \u201cwe\u2019ll see the actions\u201d that Trump takes regarding it.\nTRUMP\u2019S \u2018NO TAXES ON OVERTIME\u2019 PROPOSAL: WHAT TO KNOW\n\u201cI think we\u2019re all going to follow President Trump\u2019s lead on that one, but what\u2019s clear is we need a lot more competition,\u201d Carr said on Fox News\u2019s Sunday Morning Futures with Maria Bartiromo, guest-hosted by Jackie DeAngelis. \u201cWe need more competition to Facebook. What Twitter has done, what X has done now with Elon Musk in terms of restoring freedom of speech, that\u2019s so important and integral to this country. We need to continue to move in that direction; we need to move away from government control and towards freedom of speech.\u201d\nHOW TRUMP\u2019S PROMISE TO ABOLISH THE DEPARTMENT OF EDUCATION WOULD WORK\nCarr contended that restoring freedom of speech is vital to the nation, adding that Facebook and other social media platforms have been part of a \u201ccensorship cartel\u201d in cooperation with advertisers to censor people. He added that when censorship abounds, people\u2019s ideas become silenced, going against the boundary-pushing for which the U.S. is known.\nTrump\u2019s FCC chairman nominee was also asked if he had any information on Trump\u2019s recent meeting with Meta-CEO Mark Zuckerberg, to which he said he did not, but that Zuckerberg will \u201chopefully\u201d continue to embrace freedom of speech.\nCLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER\nIn November, shortly after Trump nominated Carr to be part of his Cabinet, the nominee said that combating tech censorship would be one of his priorities as part of the incoming Trump administration. Another major factor would be to eliminate the promotion of diversity, equity, and inclusion initiatives in the FCC, for which Carr argued \u201cthere\u2019s no place.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Trump\u2019s FCC chairman nominee says social media should follow X on free speech",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

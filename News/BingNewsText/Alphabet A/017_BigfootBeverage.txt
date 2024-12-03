@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "www.facebook.com"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 14:27:00",
+    "description": "Bigfoot Beverages said it has withdrawn its recognition of the union representing employees who have been on strike for more than 70 days.The announcement was m",
+    "filename": ".json",
+    "image_url": "https://kval.com/resources/media2/16x9/927/986/0x47/90/031564d7-c636-42e5-95af-8bdf83a25e2e-Capture.JPG",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Bigfoot Beverages said it has withdrawn its recognition of the union representing employees who have been .\nThe announcement was made via a letter dated Nov. 26 and addressed to employees in Eugene, Coos Bay, Newport, and Springfield.\nA copy of the letter, which has not been independently verified by KVAL, was provided by a worker on strike.\nIt states the company received a petition from a majority of its employees Nov. 25 requesting to no longer be represented by Teamsters Local No. 324 and 206. In addition to not recognizing the union in contract negotiations, the company also says it has terminated its collective bargaining agreement and is halting contributions to existing pension funds.\nThe union called Bigfoot Beverages\u2019 declaration an unlawful act of union busting.\n\u201cWe\u2019re waiting, you know, to hear anything from the company, and the first thing we hear is you\u2019re decertifying the union without any recognition from the employees,\u201d union representative Edwin Powell said. \u201cYou tell everybody that you have enough votes from the employees, but all your employees are out on the line. So, what they\u2019re doing is \u2013 it\u2019s a sham.\u201d\nIn a press release Monday, the union echoed claims that the company\u2019s move to no longer recognize the union was illegal.\n\u201cBigfoot owners Eric Forrest and Andy Moore have shamelessly claimed scabs have the same status as Teamsters, who maintain their lawful work stoppage after Bigfoot forced the now months-long strike,\u201d said Geoff Steward, Secretary-Treasurer of Local 206. \u201cBigfoot\u2019s desperate attempt to use temporary replacement workers to try to decertify the union is illegal and frankly embarrassing for the company.\u201d\nThe union also announced it has filed another charge of unfair labor practice with the National Labor Relations Board. The union said it has filed eight such charges since the strike began.\nIn the company\u2019s letter, Bigfoot Beverages details its \u201cLast, Best and Final Offer,\u201d providing an average wage increase of approximately $3.14 per hour for 11 positions, with an additional $2 increase for those serving in weekend lead positions. It also provides a $7.44 increase for box truck drivers. A $2,500 bonus is listed for distribution on Dec. 6.\nThe company says it first made this offer Sept. 13.\nBigfoot Beverages workers have been on strike since Sept. 19. The unions cited the company\u2019s attempt to replace employee pensions and replace it with 401k plans as the primary reason for the strike, also claiming the company had \u201clied to the bargaining committee during contract negotiations,\u201d according to post on the union\u2019s Facebook page.\nThe Teamsters union issued the following statement:\nThe company claims that it received \u2018a petition from a majority of the bargaining unit.\u2019 There are no members of Teamsters Local 206 or 324 we are aware of who signed this petition. The \u201cfacts\u201d the employer is pointing to are insufficient to withdraw recognition. Furthermore, the Bigfoot workers have not filed a de-certification petition with the NLRB, which is what would be required if this process to move forward in the real world.\nIt's sad that Bigfoot is pulling fake stunts like this instead of giving the Teamsters the contract that they deserve.",
+    "source_domain": null,
+    "text": null,
+    "title": "Bigfoot Beverages retracts union recognition amid ongoing 70-day strike",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

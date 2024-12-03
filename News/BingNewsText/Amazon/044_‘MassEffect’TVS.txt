@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Joe Otterson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-07 18:00:00",
+    "description": "A \"Mass Effect\" TV series is officially in development at Amazon MGM Studios, Variety has learned exclusively.",
+    "filename": ".json",
+    "image_url": "https://variety.com/wp-content/uploads/2024/11/Mass-Effect.jpg?w=1000&h=563&crop=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A \u201cMass Effect\u201d TV series is officially in development at Amazon MGM Studios, Variety has learned exclusively.\nDaniel Casey is set to write and executive produce the adaptation. Karim Zreik will executive produce under his Cedar Tree Productions banner, with Ari Arad and EA\u2019s Michael Gamble also executive producing. Cedar Tree is currently under an overall deal at Amazon MGM Studios.\nExact plot details are being kept under wraps.\nIt was previously reported in 2021 that Amazon was in negotiations to develop a \u201cMass Effect\u201d TV series, but there have been no updates on the project until now. There had also been various attempts to develop a feature film based on the games but the project never materialized.\nThe first \u201cMass Effect\u201d game launched to rave reviews in 2007. Since then, there have been three more games in the main series, with \u201cMass Effect: Andromeda\u201d debuting in 2017. There have also been multiple mobile games in the franchise, as well as an animated film, novels, comic books, and other media.\nThe story of the first three \u201cMass Effect\u201d games revolves around Commander Shepard, a human soldier in the 22nd century trying to save humanity from a race of aliens known as the Reapers. \u201cAndromeda\u201d moved the games much further into the future with a new protagonist, with a fifth game also in the works. The franchise is developed by BioWare and are now published by EA.\nCasey most recently worked on the screenplay for \u201cF9: The Fast Saga.\u201d He is also known for his work on films like the sci-fi drama \u201cKin\u201d and did rewrites on \u201c10 Cloverfield Lane.\u201d He is repped by CAA, Writ Large, and Hansen Jacobson.\nZreik was previously an executive at the now defunct Marvel Television unit under Jeph Loeb. During his time with Marvel, he served as an executive producer on hit shows like \u201cDaredevil,\u201d \u201cJessica Jones,\u201d \u201cLuke Cage,\u201d \u201cThe Punisher,\u201d and \u201cLegion\u201d among several others. Zreik is repped by Ginsburg Daniels Kallis.\nArad has previously produced adaptations of the games \u201cBorderlands,\u201d \u201cUncharted,\u201d and \u201cGhost in the Shell.\u201d He has also served as an executive producer on \u201cIron Man,\u201d \u201cGhost Rider,\u201d and the 2006 \u201cBlade\u201d TV series.",
+    "source_domain": null,
+    "text": null,
+    "title": "'Mass Effect' TV Series in the Works at Amazon",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

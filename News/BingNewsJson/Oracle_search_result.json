@@ -1,0 +1,1931 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Oracle",
+    "queryContext": {
+        "originalQuery": "Oracle",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 4650,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Oracle"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Oracle&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Intel\u2019s CEO had big plans for a turnaround. It failed, and now he\u2019s gone",
+            "url": "https://www.aol.com/finance/intel-ceo-had-big-plans-185106103.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.eDcokPwsyR-VSqC7iy89Ii&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "When Pat Gelsinger came back to Intel, hopes ran high that he would restore one of Silicon Valley\u2019s most famous brands to its former glory. Only two and a half years later, Gelsinger is gone, and the storied chipmaker is hemorrhaging cash and facing an uncertain future.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7bfef1c1-5ff1-f982-bec0-1b930222148c",
+                    "name": "Intel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e64b18d8-c862-faca-5f88-f0feba392f83",
+                    "name": "Pat Gelsinger"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39eaa44b-e724-8c6a-34b4-e4021f758f71",
+                    "name": "TSMC"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T22:02:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Oracle activates first AWS multicloud data integration",
+            "url": "https://finance.yahoo.com/news/oracle-activates-first-aws-multicloud-114337160.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.g41CRLpthtVTy5-wV2wjFy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The two providers launched the first of several planned Oracle Database@AWS deployments on Monday under limited preview.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d44a8c2-2000-40e4-8fac-4f3d89b6cfc7",
+                    "name": "Oracle Database"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e8dffc70-4195-9f79-2f10-f0d392a1c849",
+                    "name": "Oracle Exadata"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/51ced4de-b878-8aef-96cc-784f99351c27",
+                    "name": "Machine learning"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e9d0f518-7085-ebec-49a7-fbc389152023",
+                    "name": "Google Cloud Platform"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "YAHOO!Finance",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.fJDJ4f2BFbmOkQx_rnDw3Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:54:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "How \u2018A Man on the Inside\u2019 Pulled Off Its Baseball Scene (and What Had to Get Cut)",
+            "url": "https://www.hollywoodreporter.com/tv/tv-features/a-man-on-the-inside-baseball-scene-1236073000/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.RH9EidFl_zC1sE4lOiOGni&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "It\u2019s a touching scene, and also a big one for Schur, a huge baseball fan who has written about the game (at the late, great Fire Joe Morgan website) and co-hosts a podcast with sportswriter Joe Posnanski that is (often) about baseball.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2468e4af-2f20-1a22-40fc-e932fe5418aa",
+                    "name": "Major League Baseball"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37181124-e096-403d-a455-576a61b83525",
+                    "name": "San Francisco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fad4a4e0-1d6e-2b53-d977-ede0a0c1a3c1",
+                    "name": "Oracle Park"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7fce50ad-775e-ec1e-779a-2fb6e8b6abd5",
+                    "name": "Ferris Bueller"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/191a74f3-d926-fc2f-6849-fec1101210d8",
+                    "name": "Ted Danson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c8b4820-74a6-8d04-73a8-b3f44bfa4d15",
+                    "name": "Stephen McKinley Henderson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3fce7e0e-8ca9-4144-951b-e848dcb6b3a7",
+                    "name": "Alcatraz"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e61e411-4e4e-9aa4-de16-704ab00a1d57",
+                    "name": "Golden Gate Bridge"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3165b2c1-3b34-01b0-f33c-37a227aee4c4",
+                    "name": "Palace of Fine Arts"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hollywood Reporter",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.AbC5rVAeDISagi5hJP8Pwg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:39:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Enterprise AI gets closer to data with Couchbase\u2019s new Capella AI services",
+            "url": "https://venturebeat.com/ai/enterprise-ai-gets-closer-to-data-with-couchbases-new-capella-ai-services/",
+            "description": "Couchbase integrates model serving, vectorization, agent catalog and enterprise AI function calling into its cloud database platform to help enterprises overcome deployment challenges.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/379eb01d-eaaf-41cc-91d6-0cfc76900001",
+                    "name": "Couchbase, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/43e2e16e-a11e-ac9a-98a9-69887d6a4509",
+                    "name": "Vectorization"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "VentureBeat",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.qPCJA3Or4GGU4hhi1ZEpfg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T21:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Brokers Suggest Investing in Oracle (ORCL): Read This Before Placing a Bet",
+            "url": "https://finance.yahoo.com/news/brokers-suggest-investing-oracle-orcl-191637583.html",
+            "description": "The average brokerage recommendation (ABR) for Oracle (ORCL) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "YAHOO!Finance",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.fJDJ4f2BFbmOkQx_rnDw3Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:46:00.0000000Z"
+        },
+        {
+            "name": "Oracle announces new updates to Oracle Life Sciences Empirica Signal, Topics",
+            "url": "https://markets.businessinsider.com/news/stocks/oracle-announces-new-updates-to-oracle-life-sciences-empirica-signal-topics-1034087176",
+            "description": "Oracle (ORCL) announced new updates to Oracle Life Sciences Empirica Signal and Topics. The latest release of Oracle\u2019s market-leading signal",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/12f97f3d-dbcc-1ee8-8885-aafedaf8c9f6",
+                    "name": "Pharmacovigilance"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8376b01-c707-95f4-366a-81d11767efd2",
+                    "name": "TipRanks"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LrIq_5vxtu4ONs5zIW54FA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:07:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "LEGO announces replica of Formula 1 champion Max Verstappen's Red Bull car",
+            "url": "https://www.yahoo.com/news/lego-announces-replica-formula-1-153000592.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n0L5S-M9zLyQgkSpPqIiHy&pid=News",
+                    "width": 700,
+                    "height": 351
+                }
+            },
+            "description": "LEGO announces a replica of Formula 1 champion Max Verstappen's Red Bull RB20 car as part of its multi-year partnership. It's available to pre-order now.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/28dac43e-5923-c185-7e5d-b4a6103ea96a",
+                    "name": "The Lego Group"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b7a76276-375a-718b-52d9-49eae9b263a4",
+                    "name": "Formula One"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2a3aa4d-dc3d-18cf-4d28-bab4616ad099",
+                    "name": "Max Verstappen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e1cfefb6-6eef-9a59-8069-96b0b3a48c76",
+                    "name": "Red Bull Racing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f109cfb9-afd7-0044-f27c-3014698c1be7",
+                    "name": "Sergio P\u00e9rez"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1c0a52fa-dc9d-4dc6-e6c9-0b0dc6d549cf",
+                    "name": "Lego Technic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d7be9e4-e65d-e747-8043-94f044ef9794",
+                    "name": "McLaren F1"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8a2369c7-52d9-093a-5d1f-21a4ace461ee",
+                    "name": "Ferrari 375 F1"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b3fa876a-8896-453a-ee5f-7b18a932feb9",
+                    "name": "Gearbox Software"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:05:00.0000000Z"
+        },
+        {
+            "name": "Army aims to move its pay system to the cloud by 2027",
+            "url": "https://www.nextgov.com/defense/2024/12/army-aims-move-its-pay-system-cloud-2027/401361/",
+            "description": "The Army is moving its personnel and pay system to the cloud, an effort that has begun in earnest with the hiring of Oracle to host the HR records of more than 1 million soldiers.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nextgov",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.45f6UCC4bQdiyzGCVY76aQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T16:53:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Oracle Database@AWS Available in Limited Preview",
+            "url": "https://press.aboutamazon.com/2024/12/oracle-database-aws-available-in-limited-preview",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.yIogyrBv6KoRGRf0RG38Ui&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "Select customers can begin using Oracle Exadata Database Service on Oracle Database@AWS to simplify the migration and deployment of enterprise workloads to the cloud",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/afd7d7f6-01a2-401c-bb4d-59f7e34d585c",
+                    "name": "Austin, Texas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d44a8c2-2000-40e4-8fac-4f3d89b6cfc7",
+                    "name": "Oracle Database"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/197117a6-23ec-ef32-b6ab-1b6dd2c711d3",
+                    "name": "Amazon Elastic Compute Cloud"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "press.aboutamazon",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Qc5Huhjn1wZg6C2tfAh16Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T15:49:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Kentucky hospital faces delays in transition to Oracle Health",
+            "url": "https://www.beckershospitalreview.com/ehrs/kentucky-hospital-faces-delays-in-transition-to-oracle-health.html",
+            "description": "Murray-Calloway County Hospital in Murray, Ky., has faced ongoing delays in transitioning its health records system from Cerner to Oracle Health, Ledger & Times reported Dec. 2.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1f7c3641-dce1-d56b-52ce-53d79fb1d84b",
+                    "name": "Cerner"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Becker's Hospital Review",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.2tRnjU5QYoZoNLLV1QU-QQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T15:22:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Formula 1 star Sergio Perez expected to leave Red Bull",
+            "url": "https://www.upi.com/Sports_News/2024/12/02/Formula-1-Sergio-Perez-leave-Red-Bull-racing/2311733152585/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Uq-kt4JzSF4A1GUlv3sahy&pid=News",
+                    "width": 700,
+                    "height": 467
+                }
+            },
+            "description": "Mexican Formula 1 star Sergio Perez, one of the top drivers in the sport over the last five years, is expected to part with Oracle Red Bull Racing at the end of this season.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b7a76276-375a-718b-52d9-49eae9b263a4",
+                    "name": "Formula One"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f109cfb9-afd7-0044-f27c-3014698c1be7",
+                    "name": "Sergio P\u00e9rez"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e1cfefb6-6eef-9a59-8069-96b0b3a48c76",
+                    "name": "Red Bull Racing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3cd45057-e98d-1090-c55f-a6ca6cca00cc",
+                    "name": "ESPN"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2a3aa4d-dc3d-18cf-4d28-bab4616ad099",
+                    "name": "Max Verstappen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a74ed88c-7d2c-4845-341c-33144b0164ee",
+                    "name": "Christian Horner"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ca0aca38-7ea0-2a91-01e9-733b9387d5c7",
+                    "name": "Sky Sports"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d814a6d2-2976-bfb0-5c7c-2411700a40ac",
+                    "name": "Yas Marina Circuit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2651212d-2805-1389-e6ec-9b15a6e4464e",
+                    "name": "Qatar Grand Prix"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "UPI",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.cpo3ek4OYDsinkv1bzpa2Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T15:10:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Stuck in endless cycles of deliberation on how to deal with Oracle\u2019s new Java licensing dilemma?",
+            "url": "https://www.ciodive.com/spons/stuck-in-endless-cycles-of-deliberation-on-how-to-deal-with-oracles-new-ja/733823/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.YWBHedBGDH6lj15J3W3jWi&pid=News",
+                    "width": 553,
+                    "height": 311
+                }
+            },
+            "description": "Stuck in endless cycles of deliberation on how to deal with Oracle\u2019s New Java Licensing Dilemma? Use a proven blueprint to help you navigate through the choices.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a9453c67-74ef-88a6-2d01-a77d0fa4fdcc",
+                    "name": "Java"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CIO Dive",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.WQ9BAW2iiw6LxemK8Hfoig&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T14:34:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Oracle database on AWS cloud enters limited preview",
+            "url": "https://siliconangle.com/2024/12/02/oracle-database-aws-cloud-enters-limited-preview/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.VBRGcb3CsMcUH1TTb1algS&pid=News",
+                    "width": 700,
+                    "height": 389
+                }
+            },
+            "description": "Those differences now appear to be a thing of the past. AWS customers can soon run Oracle\u2019s Exadata Database Service on Oracle Cloud Infrastructure on AWS infrastructure, starting with the AWS US East Region. They already have similar capabilities on Microsoft Corp. Azure and Google LLC\u2019s Cloud Platform.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b47a4474-e296-9d26-c0be-caf40acfc1d6",
+                    "name": "Amazon Web Services"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d44a8c2-2000-40e4-8fac-4f3d89b6cfc7",
+                    "name": "Oracle Database"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/045c12a2-cc67-147b-44b5-d675153ffa80",
+                    "name": "Larry Ellison"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f62739d0-af67-e861-15e2-fe70601fbd0a",
+                    "name": "Amazon Redshift"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/db76b792-f40a-ccf4-8818-31acbc5e2f93",
+                    "name": "Oracle Cloud"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ysUeRt2Q3xQKySmZkxXQ8A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T14:10:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Your Business Can Do More for Less with AI",
+            "url": "https://www.inc.com/inc-brandview/your-business-can-do-more-for-less-with-ai/91019687",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.eIY3Y1hFuTSFivnXJyvnYS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "As mainstream artificial intelligence (AI) matures, tech-savvy businesses are beginning to reap the rewards\u2014if they can get employee buy-in.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fb63a9d1-7355-1c6e-d7e1-8ed53aa1be32",
+                    "name": "NetSuite"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Inc",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.d2sNjsZFyRqPfTHuti8I3g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T14:07:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Oracle stock is set for its best year since the dot-com boom after a 75% surge",
+            "url": "https://www.msn.com/en-us/money/companies/oracle-stock-is-set-for-its-best-year-since-the-dot-com-boom-after-a-75-surge/ar-AA1v7ASY",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.a4YgzL7HDNVNlb-0UTvYii&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "Oracle shares have roughly tripled from their late-2022 low, making the cloud-computing specialist more valuable than Costco or Netflix.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/76d1c8ca-1109-5eb3-dacb-1b6704062945",
+                    "name": "Mastercard"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8384551e-5183-0398-4077-98637cb9c7a9",
+                    "name": "Costco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/045c12a2-cc67-147b-44b5-d675153ffa80",
+                    "name": "Larry Ellison"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce6414c0-f9f0-b48b-31f9-42a7dab4db59",
+                    "name": "Elon Musk"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T13:13:05.0000000Z",
+            "video": {
+                "name": "Truth Social just brought Trump a $4 billion windfall, but experts aren't sold",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/20252526-0b02-4b22-9288-a70f5ae8ff16/51d50f1e-1742-49b1-9a15-2ad0ba45_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Why Max Verstappen Has \u2018Lost All Respect\u2019 For George Russell",
+            "url": "https://www.forbes.com/sites/dancancian/2024/12/02/why-max-verstappen-has-lost-all-respect-for-george-russell/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.39CPO8Z2Zek0yspjWsQKPy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Max Verstappen made clear there is no love lost between him and George Russell following a controversial incident in the qualifying session of the Qatar Grand Prix.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2a3aa4d-dc3d-18cf-4d28-bab4616ad099",
+                    "name": "Max Verstappen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c131b56c-d34b-019c-28bf-b1cb184cd721",
+                    "name": "George Russell"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2651212d-2805-1389-e6ec-9b15a6e4464e",
+                    "name": "Qatar Grand Prix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/77132433-16b0-2a3b-832b-e8efc636e4e4",
+                    "name": "Charles Leclerc"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fb8efc0d-6f59-4fed-d489-5452e1cada1a",
+                    "name": "Oscar Piastri"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T11:44:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "How Much Is Oracle Stock Really Worth?",
+            "url": "https://www.msn.com/en-us/money/topstocks/how-much-is-oracle-stock-really-worth/ar-AA1v7bRw",
+            "description": "Oracle (NYSE: ORCL) is an underappreciated AI stock that investors should not ignore. Start Your Mornings Smarter!\u00a0Wake up with Breakfast news in your inbox every market day.\u00a0Sign Up For Free \u00bb *Stock prices used were the afternoon prices of Nov.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/905b6d56-17cd-47cb-ffb9-3be4aa68f362",
+                    "name": "New York Stock Exchange"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+                    "name": "The Motley Fool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T10:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "3 Unstoppable Stocks Billionaire Warren Buffett Wants to Own for 2025",
+            "url": "https://www.fool.com/investing/2024/12/02/3-stocks-billionaire-warren-buffett-wants-own-2025/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4qTRs-5mUxTq3Xct29cdSy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Although Warren Buffett has been a net seller of stocks for eight consecutive quarters, he can't stop buying shares of these three industry-leading businesses.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f3774cb6-9647-541c-e99c-99949e3a2142",
+                    "name": "Warren Buffett"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b09a01ed-cc2b-fdee-1e94-5f5a5d1c0a3c",
+                    "name": "The Motley Fool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c10ea98b-9e5c-003a-14c1-83a12c855e74",
+                    "name": "Berkshire Hathaway"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Warren Buffett"
+                },
+                {
+                    "name": "Unstoppable"
+                },
+                {
+                    "name": "The Motley Fool"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T10:09:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Data centers go nuclear for power-hungry AI workloads",
+            "url": "https://www.networkworld.com/article/3613868/data-centers-go-nuclear-for-power-hungry-ai-workloads.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qT5oG91abtUmfFwEE_0AUi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "As demand for clean electricity to run data centers increases, operators are turning to nuclear energy. But the path to power has a few roadblocks.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/60530bf7-daf1-75e2-a6c6-c703ebb71095",
+                    "name": "Gartner"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b8be077-3450-cee7-c8ae-5340400ed882",
+                    "name": "Wind"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Network World",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mGegGqf4d6U2D_09kI4dzQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T10:06:00.0000000Z"
+        },
+        {
+            "name": "Nvidia's Blackwell Launch: Here's What to Look for Next.",
+            "url": "https://www.fool.com/investing/2024/12/02/nvidias-blackwell-launch-heres-what-to-look-for/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.DQ4po1L0QdpPS0cakdg8MS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "As Nvidia broadened into these markets, including AI, earnings took off and so did share performance. Earnings in most recent quarters have climbed in the triple digits, and Nvidia stock is heading for a 2,300% gain over the past five years.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T09:48:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "USF\u2019s new Global Student Center to enhance international student support",
+            "url": "https://www.usforacle.com/2024/12/01/usfs-new-global-student-center-to-enhance-international-student-support/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.5uigHBQeS54M844mcLK9Vy&pid=News",
+                    "width": 700,
+                    "height": 437
+                }
+            },
+            "description": "Sumit Jadhav, student body vice president, said he knows the process of adapting to a new country and its educational system can be \u201cstressful\u201d and \u201cintimidating.\u201d Jadhav, an international student from India,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bc67138a-d1aa-48b0-aefa-6d2bbbb443f8",
+                    "name": "Tampa, Florida"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Oracle",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.txKPzFElpfriSz6jKsZTtA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T03:24:00.0000000Z"
+        },
+        {
+            "name": "An Oracle product manager got 2 promotions, a move to the US, and a $56,000 raise \u2014 all in 7 years. Here's how.",
+            "url": "https://www.businessinsider.com/how-product-manager-got-overseas-transfer-india-us-oracle-swe-2024-12",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.dTc6axu9Y1SSWJnl6KGCfS&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "The former software engineer negotiated a sign-on bonus and relocation allowance when she moved from India to California in 2022.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd2ac1db-33b3-5509-fd5e-fea4038f50d5",
+                    "name": "Hyderabad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3009d91d-d582-4c34-85ba-772ba09e5be1",
+                    "name": "California"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fbba6b8-85e1-4d41-9444-d9055436e473",
+                    "name": "Seattle"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Insider",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q-ZVWyz-qFnnPRsNgOLlfQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T00:32:00.0000000Z",
+            "video": {
+                "name": "AI has the power to transform everything from workflows to entire companies, but a safe and ethical approach is needed to unlock it",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/8c39d5ae-25c3-43da-b713-de78d0f3649f/72721b2f-9141-4470-9d59-fcc642ed_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "F1 News: Max Verstappen 'Lost Respect' For George Russell In Qatar - 'Get The Hell Out Of Here'",
+            "url": "https://www.si.com/fannation/racing/f1briefings/news/f1-news-max-verstappen-lost-respect-for-george-russell-in-qatar-get-the-hell-out-of-here-01je1sgxw3b1",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.R34WdYhmFt4rjH4NWxOYVC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Max Verstappen has hit out at Mercedes driver George Russell after the Stewards meeting yesterday which ended in the former losing his pole position for the Qat",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2a3aa4d-dc3d-18cf-4d28-bab4616ad099",
+                    "name": "Max Verstappen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c131b56c-d34b-019c-28bf-b1cb184cd721",
+                    "name": "George Russell"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/12aef15b-0748-2538-a691-1f10b68d6fc2",
+                    "name": "Qatar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2651212d-2805-1389-e6ec-9b15a6e4464e",
+                    "name": "Qatar Grand Prix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/26dfb75a-3573-4ff8-bbb3-b8cadaea23a8",
+                    "name": "Las Vegas"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e1cfefb6-6eef-9a59-8069-96b0b3a48c76",
+                    "name": "Red Bull Racing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Sports Illustrated",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DAlg1K6d6FcCd2ockBPdcQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T23:14:00.0000000Z"
+        },
+        {
+            "name": "Famous Wall Street Analyst Dan Niles Bullish on Oracle (ORCL) \u2013 Here\u2019s Why",
+            "url": "https://www.insidermonkey.com/blog/famous-wall-street-analyst-dan-niles-bullish-on-oracle-orcl-heres-why-1400808/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.EHAd0V3HmiGuKh92D9nRGi&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "Jared Cohen, Goldman Sachs president of global affairs, co-head of the Goldman Sachs Global Institute, said while talking to CNBC in a latest program that amid rising data center-driven energy demand because of AI, the US would need to collaborate with other countries via \u201cdiplomacy.\u201d",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cbcbbf1e-4e24-0d7b-6d14-53ebedcb680f",
+                    "name": "Jared Cohen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cec1ad2-91b5-1585-e8b3-935fcd91d29e",
+                    "name": "Goldman Sachs"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Wall Street"
+                },
+                {
+                    "name": "Analyst"
+                },
+                {
+                    "name": "Oracle Corporation"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T17:21:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Movie Review | Netflix animated offering colorful, but not all you\u2019d hope",
+            "url": "https://www.times-standard.com/2024/12/01/spellbound-review-netflix-animated-offering-colorful-but-not-all-youd-hope/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jUG0Mhun3PQlBY0CqvwmDy&pid=News",
+                    "width": 700,
+                    "height": 378
+                }
+            },
+            "description": "Some kids see their parents as monsters \u2014 making them eat their vegetables, insisting homework be done before dinner, begging them to clean their room occasionally, etc. You know, the worst.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/385ec27f-b54a-ad0e-45ca-adb9bd03cebf",
+                    "name": "Skydance Animation Madrid"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c8e616b-dbc5-58aa-da53-6a2cd49fc990",
+                    "name": "Vicky Jenson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0370e222-711f-915f-5ea6-276db1795c29",
+                    "name": "Shrek"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8b42fa54-2f42-4482-b194-e02580595b91",
+                    "name": "Alan Menken"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/92965654-e7e2-5dd4-70e1-57ff6aa91698",
+                    "name": "The Walt Disney Company"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b530acf0-6faa-9cd0-5299-1bd357cc1418",
+                    "name": "The Little Mermaid"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e038c872-836a-45a9-9ca4-e8729dde4309",
+                    "name": "Aladdin"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Times-Standard",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RkwgDp9DF7awY9W99eMxlQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T10:30:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Did Earth\u2019s Fumes Drive the Prophecies of Pythia, the Oracle of Delphi?",
+            "url": "https://greekreporter.com/2024/12/01/did-the-earths-fumes-drive-pythian-prophechies/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0NZaAK2CtQ9WPWnvGvguBS&pid=News",
+                    "width": 700,
+                    "height": 604
+                }
+            },
+            "description": "The prophesies of Pythia, the Oracle Delphi, may have been associated with fumes from the spring waters that flowed under the temple.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0496a8c1-fab4-4db5-19e1-f97ada757c27",
+                    "name": "Delphi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/71b57daa-d165-50cc-5105-b75075ebdeba",
+                    "name": "Virgil"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/33ddea97-b002-3b02-34a8-1f2e0f027fea",
+                    "name": "Aeneid"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b57fa5a8-2f05-1b28-70ce-0037f2c5eca3",
+                    "name": "Temple of Apollo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c48e5a00-f7e9-3586-f848-4bbe86b65856",
+                    "name": "Mount Parnassus"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Greek Reporter",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF._FpxEqHCYLdj9sDMj3COig&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T06:39:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Dole Fruit Founder Sells The Last Of His Lanai Property To Oracle's Larry Ellison",
+            "url": "https://www.benzinga.com/real-estate/24/11/42255404/dole-fruit-founder-sells-the-last-of-his-lanai-property-to-oracles-larry-ellison",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4I9iSA_PfwY3sFDjCGv30S&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "If there's proof that a diet rich in fruits and vegetables is the key to a long life, former Dole Food owner David Murdock, now 101 years old, is it. When he sold the tiny Hawaii Island of Lanai to Oracle owner Larry Ellison for $300 million twelve years ago,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/045c12a2-cc67-147b-44b5-d675153ffa80",
+                    "name": "Larry Ellison"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/042aec97-5485-61a4-a6d5-983469cb7cd4",
+                    "name": "David H. Murdock"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/67fa5c94-ce32-82f5-8bd2-0b86a3e33ea8",
+                    "name": "Hawaii"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f89c2efc-bdd4-4b74-aa0f-4e2cdcae81e4",
+                    "name": "Lanai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/614b60a2-4ccd-3ecb-15dc-6e2fba54ed28",
+                    "name": "The New York Times"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/337dcd01-bc4d-4c5e-4458-a8ac501fe568",
+                    "name": "Deloitte"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181",
+                    "name": "Walmart"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f224f4e-cb92-c70c-0108-a6ac1ca9603d",
+                    "name": "Jeff Bezos"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.LnWAsYULk4XKw3udkffflQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T00:30:00.0000000Z"
+        },
+        {
+            "name": "10 Trending AI Stocks to Watch in December",
+            "url": "https://www.insidermonkey.com/blog/10-trending-ai-stocks-to-watch-in-december-1397226/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n2GGpcXwzvIPW1FignWrYC&pid=News",
+                    "width": 700,
+                    "height": 463
+                }
+            },
+            "description": "Jared Cohen, Goldman Sachs president of global affairs, co-head of the Goldman Sachs Global Institute, said while talking to CNBC in a latest program that amid rising data center-driven energy demand",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cbcbbf1e-4e24-0d7b-6d14-53ebedcb680f",
+                    "name": "Jared Cohen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cec1ad2-91b5-1585-e8b3-935fcd91d29e",
+                    "name": "Goldman Sachs"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8cc559f1-7124-4aea-83de-ce5e180e5817",
+                    "name": "CNBC"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T22:57:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Max Verstappen Penalty Costs Him Qatar Pole Position After Post-Qualifying Investigation",
+            "url": "https://www.newsweek.com/sports/racing/max-verstappen-penalty-costs-him-qatar-pole-position-after-post-qualifying-investigation-1993738",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.J_E7pdUPqzlrsqeHBvJ2PS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The incident occurred while Verstappen was executing an extra warm-up lap during Q3, moving at a considerably slow pace before his final push. During this period, Russell, on a different preparation strategy, approached and caught up with Verstappen between Turns 12 and 14.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2a3aa4d-dc3d-18cf-4d28-bab4616ad099",
+                    "name": "Max Verstappen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c131b56c-d34b-019c-28bf-b1cb184cd721",
+                    "name": "George Russell"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2651212d-2805-1389-e6ec-9b15a6e4464e",
+                    "name": "Qatar Grand Prix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7cdd43fc-fd27-f4fe-fd82-156d98451ff2",
+                    "name": "Red Bull"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c76f5e34-38cd-6396-f9ff-3b84edd0115d",
+                    "name": "Austrian Grand Prix"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newsweek",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.uTJA7JDoTGKvff5o3jotfg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T21:53:00.0000000Z",
+            "video": {
+                "name": "F1 Driver Line-Up 2025 - Who Has a Seat For Next Season?",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/723af2fb-7339-4195-9cc4-161e0f194ccc/f85d856b-4dbb-46ff-93ab-75c3c3d213dd_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "Sports"
+        },
+        {
+            "name": "Rimini Street: 15-Year Legal Battle Burning Through Investor Value",
+            "url": "https://seekingalpha.com/article/4741253-rimini-street-15-year-legal-battle-burning-through-investor-value",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.eJMYg8qtkrBjdEOEQbtNny&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "We warn investors of Rimini Street's weak Q3 results, ongoing legal battles with Oracle, and risk of investing in RMNI stock. Read an investment analysis here.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0b49d36b-6f16-0544-948d-3b241fd7a072",
+                    "name": "RM"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f73ecb85-fa92-6c7d-6041-fe5c8e7cfb2b",
+                    "name": "SAP"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7125533d-dc80-4728-892d-1adbe0032065",
+                    "name": "Fortune 500"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T05:54:00.0000000Z"
+        },
+        {
+            "name": "Amazon: Here's What To Buy This Holiday Season",
+            "url": "https://seekingalpha.com/article/4741224-amazon-heres-what-to-buy-this-holiday-season",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HnSWa2lTHMXtvNHHhakzGS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Investors should consider buying Amazon.com, Inc. stock this holiday season as the company is expected to capture more online shopping. Click for our AMZN update.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/49358426-2a22-ccf0-7ea8-7d95c97dd7dc",
+                    "name": "Andy Jassy"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T18:49:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "LSU Football Loses Commitment From Prized EDGE Prospect Ahead of Signing Day",
+            "url": "https://www.si.com/college/lsu/recruiting/lsu-football-loses-commitment-from-prized-edge-prospect-ahead-of-signing-day-01jdv3dqgbzk",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.dF6pXKlfnJ5qJgQ5RBMo2C&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Gaither four-star EDGE Jesse Harrold committed to Brian Kelly and the LSU Tigers in June with the program locking in the coveted defensive line pro",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0d6eb966-652a-0f44-b713-028061f617b2",
+                    "name": "Brian Kelly"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d7edd897-09c9-e095-b504-16e710b99d86",
+                    "name": "LSU Tigers football"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4131acb8-628a-4241-8920-ca79eab9dade",
+                    "name": "Illinois"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fece3f4-e8e8-4159-843e-f725a930ad50",
+                    "name": "Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8ae4225c-bfb4-690a-d94c-a20f87039d2c",
+                    "name": "Central Florida"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Sports Illustrated",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DAlg1K6d6FcCd2ockBPdcQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T18:00:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Trump\u2019s erstwhile critics in the press try to come to terms with four more years",
+            "url": "https://www.washingtonexaminer.com/magazine-features/3243740/course-correction/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.hMZshG5ECQPiYfij3JpyfC&pid=News",
+                    "width": 410,
+                    "height": 282
+                }
+            },
+            "description": "Santiago / ) Through it all, Schumer was surprisingly staid and did not indulge in Trump \u201cresistance\u201d-style theatrics, such as, for instance, ripping up a copy of Trump\u2019s remarks ala Nancy Pelosi. Although he sat in a hunch as though he was on the verge,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d606edaa-bebe-be4b-5e66-17b8a58806b2",
+                    "name": "Chuck Schumer"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39c166f9-4335-34cf-905b-1a01c0b31f71",
+                    "name": "Alfred E. Smith Memorial Foundation Dinner"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2a97cd8c-b44f-18eb-1370-219085c16bbf",
+                    "name": "Al Smith"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Washington Examiner",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.v83iYtzAo_6HTXUpN2T7TA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T14:00:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Oracle founder Larry Ellison's billions helped shape the NIL deal that flipped a top football recruit to Michigan from LSU",
+            "url": "https://www.morningstar.com/news/marketwatch/20241129223/oracle-founder-larry-ellisons-billions-helped-shape-the-nil-deal-that-flipped-a-top-football-recruit-to-michigan-from-lsu",
+            "description": "It's now common for top-flight college athletes to make millions of dollars from NIL deals. And after billionaire Larry Ellison recently helped a high-school quarterback get at least $10 million to play for the University of Michigan, we are getting a better view into how some of the biggest NIL deals are put together.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cafb5c69-0d68-2211-85a0-3067c643f408",
+                    "name": "Oracle Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/045c12a2-cc67-147b-44b5-d675153ffa80",
+                    "name": "Larry Ellison"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/162411c2-b757-495d-aa81-93942fae2f7e",
+                    "name": "Michigan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f016b592-f543-a5ca-660c-f4faefe768b3",
+                    "name": "Louisiana State University"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/60755b75-cf4e-1717-b2de-f484c564a101",
+                    "name": "University of Michigan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/36f82bc6-fc24-cbff-938a-3d1133e8f65d",
+                    "name": "The Detroit News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Morningstar",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdhGhyibFfGjObZVPq7WEw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T13:35:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "From Jensen Huang to Elon Musk: The biggest wealth gainers of 2024 have added $585 billion to their fortunes",
+            "url": "https://www.aol.com/finance/jensen-huang-elon-musk-biggest-100000049.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Vo0cjwkJ2kuRcFebAZ3vAS&pid=News",
+                    "width": 700,
+                    "height": 409
+                }
+            },
+            "description": "Because Ellison owns some 40% of the cloud applications business, his riches have boomed, reflecting Oracle's more than 83% stock price spike in 2024\u2014with Ellison's net worth growing $83.2 billion this year at the time of writing.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9a39fe47-3ab1-3a36-aed3-e4ccd425b02e",
+                    "name": "Jensen Huang"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4fad87c-d4f0-ef0d-af23-19b1996e3053",
+                    "name": "Tech Billionaires: Elon Musk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b344d027-2aa9-811b-dadf-87cc9b5f94ce",
+                    "name": "Meta"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ca412294-5641-492f-af5e-c0cae623d148",
+                    "name": "Mark Zuckerberg"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e5c1d79c-4092-7e4d-1bae-0e00af192206",
+                    "name": "Musk"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T12:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Giants Fan Council",
+            "url": "https://www.mlb.com/giants/tickets/presale/fancouncil",
+            "description": "Your Giants Fan Council offer is eligible for select 2025 regular season games, subject to availability, except the following:",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fad4a4e0-1d6e-2b53-d977-ede0a0c1a3c1",
+                    "name": "Oracle Park"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f5c7865c-dcaf-484b-8529-cc1904677604",
+                    "name": "Spring training"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/83a2fa09-ea30-48c7-f71f-2afa6a7595cd",
+                    "name": "Scottsdale Stadium"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MLB",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.wzUJOrRR9Tt2JfINYjkJ1g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T23:22:00.0000000Z"
+        },
+        {
+            "name": "3 Hidden Gem Altcoins That Can Yield Gains in December",
+            "url": "https://beincrypto.com/hidden-gem-altcoins-december-2024/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qdL5vkDkANkXvxJC0oSQYy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Bitcoin hits a new all-time high as Virtual, Pyth Network, and Raydium showcase growth. Explore how Layer 2 and DeFi fuel altcoins momentum.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d95ee9c-a8a0-d6fa-69b7-f6d996f0c946",
+                    "name": "Bitcoin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0af54f01-8228-4cf5-ad50-8bb67cb08af5",
+                    "name": "Dex"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d006609c-2cdd-8b49-406e-9a9b2bfb15bc",
+                    "name": "Solana"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/870c3eba-65b0-f6e7-9af7-7ea9378767a9",
+                    "name": "Blockchain"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "https//beincrypto.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4oPM8DqcmpWGpdthX1lyuQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T16:30:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Warren Buffett dumped this stock \u2014 now it is surging",
+            "url": "https://finbold.com/warren-buffett-dumped-this-stock-now-it-is-surging/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jQRrFH2qYtEwA9E8esR84S&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Warren Buffett slashed his holdings in Ulta Beauty by 96% in the last quarter \u2014 in the past week, ULTA stock has surged by almost 10%.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f3774cb6-9647-541c-e99c-99949e3a2142",
+                    "name": "Warren Buffett"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c3b7b2c-f40e-cba8-3bb6-29450420b38e",
+                    "name": "Nasdaq"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c10ea98b-9e5c-003a-14c1-83a12c855e74",
+                    "name": "Berkshire Hathaway"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/905b6d56-17cd-47cb-ffb9-3be4aa68f362",
+                    "name": "New York Stock Exchange"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Finbold | Finance in Bold",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.bryy5p0Z16GXXmCa7Kf8wg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T16:26:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Scientists Crack Quantum Computing Complexity With Revolutionary Hybrid Design",
+            "url": "https://scitechdaily.com/scientists-crack-quantum-computing-complexity-with-revolutionary-hybrid-design/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8gAs36_1-EgbbaEXrzzQhi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Quantum computers operate using quantum gates, but the complexity and large number of these gates can diminish their efficiency. A new \"hybrid\" approach reduces this complexity by utilizing natural system interactions,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3091cf22-5d61-7ac5-2181-c69fdcc27fd0",
+                    "name": "Quantum computing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/787b77aa-f05d-7cc4-cd5f-1ec499f46856",
+                    "name": "Quantum algorithm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/92faf7ff-31dc-dbc2-f3e3-376f99101755",
+                    "name": "Grover's algorithm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/50f61a92-7c46-cd68-cd05-0330951f92fd",
+                    "name": "Logic gate"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SciTech Daily",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.xD0EX7mXe0wIZibIYD5rfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T11:49:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "A TikTok sale under Trump? Experts say it could actually happen this time",
+            "url": "https://www.kalw.org/npr-news/2024-11-27/a-tiktok-sale-under-trump-experts-say-it-could-actually-happen-this-time",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.IufyPX9BxxP_1ITbMY3RwC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Will TikTok be sold? The question has been asked before, during Trump's first term. But now, the situation has changed considerably.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6910ac-d399-47b2-9ee5-d0c3d8ca491b",
+                    "name": "TikTok"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KALW",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.JoEoTJeoSnDg1zsHipJWpQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T04:18:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Lawyer in court for US$180K fraud",
+            "url": "https://www.zimbabwesituation.com/news/lawyer-in-court-for-us180k-fraud/",
+            "description": "Newsday Zimbabwe A TOP lawyer this week appeared at the Harare Magistrates Courts facing allegations of fraud involving a US$180 000 botched land deal. Emmanuel Makanyera Mukwewa (49), who is a senior partner with Mukwewa Law Chambers,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/339262f8-e3e8-4a7a-b284-2ec0ae8db056",
+                    "name": "Harare"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Zimbabwe Situation",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.64xfXPHnIZcj3r4fpy9YyA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T04:16:00.0000000Z"
+        },
+        {
+            "name": "Oracle Cloud Infrastructure SDK for Java",
+            "url": "https://github.com/oracle/oci-java-sdk",
+            "description": "oci-java-sdk provides an SDK for Java that you can use to manage your Oracle Cloud Infrastructure resources. The project is open source and maintained by Oracle Corp. The home page for the project is here. This Github repository will refer to OCI Java SDK ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2024-11-19T00:01:00.0000000Z"
+        },
+        {
+            "name": "Oracle Cloud Infrastructure CLI",
+            "url": "https://github.com/oracle/oci-cli",
+            "description": "This is the command line interface for Oracle Cloud Infrastructure. The project is open source and maintained by Oracle Corp. The home page for the project is here. Suggestions and autocompletion to help compose commands; Color-coded suggestions to ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GitHub"
+                }
+            ],
+            "datePublished": "2024-11-19T00:01:00.0000000Z"
+        },
+        {
+            "name": "Expert Outlook: Oracle Through The Eyes Of 30 Analysts",
+            "url": "https://www.benzinga.com/insights/analyst-ratings/24/11/42018581/expert-outlook-oracle-through-the-eyes-of-30-analysts",
+            "description": "Ratings for Oracle ORCL were provided by 30 analysts in the past three months, showcasing a mix of bullish and bearish perspectives. The table below provides a concise overview of recent ratings ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-11-15T16:02:00.0000000Z"
+        },
+        {
+            "name": "Oracle bones: 3,250-year-old engraved bones and tortoise shells from ancient China were used to foretell the future",
+            "url": "https://www.livescience.com/archaeology/oracle-bones-3-250-year-old-engraved-bones-and-tortoise-shells-from-ancient-china-were-used-to-foretell-the-future",
+            "description": "According to Chinese scholars, oracle bone artifacts were often dug up by later farmers in the former Shang territories, and many were exhumed during burial ceremonies in the former Shang capital ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Live Science"
+                }
+            ],
+            "datePublished": "2024-11-11T00:00:00.0000000Z"
+        },
+        {
+            "name": "Oracle taps Vodafone Business to provide global IoT connectivity",
+            "url": "https://www.computerweekly.com/news/366615316/Oracle-taps-Vodafone-Business-to-provide-global-IoT-connectivity",
+            "description": "As part of a mission to better empower industries with the ability to orchestrate, connect and manage internet of things (IoT) devices, allow users to expand their operations and accelerate on a ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Computer Weekly"
+                }
+            ],
+            "datePublished": "2024-11-06T12:45:00.0000000Z"
+        },
+        {
+            "name": "Art Education Student Association Student Exhibit",
+            "url": "https://oracle.newpaltz.edu/art-education-exhibit/",
+            "description": "Fourth-year Art Education major Katie Asenbauer is the president of the association. In an interview with The Oracle, Asenbauer explained \u201cWe like to show off to everybody, because we take a lot of education courses, but we also take so many studio ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New Paltz Oracle"
+                }
+            ],
+            "datePublished": "2024-11-06T00:00:00.0000000Z"
+        },
+        {
+            "name": "Oracle Delivers On The Promise Of Modern EHR",
+            "url": "https://www.forbes.com/sites/davidchou/2024/11/03/oracle-delivers-on-the-promise-of-modern-ehr/",
+            "description": "At the Oracle Health Summit, Oracle unveiled its newly built EHR, set for release in 2025 for early adopters. After previewing the product, I noted its modern design, which incorporates its ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes"
+                }
+            ],
+            "datePublished": "2024-11-03T19:23:00.0000000Z",
+            "category": "Health"
+        },
+        {
+            "name": "Tron replaces oracle provider with Chainlink",
+            "url": "https://cointelegraph.com/news/tron-partners-chainlink-defi-expansion",
+            "description": "Tron\u2019s decentralized autonomous organization (DAO) and blockchain oracle provider Chainlink have announced that the Tron blockchain would switch its oracle solution provider. In a news release ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CoinTelegraph"
+                }
+            ],
+            "datePublished": "2024-10-31T00:00:00.0000000Z"
+        },
+        {
+            "name": "Google v Oracle: Supreme Court declares Google's code copying fair",
+            "url": "https://www.bbc.com/news/technology-56639088",
+            "description": "Oracle, another tech titan, had sued Google in 2010 for copyright infringement over what it said was copied computer code. Android is now used in an estimated 70% of global smartphones ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC"
+                }
+            ],
+            "datePublished": "2021-04-05T00:01:00.0000000Z"
+        }
+    ]
+}

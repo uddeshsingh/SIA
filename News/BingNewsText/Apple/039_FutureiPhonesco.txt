@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "Ben Lovejoy",
+        "Justin Kahn",
+        "Zac Hall",
+        "Michael Burkhardt"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 12:25:54",
+    "description": "An Apple patent has revealed that future iPhones could effectively get multiple Action buttons, as all three buttons on the...",
+    "filename": ".json",
+    "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/Future-iPhones-could-get-multiple-Action-buttons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "An Apple patent has revealed that future iPhones could effectively get multiple Action buttons, as all three buttons on the left side of the phone become user-configurable.\nThe same patent indicates that similar capabilities may come to other Apple devices, including both iPads and Macs \u2026\nThe patent, spotted by Patently Apple, is a very dense one, with the most unhelpful opening you could possibly imagine!\nAn electronic device detects a first input on a first input region separate from a display of the electronic device, including detecting a first portion of the first input followed by a second portion of the first input. In response to detecting the first input on the first input region: in accordance with a determination that the first portion of the first input satisfies a first set of one or more criteria, the electronic device displays, a first preview that corresponds to the first operation of the first application. In accordance with a determination that the second portion of the first input meets a second set of criteria, the electronic device performs the first operation of the first application. In accordance with a determination that the second portion of the first input meets the second set of criteria, the electronic device performs the second operation of the second application.\nThe language doesn\u2019t improve much from there; it\u2019s the illustrations which provide the clearest picture of what the company has in mind.\nThis drawing shows a representation of the actual phone, with the Action button and two volume buttons highlighted on the left, with an on-screen 3D image of the phone.\nThe interface allows users to select each of the buttons and assign a function to them in exactly the same way we do with the Action button today.\nIn this example, the volume-down button is being configured to call a favorite contact:\nThe document describes using haptic motors to provide tactile feedback when the buttons are used.\nThe drawings primarily show iPhones, but Apple notes that the patent also applies to iPad and Mac.\nIn some embodiments, the device is a portable communications device, such as a mobile telephone, that also contains other functions, such as PDA and/or music player functions. Example embodiments of portable multifunction devices include, without limitation, the iPhone [\u2026] and iPad devices from Apple Inc. of Cupertino, California. Other portable electronic devices, such as laptops or tablet computers with touch-sensitive surfaces (e.g., touch-screen displays and/or touchpads), are, optionally, used.\nTouchscreen Mac advocates might get excited by that reference, but we\u2019d note that the full phrase is \u201claptops or tablet computers with touch-sensitive surfaces\u201d \u2013 and additionally that Apple includes trackpads and physical capacitive buttons within the category of touch-sensitive surfaces.\nAs always, we caution that Apple patents all kinds of things it never implements, but given the history here of first an Action button and then the Camera Control one, it does seem more likely than not that we can expect the trend to continue.\nPhoto and drawings: Apple",
+    "source_domain": null,
+    "text": null,
+    "title": "Future iPhones could get multiple Action buttons; iPad and Mac too",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

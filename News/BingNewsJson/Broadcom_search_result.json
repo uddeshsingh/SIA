@@ -1,0 +1,1122 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Broadcom",
+    "queryContext": {
+        "originalQuery": "Broadcom",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 1120,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Broadcom"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=Broadcom&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Broadcom Inc. (AVGO) Among Billionaire Ken Fisher\u2019s Top Stock Picks Heading Into 2025",
+            "url": "https://www.insidermonkey.com/blog/broadcom-inc-avgo-among-billionaire-ken-fishers-top-stock-picks-heading-into-2025-1401231/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Onv4mLeco03l9p64u-mhly&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "We recently compiled a list of the Billionaire Ken Fisher\u2019s Top 15 Stock Picks Heading Into 2025. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against Ken Fisher\u2019s other top stock picks.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:51:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Three insights you might have missed from SC24",
+            "url": "https://siliconangle.com/2024/12/02/high-performance-computing-innovations-key-insights-sc24/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.6RRhQSsmYqy96b3I4QlpCC&pid=News",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "description": "Explore high-performance computing innovations from SC24, including scalable AI systems, modular solutions and advanced thermal management technologies.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2ee72f4b-bd6a-0d50-c3d0-33daa47531fb",
+                    "name": "History of supercomputing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ysUeRt2Q3xQKySmZkxXQ8A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T20:20:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "25 Best Stocks to Own in December, Including Broadcom",
+            "url": "https://www.schaeffersresearch.com/content/analysis/2024/12/02/25-best-stocks-to-own-in-december-including-broadcom",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.p6Js_rKqXlf5SHgYh8AFyS&pid=News",
+                    "width": 700,
+                    "height": 514
+                }
+            },
+            "description": "Focusing in on number three on the list, Broadcom Inc (NASDAQ:AVGO) is the only chip manufacturer in the top 20. Per Schaeffer's Senior Quantitative Analyst Rocky White, AVGO finished the month of December higher eight times in the past 10 years, averaging a gain of 7.3%.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd6edebf-795d-59a4-99d6-ef4cd957f166",
+                    "name": "Relative strength index"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SchaeffersResearch.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Jxnua_6U6koEfNRgMma52w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T19:10:00.0000000Z"
+        },
+        {
+            "name": "Broadcom Inc. (AVGO) Among Wells Fargo\u2019s Top Tech Stocks to Beat the S&P",
+            "url": "https://www.msn.com/en-us/money/markets/broadcom-inc-avgo-among-wells-fargo-s-top-tech-stocks-to-beat-the-s-p/ar-AA1v8uJu",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.nk9oZfH7CuhvuOsReN30EC&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "We recently published a list of Wells Fargo\u2019s Tech Stocks To Beat The S&P: 14 Top AI & Non-AI Stocks. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against other Wells Fargo\u2019s tech stocks to beat the S&P: 14 top AI & non-AI stocks.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a12d5753-db05-3c39-eb66-e4ec8d7b73ff",
+                    "name": "Wells Fargo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d504280-8e5f-99e5-4688-5e3b38e4c30d",
+                    "name": "Federal Reserve"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe593106-a52e-eede-658f-ed5a53705959",
+                    "name": "Interest rate"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T17:13:13.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Company claims 1,000 percent price hike drove it from VMware to open source rival",
+            "url": "https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.JgogDSgUvVn5_EErv_f2-i&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "According to Beeks, OpenNebula has enabled the company to dedicate more of its 3,000 bare metal server fleet to client loads instead of to VM management, as it had to with VMware. With OpenNebula purportedly requiring less management overhead, Beeks is reporting a 200 percent increase in VM efficiency since it now has more VMs on each server.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99683f36-b094-0f62-01af-7b014cecc455",
+                    "name": "VMware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a4e6dc8f-4d3b-ef52-80cc-043700b6c68d",
+                    "name": "The Register"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e95d5e1-1e66-476f-eda0-0bb417a12c37",
+                    "name": "Cloud computing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0ede6e2c-d986-3785-01d7-24824caf7e6f",
+                    "name": "OpenNebula"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/357c54c0-c5f8-7798-cfa7-ed1a4d35b5ae",
+                    "name": "Edge computing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Ars Technica",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ujb7xrXKIzzWUeiq3sEXxg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T13:57:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Why Broadcom Inc. (AVGO) Is the Best Stock to Buy For Long Term Growth?",
+            "url": "https://www.insidermonkey.com/blog/why-broadcom-inc-avgo-is-the-best-stock-to-buy-for-long-term-growth-1400854/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Onv4mLeco03l9p64u-mhly&pid=News",
+                    "width": 700,
+                    "height": 392
+                }
+            },
+            "description": "We recently published a list of 10 Best Stocks to Buy For Long Term Growth. In this article, we are going to take a look at where Broadcom Inc.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c3b7b2c-f40e-cba8-3bb6-29450420b38e",
+                    "name": "Nasdaq"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9fb91659-3521-96df-b9d4-f4441da7efdd",
+                    "name": "Barclays"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1cb8ca46-c867-a19a-b118-0f594a12fafe",
+                    "name": "Yahoo! Finance"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Stock"
+                },
+                {
+                    "name": "Broadcom"
+                },
+                {
+                    "name": "Insider"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Insider Monkey",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FLSyR-cuOnn1pVDNxQwYZw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T12:32:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Broadcom loses another big customer: UK fintech cloud Beeks Group, and most of its 20,000 VMs",
+            "url": "https://www.msn.com/en-us/money/companies/broadcom-loses-another-big-customer-uk-fintech-cloud-beeks-group-and-most-of-its-20-000-vms/ar-AA1v6IVo",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.WBhUrDCPW-VyWKR4CtuXoS&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "A massively increased bill was one motive, but customers went cold on Virtzilla, and OpenNebula proved more efficient Broadcom has lost another significant customer after UK-based cloud operator Beeks Group decided to adopt the open source OpenNebula stack.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a4e6dc8f-4d3b-ef52-80cc-043700b6c68d",
+                    "name": "The Register"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/33253be6-1036-0eee-629f-66ab4433f6e5",
+                    "name": "Hypervisor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/df12a135-cb8c-fd1e-32b9-5b4e18d6d36a",
+                    "name": "Kernel-based Virtual Machine"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99683f36-b094-0f62-01af-7b014cecc455",
+                    "name": "VMware"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN"
+                }
+            ],
+            "datePublished": "2024-12-02T08:44:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Mastercard, Broadcom, Pfizer Among Two Dozen Companies To Announce Dividend Increases In December",
+            "url": "https://seekingalpha.com/article/4741412-mastercard-broadcom-pfizer-among-two-dozen-companies-announce-dividend-increases-december",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Jk2sXtS3daq6UpcV1vRIEi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "It\u2019ll be a busy December for dividend growth investors, with 25 companies announcing their annual increases. Check out the companies with dividend increases.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/76d1c8ca-1109-5eb3-dacb-1b6704062945",
+                    "name": "Mastercard"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/925a8296-8e58-2d08-c6d9-2a790740f3c2",
+                    "name": "Pfizer"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0cfdaf28-7651-bcbf-293d-dd9fe8700480",
+                    "name": "Royal Gold"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/170c4956-92a2-a4f5-684e-8f60f2b5e661",
+                    "name": "Assurant"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-02T01:12:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Broadcom: I'm Very Thankful For This Pullback",
+            "url": "https://seekingalpha.com/article/4741349-broadcom-im-very-thankful-for-this-pullback",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Zbf0_GKFx3HD5_ey3yAfSy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Broadcom remains well-positioned to capitalize on the surge in hyperscale spending in 2025. Read why I maintain my buy rating on AVGO stock.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seeking Alpha",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T3WKS_yw6iQ2VstDFu9FMw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T12:30:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "I Installed Ubuntu on My Old MacBook Air and I Wish I'd Done it Sooner",
+            "url": "https://www.yahoo.com/tech/installed-ubuntu-old-macbook-air-140117891.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.oBaWb17cTASZFJPTj1VAXy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Insert the USB drive into your Mac, power it on, and hold the Option or Alt key until the Startup Manager opens. Select the EFI Boot USB option to start Ubuntu\u2019s live environment from the boot disk you created. Next, on the GRUB bootloader screen, select \"Try or Install Ubuntu.\"",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a644470d-bc0f-b89c-939c-2297f2181b18",
+                    "name": "Ubuntu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/293c556e-6e97-0354-53b7-5b0b0eb1980d",
+                    "name": "MacBook Air"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2f4e933-bfad-f184-fcf4-20042e4bed36",
+                    "name": "Linux"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a0d268ef-80dc-73e4-9ff9-98b3a233218a",
+                    "name": "macOS"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe66b96c-3dd2-7f9a-31d1-0ab1dbcd3d55",
+                    "name": "Silicon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a56e43dc-5b37-a649-8b8a-cb4dbb17cf62",
+                    "name": "MacBook Pro"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4d91e5f0-36b5-d4a5-d369-977332eb370d",
+                    "name": "Toy Story"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-12-01T02:54:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "This Black Friday Deal on Keychron Mechanical Keyboards Is Too Good to Be True",
+            "url": "https://beebom.com/keychron-mechanical-keyboard-black-friday-deal/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.FWs5KbBkETSwHXDww5ZCKy&pid=News",
+                    "width": 700,
+                    "height": 420
+                }
+            },
+            "description": "The Amazon Black Friday sale brings an amazing discount on the Keychron K3 Version 2 bringing down the price by $25.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fb90490-d543-9f8a-def0-e5f10bad97e5",
+                    "name": "Black Friday"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Beebom",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.efPDCA71jdvQIvyZQcZwSQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-30T06:48:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Is Broadcom Stock a Buy?",
+            "url": "https://www.aol.com/broadcom-stock-buy-113500677.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.wJ9ySI0m5mHs9B591WS18S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "While Nvidia has been the biggest semiconductor stock winner from the artificial intelligence (AI) infrastructure buildout, Broadcom (NASDAQ: AVGO) could be poised to be the next big winner in the space.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d8bb8c2-d5dc-5159-69dc-c7a1fe132583",
+                    "name": "Semiconductor industry"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2961b442-f056-ddc8-67ce-f2229da67732",
+                    "name": "Distributed computing"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-29T13:35:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Losses for Big Tech dampen Wall Street indexes",
+            "url": "https://www.arkansasonline.com/news/2024/nov/28/losses-for-big-tech-dampen-wall-street-indexes/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8EpbgWaxDp9g1lgIRKun7i&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Technology stocks helped pull stocks lower on Wall Street Wednesday, handing the market its first loss in more than a week.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ef0946d-31b7-304e-410a-4bef17f9fd05",
+                    "name": "S&P 500"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c3ea5c5-8119-f4b3-5019-aeed4f2f1843",
+                    "name": "Nasdaq Composite"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d8bb8c2-d5dc-5159-69dc-c7a1fe132583",
+                    "name": "Semiconductor industry"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/13bd06e2-4f85-6efa-2990-77f453335fc0",
+                    "name": "HP Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Arkansas Democrat-Gazette",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.OhEt6Dvx6n20-6tYBD8plg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T08:04:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Stock market today: Asian shares are mixed after Big Tech losses pull Wall Street lower",
+            "url": "https://www.seattletimes.com/business/stock-market-today-asian-shares-are-mixed-after-big-tech-losses-pull-wall-street-lower/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.tic8suDyqmS_kMafgNUN7C&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "BANGKOK (AP) \u2014 Shares were mixed Thursday in Asia after stocks on Wall Street retreated, weighed down by losses for technology shares. Tokyo\u2019s Nikkei 225 index gained 0.7% to 38,400.00 and Australia\u2019s S&P/ASX 200 advanced 0.8% to 8,473.30.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/651e796f-a780-c032-4e9c-23e5f5fe5854",
+                    "name": "Bangkok"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5288e6b2-094a-9e72-d584-2ccbc1c2eb88",
+                    "name": "Asia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cb44a92f-6c6f-99c4-2ae3-51601fdc919a",
+                    "name": "Tokyo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/33bd9241-664d-8a21-92c3-725c6da743d2",
+                    "name": "Nikkei 225"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/06de2191-243d-a83f-6990-2eb1c7f3382a",
+                    "name": "Australia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c0e15be0-5113-402c-c03f-516a6265e9cb",
+                    "name": "South Korea"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2b76db47-6342-689c-4087-f3e941083b70",
+                    "name": "KOSPI"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e83336ab-f438-2995-9ba9-ba5ebd8fb631",
+                    "name": "Bank of Korea"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7070a390-a02e-43ce-4b7d-9d5b2eced9e1",
+                    "name": "Hang Seng Index"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/761e2b59-dd8f-4ef9-de1c-ba7d99c46158",
+                    "name": "Thanksgiving"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Seattle Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.fpemrnMQqt6geHmUwb0LPQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-28T03:56:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "VMware\u2019s first contentious year under Broadcom drives customers to weigh other options",
+            "url": "https://www.ciodive.com/news/broadcom-vmware-acquistion-vcf-private-cloud/733800/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.rFzoawum45wVTXvRcVwehS&pid=News",
+                    "width": 653,
+                    "height": 435
+                }
+            },
+            "description": "The chipmaker consolidated the ubiquitous virtualization product suite into one big private cloud platform, leaving customers with a difficult business decision.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99683f36-b094-0f62-01af-7b014cecc455",
+                    "name": "VMware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/50b344db-4d21-b4bf-f3e0-335c1a6fce11",
+                    "name": "Ransomware"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b343c663-f78f-dec9-236a-f369cfe16a0a",
+                    "name": "Virtualization"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CIO Dive",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.WQ9BAW2iiw6LxemK8Hfoig&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-26T12:39:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Better Artificial Intelligence Stock: Broadcom vs. Nvidia",
+            "url": "https://www.fool.com/investing/2024/11/25/better-artificial-intelligence-stock-broadcom-vs/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.owmobZ3ZimatyHtC2-1e3C&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Among the companies benefiting from artificial intelligence (AI) entering the mainstream are semiconductor giants Broadcom ( AVGO -0.11%) and Nvidia ( NVDA -3.10%). The arrival of AI supercharged sales for both businesses as customers sought the necessary hardware and software to implement AI into their organizations.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5d8bb8c2-d5dc-5159-69dc-c7a1fe132583",
+                    "name": "Semiconductor industry"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-25T15:31:00.0000000Z"
+        },
+        {
+            "name": "Better Artificial Intelligence Stock: Broadcom vs. AMD",
+            "url": "https://www.fool.com/investing/2024/11/24/better-artificial-intelligence-stock-broadcom-vs-a/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.7Hrk1BuKZMV0IYKmlGW2Zy&pid=News",
+                    "width": 700,
+                    "height": 430
+                }
+            },
+            "description": "Both Broadcom and AMD are seeing strong sales thanks to their respective strategies to capture customers amid the AI boom. Broadcom acquired VMware to capitalize on the nascent private AI market. AMD's focus on accelerated computing has led to double-digit year-over-year sales growth for its semiconductor products.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc565bd7-460f-0dd0-830b-9bf2da8730e5",
+                    "name": "Advanced Micro Devices"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99683f36-b094-0f62-01af-7b014cecc455",
+                    "name": "VMware"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Motley Fool",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4QjIDUvHz3Rc67mtMVQu7A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-24T11:14:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Broadcom Inc. stock rises Friday, still underperforms market",
+            "url": "https://www.marketwatch.com/data-news/broadcom-inc-stock-rises-friday-still-underperforms-market-b114ef26-35fdc7868eee",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n5Kx8XH6vW6TwiPmANhTxi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Shares of Broadcom Inc. AVGO inched 0.18% higher to $164.23 Friday, on what proved to be an all-around positive trading session for the stock market, with the S&P 500 Index SPX rising 0.35% to 5,969.34 and the Dow Jones Industrial Average DJIA rising 0.97% ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7836fd8d-31b5-862e-73c9-a1f821ba065e",
+                    "name": "SPX Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch"
+                }
+            ],
+            "datePublished": "2024-11-22T21:33:00.0000000Z"
+        },
+        {
+            "name": "Broadcom Inc. stock rises Thursday, still underperforms market",
+            "url": "https://www.marketwatch.com/data-news/broadcom-inc-stock-rises-thursday-still-underperforms-market-281dbe9c-6072ef482d9c",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.n5Kx8XH6vW6TwiPmANhTxi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Shares of Broadcom Inc. AVGO inched 0.42% higher to $163.94 Thursday, on what proved to be an all-around favorable trading session for the stock market, with the S&P 500 Index SPX rising 0.53% to 5,948.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82e7aef0-0257-a34f-6b02-7d532359989c",
+                    "name": "Broadcom Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7836fd8d-31b5-862e-73c9-a1f821ba065e",
+                    "name": "SPX Corporation"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3f9ca34f-643d-b2fa-ed7f-811996d90b97",
+                    "name": "Dow Jones Industrial Average"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/952729cb-819e-5cc5-0ba0-2c0926a288ec",
+                    "name": "FactSet"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MarketWatch",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.g28MuDD8Wj91-VMHwbl7qQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-11-21T21:35:00.0000000Z"
+        },
+        {
+            "name": "Broadcom: 3 Reasons We Love This Stock",
+            "url": "https://finance.yahoo.com/news/broadcom-3-reasons-love-stock-142423150.html",
+            "description": "Broadcom currently trades at $165.14 and has been a dream stock for shareholders. It\u2019s returned 431% since November 2019, blowing past the S&P 500\u2019s 87.9% gain. The company has also beaten the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-18T00:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Broadcom makes VMware Workstation and Fusion free for everyone",
+            "url": "https://www.theregister.com/2024/11/14/vmware_workstation_free/",
+            "description": "Broadcom has made its desktop hypervisors freeware \u2013 even for production use. Not open source, but free stuff is still good, right? Broadcom's announcement may be bad news for Oracle\u2019s VirtualBox desktop hypervisor, but we doubt that Big Red will lose ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "theregister"
+                }
+            ],
+            "datePublished": "2024-11-14T15:34:00.0000000Z"
+        },
+        {
+            "name": "Broadcom\u2019s VMware strategy is winning despite market friction",
+            "url": "https://siliconangle.com/2024/11/13/broadcoms-vmware-strategy-winning-despite-market-friction-2/",
+            "description": "Broadcom Inc.\u2019s acquisition of VMware Inc. is proceeding almost exactly as we expected when the deal was announced in May 2022. Much of the media and competitor narrative is focused on the ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SiliconANGLE"
+                }
+            ],
+            "datePublished": "2024-11-14T01:34:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Which Is a Better Investment, Broadcom Inc or Qualcomm Inc Stock?",
+            "url": "https://www.aaii.com/investingideas/article/31206-which-is-a-better-investment-broadcom-inc-or-qualcomm-inc-stock",
+            "description": "If you\u2019re on the fence about investing in Broadcom Inc. or QUALCOMM Incorporated because you\u2019re not sure how they measure up, it\u2019s important to compare them on a few factors before making your decision. Read on to learn how Broadcom Inc. and QUALCOMM ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "American Association of Individual Investors"
+                }
+            ],
+            "datePublished": "2024-11-14T00:00:00.0000000Z"
+        },
+        {
+            "name": "Which Is a Better Investment, Broadcom Inc or NVIDIA Corporation Stock?",
+            "url": "https://www.aaii.com/investingideas/article/32392-which-is-a-better-investment-broadcom-inc-or-nvidia-corporation-stock",
+            "description": "If you\u2019re on the fence about investing in Broadcom Inc. or NVIDIA Corporation because you\u2019re not sure how they measure up, it\u2019s important to compare them on a few factors before making your decision. Read on to learn how Broadcom Inc. and NVIDIA ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "American Association of Individual Investors"
+                }
+            ],
+            "datePublished": "2024-11-14T00:00:00.0000000Z"
+        },
+        {
+            "name": "Broadcom EMEA CTO: \u2018When it comes to building private clouds, we are first\u2019",
+            "url": "https://www.networkworld.com/article/3603406/broadcom-emea-cto-when-it-comes-to-building-private-clouds-we-are-first.html",
+            "description": "Focus, innovation and investment are key to positioning VMware technology in customer sights, says Joe Baguley, Broadcom's chief technology officer for EMEA. What was once VMware is now Broadcom.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Network World"
+                }
+            ],
+            "datePublished": "2024-11-12T00:00:00.0000000Z"
+        },
+        {
+            "name": "Broadcom's AI Breakthroughs Prompt Bullish Analyst Revisions",
+            "url": "https://finance.yahoo.com/news/broadcoms-ai-breakthroughs-prompt-bullish-141112108.html",
+            "description": "Broadcom (AVGO, Financial) has emerged as one of today's leading players in artificial intelligence, recently unveiling new AI developments that prompted analysts to revise their stock price ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2024-11-07T00:00:00.0000000Z"
+        },
+        {
+            "name": "Broadcom and Telia Announce Expanded Partnership to Further Transform Telco and Cloud Infrastructure",
+            "url": "https://www.nasdaq.com/press-release/broadcom-and-telia-announce-expanded-partnership-further-transform-telco-and-cloud",
+            "description": "and SOLNA, Sweden, Nov. 05, 2024 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) and Telia Company (STO: TELIA) today announced the expansion of their longtime partnership with a new multi-year ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nasdaq"
+                }
+            ],
+            "datePublished": "2024-11-05T08:00:00.0000000Z"
+        },
+        {
+            "name": "Broadcom announces VeloRAIN architecture for VeloCloud: what is that?",
+            "url": "https://www.techzine.eu/news/infrastructure/125920/broadcom-announces-velorain-architecture-for-velocloud-what-is-that/",
+            "description": "After some actual, physical downpours at the beginning of VMware Explore in Barcelona, Broadcom is also making it rain metaphorically this week. It announces several enhancements to its VeloCloud SD-WAN portfolio. Chief among them is the announcement of ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "techzine"
+                }
+            ],
+            "datePublished": "2024-11-05T08:00:00.0000000Z"
+        },
+        {
+            "name": "Broadcom Powers Telia's Modernization with VMware, Launches AI-Driven VeloRAIN & More",
+            "url": "https://www.benzinga.com/markets/equities/24/11/41739196/broadcom-powers-telias-modernization-with-vmware-launches-ai-driven-velorain-more",
+            "description": "Broadcom expands its Telia partnership to boost telecom and cloud modernization with VMware\u2019s cloud-native architecture. New Broadcom products, like VeloRAIN, enhance AI workload support ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-11-05T05:55:00.0000000Z"
+        },
+        {
+            "name": "Broadcom launches VeloRAIN, using AI/ML to improve network performance",
+            "url": "https://www.networkworld.com/article/3599188/vmware-launches-velorain-using-ai-ml-to-improve-network-performance.html",
+            "description": "It\u2019s billed as a tool to help AI and non-AI performance, but an analyst says it\u2019s the non-AI workloads we should be focusing on. VMware by Broadcom has unveiled a new networking architecture ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Network World"
+                }
+            ],
+            "datePublished": "2024-11-04T23:59:00.0000000Z"
+        },
+        {
+            "name": "Nutanix CEO sees multi-year opportunity after Broadcom\u2019s VMware acquisition",
+            "url": "https://www.cio.com/article/3598831/nutanix-ceo-sees-multi-year-opportunity-after-broadcoms-vmware-acquisition.html",
+            "description": "In an interview with Bloomberg's Tech Disruptors podcast, Nutanix President and CEO Rajiv Ramaswami discussed the growing adoption of hybrid multicloud and how Broadcom\u2019s acquisition of VMware ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CIO"
+                }
+            ],
+            "datePublished": "2024-11-04T00:00:00.0000000Z"
+        },
+        {
+            "name": "Broadcom pushes VMware vSphere value update \u2013 will it work?",
+            "url": "https://www.sdxcentral.com/articles/analysis/broadcom-pushes-vmware-vsphere-value-update-will-it-work/2024/10/",
+            "description": "Broadcom bolstered its VMware vSphere hyperconverged infrastructure (HCI) platform with more storage and brought back an old name for a new option that could help bridge the gap for users stung by ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "SDxCentral"
+                }
+            ],
+            "datePublished": "2024-10-31T12:00:00.0000000Z"
+        },
+        {
+            "name": "Apple rumored to ditch Broadcom Wi-Fi for own design in iPhone 17",
+            "url": "https://appleinsider.com/articles/24/10/31/apple-rumored-to-ditch-broadcom-wi-fi-for-own-design-in-iphone-17",
+            "description": "Previously, it was rumored that Apple was aiming to drop Broadcom's Wi-Fi processors, but now analyst Ming-Chi Kuo says it will happen with the iPhone 17. Broadcom currently supplies over 300 ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AppleInsider"
+                }
+            ],
+            "datePublished": "2024-10-31T00:00:00.0000000Z"
+        },
+        {
+            "name": "OpenAI, Broadcom working to develop AI inference chip",
+            "url": "https://www.scmp.com/tech/big-tech/article/3284402/openai-broadcom-working-develop-ai-inference-chip",
+            "description": "OpenAI is working with Broadcom to develop a new artificial intelligence chip specifically focused on running AI models after they have been trained, according to two people familiar with the matter.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "scmp.com"
+                }
+            ],
+            "datePublished": "2024-10-30T11:39:00.0000000Z"
+        },
+        {
+            "name": "OpenAI reportedly asks Broadcom for help with custom inferencing silicon",
+            "url": "https://www.theregister.com/2024/10/30/openai_broadcom_tsmc_custom_silicon/",
+            "description": "OpenAI is reportedly in talks with Broadcom to build a custom inferencing chip. A Reuters report claims the AI upstart and the chip design firm have staged confidential discussions about custom silicon, with Taiwan Semiconductor Manufacturing Company ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "theregister"
+                }
+            ],
+            "datePublished": "2024-10-30T07:24:00.0000000Z"
+        },
+        {
+            "name": "OpenAI building first custom AI inference chip with TSMC and Broadcom - report",
+            "url": "https://www.datacenterdynamics.com/en/news/openai-building-first-custom-ai-inference-chip-with-tsmc-and-broadcom-report/",
+            "description": "OpenAI is working with TSMC and Broadcom to build its own AI inference chip. According to Reuters, OpenAI has, for now at least, dropped its plans to establish its own foundries due to cost and time restraints, and is instead focusing all its efforts on in ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Datacenter Dynamics"
+                }
+            ],
+            "datePublished": "2024-10-30T00:01:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Broadcom Unusual Options Activity For October 29",
+            "url": "https://www.benzinga.com/insights/options/24/10/41600556/broadcom-unusual-options-activity-for-october-29",
+            "description": "Whales with a lot of money to spend have taken a noticeably bullish stance on Broadcom. Looking at options history for Broadcom AVGO we detected 17 trades. If we consider the specifics of each ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Benzinga.com"
+                }
+            ],
+            "datePublished": "2024-10-29T10:01:00.0000000Z"
+        },
+        {
+            "name": "Can the Ongoing Rally in Broadcom (AVGO) Stock Extend?",
+            "url": "https://www.nasdaq.com/articles/can-ongoing-rally-broadcom-avgo-stock-extend",
+            "description": "Shares of semiconductor company Broadcom Inc. (AVGO) have rallied more than 57% so far this year. I believe that the stock will continue to rise. Major reasons why I\u2019m bullish on Broadcom ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Nasdaq"
+                }
+            ],
+            "datePublished": "2024-10-24T15:21:00.0000000Z"
+        },
+        {
+            "name": "Chip war: Apple strikes major US-made semiconductor deal",
+            "url": "https://www.bbc.com/news/business-65692276",
+            "description": "Apple says it has struck a multi-billion dollar deal with chipmaker Broadcom to use more US-made parts. Under the multi-year agreement, the two US companies will develop components for 5G devices ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC"
+                }
+            ],
+            "datePublished": "2023-12-17T08:41:00.0000000Z"
+        }
+    ]
+}

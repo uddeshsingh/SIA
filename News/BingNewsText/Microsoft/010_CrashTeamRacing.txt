@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Marc Deschamps"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 21:38:01",
+    "description": "Crash Team Racing Nitro-Fueled has been confirmed for Xbox Game Pass, and will arrive on the service on December 4th.",
+    "filename": ".json",
+    "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/Crash-Team-Racing-Nitro-Fueled.jpg?resize=2000,1125",
+    "language": "en",
+    "localpath": null,
+    "maintext": "With the impending release of Indiana Jones and the Great Circle, this month is already set to be a big one for Xbox Game Pass subscribers. However, things just got a little bit sweeter. Xbox confirmed today that Crash Team Racing Nitro-Fueled will be added to the service on December 4th. At this time, there are no further details, and we don\u2019t know if this will apply to Cloud Gaming or just console. Presumably Crash Team Racing Nitro-Fueled will be available through Cloud and console, as that was the case with Crash Bandicoot N. Sane Trilogy when it was added to Xbox Game Pass back in August. With the game set to arrive on Wednesday, we should have more details soon!\nVideos by ComicBook.com\nCrash Team Racing Nitro-Fueled was released in 2019 on Xbox One and other platforms. The game is a remaster of the original Crash Team Racing, adding in new features, such as online play and new modes. There are also a metric ton of characters to choose from, including characters from the Spyro franchise. As the name implies, Crash Team Racing Nitro-Fueled is a mascot kart racer, similar to games like Mario Kart 8 and Team Sonic Racing. Reviewers for the game were largely positive, with the Xbox One version currently holding an 84 score on Metacritic.\nMicrosoft closed its acquisition of Activision Blizzard in late 2023. It took a while for Game Pass subscribers to see any benefits from the deal, but Microsoft has been slowly but surely digging into the company\u2019s catalog to bring more options to the service. In addition to the two Crash Bandicoot games, Game Pass has added multiple Call of Duty titles, and Spyro Reignited Trilogy. Xbox has largely focused on games that have been released over the last few years, but there have been a lot of rumors about older Activision games being added to the service. One rumor has suggested that Activision\u2019s older Transformers games could get a new release, but nothing has been confirmed at this time.\nRELATED: Xbox Game Pass Ultimate Adds Cloud Streaming for Games Players Own\nThere are still a lot of old Crash Bandicoot games that could be added from Activision\u2019s back catalog, including The Wrath of Cortex, which was released on the original Xbox. However, the game we\u2019ll most likely see after Crash Team Racing: Nitro-Fueled is Crash Bandicoot 4: It\u2019s About Time. The 2020 video game was well-received upon its release, and would be a welcome sight on Xbox Game Pass. The developer, Toys for Bob, is currently working on a game that will be published by Xbox Game Studios, which many believe to be a new entry in the Crash Bandicoot or Spyro franchises. It could be a while before that gets confirmed, so Crash fans will have to settle for the current games for the time being!",
+    "source_domain": null,
+    "text": null,
+    "title": "Crash Team Racing Nitro-Fueled Coming to Xbox Game Pass This Week",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

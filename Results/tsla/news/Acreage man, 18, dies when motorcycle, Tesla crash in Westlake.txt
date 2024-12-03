@@ -1,0 +1,17 @@
+Authors: ['Julius Whigham II']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:42:42
+Description: Derek Hedrill Machin of The Acreage died in the wreck Saturday night along Seminole Pratt Whitney Road, deputies said.
+Filename: .json
+Image_Url: https://www.freep.com/gcdn/presto/2022/05/12/NPPP/851c72d5-9ae1-4cf0-98e8-484f5a808232-STOCK_fire_rescue_siren.JPG?crop=1279,720,x0,y118&width=1279&height=720&format=pjpg&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Acreage man, 18, dies when motorcycle, Tesla crash in Westlake
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: An 18-year-old motorcycle driver was killed Saturday night in a collision with another vehicle in Westlake, the Palm Beach County Sheriff's Office reports. Investigators said Derek Hedrill Machin died after he was thrown from a 2018 Kawasaki Ninja shortly before 8 p.m. Saturday in a collision at Seminole Pratt Whitney Road and Town Center Parkway North. As he approached Town Center Parkway North, the driver of a southbound 2023 Tesla sedan began making a left turn, crossing into the Kawasaki's path. The collision caused the Tesla to rotate counterclockwise before coming to a stop in a northbound lane, the crash report said. Palm Beach County Fire Rescue medics pronounced Machin dead at the scene.
+Financial_Events: []

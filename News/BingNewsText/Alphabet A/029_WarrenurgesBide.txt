@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Adam Reilly",
+        "www.wgbh.org",
+        "adam-reilly"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 16:18:50",
+    "description": "The Massachusetts senator and her colleague from Connecticut made their call in a letter released Monday.",
+    "filename": ".json",
+    "image_url": "https://cdn.grove.wgbh.org/dims4/default/f75f6ec/2147483647/strip/true/crop/8000x4200+0+159/resize/1200x630!/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2F67%2Fea%2Ff875c0da462b9255d6c56c982599%2Fwarren-trump-side-by-side.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "U.S. Senator Elizabeth Warren (D-MA) is publicly urging President Joe Biden and Lloyd Austin, Biden\u2019s defense secretary, to take steps to limit the possible use of active-duty U.S. military and National Guard personnel against Americans once President-elect Donald Trump returns to the White House in 2025.\nIn a letter released Monday, Warren and U.S. Senator Richard Blumenthal (D-CT) urged Biden and Austin to issue a policy directive specifying that the federal Insurrection Act should only be used in narrow instances, e.g., when local and state authorities are overwhelmed and request assistance, or when attacks against the United States render local and state authorities incapable of effective response.\nWarren and Blumenthal also suggested that the policy directive specify that presidents should consult with Congress \u201cto the maximum extent practicable\u201d before deploying the military under the Insurrection Act, and convey that any military domestically deployed are bound by the Standing Rules for the Use of Force \u201cand cannot violate the writ of habeas corpus, federal law, or where applicable, federal or state law.\u201d\nAs the letter notes, Trump has repeatedly spoken of using the military for domestic purposes, including securing the border and quashing protests. He also said prior to winning reelection that he would be a dictator on his first day in office but not afterward, and has described his political opponents as the \u201cenemy within.\u201d\nWarren and Blumenthal argue that the U.S. Supreme Court\u2019s ruling in Trump v. United States \u2014 which found that presidents enjoy broad immunity from criminal prosecution for the commission of official acts \u2014 make it especially important to limit Trump\u2019s future use of the Insurrection Act.\n\u201cIf unaddressed, any ambiguity on the lawful use of military force, coupled with President-elect Trump\u2019s demonstrated intent to utilize the military in such dangerous and unprecedented ways, may prove to be devastating,\u201d they wrote.\nAsked if Trump could simply reverse any policy directive created by Biden, Warren told GBH News: \u201cNo policy fight is ever one and done. This action would set up a future warning alarm and force the next Trump Administration to justify any expansion of the military\u2019s role against its fellow citizens.\u201d\nJuliette Kayyem, a senior lecturer at Harvard University\u2019s Kennedy School of Government and former assistant secretary in President Barack Obama\u2019s Department of Homeland Security, called the letter an attempt to convey that Trump\u2019s possible abuse of the military poses a real and imminent danger.\n\u201cAmericans seem not to believe what a threat Trump is in this regard, and I welcome putting lines in the sand,\u201d said Kayyem, who also served as Massachusetts Governor Deval Patrick\u2019s homeland security advisor. \u201cIt won\u2019t have much impact on Trump, but to the extent that Democrats have a few weeks to lay the foundation to protect democracy, than this is one of the only [ways] to show how out of the norms Trump\u2019s plans are.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Warren urges Biden to limit Trump\u2019s ability to use US military against Americans",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,17 @@
+Authors: ['Kimberlee Speakman', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 11:53:03
+Description: Toronto Police said four people were killed after their Tesla caught on fire after hitting a guardrail and crashing into a 'concrete pillar.' One person in the car was rescued from it by a bystander.
+Filename: .json
+Image_Url: https://people.com/thmb/s15QvhrBt9rNbJXTBRZoSnEfW2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(725x411:727x413)/toronto-tesla-car-accident-111224-1-615ec11c08dd40c1b8381e4ebcf68ffb.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 4 Killed After a Tesla Crash Sparks Fire in Toronto
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Four people were killed — and one person was saved by a bystander — after their Tesla erupted in flames after crashing into a pillar on a roadway. The incident occurred at around 12:10 a.m. local time when an electric vehicle carrying “five occupants” was “going at a high rate of speed," Toronto Police Duty Insp. Sinclair told CTV News that the sole survivor of the crash was rescued by a “bystander” — eventually identified as 73-year-old Canada post worker Rick Harper — who “provided assistance” at the site of the crash around the time the “fire had started.” "Thanks very much to that bystander," Sinclair said, per the outlet. Harper told CBC News and the Toronto Star that when he came upon the crash, there were others already gathered outside the vehicle who were pounding at the back passenger window as they couldn’t open the doors. " Harper told CBC News that he managed to grab a bar he had from his truck and “swung” at the back window before handing it over to another bystander who successfully broke it and pulled a woman out of the backseat.
+Financial_Events: []

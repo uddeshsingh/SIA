@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Tipranks"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 15:34:55",
+    "description": "In a report released today, Daniel Ives from Wedbush maintained a Buy rating on Salesforce (CRM \u2013 Research Report), with a price target of $375....",
+    "filename": ".json",
+    "image_url": null,
+    "language": "en",
+    "localpath": null,
+    "maintext": "In a report released today, Daniel Ives from Wedbush maintained a Buy rating on Salesforce (CRM \u2013 Research Report), with a price target of $375.00. The company\u2019s shares closed last Friday at $329.99.\nIves covers the Technology sector, focusing on stocks such as Apple, Palantir Technologies, and Salesforce. According to TipRanks, Ives has an average return of 5.5% and a 55.38% success rate on recommended stocks.\nIn addition to Wedbush, Salesforce also received a Buy from Piper Sandler\u2019s Brent Bracelin in a report issued today. However, on the same day, Monness maintained a Hold rating on Salesforce (NYSE: CRM).\nThe company has a one-year high of $348.86 and a one-year low of $212.00. Currently, Salesforce has an average volume of 5.37M.\nTipRanks tracks over 100,000 company insiders, identifying the select few who excel in timing their transactions. By upgrading to TipRanks Premium, you will gain access to this exclusive data and discover crucial insights to guide your investment decisions. Begin your TipRanks Premium journey today.\nSalesforce (CRM) Company Description:\nsalesforce.com, inc. engages in the design and development of cloud-based enterprise software for customer relationship management. Its solutions include sales force automation, customer service and support, marketing automation, digital commerce, community management, collaboration, industry-specific solutions, and salesforce platform. The firm also provides guidance, support, training, and advisory services. The company was founded by Marc Russell Benioff, Parker Harris, David Moellenhoff, and Frank Dominguez in February 1999 and is headquartered in San Francisco, CA.",
+    "source_domain": null,
+    "text": null,
+    "title": "Salesforce (CRM) Gets a Buy from Wedbush",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

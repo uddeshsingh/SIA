@@ -1,0 +1,17 @@
+Authors: ['Jeremy Bowman', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 20:56:08
+Description: Tesla finally hit a speed bump after a blistering post-election rally.
+Filename: .json
+Image_Url: https://g.foolcdn.com/editorial/images/797606/tesla-model-3.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Why Tesla Stock Was Pulling Back Today
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: There was no major company-specific news out on Tesla, though Hertz Global again offered evidence that demand for electric vehicles (EVs) isn't as strong as bulls have hoped. Tesla runs out of gas The only piece of news that would have directly weighed on the stock was Hertz's announcement that it continues to see weak demand for EVs and will sell 30,000 of them by the end of the year. However, the main reason for today's sell-off seemed to be related to sentiment and valuation as Tesla's surge has come without any clear benefit to the business, and with the broader pullback in the market, investors seem to be saying the post-election rally has run out of steam. Tesla has soared in the aftermath of the election as CEO Elon Musk closely aligned himself with Trump, but it's not fully clear that getting in the president's good graces is going to benefit his EV company. Investors are ultimately hopeful that the Trump administration will loosen up rules around autonomy, making it easier for Tesla to roll out its new robotaxi, or Cybercab, but safety and public perception will be the most critical test for the vehicles.
+Financial_Events: []

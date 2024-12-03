@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Michael Anthony"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:10:07",
+    "description": "Williston Basin School District Superintendent Richard Faidley submitted a letter of resignation on Monday.",
+    "filename": ".json",
+    "image_url": "https://gray-kfyr-prod.gtv-cdn.com/resizer/v2/OPMUJZFBAVHEBOHSRQWTMUWZIE.JPG?auth=36e9960bc4f6eb3fc0bb8a53c52a6ad50d0f58998656dd00819df4a01fb66a68&width=1200&height=600&smart=true",
+    "language": "en",
+    "localpath": null,
+    "maintext": "WILLISTON, N.D. (KUMV) - Williston Basin School District Superintendent Richard Faidley submitted a letter of resignation on Monday.\nIn the letter, Faidley said he\u2019s proud of several accomplishments made during his time, including passing a bond for the new elementary school and opening a new career and technical education center.\nThis announcement comes following a discussion on Faidley\u2019s recent evaluation and continuation of a personal improvement plan.\nThe board will discuss the resignation later Monday night.",
+    "source_domain": null,
+    "text": null,
+    "title": "Williston Basin School superintendent to resign",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

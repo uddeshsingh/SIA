@@ -1,0 +1,17 @@
+Authors: ['Jak Connor', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 00:03:03
+Description: Elon Musk has touched on rumors about Tesla having a smartphone in development during a recent interview on 'The Joe Rogan Experience' podcast.
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Elon Musk confirms if Tesla is making a smartphone to rival Apple and Google
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: He mentioned that Tesla could potentially create a phone, given its Linux-based operating system, but emphasized that it's not a priority unless necessary. Skip to 1:33:13 It has been long rumored that Tesla is developing a smartphone that will separate itself from the duopoly of operating systems, Android and iOS. In fact, Musk has brought up the topic before as the Tesla CEO said in November 2022 that if Apple and Google decided to "boot" then-Twitter, and now X, from its respective app stores, Musk said there would be no other choice but to "make an alternative phone. Now, on a recent episode of the JRE podcast, Musk was asked if there is any credibility to these rumors, or if he has ever considered making a smartphone. Musk added, "Probably Tesla is in a better position to create a new phone that's not Android or iPhone than maybe any company in the world.
+Financial_Events: []

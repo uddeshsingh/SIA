@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Philippine Daily Inquirer"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-07 02:28:56",
+    "description": "Tesla Motors is making a big splash in the Philippines with the opening on Friday of first Tesla Showroom Flagship Experience Center in the country.",
+    "filename": ".json",
+    "image_url": "https://business.inquirer.net/files/2024/07/bizbuzz-2024.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesla Motors, the Elon Musk-led company that produces \u201cbad..s, zero-emission vehicles that can charge with clean energy,\u201d is making a big splash in the Philippines with the opening on Friday of the first Tesla Showroom Flagship Experience Center in the country.\nThe Philippines is the fourth country in the region to have such facility after Singapore, Malaysia and Thailand.\nIt will be housed at Uptown Parade, one of the many developments within the Uptown Bonifacio township developed by Andrew Tan-led property leader Megaworld Corp.\nREAD: Cybertruck\u2019s supervised self-driving feature open to select users\nNo less than Alliance Global Group Inc. President and CEO Kevin Tan and Megaworld President Lourdes Gutierrez-Alfonso will lead the opening of the facility that includes an after-sales service center aside from the showroom.\nThey will be joined by Tesla executives from the region who are flying in for the happy occasion.\nArticle continues after this advertisement\nUptown is already home to many firsts\u2014the first Tim Hortons, Randy\u2019s Donuts, Tempur Cinema and soon, Morton\u2019s Steakhouse.\nArticle continues after this advertisement\nThe first Tesla charging center will also be in Uptown Mall attached to Uptown Parade, just beside the Palace and the newly constructed International Finance Center, which will be the future expansion home of JP Morgan, another American company.\nArticle continues after this advertisement\nTesla says the opening is a \u201ccelebration to remember\u201d and showcases its commitment \u201cto revolutionizing\u201d the local landscape.\nWant to check out the Tesla models? Don\u2019t fret as you might get a chance to test drive one of the units starting December. \u2014Tina Arceo-Dumlao\nMore flights to Japan\nHeads up, travelers! More flights to Japan\u2014one of Asia\u2019s most popular tourist destinations\u2014will be available by the start of 2025.\nBiz Buzz heard that Cebu Pacific will launch its Manila-Sapporo flights by Jan. 16, 2025. This will be offered thrice weekly\u2014Tuesday, Thursday and Saturday.\nREAD: PAL to debut Cebu-Osaka flights in December\nThe Hokkaido city is Japan\u2019s winter destination for skiing and snowboarding. It is also popular for its beer museum where guests can learn about the history of the popular beverage in Japan.\nThe new route will complement its other Japan routes: Fukuoka, Nagoya and Osaka.\nThe budget carrier has been seeing strong interest in its routes to Japan, nearly doubling its passenger volume to the tourist destination to 110,000 in the first quarter. The latest figure is also 20-percent better than the prepandemic volume.",
+    "source_domain": null,
+    "text": null,
+    "title": "BIZ BUZZ: Tesla is coming to town",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Stephanie Ruhle",
+        "Alex Sherman, CNBC"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-01 15:00:58",
+    "description": "Billionaire Marc Benioff, co-founder of Salesforce, bought the Time Magazine publisher for $190 million in 2018.",
+    "filename": ".json",
+    "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241031-Marc-Benioff-ch-1435-2cdb54.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The Greek media company Antenna Group is in talks to acquire Time from Salesforce co-founder Marc Benioff, according to people familiar with the matter.\nNo deal is assured and the talks are still early, said the people, who asked not to be named because the discussions are private.\n\u201cThere is no agreement to sell Time,\u201d said a Time spokesperson, who declined to comment on the talks with Antenna. An Antenna Group spokesperson didn\u2019t respond for comment.\nBenioff acquired Time in 2018 for $190 million. Early talks with Antenna have centered around a price of $150 million, one of the people said.\nThe talks come at a particularly turbulent time for legacy media companies, which are trying to stay afloat as digital-first assets amid competition with free services such as YouTube, TikTok and Instagram.\nComcast announced Thursday it is considering a spinoff of its cable network group. The Washington Post, owned by fellow tech billionaire Jeff Bezos, has lost more than 10% of its subscribers in recent days after deciding it wouldn\u2019t endorse a candidate in the U.S. presidential election, according to NPR.\nBenioff and his wife, Lynne, bought Time from Meredith Corp., which owned the magazine for less than a year.\n\u201cThe Benioffs emerged as the best fit, willing to put journalistic integrity ahead of corporate gains,\u201d Alan Murray, chief content officer of the Time Inc. brands at Meredith, said at the time.\nThe Antenna Group nearly acquired Vice Media in 2022 before the company declared bankruptcy. Most of its investments have been Europe-centric, though it has invested in Arianna Huffington\u2019s technology company Thrive Global.\nDisclosure: Comcast owns NBCUniversal, the parent company of CNBC, NBC News and MSNBC.\nCorrection: This article has been updated to correct the name of media company Time.",
+    "source_domain": null,
+    "text": null,
+    "title": "Time Magazine publisher up for sale",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

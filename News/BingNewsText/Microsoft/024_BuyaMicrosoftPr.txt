@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Allison Murray"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-04-11 00:00:00",
+    "description": "Microsoft's project management solutions include timesheet support, org charts, and more to help you stay organized -- and they're on sale for 92% off.",
+    "filename": ".json",
+    "image_url": "https://www.zdnet.com/a/img/resize/5cbfa617224d87d72d23e67a28aa143497edb72e/2024/04/11/5d3ec3bb-ee61-47bf-86d6-2ff6397ec46a/microsoft-project-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
+    "language": "en",
+    "localpath": null,
+    "maintext": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites. And we pore over customer reviews to find out what matters to real people who already own and use the products and services we\u2019re assessing.\nWhen you click through from our site to a retailer and buy a product or service, we may earn affiliate commissions. This helps support our work, but does not affect what we cover or how, and it does not affect the price you pay. Neither ZDNET nor the author are compensated for these independent reviews. Indeed, we follow strict guidelines that ensure our editorial content is never influenced by advertisers.",
+    "source_domain": null,
+    "text": null,
+    "title": "Buy a Microsoft Project Pro or Microsoft Visio Pro license for $18 right now",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

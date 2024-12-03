@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Diane Wilson"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 23:10:06",
+    "description": "Porch pirates already looking to swipe packages delivered to homes across central North Carolina. Ways you can keep your deliveries safe.",
+    "filename": ".json",
+    "image_url": "https://cdn.abcotvs.com/dip/images/15615767_120224-wtvd-porch-pirate-img.jpg?w=1600",
+    "language": "en",
+    "localpath": null,
+    "maintext": "CLAYTON, N.C. (WTVD) -- This holiday season it's key to protect your online orders from porch pirates.\n\"I ordered some things for my kids for Christmas, so I was excited to get them,\" Clayton resident Dee Strong said. However, that excitement quickly turned to disappointment\n\"They said, 'Oh, your package is there.' So I was excited to get home and find the package, but when I got here there was no package,\" Strong said. \"It's just gone.\"\nStrong is not alone as Security.org estimates 58 million Americans will be a victim of package theft this year. That amounts to $12 billion worth of stolen packages in 2024.\nAmazon, one of the biggest online retailers, said to prevent package thefts customers should take advantage of their delivery options.\n\"You'll get that photo on delivery so that you can see exactly where the driver delivered that package on your doorstep. We also have the ability to track your package live through our map tracking feature, so you can see exactly where it is en route,\" Richard Rocha with Amazon said.\nOther delivery companies also offer tracking and delivery confirmation options that allow you to know in real time when your package is on the way or has been delivered.\nBut these notification systems also create an opening for scammers. For that reason, you need to be on guard with delivery notifications as scammers often send fake texts claiming there is a problem with your delivery. A link is included in that text, and scammers want you to click on the link to steal your information. Don't do it. Instead, delete the text.\nAnother way to protect your packages, leave the light on as deliveries are happening after sunset and in the early morning hours. Doorbell cameras also help deter thieves.\nIf you know you won't be home on a specific day, Amazon Prime members can designate a specific day to have the item delivered or pick it up from one of their locations, like Whole Foods.\n\"If it's easier for you to pick up something on your way back home from the grocery store or coming home from the gym. You can designate one of those locations and make sure you pick up your package, so it's not left on your doorstep for too long,\" Rocha said.\nAs for Strong, she reported the missing package right away, and the retailer did give her a refund, but has this advice for others.\n\"Definitely track it. Track your packages. You deserve to get your stuff. You order your stuff. You pay for your stuff. You need to get it.\"\nIf your package is stolen take these steps and report the theft to the police and the shipping company. Reach out to the retailer to see if the item can be replaced or if you are given a refund. Also, check if your credit card offers purchase protection.",
+    "source_domain": null,
+    "text": null,
+    "title": "Porch pirates already seen taking Christmas presents in the Triangle",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

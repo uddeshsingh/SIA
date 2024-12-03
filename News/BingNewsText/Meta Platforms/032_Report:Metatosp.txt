@@ -1,0 +1,24 @@
+{
+    "authors": [
+        "MARIA DEUTSCHER",
+        "GUEST AUTHOR",
+        "ROBERT HOF",
+        "PAUL GILLIN",
+        "JAMES FARRELL"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-29 14:46:32",
+    "description": "Report: Meta to spend $10B+ on 25,000-mile submarine internet cable - SiliconANGLE",
+    "filename": ".json",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/11/Meta.png",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Meta Platforms Inc. plans to spend more than $10 billion on a submarine internet cable that will circle the globe, TechCrunch reported today.\nThe project was first detailed last month by subsea networking expert Sunil Tagare. According to TechCrunch, multiple sources close to Meta have confirmed the initiative. The Facebook parent is no stranger to undersea internet infrastructure: It has already built several submarine internet cables in partnership with other companies.\nUnlike those earlier systems, the upcoming cable is expected to be wholly owned by Meta. It will span more than 24,850 miles from the East Coast to the West Coast with pit stops in South Africa, India and Australia. The report didn\u2019t specify the cable\u2019s planned bandwidth.\nMeta is expected to finance the project in phases. The cable\u2019s first segment will reportedly cost $2 billion to deploy, while the remaining modules could reportedly add more than $8 billion to the price tag. The system is expected to take years to complete, partly because the specialized cable ships used in such projects are fully booked for the foreseeable future.\nThe initiative is said to be in an early stage. Meta is expected to announce it publicly next year, at which point the company will also share details such as the cable\u2019s route and bandwidth.\nAs part of its previous submarine internet projects, Meta has developed several technologies to streamline the flow of data across the ocean floor. It\u2019s possible some of those technologies will be incorporated into the upcoming cable.\nThe electricity that powers submarine internet cables is typically delivered via copper wiring. In 2019, Meta detailed that it was working to replace copper with aluminum conductors. Using aluminum lowers both costs and voltage drop, a phenomenon that limits the amount of power delivered to a cable\u2019s components and thereby constrains its bandwidth.\nIn 2022, a group of companies that included Meta deployed the first submarine internet cable built with aluminum conductors. The Havhingsten cable, as it\u2019s called, runs from Ireland to the west coast of the UK and Denmark.\nMeta has also explored other ways of improving undersea internet equipment. One research project, which the company detailed in 2021, sought to boost the bandwidth of submarine cables by enhancing the way they implement repeaters. Those are optical components that shield network traffic from data loss and errors.\nRepeaters are placed every 50 miles or so along a cable. The speed at which the cable transmits data partly depends on how much power is available to its repeaters. Currently, power availability is limited by the fact that electricity has to be sourced from the shore even when a repeater is in the middle of the ocean.\nAs part of the research project it detailed in 2021, Meta sought to develop ways of addressing the challenge. The company explored ways of using solar panels to generate power for repeaters. Meta also looked at using wave energy converters, devices that turn kinetic energy from waves into electricity.\nMeta\u2019s internet cable investments are part of a broader effort to enhance its network infrastructure. In addition to creating new routes through which user traffic can travel to its data centers, the company is working to speed up the flow of information inside those data centers.\nLast month, Meta detailed a custom network chip it has designed in collaboration with Marvell Technology Inc. The FBNIC, as it\u2019s called, is what\u2019s known as a network interface controller. This is a type of chip that acts as an interface between a server and the rest of the data center in which it\u2019s running.\nThe FBNIC is based on a five-nanometer node and can move up to 100 gigabits of data per second per port. According to Marvell, the chip runs Meta-developed firmware that makes it easier for the social media giant\u2019s engineers to fix technical issues.\nImage: Meta",
+    "source_domain": null,
+    "text": null,
+    "title": "Report: Meta to spend $10B+ on 25,000",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

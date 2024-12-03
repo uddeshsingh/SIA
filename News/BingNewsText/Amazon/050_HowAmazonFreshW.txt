@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Vanessa Page"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2015-05-20 23:53:00",
+    "description": "Amazon Fresh, a grocery delivery company, also offers modern solutions to in-store shopping by incorporating \"Just Walk Out\" technology.",
+    "filename": ".json",
+    "image_url": "https://www.investopedia.com/thmb/nDYQNBeYoIRSXIEEG8HgcYZRyoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basket-690778_1280-5bfc380cc9e77c0051832d15.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Amazon Fresh is a grocery delivery service available to Amazon Prime members in select cities. Launched in Seattle in 2007, the service has expanded to major cities throughout the United States and select cities worldwide. Customers can choose from thousands of items, including produce, meat, seafood, snacks, and household essentials.\nUsing Amazon Fresh\nCustomers sign in to their Amazon Prime account or use the Fresh app to start shopping. They can choose unattended or attended delivery and a delivery time slot. Individuals can also use Alexa\u2014Amazon's cloud-based voice service\u2014to verbally tell Alexa to add an order to their Fresh cart. Alexa integration enhances the shopping experience. This technology integrates software applications with hardware devices leveraging the Internet of Things.\nCustomers can visit physical Amazon Fresh stores in select locations. With the acquisition of Whole Foods, Amazon Fresh offers organic, seasonal, and fresh goods. The Amazon Dash Cart allows users to scan a QR code to sign in and begin shopping. At stores, customers can find Alexa kiosks to search for and obtain information on where goods are located.\nItems placed in the cart are tracked, and payment is processed when they exit through the Amazon Dash Cart lane. Amazon Fresh has revolutionized the check-out process, no longer necessitating standing in long queues or interacting with another human as part of the exiting process.\nPricing and Delivery\nAmazon Fresh is free for Prime members in eligible regions of the United States. Amazon combined the ordering sites for Amazon Fresh and Whole Foods Market. Prime members also receive free delivery when ordering from Whole Foods.\nAmazon's Just Walk Out technology allows customers to \"walk out\" of the store to be billed upon their departure. Customers can integrate their payment method into the Amazon app. Consumers can earn 5% back when paying with their Amazon Prime Rewards Visa Signature credit card.\nAmazon Fresh stores are located in California, Illinois, New York, Tennessee, Maryland, Pennsylvania, Virginia, Washington, and New Jersey. Amazon Fresh is also available in ten countries throughout Europe.\nCompetition\nAmazon isn't the first company to offer fast grocery delivery service. Companies like Webvan and HomeGrocer started delivering food to hungry customers in the mid-1990s. Most brick-and-mortar supermarket chains, like Stop & Shop and Giant Foods, offer e-commerce and delivery services to their customers in 2024.\nFresh Direct: Since 2002 Fresh Direct has served customers in New York City and surrounding areas, counties in New Jersey, the greater Philadelphia area, Delaware, and Washington, D.C.\nInstacart: Available for customers in 14,000 cities in the United States and Canada. The company, founded in 2012, is based in San Francisco and is partnered with over 80,000 retail and grocery stores. Personal shoppers fulfill and deliver orders within a requested time frame.\nThe Bottom Line",
+    "source_domain": null,
+    "text": null,
+    "title": "How Amazon Fresh Works",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

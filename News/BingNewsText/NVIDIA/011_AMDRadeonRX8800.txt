@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Daniel Sims"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 17:14:00",
+    "description": "A proven leaker from the Chiphell forums recently reported that an upcoming AMD RDNA4 graphics card substantially outperforms the company's current flagship in ray tracing while drawing...",
+    "filename": ".json",
+    "image_url": "https://www.techspot.com/articles-info/2928/images/2024-11-25-image-17.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Rumor mill: Rumors have long indicated that AMD aims to shrink Nvidia's lead in ray tracing performance with its next generation of discrete graphics cards. With both companies reportedly releasing new GPUs within weeks, new data suggests Team Red might put up a serious fight in the mid-range sector next year.\nA proven leaker from the Chiphell forums recently reported that an upcoming AMD RDNA4 graphics card substantially outperforms the company's current flagship in ray tracing while drawing less power. Furthermore, it will likely cost far less, with performance resembling competitor Nvidia's current high-end GPU.\nIn a discussion concerning an upcoming AMD card, likely to be called the Radeon RX 8800 XT, leaker \"zhangzhonghao\" stated that its ray tracing performance surpasses the RX 7900 XTX by around 45 percent in the Resident Evil 4 Remake and other titles. We should note that Capcom's action horror remake only features ray-traced reflections, and the other games were unnamed, but the tipster described AMD's RT performance uplift as \"epic.\"\nRadeon RX 6000 and 7000 GPUs have lagged behind Nvidia's GeForce RTX cards for years in games that heavily utilize ray tracing. One such title, Star Wars Outlaws, shows the RX 7900 XTX barely outpacing the RTX 4070, which is around $400 cheaper.\nIn contrast, the RX 8800 XT matches the RTX 4080 and 4080 Super in traditional raster rendering and ray tracing, representing a dramatic improvement. It also consumes about 25 percent less power than the 7900 XTX, suggesting a TDP no higher than 270W. If zhangzhonghao's report proves accurate, it would align with an AMD data sheet that leaked earlier this year, which described new technology designed to boost RT performance in the company's future products.\nInno3D, which sells Nvidia graphics cards, recently confirmed that Team Green plans to reveal its upcoming RTX 50 series at CES in January. Prior rumors suggested that AMD would reveal RDNA 4 at the event, launching the next generation of the GPU race.\nIf the RX 8800 XT trades blows with the RTX 4080, the RTX 5070 might become its true rival. Pricing details remain unclear for both upcoming lineups, but history suggests AMD might have a slight advantage. Furthermore, a mysterious Geekbench entry hinted that the RX 8800 XT, presumably based on the Navi 48 GPU, features 16GB of VRAM, surpassing the 5070's rumored 12GB.",
+    "source_domain": null,
+    "text": null,
+    "title": "AMD Radeon RX 8800 XT could go head-to-head with RTX 4080 in raster and ray tracing performance",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

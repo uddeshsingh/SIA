@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Peter Pinedo"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-29 16:51:28",
+    "description": "After its Facebook account was suspended, Smith & Wesson thanked Elon Musk and X for supporting free speech amid what it called ongoing attacks against the First and Second Amendments.",
+    "filename": ".json",
+    "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/trump-elon-musk-sunglasses.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "After its Facebook account was suspended, the popular American gun manufacturer Smith & Wesson thanked Elon Musk and X for supporting free speech amid what it called ongoing attacks against the First and Second Amendments.\nAndy Stone, a representative for Facebook's parent company, Meta, told Fox News Digital that the account had been suspended in error and that it has since been restored.\nIn a Friday post on X, however, Smith & Wesson emphasized the importance of Musk's stance on free speech, criticizing Meta for suspending their account after the platform flagged several of its posts for promoting the sale of weapons.\nFounded in 1852 in Norwich, Connecticut, today Smith & Wesson is based in Maryville, Tennessee, and is one of the most recognized gun brands in America, reporting $535.8 million in sales in the 2024 fiscal year.\nSmith & Wesson said that \"despite our extensive efforts and resources spent on trying to adhere to Facebook\u2019s ever-changing community guidelines on firearms, our account was suspended indefinitely on Friday, November 22nd, 15 years after its original creation.\"\nELON MUSK PLEDGES SUPPORT FOR THE SECOND AMENDMENT: \u2018TYRANTS\u2019 DISARM THE PEOPLE\nThe manufacturer shared a screenshot of the suspension notice it had received from Facebook in which the platform said several posts dated Nov. 22, 13 and July 18 violated the rules on promoting weapons.\nFacebook\u2019s commerce policy prohibits the promotion of buying, selling and trading of weapons, ammunition and explosives. However, according to Facebook\u2019s parent company Meta\u2019s website, there is an exception for legitimate brick-and-mortar and online retailers, though their content is still restricted for minors.\nZUCKERBERG SAYS \u2018ESTABLISHMENT\u2019 ASKED FACEBOOK TO CENSOR COVID MISINFO THAT ENDED UP TRUE: \u2018UNDERMINES TRUST\u2019\nAlthough its account has since been reinstated, Smith & Wesson encouraged its 1.6 million Facebook followers and fans to \"seek out platforms\" that represent the \"shared values\" of free speech and the right to bear arms.\n\"In an era where free speech and the right to bear arms are under constant attack, we want to thank Elon Musk and X for supporting free speech and our constitutional rights guaranteed by the 1st and 2nd Amendments,\" said Smith & Wesson.\nCLICK HERE TO GET THE FOX NEWS APP\nMusk responded to the post by saying, \"[we] believe in the Constitution.\" He also pointed out that X had resumed allowing users to post the gun emoji after it was replaced by a water gun by Twitter in 2018.\nThe National Association for Gun Rights, which is a Second Amendment advocacy group with over 4.5 million activists, also chimed in, saying, \"Thank you for giving us a place to shelter in this storm of Constitution-hating companies.\"\nIn a separate post, the association called X one of the last holdouts for free speech and gun rights.\n\"It is becoming clear that X is one of the last major bastions of 2A and Firearms content on social media,\" said the group, adding, \"the noose is slowly tightening everywhere else, seeking to squeeze us out entirely.\"",
+    "source_domain": null,
+    "text": null,
+    "title": "Popular gun manufacturer thanks Elon Musk after being suspended by Facebook",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

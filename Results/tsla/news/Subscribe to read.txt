@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-04 18:36:06
+Description: The opinionated billionaire is not on the ballot, but he has turned the US election into an effective pulpit
+Filename: .json
+Image_Url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5ebab530-3af8-4281-858f-06a2ce5674c8.jpg?source=next-barrier-page
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Subscribe to read
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The new FT Digital Edition: today’s FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.
+Financial_Events: []

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Simon Sharwood"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-30 07:24:06",
+    "description": "Fabbed by TSMC, needed for \u2026 it's a secret",
+    "filename": ".json",
+    "image_url": "https://regmedia.co.uk/2024/01/29/openai.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "OpenAI is reportedly in talks with Broadcom to build a custom inferencing chip.\nA Reuters report claims the AI upstart and the chip design firm have staged confidential discussions about custom silicon, with Taiwan Semiconductor Manufacturing Company involved as the likely foundry for the effort.\nJust why OpenAI wants its own inferencing chip is not known, but it's not hard to guess why such a move appeals: the startup has enormous cloud bills \u2013 some of them comped by partners like Microsoft \u2013 and might fancy running its own hardware instead. It certainly wouldn't be alone in finding on-prem operations are considerably cheaper than renting cloudy resources.\nDeveloping silicon tuned to its own services could be another motive. AI applications guzzle energy, and mutual optimization of hardware and software could mean OpenAI's services become more efficient.\nOpenAI has also reportedly tried to convince investors to build giant datacenters dedicated to running AI services. Perhaps those theoretical bit barns will be cheaper to build and/or run with custom silicon inside.\nDiversifying suppliers could be another motive. The world's foundries can only crank out so much stuff, and rely on supply chains that are sometimes tenuous. OpenAI would not be immune to those vagaries but could at least reduce its dependence on third-party suppliers of finished product.\nCast a hex on ChatGPT to trick the AI into writing exploit code\nOpenAI loses another senior figure, disperses safety research team he led\nOpenAI's rapid growth loaded with 'corner case' challenges, says Fivetran CEO\nOpen source LLM tool primed to sniff out Python zero-days\nThe Register can't imagine OpenAI wants to get into the mucky business of hardware sales \u2013 an industry that requires all sorts of bothersome investments in the real world and would therefore bloat its headcount. But as inferencing is a workload best run physically close to users \u2013 because latency sucks \u2013 a play that puts devices deep into networks can't be ruled out. That's how content delivery networks and the likes of Netflix operate. An architecture that places an OpenAI inferencing box on the network edge is not a fantastic notion.\nCustom inference chips are not novel. AWS has one called Inferentia. Google's Tensor processing units and Microsoft's Maia silicon can handle inferencing and training workloads.",
+    "source_domain": null,
+    "text": null,
+    "title": "OpenAI reportedly talks custom silicon with Broadcom",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

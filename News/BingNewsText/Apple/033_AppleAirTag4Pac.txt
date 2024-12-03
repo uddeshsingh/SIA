@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Mashable"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 19:19:39",
+    "description": "The Apple AirTag 4 Pack is available for $69.99 on Cyber Monday, its lowest price ever. Get it now and save $29.01.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/mQbd6i7gm2Q.2UALNhcRLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mashable_articles_863/5a7d258c456c0e2d9f966d4bbe8e5f03",
+    "language": "en",
+    "localpath": null,
+    "maintext": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission.\nGET $29.01 OFF: As of Cyber Monday, Dec. 2, get an Apple AirTag 4 Pack for $69.99 and save 29%.\nOpens in a new window\nCredit: Apple\nApple AirTag 4 Pack\n$69.99 at Amazon\n$99.00 Save $29.01\nWhat\u2019s more Cyber Monday than Airtags? Today\u2019s Apple AirTag 4 Pack deal is the cheapest we\u2019ve ever seen. Order today and get 4 AirTags for $69.99 saving you $29.01.\nThese Apple trackers ensure you\u2019ll never lose your things again. Useful for travel, keys that like to disappear, and dogs who always seem to be sneaking out of the back yard, Apple AirTags are innovative miniature devices that your Apple devices can track using the Find My app.\nSEE ALSO: A bunch of new Apple deals just dropped for Cyber Monday\nSimple to connect and precise to track, AirTags will lead you right to them. New iPhone models will be able to track AirTags with the greatest precision, but AirTags are impressively precise no matter what phone you have.\nAirTags emit a BlueTooth signal that can be picked up and transmitted through the Apple network. With millions of Apple devices around the world, they would have to go quite far afield indeed to lose contact with the network.\nDon\u2019t miss Cyber Monday and your chance to get an Apple AirTag 4 Pack for $69.99 and save $29.01.\nPlace AirTags in your luggage so that you don\u2019t lose it while you travel, or leave one in your car so you never forget what block you parked on.",
+    "source_domain": null,
+    "text": null,
+    "title": "Apple AirTag 4 Packs are priced at an all-time low for Cyber Monday",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

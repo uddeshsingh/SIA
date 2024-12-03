@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "DAMIAN J. TROISE"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 14:56:04",
+    "description": "Shares of Tesla soared Wednesday as investors bet that the electric vehicle maker and its CEO Elon Musk will benefit from Donald Trump\u2019s return to the White House.",
+    "filename": ".json",
+    "image_url": "https://dims.apnews.com/dims4/default/cffb093/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2Fbf%2Ff2251f9072e679fb4fda2e1ebad7%2Fcea7ac7f3eae45719e7e042a6aef9be1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "NEW YORK (AP) \u2014 Shares of Tesla soared Wednesday as investors bet that the electric vehicle maker and its CEO Elon Musk will benefit from Donald Trump\u2019s return to the White House.\nTesla stands to make significant gains under a Trump administration with the threat of diminished subsidies for alternative energy and electric vehicles doing the most harm to smaller competitors. Trump\u2019s plans for extensive tariffs on Chinese imports make it less likely that Chinese EVs will be sold in bulk in the U.S. anytime soon.\n\u201cTesla has the scale and scope that is unmatched,\u201d said Wedbush analyst Dan Ives, in a note to investors. \u201cThis dynamic could give Musk and Tesla a clear competitive advantage in a non-EV subsidy environment, coupled by likely higher China tariffs that would continue to push away cheaper Chinese EV players.\u201d\nTesla shares jumped 14.8% Wednesday while shares of rival electric vehicle makers tumbled. Nio, based in Shanghai, fell 5.3%. Shares of electric truck maker Rivian dropped 8.3% and Lucid Group fell 5.3%.\nTesla dominates sales of electric vehicles in the U.S, with 48.9% in market share through the middle of 2024, according to the U.S. Energy Information Administration.\nSubsidies for clean energy are part of the Inflation Reduction Act, signed into law by President Joe Biden in 2022. It included tax credits for manufacturing, along with tax credits for consumers of electric vehicles.\nMusk was one of Trump\u2019s biggest donors, spending at least $119 million mobilizing Trump\u2019s supporters to back the Republican nominee. He also pledged to give away $1 million a day to voters signing a petition for his political action committee.\nIn some ways, it has been a rocky year for Tesla, with sales and profit declining through the first half of the year. Profit did rise 17.3% in the third quarter.\nThe U.S. opened an investigation into the company\u2019s \u201cFull Self-Driving\u201d system after reports of crashes in low-visibility conditions, including one that killed a pedestrian. The investigation covers roughly 2.4 million Teslas from the 2016 through 2024 model years.\nAnd investors sent company shares tumbling last month after Tesla unveiled its long-awaited robotaxi at a Hollywood studio Thursday night, seeing not much progress at Tesla on autonomous vehicles while other companies have been making notable progress.\nTesla began selling the software, which is called \u201cFull Self-Driving,\u201d nine years ago. But there are doubts about its reliability.\nThe stock is now showing a 16.1% gain for the year after rising the past two days.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla shares soar more than 14% as Trump win is seen boosting Elon Musk's electric vehicle company",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,17 @@
+Authors: ['Yujie Xue']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-31 00:00:00
+Description: BYD’s third-quarter sales jumped 24 per cent to 201.12 billion yuan (US$28.2 billion), beating Tesla’s US$25.18 billion revenue in the same period.
+Filename: .json
+Image_Url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/10/31/d63630c3-a449-4ac2-8eaf-864423623b8e_a6cdda2d.jpg?itok=6S9aQtTx&v=1730350366
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: BYD beats Tesla in quarterly sales for the first time as demand soars for hybrid EVs
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Sales at the Shenzhen-based carmaker, the world’s largest assembler of hybrids and pure EVs, jumped 24 per cent to 201.12 billion yuan (US$28.2 billion) in the three months that ended on September 30, more than Tesla’s US$25.18 billion in third-quarter revenue, according to the two companies’ results. BYD’s net profit increased 11.5 per cent from a year earlier to 11.61 billion yuan (US$1.63 billion) in the quarter, less profitable than Tesla’s net income of US$2.17 billion in the same period. “Unless Tesla further lowers its prices, introduces new models or launches its Full Self-Driving feature in China, it is unlikely to see further growth in China”, said Yale Zhang, head of the Shanghai consulting firm Automotive Foresight. “If Tesla wants to sell more EVs, it can only depend on sales growth in other overseas markets.”
+Financial_Events: ['Sales at the Shenzhen-based carmaker, the world’s largest assembler of hybrids and pure EVs, jumped 24 per cent to 201.12 billion yuan (US$28.2 billion) in the three months that ended on September 30, more than Tesla’s US$25.18 billion in third-quarter revenue, according to the two companies’ results.\nBYD’s net profit increased 11.5 per cent from a year earlier to 11.61 billion yuan (US$1.63 billion) in the quarter, less profitable than Tesla’s net income of US$2.17 billion in the same period.\n“Unless Tesla further lowers its prices, introduces new models or launches its Full Self-Driving feature in China, it is unlikely to see further growth in China”, said Yale Zhang, head of the Shanghai consulting firm Automotive Foresight']

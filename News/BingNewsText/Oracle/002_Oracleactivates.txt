@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Matt Ashare"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 11:43:37",
+    "description": "The two providers launched the first of several planned Oracle Database@AWS deployments on Monday under limited preview.",
+    "filename": ".json",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/W21ZgZKuVHUbuxlGYEZuAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cio_dive_389/971d098c6958d7e0e7d088c200c22943",
+    "language": "en",
+    "localpath": null,
+    "maintext": "This story was originally published on CIO Dive. To receive daily news and insights, subscribe to our free daily CIO Dive newsletter.\nDive Brief:\nOracle and AWS activated the first Oracle Database@AWS site Monday. The multicloud database solution is available in limited preview to customers in AWS's U.S. East region, Oracle said in an announcement.\nOracle\u2019s AWS integration is designed to remove migration barriers. The solution lets customers move Oracle Exadata and Oracle Real Application Cluster workloads to the cloud, connecting enterprise data to AWS analytics, machine learning and AI capabilities, according to the companies.\nThe two companies intend to expand the partnership to other regions after the first deployment reaches general availability next year, Leo Leung, group VP of Oracle Tech and OCI, told CIO Dive. \u201cWe're starting with a single availability zone, but once we get into full swing, the plan is for multiple regions and multiple availability zones per region,\u201d he said.\nDive Insight:\nAWS is the last of the three largest hyperscalers to open its data centers to Oracle.\nOracle cemented the database accord with AWS in September, after forging similar alliances with Google Cloud in June and with Microsoft in September 2023.\nGoogle Cloud announced the launch of its first four Oracle database integration regions two months ago. The Microsoft partnership has yielded nine active Oracle Database@Azure sites. The companies plan to expand the offering to 24 additional regions next year.\n\u201cMicrosoft and Oracle have been working together on-prem for decades,\u201d Leung said. \u201cWe've had mutual customers for much longer than the other providers.\u201d\nThe Azure and Google Cloud integrations encompass Oracle\u2019s Exadata platform as well as automated database management services. They\u2019ve both added the Oracle data recovery solution, as well, according to Leung.\nWhile the AWS alliance is just getting off the ground, it has room to grow.\n\u201cAWS is still the market leader in cloud, with a huge customer base,\u201d Leung said. \u201cIt's going to be interesting to see the types of customers we get and the types of things they want to do.\u201d\nThe partnership launched with Oracle\u2019s general database solution, but Oracle aims to grow the offering.\n\u201cWe're going to start with Exadata and we\u2019ll see what\u2019s next based on customer demand,\u201d he said. \u201cCertainly, the goal is to expand.\u201d\nObstacles to hybrid multicloud adoption are gradually eroding, as organizations level up data operations to fuel analytics, ML and generative AI capabilities. Regulatory scrutiny on the competitive environment in the massive market for cloud services has helped, too.\n\u201cThis renewed focus on data management is integral to GenAI adoption,\u201d Dave McCarthy, VP of cloud and edge infrastructure services at IDC,\u201d said in an email. \u201cBoth Oracle and AWS have been investing in hybrid solutions that allow customers to choose what data to bring to the cloud and what remains on-premises.\u201d",
+    "source_domain": null,
+    "text": null,
+    "title": "Oracle activates first AWS multicloud data integration",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

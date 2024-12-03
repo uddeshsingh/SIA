@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Jacob Roach"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-12 06:00:45",
+    "description": "After a year of beta updates, the Nvidia app is officially here, kicking both the Nvidia Control Panel and GeForce Experience to the curb.",
+    "filename": ".json",
+    "image_url": "https://www.digitaltrends.com/wp-content/uploads/2024/11/nvidia-app-desktop.jpg?resize=1200%2C630&p=1",
+    "language": "en",
+    "localpath": null,
+    "maintext": "We\u2019ve had the Nvidia app for a while, but now, it\u2019s available officially. About a year ago, Nvidia launched the Nvidia app into beta as a one-stop-shop for managing some of its best graphics cards, including grabbing new drivers, messing around with different features, and optimizing your game settings. Now, it\u2019s out of beta, officially replacing the legacy GeForce Experience and Nvidia Control Panel apps, and with some new features in tow.\nOne of the biggest draws of the Nvidia app initially was driver downloads. It may seem mundane, but you\u2019d previously need to download GeForce Experience and create an Nvidia account for GPU driver updates. If you didn\u2019t, you\u2019d have to search and install your drivers manually. The Nvidia app gives you access to new drivers, and notifies you when they\u2019re ready, all without an Nvidia login. Now, signing in is optional for \u201cbundles and rewards\u201d offered by Nvidia.\nRecommended Videos\nThe app actually goes further than GeForce Experience on the driver front. Last month, Nvidia introduced driver rollback to the Nvidia app, which has made its way to the full release. If you install your drivers through the Nvidia app, you\u2019ll be able to roll them back to previous versions if you run into any issues. That\u2019s fantastic, as bugs and game performance differences can show up with new drivers, especially on niche hardware configurations.\nDrivers may be the main draw of the Nvidia app, but it\u2019s packed with features. Not only are many of the functions of the Nvidia Control Panel and GeForce Experience included; Nvidia also uses its app as a hub for the other tools it offers. If you have apps like Nvidia Broadcast, FrameView, ICAT, or ChatRTX installed, you can launch them through the Nvidia app.\nNvidia has updated many legacy features of GeForce Experience, too. The redesigned overlay is much more responsive \u2014 speaking from personal use here \u2014 and it can show your system stats, track your performance, and capture photos and videos. That includes an instant replay feature, and new codecs for gameplay like AV1.\nIn other areas, Nvidia has pushed ahead of GeForce Experience with new features like RTX HDR and RTX Dynamic Vibrance, both of which function like AI-powered image filters for your games.\nThere are a ton of features within the Nvidia app now, and it\u2019s great everything is finally under one roof. AMD recognized the need for a unified app years ago with Radeon Software. It has never required a login, and it keeps all of the settings locked to a single interface. Now, Nvidia is following suit.\nThe company says the \u201cmigration of GeForce Experience and Nvidia Control Panel features is complete\u201d with this release. Soon, Nvidia says that the Nvidia app will be an optional install alongside a new driver, similar to how it offered GeForce Experience in the past.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia is finally ditching GeForce Experience for good",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Edward Segarra"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 20:34:07",
+    "description": "Ted Danson is set to receive the Carol Burnett Award at the 2025 Golden Globes to honor the actor's \"renowned career\" in television.",
+    "filename": ".json",
+    "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/12/02/USAT/76709061007-ted-danson.jpg?crop=1919,1080,x0,y432&width=1919&height=1080&format=pjpg&auto=webp",
+    "language": "en",
+    "localpath": null,
+    "maintext": "If there's a \"Good Place\" for TV icons, Ted Danson just sealed his fate.\nThe Golden Globe-winning actor will receive the Carol Burnett Award at the 2025 Golden Globe Awards, the awards show announced Monday.\nThe award, created in 2019 and named after actress-comedian Carol Burnett, is given to an honoree who's made outstanding contributions to television on or off screen.\n\"Ted Danson has entertained audiences for decades with his iconic performances that will forever be ingrained in television history,\" said Helen Hoehne, President of the Golden Globes, in a statement. \"His renowned career is a testament to his remarkable talent and versatility as an actor and bears resemblance to the award's legendary namesake.\"\n'This is me now':Ted Danson is 'A Man on the Inside' in Netflix comedy\nNeed a break? Play the USA TODAY Daily Crossword Puzzle.\nPast recipients of the Carol Burnett Award include Burnett (2019), Ellen DeGeneres (2020), Norman Lear (2021) and Ryan Murphy (2023). The award was not presented last year due to timing constraints on the Globes ceremony.\nDanson, 76, broke out with his role as Boston bartender Sam Malone on the NBC comedy \"Cheers.\" The workplace sitcom ran for 11 seasons and won four Emmy Awards for best comedy series.\nDanson has also starred in series such as \"The Good Place,\" \"Mr. Mayor\" and Netflix's \"A Man on the Inside.\" On the silver screen, he's appeared in films including \"Hearts Beat Loud,\" \"Three Men and a Baby\" and Steven Spielberg's World War II drama \"Saving Private Ryan.\"\nAt the Golden Globes, the actor earned awards for best performance by an actor in a limited series, anthology series, or TV film for \"Something About Amelia\" (1985) and best performance by an actor in a musical or comedy series for \"Cheers\" (1990 and 1991).\nReview:Ted Danson's 'A Man on the Inside' gets woefully lost\nIn addition to the Carol Burnett Award, Danson will be honored at a gala dinner at the Beverly Hilton Hotel on Jan. 3, 2025, alongside fellow actor and Cecil B. DeMille Award winner Viola Davis.\nThe Golden Globes will air on Jan. 5, 2025, at 8 p.m. ET.",
+    "source_domain": null,
+    "text": null,
+    "title": "Ted Danson to receive Carol Burnett Award at Golden Globes",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Gizmodo Deals"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-01 22:25:20",
+    "description": "Amazon has just increased the promotional credit to $100, up from $75 during Black Friday.",
+    "filename": ".json",
+    "image_url": "https://gizmodo.com/app/uploads/2024/11/batman-meta-quest-3s.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "This Cyber Monday, Amazon is continuing its impressive promotions from Black Friday and one of the most popular products is the newest Meta Quest 3S. As the latest offering from Meta, this VR headset is designed to be the most affordable (yet premium) option in their lineup and makes it an attractive choice for both newcomers to virtual reality and seasoned users looking for a budget-friendly upgrade.\nPriced at $299 for Cyber Monday, the Meta Quest 3S provides a great entry point into VR but also comes with enticing bonuses: you can use the code QUEST100 to receive a $100 promotional credit (up from $75 during Black Friday) along with $70 worth of gifts including the highly anticipated game Batman: Arkham Shadow and a three-month trial of Meta Quest+. This means you receive a total of $170 in bonuses and benefits on a product priced at $299, effectively making the headset cost only $129.\nSee Meta Quest 3S bundle at Amazon\nYou can also opt for the more premium model, the Meta Quest 3 (not the 3S) with 512GB, which includes Batman: Arkham Shadow and a 3-month trial of Meta Quest+ for $499.\nSee Meta Quest 3 bundle Amazon\nPerformance Made Affordable\nThe Meta Quest 3S is designed with performance in mind an features the powerful Snapdragon XR2 Gen 2 processor that also powers the more expensive Quest 3. This means that while the Quest 3 offers additional features and higher specifications, the Quest 3S still delivers impressive performance for gaming and immersive experiences.\nWith its 128 GB storage capacity, you will have ample space for a variety of games and applications. The headset supports full-color passthrough technology for seamless transition between virtual environments and their real-world surroundings. This feature enhances mixed-reality experiences and makes it easier to interact with both digital content and physical objects.\nThe Meta Quest 3S also has a user-friendly design: It weights in at just 514 grams, it is lightweight and comfortable to wear for extended periods and it is therefore ideal for gaming sessions or virtual meetings. The headset features an adjustable strap that ensures a secure fit while the high-resolution display provides crisp visuals that enhance immersion in games and applications.\nIn comparison to its predecessor, the Quest 2, the Meta Quest 3S offers significant improvements in both hardware and software capabilities. The inclusion of advanced mixed-reality features allows users to engage with their environment more interactively than ever before. The color passthrough cameras provide a clear view of your surroundings while still allowing you to enjoy virtual experiences without having to remove the headset.\nWith over 70,000 units sold in just the past month alone, the Meta Quest 3S is one of the most popular items on Amazon since the beginning of the holiday shopping season. Its status as the number one best seller in standalone virtual reality headsets speaks volumes about its popularity among consumers seeking an accessible yet powerful VR solution.",
+    "source_domain": null,
+    "text": null,
+    "title": "Sorry If You Bought The Meta Quest 3S on Black Friday, It Just Dropped to a New Record Low on Cyber Monday",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

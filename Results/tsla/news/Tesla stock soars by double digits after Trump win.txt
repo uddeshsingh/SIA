@@ -1,0 +1,17 @@
+Authors: ['Josh Schafer']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 21:07:48
+Description: Tesla CEO Elon Musk had been a heavy supporter of Trump's campaign.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/Z97OiSdTrjW.46z_RlYXAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/7775db70-9699-11ef-b57a-81e2c1485890
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla stock soars by double digits after Trump win
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Tesla stock (TSLA) rose nearly 15% on Wednesday as investors digested Donald Trump's victory in the US presidential election. Wedbush analyst Dan Ives pointed out that Trump could roll back the current electric vehicle tax incentives in place and be "an overall negative for the EV industry." "Tesla has the scale and scope that is unmatched in the EV industry, and this dynamic could give Musk and Tesla a clear competitive advantage in a non-EV subsidy environment, coupled by likely higher China tariffs that would continue to push away cheaper Chinese EV players (BYD, Nio, etc.) Ives added that a Trump win could also fast-track Tesla's full self-driving (FSD) initiatives. "We believe a Trump win could add $40-$50 per share to Tesla's stock," he wrote, adding that the company could exceed $1 trillion in market cap "if autonomous/FSD is accelerated starting in 2025."
+Financial_Events: []

@@ -1,0 +1,3016 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset = "UTF-8" />
+<meta name = "viewport" content = "width=device-width" />
+<script src="https://cdn.wgchrrammzv.com/prod/triblive/loader.min.js"></script>
+<link rel="manifest" href="/wp-content/themes/TribLIVE2/assets/widgets/tll/manifest_notifications.json"/>
+    <script>
+
+		(function (){
+			window.addEventListener('pageshow', (event) => {
+				if( (this.getCookie('mstoken') !== null) && !this.metaChecker() ){
+						console.log("Cookie. No Meta.")
+						window.location.reload();
+				}
+				if( !(this.getCookie('mstoken') !== null) && this.metaChecker() ){
+					console.log("No Cookie. Meta.")
+					window.location.reload();
+				}
+			});
+		})();
+
+        function setCookie(){
+            console.log(window.location.hostname);
+            document.cookie = "authjwttest=value; expires=Thu, 18 Dec 2022 12:00:00 UTC; path=/; domain=" + window.location.hostname + "; SameSite=None; Secure";
+            window.location.href = "/subscriber-portal/?" + window.location.pathname;
+        }
+
+        function deleteCookie(){
+            console.log(window.location.hostname);
+            document.cookie = "authjwttest=value; expires=Thu, 18 Dec 1970 12:00:00 UTC; path=/; domain=" + window.location.hostname + "; SameSite=None; Secure";
+            window.location.href = "/subscriber-portal/?" + window.location.pathname;
+        }
+
+        function metaChecker(){
+            const meta_auth_check = document.getElementsByTagName("meta")[2];
+            if(meta_auth_check){
+                console.log(meta_auth_check.getAttribute('name'))
+                if(meta_auth_check.getAttribute('name') === "trib_auth"){
+                    return true;
+                }else{
+                    return false;
+                }
+            }else{
+                return false;
+            }
+        }
+
+        function getCookie(cookie_name) {
+            let name = cookie_name + "=";
+            let decodedCookie = decodeURIComponent(document.cookie);
+            let ca = decodedCookie.split(';');
+            for(let i = 0; i <ca.length; i++) {        let c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return null;
+        }
+
+        function trib_login(){
+            window.location.href = "/subscriber-portal/";
+        }
+
+        function trib_logout(){
+            document.cookie = "mstoken=value; expires=Thu, 18 Dec 1970 12:00:00 UTC; path=/; domain=" + window.location.hostname + "; SameSite=None; Secure";
+            document.cookie = "tribtoken=value; expires=Thu, 18 Dec 1970 12:00:00 UTC; path=/; domain=" + window.location.hostname + "; SameSite=None; Secure";
+			document.cookie = "mstoken=value; expires=Thu, 18 Dec 1970 12:00:00 UTC; path=/; domain=.triblive.com; SameSite=None; Secure";
+            document.cookie = "tribtoken=value; expires=Thu, 18 Dec 1970 12:00:00 UTC; path=/; domain=.triblive.com; SameSite=None; Secure";
+			
+           // window.location.reload();
+		   window.location.href = "https://triblive.com/subscriber-portal/";
+        }
+		
+		var checkForLogout = window.location.href;
+		if (checkForLogout == "https://triblive.com/logout/") { trib_logout(); }
+    </script>
+
+
+<script src = "https://triblive.com/wp-content/themes/TribLIVE2/assets/functions/scripts/fp.js"></script>	
+
+<script data-cfasync="false" src = "https://triblive.com/wp-content/themes/TribLIVE2/assets/functions/scripts/ttmTools.js?ver=2024-12-02pm"></script>
+<script>
+var userSettings = [{fp: '0'}, {loggedIn: 'No'}, {userRegistered: 'No'}, {userPremium: 'No'}, {privacyMode: 'No'}, ]; </script>
+
+<script>var showAds = "Yes"; var toggleOption = "default"; var myIP = "172.17.0.1, 18.188.175.152"; var myProductionFlag = "Yes"; var myShowWidgetsFlag = 'Yes'; var myIamPre = '';var meAlphaTopCategory = 'local';var meAlphaChildCategory = 'regional';var myPageType = 'story'; myIamPre = 'story'; var meParentCategory = 'local'; var meChildCategory = 'regional'; var meGetTheTitle = 'Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban';var myIam = myIamPre;</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNZ6CV4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- OneTrust Cookies Consent Notice start -->
+<script data-cfasync="false" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="51cb34ae-6aa9-4f80-834a-1bf7ceab89ca"></script><script data-cfasync="false" type="text/javascript">function OptanonWrapper() { }</script><!-- / OneTrust Cookies Consent Notice end -->	
+
+	
+	<script>
+		//check for AdFree
+		var tokenCB = getCookie('tribtoken');
+		var adfreecheck = false;
+		var adfreeusername = "";
+		if (tokenCB != null && tokenCB !=""){
+			let base64Url = tokenCB.split('.')[1];
+			let base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+			let jsonPayload = decodeURIComponent(window.atob(base64).split('').map(function(c) {
+				return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+			}).join(''));
+			let parsedtoken =  JSON.parse(jsonPayload);
+			console.log("GAM Parsed Token: ");
+			console.log(parsedtoken);
+			adfreecheck = parsedtoken.is_adfree;
+			adfreeusername = parsedtoken.user.username;
+		}
+	</script>	
+	
+	<script defer id="origami-ad-widget" src="https://origami.secure.ownlocal.com/origami-widget.js" async data-partner-id="8a63c00e-a9d0-48f4-a570-8263c4e1cca3" data-ad-container-ids="origami-ad-container,origami-ad-container2" ></script>
+
+
+
+
+<script data-cfasync="false" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+var googletag = window.googletag = window.googletag || {};
+googletag.pubads().setTargeting("site","triblive.com");
+	googletag.pubads().setTargeting("articleId","3683332");
+googletag.pubads().setTargeting("conType","Article");
+
+
+
+googletag.pubads().setTargeting("content",["Local-Regional", "Local", "ROS"]);
+googletag.pubads().setSafeFrameConfig({allowPushExpansion: true},{allowOverlayExpansion: true});
+googletag.pubads().enableAsyncRendering();
+googletag.pubads().enableSingleRequest();			
+googletag.pubads().enableLazyLoad({
+     // Fetch slots within 0 viewports.  // All slots should fetch due to above singleRequest.
+     fetchMarginPercent: 0,
+     // Render slots within 1 viewport(s).
+     renderMarginPercent: 100,
+     // 1.5x the above values on mobile, where viewports are smaller
+     // and users tend to scroll faster.
+     mobileScaling: 1.5
+});
+</script>
+
+<script type='text/javascript'> window.addEventListener('DOMContentLoaded', function () {
+		document.body.classList.add('ad-free');
+	});
+	</script>
+	<meta name="robots" content=" follow " />
+
+<script>
+	
+	
+  function getCookieTPD(cname) {
+    let name = cname + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(';');
+    for(let i = 0; i <ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+    }
+    return "";
+  }
+
+  var tokenTPD = getCookieTPD('tribtoken');
+  var parsedtokenTPD = false;
+  if (tokenTPD != null && tokenTPD !=''){
+    let base64Url = tokenTPD.split('.')[1];
+    let base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+    let jsonPayload = decodeURIComponent(window.atob(base64).split('').map(function(c) {
+      return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+    }).join(''));
+    let parsedtoken =  JSON.parse(jsonPayload);
+    console.log('TPD Parsed Token: ');
+    console.log(parsedtoken);
+    parsedtokenTPD = parsedtoken.is_adfree;
+	console.log('TPD AdFree: ');
+    console.log(parsedtokenTPD);
+  }
+
+  if (parsedtokenTPD !== true){
+
+    // Create a new script element
+    var script = document.createElement('script');
+    // Set the source of the script
+    script.src = 'https://cdn.tpdads.com/configs/triblive.js';
+    script.type = 'text/javascript';
+    // Append the script to the document's head (or body)
+    document.head.appendChild(script);
+    console.log('LOGGED OUT USER');
+
+    window.tpdTargetingMap = {
+      'PostID': 'ne-7984138',
+      'Page-Type': 'triblive',
+      'Post-Author': 'Haley Daugherty And Patrick Varine',
+      'Category': [ 'Local', 'Regional' ],
+      'Tag': [ 'news' ],
+    };
+  } else {
+	  console.log('LOGGED IN USER');
+  }
+
+
+</script>
+
+<!-- Google Tag Manager tags -->
+
+<script>
+  dataLayer = [{
+    'CMSId': 'ne-7984138', 'FullSection': 'Local|Regional|Top Stories',
+    'CanonicalUrl': 'https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/',
+    'Headline': 'Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban', 'Author': 'Haley Daugherty And Patrick Varine',
+	 'Category': 'Local', 'SubCategory': 'Regional',	 
+    'Description': 'Olivia Edwards understands the intent behind Australia&amp;rsquo;s recent blanket social media ban. &amp;ldquo;It makes sense,&amp;rdquo; she said. &amp;ldquo;The thought behind it is protecting children.&amp;rdquo; The new law established some of the most stringent internet usage restrictions outside of China and other non-democratic regimes and could be considered a precedent for',
+    'Published': '2024-11-29T18:00:00+00:00', 'Published_short': '2024-11-29', 'Updated': '2024-11-29T20:30:43+00:00',
+	 'StoryType': 'triblive',
+	 'Day_of_week': 'Monday', 'Month': 'December', 'Day': '02', 'Hour': '07', 'Year': '2024', 'Server': 'production', 'Domain': 'triblive.com','Testing': 'No', 'User': 'No', 'Logged': ''
+  }];
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'}); var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PNZ6CV4');</script>
+<!--
+<script defer data-cfasync="false" type="text/javascript">
+    ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalAamNamespace=p.GlobalAamNamespace||[];
+    p.GlobalAamNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+    };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+    n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//gadasource.storage.googleapis.com/aam.js","aamsitecertifier"));
+    window.aamsitecertifier('newTracker', 'cf', 'aamcf.aamsitecertifier.com', {idWeb: '483'});
+    window.aamsitecertifier('trackPageView');
+	</script>
+-->
+<!--Meta tags-->
+<meta property="og:locale" content="en_US" /> 
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="TribLIVE.com" />
+<meta property="fb:app_id" content="144410955752326" />
+<meta property="article:publisher" content="https://www.facebook.com/triblive" />
+<meta name="apple-itunes-app" content="app-id=328217517" />
+<meta name="description" content="Olivia Edwards understands the intent behind Australia&amp;rsquo;s recent blanket social media ban. &amp;ldquo;It makes sense,&amp;rdquo; she said. &amp;ldquo;The thought behind it is protecting children.&amp;rdquo; The new law established some of the most stringent internet usage restrictions outside of China and other non-democratic regimes and could be considered a precedent for" />
+<meta name="keywords" content="" />
+<meta name="author" content="Haley Daugherty And Patrick Varine" />
+<meta name="mesearchType" content="story" />
+<!-- search meta-->
+<meta name="pagetype" content="story" />
+<meta property='categories' content='Local, Regional, Top Stories, '/>
+<script defer src="https://tag.bounceexchange.com/3398/i.js"></script>
+
+
+<!--Meta property-->
+<meta property="og:title" content="Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban"/>
+<meta property="og:url" content="https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/"/>
+<meta property="og:image" content="https://assets-varnish.triblive.com/2024/11/7984138_web1_7983239-3d029fc91de34552a65762b520e4be41.jpg"/>
+<meta property="og:image:secure_url" content="https://assets-varnish.triblive.com/2024/11/7984138_web1_7983239-3d029fc91de34552a65762b520e4be41.jpg"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="427"/>
+<meta property="og:image:alt" content="A teenager in Sydney uses his mobile phone to access social media."/>
+<meta property="og:description" content="Olivia Edwards understands the intent behind Australia&amp;rsquo;s recent blanket social media ban. &amp;ldquo;It makes sense,&amp;rdquo; she said. &amp;ldquo;The thought behind it is protecting children.&amp;rdquo; The new law established some of the most stringent internet usage restrictions outside of China and other non-democratic regimes and could be considered a precedent for" />
+<meta property="og:updated_time" content="2024-11-29T20:30:43+00:00" />
+<meta property="article:section" content="Local" />
+<meta property="article:published_time" content="2024-11-29T18:00:00+00:00" />
+<meta property="article:modified_time" content="2024-11-29T20:30:43+00:00" />
+<meta property="article:tag" content="" />
+
+
+<!--Meta name-->
+<meta name="headline" content="Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban" />
+<meta name="docauthor" content="Haley Daugherty And Patrick Varine" />
+<meta name="pubdate" content="2024-11-29T18:00:00+00:00"/>
+<meta name="article:mainsection" content="Local" />
+<meta name="article:subsection" content="Regional" />
+<meta name="article:category" content="Local" />
+<meta name="article:subcategory" content="Regional" />
+<meta name="article:title" content="Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban" />
+<meta name="article:author" content="Haley Daugherty And Patrick Varine" />
+<meta name="article:publishedtoweb" content="2024-11-29T18:00:00+00:00" />
+
+
+<!--Twitter Card-->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://assets-varnish.triblive.com/2024/11/7984138_web1_7983239-3d029fc91de34552a65762b520e4be41.jpg" />
+<meta name="twitter:site" content="@triblive" />
+<meta name="twitter:site:id" content="20269833" />
+<meta name="twitter:creator" content="@triblive" />
+<meta name="twitter:title" content="Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban" />
+<meta name="twitter:description" content="Olivia Edwards understands the intent behind Australia&amp;rsquo;s recent blanket social media ban. &amp;ldquo;It makes sense,&amp;rdquo; she said. &amp;ldquo;The thought behind it is protecting children.&amp;rdquo; The new law established some of the most stringent internet usage restrictions outside of China and other non-democratic regimes and could be considered a precedent for" />
+<meta name="twitter:app:name:iphone" content="TribLIVE News and Sports" />
+<meta name="twitter:app:id:iphone" content="328217517" />
+<meta name="twitter:app:url:iphone" content="tribbird://" />
+<meta name="twitter:app:name:ipad" content="TribLIVE News and Sports" />
+<meta name="twitter:app:id:ipad" content="328217517" />
+<meta name="twitter:app:url:ipad" content="tribbird:// "/>
+<link rel="canonical" href="https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/" />
+
+<!--End meta tags-->
+
+
+<!--End Analytics module-->
+<meta name="theme-color" content="#b32025" />
+<link rel="shortcut icon" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-152x152.png">
+<link rel="icon" type="image/png" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/favicon-32x32.png" sizes="32x32">
+
+<!-- Smart Banner -->
+<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/css/smartbanner.min.css" type="text/css" rel="stylesheet"/>
+<meta name="smartbanner:title" content="TribLIVE News & Sports">
+<meta name="smartbanner:author" content="Pittsburgh News, Sports, & More">
+<meta name="smartbanner:price" content="FREE">
+<meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
+<meta name="smartbanner:price-suffix-google" content=" - In Google Play">
+<meta name="smartbanner:icon-apple" content="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/js/smartbanner/triblive-app.jpg">
+<meta name="smartbanner:icon-google" content="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/js/smartbanner/triblive-app.jpg">
+<meta name="smartbanner:button" content="VIEW">
+<meta name="smartbanner:button-url-apple" content="https://apps.apple.com/us/app/triblive-news-sports/id328217517?itsct=apps_box_link&itscg=30200">
+<meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=com.tribtotalmedia.triblive&hl=en_US&pli=1">
+<meta name="smartbanner:enabled-platforms" content="android,ios">
+<meta name="smartbanner:close-label" content="Close">
+<meta name="smartbanner:exclude-user-agent-regex" content="^((?!Chrome|Android|FxiOS|CriOS).)*Safari">
+ <!-- End Smart Banner -->
+
+
+<!-- Start of TribLIVE custom styles-->
+<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/css/story.css" type="text/css" rel="stylesheet"/>
+<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/css/triblive.min.css" rel="stylesheet" type="text/css">
+<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/css/mesearch.css" rel="stylesheet" type="text/css">
+
+	<!--Internal-only style sheet-->
+<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/css/trib-custom.css" rel="stylesheet" type="text/css">
+	<!--Font license issues fixed below. First 2 echos were working until 10/22.-->
+<link href="//cloud.typenetwork.com/projects/367/fontface.css/" rel="stylesheet" type="text/css">
+
+
+<style>
+@font-face{font-family:'FontAwesome';
+src:url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/fontawesome-webfont.eot?v=4.6.3');
+src:url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+
+font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}.fa-search:before{content:"\f002"}.fa-home:before{content:"\f015"}.fa-facebook:before{content:"\f09a"}.fa-print:before{content:"\f02f"}.fa-twitter:before{content:"\f099"}.fa-instagram:before{content:"\f16d"}.fa-rss:before{content:"\f09e"}.fa-chevron-right:before{content:"\f054"}.fa-chevron-down:before{content:"\f078"}.fa-chevron-left:before{content:"\f053"}.fa-newspaper-o:before{content:"\f1ea"}.fa-cloud-sun:before {content:"\f0c2";}@font-face{font-family:'open_sansregular';
+
+src:url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-regular-webfont.eot');
+src:url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-regular-webfont.woff2') format('woff2'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-regular-webfont.woff') format('woff'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-regular-webfont.ttf') format('truetype'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');font-weight:normal; font-style:normal}@font-face{font-family:'open_sanslight';src:
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-light-webfont.eot');
+src:url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-light-webfont.woff2') format('woff2'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-light-webfont.woff') format('woff'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-light-webfont.ttf') format('truetype'),
+url('https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/fonts/opensans-light-webfont.svg#open_sanslight') format('svg');font-weight:normal;font-style:normal}.sl-comp-black{font-family:"Stainless Comp Bla";font-style:normal;font-weight:normal}.sl-cond-bold{font-family:"Stainless Cond Bd";font-style:normal;font-weight:normal}.sl-light{font-family:"Stainless Lt";font-style:normal;font-weight:normal}
+
+	
+	/* AD FIXES */
+	
+	
+	div.double-ads {
+		min-height: 110px !important;
+	}
+	
+	@media only screen and (min-width: 768px) {
+		
+		#dsk-banner-ad-b {
+			margin-bottom: 30px !important;
+		}
+		
+	}
+	
+	@media only screen and (max-width: 767px) {
+	
+		#mob-banner-ad-b {
+			margin-bottom: 10px !important;
+		}
+	
+	}
+	
+	
+/*Beginning of Fixing Logo Sizes*/
+
+/*For all instances*/
+@media all and (max-width:991.98px){
+	.extra-logo, .triblive-logo{
+		width:100%!important;
+		height:auto!important;
+	}
+}
+
+@media (min-width:992px){
+	.extra-logo{
+		width:130px!important;
+		height:auto!important;
+		max-width:100%!important;
+	}
+	.triblive-logo{
+		width:212px!important;
+		height:auto!important;
+	}
+}
+
+/*Trib Extra Instances Only*/
+@media all and (max-width:767px){
+	.header .head-min a.logo.extra-logo-link{
+		width:12%!important;
+	}
+}
+@media (min-width:768px) and (max-width:991px){
+	.header .head-min a.logo.extra-logo-link{
+		width:9%!important;
+	}
+}
+
+/*TribLIVE Instances Only*/
+@media all and (max-width:767px){
+	.header .head-min .triblive-logo-link{
+		width:20%!important;
+	}
+}
+@media (min-width:768px) and (max-width:991px){
+	.header .head-min .triblive-logo-link{
+		width:15%!important;
+	}
+}
+
+/*End of Fixing Logo Sizes*/
+	
+	
+</style>
+	
+	
+	<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/font-awesome-6/css/fontawesome.min.css" rel="stylesheet">
+	<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/font-awesome-6/css/brands.min.css" rel="stylesheet">
+	<link href="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/font-awesome-6/css/solid.min.css" rel="stylesheet">
+
+
+<!-- / TribLIVE custom styles-->
+
+
+
+	<!-- Chartbeat 2022 -->	
+	<script type='text/javascript'>
+    (function() {
+		var chartbeat_userstatus = 'anon';
+		if (adfreeusername != ""){chartbeat_userstatus = 'lgdin';}
+		if (adfreecheck == true) {chartbeat_userstatus = 'paid';}
+        /** CONFIGURATION START **/
+        var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+        _sf_async_config.uid = 66938; 
+        _sf_async_config.domain = 'triblive.com'; // DON'T INCLUDE HTTP(S) OR WWW
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.useCanonicalDomain = true;
+		_sf_async_config.flickerControl = false;
+        _sf_async_config.sections = 'News | Local/Regional';
+		var _cbq = window._cbq = (window._cbq || []);
+        _cbq.push(['_acct', chartbeat_userstatus]);
+		//SET PAGE SECTION(S)
+        _sf_async_config.authors = 'Haley Daugherty And Patrick Varine'; //SET PAGE AUTHOR(S)
+        /** CONFIGURATION END **/
+        function loadChartbeat() {
+            var e = document.createElement('script');
+            var n = document.getElementsByTagName('script')[0];
+            e.type = 'text/javascript';
+            e.async = true;
+            e.src = '//static.chartbeat.com/js/chartbeat.js';
+            n.parentNode.insertBefore(e, n);
+        }
+        loadChartbeat();
+     })();
+	</script>
+
+	<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+	<!-- End Chartbeat 2022 -->	
+
+	
+	
+	
+	
+<!--normal header-->
+<header>
+	<div class="container">
+	  <div class="row head-top">
+  		<div class="pull-left" style="width:340px!important;">
+  		    
+			  
+			
+			<a href="#" style="display:none" id="MG2logout"  data-mg2-action="logout"><strong>Log out</strong></a>   
+			<a href="#" style="display:none" id="MG2login"  data-mg2-action="login"><strong>Log in</strong></a>   
+			<a href="#" style="display:none" id="MG2register"  data-mg2-action="register"><strong>Register</strong></a>      
+			<a href="https://myaccount.triblive.com/" hidden id="MG2MyAccount"><strong>MyAccount</strong></a>  
+		 	<a href="https://subscribe.triblive.com/"><strong>SUBSCRIBE</strong></a>
+		 	
+			<a href="https://signup.triblive.com/" target="_blank"><strong>NEWSLETTERS</strong></a>
+			
+		</div>
+
+		<div class="pull-middle" style="width:270px!important; margin: 0;">
+		  	<a href="https://mediakit.triblive.com/" target="_blank">ADVERTISE</a><a style="padding-left:0px;padding-right:0px;">|</a>
+			<a href="https://classifieds.triblive.com/" target="_blank">CLASSIFIEDS</a><a style="padding-left:0px;padding-right:0px;">|</a>
+			<a href="https://jobs.triblive.com/" target="_blank">JOBS</a><a style="padding-left:0px;padding-right:0px;">|</a>
+			<a href="https://e.triblive.com/" target="_blank">E-TRIB</a>
+		</div>
+
+		<div class="pull-right" style="width:310px!important;">
+		  	<a href="https://tribhssn.triblive.com/" target="_blank">HIGH SCHOOL SPORTS NETWORK</a>
+			<a href="https://triblive.com/community/" target="_blank">TRIBLIVE LOCAL</a>
+			
+			<!--
+			
+			<a id="header-alerts-dsk-btn" href="https://triblive.com/notifications/" style="">
+				<div id="header-alerts-dsk-bub">3</div>
+				<i class="fa-solid fa-bell"></i>
+				<div id="header-alerts-dsk-tt">Sign up for Notifications</div>
+			</a>
+				
+			<style type="text/css">
+				#header-alerts-btn-dsk {
+					position: relative;
+					padding: 11px 12px 10px;
+				}
+				
+				#header-alerts-dsk-btn:hover {
+					background: #b32025;
+    				color: #FFF !important;
+				}
+				
+				#header-alerts-dsk-bub {
+					position: absolute;
+					background: #F00;
+					top: 2px;
+					right: 0;
+					color: #FFF;
+					border-radius: 50px;
+					font-size: 8px;
+					line-height: 6px;
+					font-weight: bold;
+					padding: 3px;
+					text-align: center;
+				}
+				
+				#header-alerts-dsk-btn:hover #header-alerts-dsk-bub {
+					
+				}
+				
+				#header-alerts-dsk-tt {
+					display: none;
+					position: absolute;
+					background: #b32025;
+					bottom: -50%;
+					right: 0;
+					color: #FFF;
+					border-radius: 4px;
+					font-size: 10px;
+					padding: 5px 10px;
+					text-align: center;
+					white-space: nowrap;
+					text-transform: none;
+				}
+				
+				#header-alerts-dsk-btn:hover #header-alerts-dsk-tt {
+					display: block;
+				}
+				
+			</style>
+			
+			-->
+			
+		</div>
+
+
+
+	  </div>
+		
+		
+				
+	</div>
+	<hr>
+
+	<div class="container">
+	  <div class="row head-mid" style="position: relative;">
+
+		<a class="mobile-menu fa fa-bars"></a>
+				<a class="logo triblive-logo-link" href="/">
+				  <img src="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/TribLIVElogo.png" alt="TribLive" width="212" class="triblive-logo" style="" >
+					<span class = "hidden-xs hidden-sm" style = "font-size: 12px !important; line-height: 1.6429; color: #727272 !important; font-family: 'open_sansregular';font-weight: normal; font-style: normal; padding: 5px 0 0 15px;"><br/>Monday, December 2, 2024</span>
+
+				</a>
+		  
+		  <!--
+		  
+		  <a id="header-alerts-mob-btn" href="https://triblive.com/notifications/" style=""><div id="header-alerts-mob-bub">3</div><i class="fa-solid fa-bell"></i></a>
+		  <style type="text/css"> #header-alerts-mob-btn { display: block; float: right; padding: 2%; color: #727272; font-size: 1.25em; margin-right: 1%; position: absolute; top: 5px; right: 1%; } #header-alerts-mob-bub { position: absolute;
+					background: #F00;
+					top: 2px;
+					right: 0;
+					color: #FFF;
+					border-radius: 50px;
+					font-size: 8px;
+					line-height: 6px;
+					font-weight: bold;
+					padding: 3px;
+					text-align: center; }  @media (min-width: 992px) { #header-alerts-mob-btn { display: none; } } </style>
+		  
+		  -->
+		  
+				<!--Start of search-->
+		<div class="search-in-head wawo wawo-ccpa" id="search-in-head">
+		  <form method="get" action="/search/" class="search-area">
+			<input class="form-control" type="text" tabindex="1" placeholder="SEARCH THE TRIB" style="text-transform:none;font-family: 'open_sansregular';" name="search" size="28" maxlength="75">
+            <div class="fa fa-search">
+			  <input class="search-now" type="submit" tabindex="2" value="Search">
+			</div>
+		  </form>
+			<span style = "font-size: 12px !important; line-height: 1.6429; color: #727272 !important; float: left; font-family: 'open_sansregular';font-weight: normal; font-style: normal; padding: 5px 0 0 15px;">Western Pennsylvania's trusted news source</span>
+		</div> <!--end of search-->
+
+
+
+
+	</div>
+
+<div class="row">
+<!--========================= PENCIL2 ============================-->
+<!-- Pencil_Leavebehind_ATF -->
+	      </div>
+			<!--========================= END PENCIL ============================-->
+		</div>
+	<!--</div>--> 
+  </header>
+<!--/ normal header-->
+<!--navigation-->
+<!--<div id="wrap">-->
+<!--Start head-->
+<title>Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban | TribLIVE.com</title>
+		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:14.285714285714% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:24.5px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:35px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}		</style>
+		<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://triblive.com/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://triblive.com/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://triblive.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-global-css' href='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-global.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-input-css' href='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-input.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-pro-input-css' href='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/pro/assets/css/acf-pro-input.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css' href='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-datepicker-css' href='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-timepicker-css' href='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css' href='https://triblive.com/wp-admin/css/color-picker.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js' id='jquery-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/ui/mouse.min.js' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/ui/sortable.min.js' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/ui/resizable.min.js' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/js/acf.min.js' id='acf-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js' id='acf-input-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js' id='acf-pro-input-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.min.js' id='select2-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/ui/datepicker.min.js' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://triblive.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js' id='acf-timepicker-js'></script>
+<script defer src='https://tag.simpli.fi/sifitag/58c54340-9e85-0136-3ff3-06659b33d47c'></script>
+<!--Start of viafoura header code -->
+<meta name="vf:container_id" content="https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/" />
+</head>
+
+<body class = 'local'>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNZ6CV4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id='wrap'>
+<style>
+    nav .dropdown.hex-obituaries .nav-item.active, nav .dropdown.hex-tribextra .nav-item.open, nav .dropdown.hex-tribextra .mega-menu {
+    background: #4d1312eb;
+    border-bottom: none;
+}
+nav .nav-item {
+    padding: 10px 14px
+}
+
+.extramobile-show{display:none;}
+	
+	.fa-chevron-circle-up:link, .fa-chevron-circle-up:hover, .fa-chevron-circle-up:visited, .fa-chevron-circle-up:active {
+			margin-bottom: 100px !important;
+		}
+
+@media all and (max-width:991.98px){
+		.extra-hover, .chevron-hover{
+			display:none!important;
+		}
+    .extramobile-show{display:block;}
+	.fa-chevron-circle-up:link, .fa-chevron-circle-up:hover, .fa-chevron-circle-up:visited, .fa-chevron-circle-up:active {
+    margin-bottom: 100px;}
+	}
+
+/*
+div.titleBar {max-width:100% !important; overflow: hidden !important;}
+*/
+
+</style>
+<div class='menu-overlay'></div> 
+ <!--pencil removed from here-->		
+  <nav class='navbar'>
+	<div class='container'>
+	  <div class='row'>
+		<div class='search-in-nav'>
+<!--Start search form--><form method='get' action='/search/' class='search-area' id='search-area'>
+			<input class='form-control' type='text' tabindex='1' placeholder='SEARCH THE TRIB' style='text-transform:none;font-family: "open_sansregular";' name='search' size='28' maxlength='75'>
+			<div class='fa fa-search'>
+			  <input class='search-now' type='submit' tabindex='2' value='Search'>
+			</div>
+		  </form><!-- // search form-->
+		</div>
+<!--========================= HOME BUTTON ============================-->
+<div class='dropdown hex-home'>
+
+<a href='/' class='nav-item
+' title='Home' >
+                <div class='label'>Home</div>
+                <div class='fa fa-home'></div>
+            </a>
+		</div>
+
+
+
+
+<!--========================= START OF LOCAL SECTION ============================-->
+		<div class='dropdown children hex-local'>
+		  <a href='https://community.triblive.com/' class='nav-item active
+' title='Local' >
+			<div class='label'>Local</div>
+			<div class='fa fa-chevron-right'></div>
+		  </a>
+		  <div class='mega-menu'>
+			<a href='https://community.triblive.com/' class='front' title='Local' >Local Front</a>
+			<div class='column'>
+			  <div class='nav-sep'>- - - - -</div><a href='/local/pittsburgh/' class='' title='Pittsburgh' >Pittsburgh</a>
+<a href='/local/allegheny/' class='' title='Allegheny' >Allegheny</a>
+<a href='/local/westmoreland/' class='' title='Westmoreland' >Westmoreland</a>
+<a href='/local/valley-news-dispatch/' class='' title='Valley News Dispatch' >Valley News Dispatch</a>
+<a href='/local/regional/' class='' title='Regional' >Regional</a>
+
+			  <div class='nav-sep'>- - - - -</div>
+			</div>
+			<div class='column'><a href='https://triblive.com/community/' class='' title='TribLIVE Local' ><img src="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/other/nnnicon.png" alt="TribLIVE Local" style = "width:25px; float:left; padding-right: 5px; padding-top: 4px;">
+TribLIVE Local</a><a href='https://community.triblive.com/c/bethel-park-journal/' class='' title='Bethel Park' >Bethel Park Journal</a><a href='https://community.triblive.com/c/bridgeville-signal-item/' class='' title='Bridgeville Signal Item' >Bridgeville Signal Item</a><a href='https://community.triblive.com/c/fox-chapel-herald/' class='' title='Fox Chapel Herald' >Fox Chapel Herald</a><a href='https://community.triblive.com/c/hampton-journal/' class='' title='Hampton Journal' >Hampton Journal</a><a href='https://community.triblive.com/c/monroeville-times-express/' class='' title='Monroeville Times Express' >Monroeville Times Express</a>
+			</div>
+
+			<div class='column'><a href='https://community.triblive.com/c/murrysville-star/' class='' title='Murrysville Star' >Murrysville Star</a><a href='https://community.triblive.com/c/north-allegheny-journal/' class='' title='North Allegheny Journal' >North Allegheny Journal</a><a href='https://community.triblive.com/c/north-hills-journal/' class='' title='North Hills' >North Hills Journal</a><a href='https://community.triblive.com/c/norwin-star/' class='' title='Norwin Star' >Norwin Star</a><a href='https://community.triblive.com/c/penn-hills-progress/' title='Penn Hills Progress'>Penn Hills Progress</a><a href='https://community.triblive.com/c/penn-trafford-star/' class='' title='Penn-Trafford Star' >Penn-Trafford Star</a>
+			</div>
+
+			<div class='column'><a href='https://community.triblive.com/c/pine-creek-journal/' class='' title='Pine Creek Journal' >Pine Creek Journal</a><a href='https://community.triblive.com/c/plum-advance-leader/' class='' title='Plum Advance Leader' >Plum Advance Leader</a><a href='/local/plum-explosion/' title='Plum Explosion'>Plum Explosion</a><a href='https://community.triblive.com/c/sewickley-herald/' title='Sewickley Herald'>Sewickley Herald</a><a href='https://community.triblive.com/c/shaler-journal/' class='' title='Shaler' >Shaler Journal</a><a href='https://community.triblive.com/c/south-hills-record/' class='' title='South Hills' >South Hills Record</a>
+			</div>
+		  </div>
+		</div>
+
+
+
+
+
+<!--========================= START OF SPORTS SECTION ============================-->
+		<div class='dropdown children hex-sports'>
+		  <a href='/sports/' class='nav-item
+' title='Sports' >
+			<div class='label'>Sports</div>
+			<div class='fa fa-chevron-right'></div>
+		</a>
+		  <div class='mega-menu'>
+			<a href='/sports/' class='front' title='Sports' >Sports Front</a>
+			<div class='column'>
+			  <div class='nav-sep'>- - - - -</div><a href='/sports/steelers/' class='' title='Steelers' >Steelers/NFL</a>
+<a href='/sports/penguins/' class='' title='Penguins' >Penguins/NHL</a>
+<a href='/sports/pirates/' class='' title='Pirates' >Pirates/MLB</a>
+
+			  <div class='nav-sep'>- - - - -</div><a href='https://triblive.com/sports/sports-columnists/tim-benz/' title='Breakfast With Benz'>Breakfast With Benz</a><a href='/sports/sports-columnists/mark-madden/' class='' title='Mark Madden' >Mark Madden</a>
+
+			</div>
+
+			<div class='column'><a href='/sports/college/pitt/' class='' title='Pitt' >Pitt</a>
+<a href='/sports/college/penn-state/' class='' title='Penn State' >Penn State</a>
+<a href='/sports/college/wvu/' class='' title='WVU' >WVU</a>
+<a href='/sports/college/duquesne/' class='' title='Duquesne' >Duquesne</a>
+<a href='/sports/college/robert-morris/' class='' title='Robert Morris' >Robert Morris</a>
+
+				  <div class='nav-sep'>- - - - -</div>
+			  <div class='nav-sep'>- - - - -</div>
+			</div>
+
+			<div class='column'>
+ <a href='https://tribhssn.triblive.com/' class='' title='High Schools' >High Schools</a> <a href='/sports/college' class='' title='NCAA Sports' >NCAA Sports</a><a href='/sports/district-colleges/' class='' title='District Colleges' >District Colleges</a>
+<a href='/sports/riverhounds/' class='' title='Riverhounds' >Riverhounds</a>
+<a href='/sports/outdoors/' class='' title='Outdoors' >Outdoors</a>
+
+
+			  <div class='nav-sep'>- - - - -</div>
+			</div>
+
+			<div class='column'><a href='/sports/nation-world-sports/' class='' title='Nation World Sports' >U.S./World Sports</a>
+<a href='/olympics/' class='' title='Olympics' >Olympics</a>
+<a href='/sports/golf/' class='' title='Golf' >Golf</a>
+<a href='/sports/other-local/' class='' title='Other Local' >Other Local</a>
+
+	<a href='https://podcast.triblive.com/' title='Podcast Network'>Podcast Network</a> <a href='/sports/sportsbetting/' class='' title='Sports Betting' >Sports Betting</a>
+
+			</div>
+		  </div>
+		</div>
+
+
+
+
+
+<!--========================= START OF NEWS SECTION ============================-->
+
+		<div class='dropdown children hex-news'>
+		  <a href='/news/' class='nav-item
+' title='News' >
+		  <div class='label'>News</div><div class='fa fa-chevron-right'></div></a>
+
+		  <div class='mega-menu'>
+			<a href='/news/' class='front' title='News' >News Front</a>
+			<div class='column'>
+			  <div class='nav-sep'>- - - - -</div><a href='/news/pennsylvania/' class='' title='Pennsylvania' >Pennsylvania</a>
+<a href='/news/spotlight-pa/' class='' title='Spotlight PA' >Spotlight PA</a>
+<a href='/news/business/' class='' title='Business' >Business</a>
+<a href='/news/world/' class='' title='World' >U.S./World</a>
+<a href='/lifestyles/health-now/' class='' title='Health Now' >Health</a>
+<a href='/news/education/' class='' title='Education' >Education</a>
+<a href='/news/trump-rally-shooting/' class='' title='Trump Rally Shooting' >Trump Rally Shooting</a>
+
+			</div>
+
+			<div class='column'>
+<a href='/category/instagram/' title='Instagram'>Instagram</a><a href='/news/election/' class='' title='Election' >Election</a>
+<a href='/news/partner-news/' class='' title='Partner News' >Partner News</a>
+<a href='/news/from-the-newsroom/' class='' title='From the Newsroom' >From the Newsroom</a>
+<a href='/news/specials/' class='' title='Special Projects' >Special Projects</a><a href='/video/' class='wawo-ccpa' title='Trib Videos' >Trib Videos</a><a href='/news/weather/' class='wawo-ccpa' title='Weather' >Weather</a>
+<a href='/news/all-stories/' class='' title='All Stories' >All Stories</a>
+			</div>
+		  </div>
+		</div>
+
+
+
+
+<!--========================= START OF OPINION SECTION ============================-->
+		<div class='dropdown children hex-opinion'>
+		  <a href='/opinion/' class='nav-item
+' title='Opinion' >
+			<div class='label'>Opinion</div>
+			<div class='fa fa-chevron-right'></div></a>
+
+		  <div class='mega-menu'>
+			<a href='/opinion/' class='front' title='Opinion' >Opinion Front</a>
+			<div class='column'>
+			  <div class='nav-sep'>- - - - -</div><a href='/opinion/opinion-columnists/' class='' title='Opinion Columnists' >Columnists</a>
+<a href='/opinion/editorials/' class='' title='Editorials' >Editorials</a>
+<a href='/opinion/cartoons/' class='' title='Cartoons' >Cartoons</a>
+
+			</div>
+
+			<div class='column'><a href='/opinion/featured-commentary/' class='' title='Featured Commentary' >Featured Commentary</a>
+<a href='/opinion/letters/' class='' title='Letters' >Letters to the Editor</a>
+<a href='/opinion/send-a-letter/' class='' title='Send a Letter' >Send a Letter</a>
+
+			</div>
+		  </div>
+		</div>
+
+
+
+
+
+<!--========================= START OF A&E SECTION ============================-->
+		<div class='dropdown children hex-a-e'>
+		<a href='/aande/' class='nav-item
+' title='A and E' >
+			<div class='label'>A&amp;E</div>
+			<div class='fa fa-chevron-right'></div></a>	  
+
+		  <div class='mega-menu'>
+			<a href='/aande/' class='front' title='A&amp;E Front' >A&amp;E Front</a>
+
+			<div class='column'>
+			  <div class='nav-sep'>- - - - -</div><a href='/aande/tv-talk-with-rob-owen/' class='' title='TV Talk with Rob Owen' >TV Talk with Rob Owen</a>
+<a href='/aande/music/' class='' title='Music' >Music</a>
+<a href='/aande/movies/' class='' title='Movies' >Movies &amp; TV</a>
+<a href='/aande/theater-arts/' class='' title='Theater Arts' >Theater &amp; Arts</a>
+<a href='/events/' class='wawo-ccpa' title='Events' >Events</a>
+
+			</div>
+
+			<div class='column'><a href='/aande/books/' class='' title='Books' >Books</a>
+<a href='/aande/museums/' class='' title='Museums' >Art &amp; Museums</a>
+<a href='/aande/crosswords/' class='wawo-ccpa' title='Crosswords' >Crosswords</a>
+<a href='/aande/sudoku/' class='wawo-ccpa' title='Sudoku' >Sudoku</a>
+<a href='/aande/more-aande/' class='' title='More AandE' >More A&amp;E</a>
+
+			</div>
+		  </div>
+		</div>
+
+
+
+
+
+<!--========================= START OF LIFESTYLES SECTION ============================-->
+		<div class='dropdown children hex-lifestyles'>
+		<a href='/lifestyles/' class='nav-item
+' title='Lifestyles' >
+			<div class='label'>Lifestyles</div>
+			<div class='fa fa-chevron-right'></div></a>	  
+
+		  <div class='mega-menu'>
+			<a href='/lifestyles/' class='front' title='Lifestyles' >Lifestyles Front</a>
+			<div class='column'>
+			  <div class='nav-sep'>- - - - -</div><a href='/lifestyles/food-drink/' class='' title='Food Drink' >Food &amp; Drink</a>
+<a href='/lifestyles/more-lifestyles/' class='' title='More Lifestyles' >More Lifestyles</a>
+
+			</div>
+
+			<div class='column'><a href='/lifestyles/home-garden/' class='' title='Home Garden' >Home &amp; Garden</a>
+<a href='/lifestyles/travel/' class='' title='Travel' >Travel</a>
+
+			</div>
+		  </div>
+		</div>
+
+
+
+ <!--========================= START OF VIDEO SECTION ============================-->
+	<div class='dropdown children hex-video wawo-ccpa'>
+
+		  <a href='https://video.triblive.com' class='nav-item' title='Video' >
+			<div class='label'>Video</div>
+			<div class='fa fa-chevron-right'></div></a>
+			<div class='mega-menu'>
+
+			<div class='column'>
+			  <div class='nav-sep'>- - - - -</div>
+				<a href='https://video.triblive.com' class='' title='Trib Videos' >Trib Videos</a>
+			</div>
+		  </div>
+	</div>
+
+<!--========================= START OF OBITS SECTION ============================-->
+		<div class='dropdown children hex-obituaries wawo-ccpa'>
+		  <a class='nav-item' href='https://obituaries.triblive.com/us/obituaries/triblive/browse' target='_new'>
+			<div class='label'>Obituaries</div>
+			<div class='fa fa-chevron-right'></div>
+		  </a>
+
+  		  <div class='mega-menu'>
+			<!--<a href='https://obituaries.triblive.com/obituaries/triblive/' class = 'front' title='Obituaries'><span>All Obits</span></a>-->
+			<div class='column'>
+		  <div class='nav-sep'>- - - - -</div>
+
+			
+
+         <a href='/obituary-stories/' class='' title='Obituary Stories' >Obituary Stories</a>
+				<!-- https://www.legacy.com/obituaries/triblive-online-only/ -->
+			<!-- <a href='https://obituaries.triblive.com/obituaries/triblive/' title='Pittsburgh Tribune-Review'><span>Pittsburgh Tribune-Review</span></a> -->
+				<!-- https://www.legacy.com/obituaries/triblive-tribune-review/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-tribune-review/today' title='Tribune-Review'><span>Tribune-Review</span></a>
+				<!-- -->
+			<a href='https://www.legacy.com/obituaries/triblive-valley-news-dispatch/' title='Valley News Dispatch'><span>Valley News Dispatch</span></a>
+
+			<!--Weeklies 5 -->
+
+			<!-- Carlynton https://www.legacy.com/obituaries/triblive-bridgeville/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-signal-item/browse' title='Carnegie Signal Item'><span>
+			Carnegie Signal Item</span></a>
+
+			<!-- Fox Chapel https://www.legacy.com/obituaries/triblive-the-herald/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-the-herald/browse
+' title='Fox Chapel Herald'><span>
+			Fox Chapel Herald</span></a>
+
+			<!-- Hampton https://www.legacy.com/obituaries/triblive-hampton-journal/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-hampton-journal/browse' title='Hampton Journal'><span>
+			Hampton Journal</span></a>
+
+			<!-- Monroeville  https://www.legacy.com/obituaries/triblive-times-express/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-times-express/browse' title='Monroeville Times Express'><span>
+			Monroeville Times Express</span></a>
+
+			<!-- Murrysville https://www.legacy.com/obituaries/triblive-murrysville-star/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-murrysville-star/browse' title='Murrysville Star'><span>
+			Murrysville Star</span></a>
+			
+			<!-- North Hills https://www.legacy.com/obituaries/triblive-north-journal/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-north-journal/browse' title='North Journal'><span>
+			North Journal</span></a>
+			
+			<!--End of first column-->
+</div> <div class='column'>
+			<!--Start of second column-->
+
+			<!-- Norwin https://www.legacy.com/obituaries/triblive-norwin-star/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-norwin-star/browse' title='Norwin Star'><span>
+			Norwin Star</span></a>
+
+			<!-- Penn Hills https://www.legacy.com/obituaries/triblive-penn-hills/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-penn-hills/browse' title='Penn Hills Progress'><span>
+			Penn Hills Progress</span></a>
+
+			<!-- Penn-Trafford https://www.legacy.com/obituaries/triblive-penn-trafford-star/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-penn-trafford-star/browse' title='Penn-Trafford Star'><span>
+			Penn-Trafford Star</span></a>
+
+			<!-- Pine Creek https://www.legacy.com/obituaries/triblive-pine-creek-journal/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-pine-creek-journal/browse' title='Pine Creek Journal'><span>
+			Pine Creek Journal</span></a>
+
+			<!-- Plum https://www.legacy.com/obituaries/triblive-advance-leader/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-advance-leader/browse' title='Plum Advance Leader'><span>
+			Plum Advance Leader</span></a>
+
+			<!-- Sewickley https://www.legacy.com/obituaries/triblive-sewickley-herald/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-sewickley-herald/browse' title='Sewickley Herald'><span>
+			Sewickley Herald</span></a>
+
+			<!-- Shaler https://www.legacy.com/obituaries/triblive-shaler-journal/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-shaler-journal/browse' title='Shaler Journal'><span>
+			Shaler Journal</span></a>
+
+			<!-- South Hills https://www.legacy.com/obituaries/triblive-south-hills-record/ -->
+			<a href='https://www.legacy.com/us/obituaries/triblive-south-hills-record/browse' title='South Hills Record'><span>
+			South Hills Record</span></a>
+			
+			<a href='https://www.legacy.com/us/obituaries/triblive-online-only/today' title='Online Only'><span>Online Only</span></a>
+			
+			<a href='https://obituaries.triblive.com/obituaries/triblive/' title='All Obituaries'><span>All Obituaries</span></a>
+
+			<!--/ weeklies-->
+
+			</div>
+		</div>
+	</div>
+
+<!--========================= START OF RIGHT NAV ============================-->
+		<div class='navbar-right'>
+						<a class='nav-item fa fa-cloud-sun' href='/news/weather/' class = 'wawo-ccpa'></a>
+		  <a class='nav-item fa fa-brands fa-facebook-f' href='https://www.facebook.com/triblive' target='_blank'></a>
+		  <a class='nav-item fa fa-brands fa-x-twitter' href='https://twitter.com/TribLIVE' target='_blank'></a>
+		  <a class='nav-item fa fa-brands fa-instagram' href='https://instagram.com/triblive/' target='_blank'></a>
+		</div>
+
+		<!-- touch menu additions-->
+		<div class='utility-nav'>
+			<!--location, date-->
+			<span style = "font-size: 10px !important; line-height: 1.6429; color: #727272 !important; float: left; font-family: 'open_sansregular';font-weight: normal; font-style: normal; padding: 5px 0 0 15px;">Western Pennsylvania's trusted news source<br/>Monday, December 2, 2024</span><hr style="width:100%;"/>
+						 
+				<a href="#" style="display:none;" id="MG2logout_mob"  data-mg2-action="logout"><span style="font-weight:bold;font-family: 'open_sansregular';color:#2B2D2F !important;">Log out</span></a>   
+				<a href="#" style="display:none;" id="MG2login_mob"  data-mg2-action="login"><span style="font-weight:bold;font-family: 'open_sansregular';color:#2B2D2F !important;">Log in</span></a>   
+				<a href="#" style="display:none;" id="MG2register_mob"  data-mg2-action="register"><span style="font-weight:bold;font-family: 'open_sansregular';color:#2B2D2F !important;">Register</span></a>       
+				<a href="https://myaccount.triblive.com/" hidden id="MG2MyAccount_mob"><span style="font-weight:bold;font-family: 'open_sansregular';color:#2B2D2F !important;">MyAccount</span></a>  
+				<a href="https://subscribe.triblive.com/" style="font-weight:bold;font-family: 'open_sansregular';color:#2B2D2F !important;">SUBSCRIBE</a>
+                        <a href="https://signup.triblive.com/" target="_blank" style="font-weight:bold;font-family: 'open_sansregular';color:#2B2D2F !important;">NEWSLETTERS</a>
+                        <a href="https://mediakit.triblive.com/" target="_blank" style="font-family: 'open_sansregular';color:#2B2D2F !important;">ADVERTISE</a>
+                        <a href="https://pittsburghpennysaver.com/" target="_blank" style="font-family: 'open_sansregular';color:#2B2D2F !important;">CLASSIFIEDS</a>
+                        <a href="https://jobs.triblive.com/" target="_blank" style="font-family: 'open_sansregular';color:#2B2D2F !important;">JOBS</a>
+                        <a href="https://e.triblive.com/" target="_blank" style="font-family: 'open_sansregular';color:#2B2D2F !important;">E-TRIB</a>
+                        <a href="https://tribhssn.triblive.com/" target="_blank" style="font-family: 'open_sansregular';color:#2B2D2F !important;">HIGH SCHOOL SPORTS NETWORK</a>
+                        <a href="https://triblive.com/community/" target="_blank" style="font-family: 'open_sansregular';color:#2B2D2F !important;">TRIBLIVE LOCAL</a>
+		</div>
+
+		<div class='extra-nav' style="background:black !important;">
+		  <a href='#aboutus' style="font-family: 'open_sansregular';">ABOUT US</a>
+		  <a href='#getthetrib' style="font-family: 'open_sansregular';">GET THE TRIB</a>
+		  <a href='#sections' style="font-family: 'open_sansregular';">SECTIONS</a>
+		  <a href='#termsofuse' style="font-family: 'open_sansregular';">TERMS OF USE</a>
+		  <!--<a href='http://tribtotalmedia.com/customercare/find/' target='_blank'>Where to Buy the Paper</a>-->
+		</div><!--  /obits and right-->
+		<!-- / touch menu additions-->
+	  </div>
+	</div>
+  </nav>
+<script>
+  $('.extra-nav a').on('click', function(){
+    $('.menu-overlay').removeClass( "active" );
+    $('.navbar').removeClass( "slide-in" );
+    $('body').removeClass( "lock" );
+});
+</script>
+<!--/ navigation-->
+<main>
+<div class='container'>
+<div class="row"><div class=""><div id="dsk-banner-ad-b"></div><div id="mob-banner-ad-b"></div></div></div><div class='row'><div class='col-xs-12'><div class='top subsection' style='cursor: default !important'>Regional<div class='' style='float:right;'><a href='https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/?printerfriendly=true'><div class='fa fa-print'></div></a></div></div></div></div><div class='row md-push-down sm-push-down'>
+<!--Start of normal story--><div class='col-md-8 col-xs-12'><article><div style='width:100%;'><h1>Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban</h1></div>
+<!--Start of dateline--><div style='width:100%;'>
+<div class='author'>
+
+<!--Start of dateline author byline-->
+
+<!--myPostAuthorName (TribLive)-->
+<!--normal headshot-->
+<a class='headshot' href='https://triblive.com/author/tribune-review/' style='width:40px !important; height:40px !important;'>
+<!--Normal author link-->
+<div class='columnist'><img src='https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/mugshots/default.jpg' title='Haley Daugherty And Patrick Varine' alt='Haley Daugherty And Patrick Varine' style='width:40px !important; height:40px !important; '></div></a><!--/normal headshot-->
+<div class='author-info'><a class='byline' href='https://triblive.com/author/tribune-review/'>Haley Daugherty And Patrick Varine</a>
+<a class='fa fa-envelope' href='mailto:tribcity@tribweb.com' style='text-decoration: none;'></a> 
+
+
+<!--Mobile dateline--><span class='hidden-sm hidden-md hidden-lg'><br/>Friday, Nov. 29, 2024 6:00 p.m.</span>
+
+
+
+<!--Desktop dateline--><span class='hidden-xs'><span class=''>|</span> Friday, Nov. 29, 2024 6:00 p.m.</span>
+
+</div>
+
+<!-- mesearch-off -->
+<span style="float:right;" id="promo-ad-free-story-top"><a class="logo" style="color: #b32025; font-size: 14px; padding: 8px 10px; display: block;" href="https://subscribe.triblive.com/nolanding?sitecode=TR&ofrgp_id=59,60">Go Ad-Free Today!</a></span></div>
+</div><!--End dateline-->
+<div class='copy'>
+<!--Starting picture carousel-->
+
+<!--Begin carousel-->
+<!-- slideshow (becomes a slider smaller)-->
+<div class='slider slideshow' style='height: auto;'>
+<!-- == main slides-->
+<div class='slides main slMn'>
+<!--Start slide [1]-->
+<div class='slide'>
+<div class='slide-inner' style='float:none !important;'>
+<img srcset='https://assets-varnish.triblive.com/2024/11/7984138_web1_7983239-3d029fc91de34552a65762b520e4be41.jpg' alt='7984138_web1_7983239-3d029fc91de34552a65762b520e4be41' title='7984138_web1_7983239-3d029fc91de34552a65762b520e4be41' style='display: block; margin: auto;' src='https://assets-varnish.triblive.com/2024/11/7984138_web1_7983239-3d029fc91de34552a65762b520e4be41.jpg'>
+<div class='credit'>AP </div>
+<div class='caption' align='left'>A teenager in Sydney uses his mobile phone to access social media.</div>
+</div>
+<div class='graybox' style='-ms-transform: rotate(20deg); -webkit-transform: rotate(20deg); transform: rotate(20deg);'></div>
+</div><!-- closes slide [1] -->
+
+<!--Start slide [2]-->
+<div class='slide'>
+<div class='slide-inner' style='float:none !important;'>
+<img srcset='https://assets-varnish.triblive.com/2024/11/7984138_web1_7159626-4e29b3a8d1e84008bfa65d3784b09ea4.jpg' alt='7984138_web1_7159626-4e29b3a8d1e84008bfa65d3784b09ea4' title='7984138_web1_7159626-4e29b3a8d1e84008bfa65d3784b09ea4' style='display: block; margin: auto;' src='https://assets-varnish.triblive.com/2024/11/7984138_web1_7159626-4e29b3a8d1e84008bfa65d3784b09ea4.jpg'>
+<div class='credit'>AP </div>
+<div class='caption' align='left'>App logos for Facebook and X are seen on a mobile phone in Los Angeles.</div>
+</div>
+<div class='graybox' style='-ms-transform: rotate(20deg); -webkit-transform: rotate(20deg); transform: rotate(20deg);'></div>
+</div><!-- closes slide [2] -->
+
+</div><!-- / slides main ============== -->
+<!-- thumbnails-->
+<!-- secondary navigation slider-->
+<div class='slides thumbnails slTh'>
+<div class='slide'>
+<div class='photo'>
+<div class='hover' style='background-image: url(https://assets-varnish.triblive.com/2024/11/7984138_web1_7983239-3d029fc91de34552a65762b520e4be41.jpg)'></div>
+</div>
+</div> <!--end inner thumbs-->
+<div class='slide'>
+<div class='photo'>
+<div class='hover' style='background-image: url(https://assets-varnish.triblive.com/2024/11/7984138_web1_7159626-4e29b3a8d1e84008bfa65d3784b09ea4.jpg)'></div>
+</div>
+</div> <!--end inner thumbs-->
+</div> <!-- / slides thumbnails-->
+</div> <!--/ slider slideshow-->
+<div class='hidden-xs' style = 'float:left; width:100%; height: 10px;'>&nbsp;</div>
+<!--End carousel-->
+
+
+<!--Ending picture carousel-->
+
+<!--Start of copy-->
+<!--Social widget-->
+<div class='row'><div class='col-xs-12'>
+</div></div>
+<!--/ Social widget-->
+
+<!--Start of copy--><div class='row'><div class='col-xs-12'>
+<!--Start right rail-->
+
+<!--Desktop right rail-->
+<aside class='related hidden-sm hidden-xs'>
+<!--Start Newsletter signup-->
+<div class='top' style='padding-top:10px;' data-sj-ignore>
+<a href='https://signup.triblive.com/' target='_new' style='text-decoration: none;'>Email Newsletters <span class='fa fa-envelope'></span></a></div>
+
+<div class='preview' data-sj-ignore>
+<p class = "newsletter">TribLIVE's Daily and Weekly <a href="https://signup.triblive.com/" target="_new">email newsletters</a> deliver the news you want and information you need, right to your inbox.</p>
+</div>
+<!--End Newsletter signup-->
+</aside>
+<!-- / Desktop right rail-->
+<!--End right rail-->
+<div id = "storyContent">
+<!-- ccpa version-->
+<p>Olivia Edwards understands the intent behind Australia&rsquo;s recent blanket social media ban.</p>
+<p>&ldquo;It makes sense,&rdquo; she said. &ldquo;The thought behind it is protecting children.&rdquo;</p>
+<p>The <a href="https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056" target="_blank" rel="noopener">new law established</a> some of the most stringent internet usage restrictions outside of China and other non-democratic regimes and could be considered a precedent for other governments to act. </p>
+<p>It restricts all people under the age of 16 from using social media.</p>
+<p>Australia is not alone in its attempts to curb social media use. Government bodies in Florida, Texas, France and the United Kingdom have attempted or are considering raising social media age limits or tightening content oversight.</p>
+<p>As someone who grew up surrounded by social media, Edwards, 25, of Shadyside said bullying online has gotten out of hand. She said stories from her school days and in the current-day news of teens and younger children considering and even committing suicide are consistently tragic stories that come with the territory of social media.</p>
+<p><span class="neFMT neFMT_body-subhead">Questionable enforcement</span></p>
+<p>Despite seeing the need for some type of regulation, Edwards said an outright ban seems like a longshot in the U.S.</p>
+<p>&ldquo;With how big social media is &mdash; and how much enforcement it would need and how big the U.S. is &mdash; I don&rsquo;t see how it would ever work,&rdquo; Edwards said.</p>
+<p>While most social media platforms have age requirements to start an account, there are no checks to make sure the account creator is honest about what age they&rsquo;re registering as.</p>
+<p>Lizzy Williams, 29, of Jeannette said she was 14 or 15 when Facebook started.</p>
+<p>&ldquo;We all lied about our age,&rdquo; Williams said. She said it was easy for her and her friends to type in what year of birth was required, and there was no confirmation needed that would prove them dishonest.</p>
+<p>Dana Soltesz of Delmont said she doesn&rsquo;t think social media should be banned for minors but noted it should be more restrictive.</p>
+<p>&ldquo;I&rsquo;m not sure how well it could be enforced,&rdquo; she said. &ldquo;Social media can be beneficial in so many ways, but unfortunately it has so many downsides, especially for minors.&rdquo;</p>
+<p>Australia&rsquo;s law will make platforms including TikTok, Facebook, Snapchat, Reddit, X and Instagram liable for fines of up to the equivalent of $33 million (U.S.) for systemic failures to prevent children younger than 16 from holding accounts.</p>
+<p>The platforms have one year to work out how they could implement the ban before penalties are enforced.</p>
+<p>Edwards said effective enforcement in America most likely would have to be a collaboration between the social media platforms and the government.</p>
+<p>&ldquo;I just don&rsquo;t know how realistic that (collaboration) would be considering how protective people are of the First Amendment and what a large topic it is right now,&rdquo; Edwards said.</p>
+<p>A Florida bill prohibiting children under 14 from having social media accounts has faced legal challenges, as have moves from states such as Arkansas and Ohio that would require minors to secure parental approval to use social media.</p>
+<p><span class="neFMT neFMT_body-subhead">Social media in schools</span></p>
+<p>Williams agreed with Australia&rsquo;s proposal for social media platforms. She is the mother of three young children. She thinks between 16 and 18 is a good age to let them access social media.</p>
+<p>&ldquo;Coming from someone who was bullied in high school on social media, it&rsquo;s just too easy to be attacked online,&rdquo; she said.</p>
+<p>The World Health Organization issued one of the clearest warnings in September after studying social media use among almost 280,000 school-age children in 44 countries and regions, one of the largest surveys of its kind. The WHO warned of far-reaching consequences for adolescent development and their long-term health stemming from the rise in problematic social media use.</p>
+<p>Noreen Dodds, 60, of East McKeesport said she &ldquo;absolutely agrees&rdquo; with Australia&rsquo;s decision to ban social media for young children and teens, saying that social media forces children to mature before they&rsquo;re ready.</p>
+<p>&ldquo;I think social media influences kids to make decisions they aren&rsquo;t old enough to make,&rdquo; Dodds said.</p>
+<p>Jeanine Gevaudan, 52, of Oakmont said she isn&rsquo;t outraged by the idea of a social media ban for young people. She is a middle school teacher and said she sees the negative effects social media has on her students every day.</p>
+<p>&ldquo;I can see how kids that are young are being influenced, and it&rsquo;s not always good,&rdquo; Gevaudan said.</p>
+<p>Not only has social media affected how students interact with each other, it&rsquo;s changed the responsibilities of the schools. Gevaudan said her school has implemented lesson plans about cybersecurity for younger students. She and other teachers help students learn appropriate behavior on social media and how to combat possibly dangerous situations. </p>
+<p>Despite these lessons, students still face hardships with cyberbullying.</p>
+<p>&ldquo;When I was growing up, if you had issues at school, it was at school and you could go home. But now there&rsquo;s no break from it,&rdquo; Gevaudan said. &ldquo;I think kids say things online that they would never say in person because they feel like there&rsquo;s a shield online.&rdquo;</p>
+<p>She said she&rsquo;s had to correct inflammatory language in her classroom multiple times because students have begun to form their opinions based on what they see on social media.</p>
+<p>&ldquo;I think we already try to limit (social media) through parental controls. But then it falls on the parent, and we can&rsquo;t really regulate them either,&rdquo; Gevaudan said.</p>
+<p><span class="neFMT neFMT_body-subhead">Keeping kids away</span></p>
+<p>Despite thinking a ban would be a good idea, Williams said she doesn&rsquo;t see how the government would be able to effectively keep children off social media.</p>
+<p>&ldquo;Teenagers are very, very creative when they want something. And they&rsquo;re very smart when it comes to technology that even when they police it, (teens) will find a loophole,&rdquo; she said.</p>
+<p>Nico Mocker has an Instagram account that he has almost never used. Other than YouTube, that&rsquo;s the extent of the 17-year-old Pittsburgh resident&rsquo;s social media use.</p>
+<p>&ldquo;I&rsquo;m kind of wary about having pictures on social media,&rdquo; Mocker said. &ldquo;Those are on the internet forever, and you can&rsquo;t get rid of them.&rdquo;</p>
+<p>Mocker did not think a blanket ban on minors&rsquo; access to social media was the answer, however.</p>
+<p>&ldquo;I think it ignores all the positives of social media, and it doesn&rsquo;t really address the root of the problem, which is the harmful effects of algorithms silo-ing people into a distorted view of reality, and the effects of advertising,&rdquo; he said.</p>
+<p>In addition, Mocker said he didn&rsquo;t know how such a ban would or could be enforced.</p>
+<p>&ldquo;There are so many websites today that are supposed to be restricted by age, and you can just lie about it,&rdquo; he said. &ldquo;I think it would be more effective &mdash; and would help the issues that adults also have with social media &mdash; if they regulated the industry a little more.&rdquo;</p>
+<p>UNICEF, the United Nations agency for children, said Australia&rsquo;s ban would push young people into darker, unregulated places online. The law also risks compromising children&rsquo;s rights and severing their access to information that&rsquo;s vital to their welfare, UNICEF said.</p>
+<p>&ldquo;I don&rsquo;t know at this point,&rdquo; Dodds said. &ldquo;I think (social media) has been too introduced and too accessible. It&rsquo;s already out there, and it&rsquo;s going to be hard to take away.&rdquo;</p>
+<p><span class="neFMT neFMT_body-subhead">What the platforms are saying</span></p>
+<p>While Australia&rsquo;s ban is wildly popular with voters &mdash; 77% support the move, according to a YouGov survey &mdash; it has unleashed a maelstrom of criticism from big tech.</p>
+<p>Almost all of the largest social media companies including TikTok, X and Meta, which owns Facebook and Instagram, expressed concerns about the law in submissions to a truncated Senate inquiry before the bill passed.</p>
+<p>Major operators including Meta Platforms Inc. say the rules are ineffective or flawed, while X, owned by Elon Musk, questioned whether the ban is lawful, heralding a possible court challenge.</p>
+<p>TikTok, owned by China&rsquo;s ByteDance Ltd., called the legislation rushed, unworkable and riddled with unanswered questions and unresolved concerns.</p>
+<p>Snapchat owner Snap Inc. said previous international attempts at broad and mandatory age verification had failed.</p>
+<p>Kate Manka of Murrysville said that while she thinks banning social media for minors would be a great idea, she also would consider it government overreach.</p>
+<p>&ldquo;They&rsquo;re treading on a very fine line between what they think is best and parental rights,&rdquo; she said. &ldquo;In the end, they wouldn&rsquo;t be successful in keeping kids off of it. They&rsquo;ll always find a way to access it.&rdquo;</p>
+<p>YouTube, deemed by the Australian government to be a health- and education-related platform, is exempt from the ban, despite the comments section being similar to most other social media platforms. Online gaming and messaging services like WhatsApp and Discord also are exempt, even though they can be used for bullying and grooming.</p>
+<p>&ldquo;It&rsquo;s a tough call because I absolutely do believe parents should limit social media,&rdquo; Manka said. &ldquo;My kids are now 25 and 22. Around four years ago, my son decided to get off all social media because, in his words, it&rsquo;s literally nothing but garbage.&rdquo;</p>
+<p>But she said a federal ban is not the solution.</p>
+<p><ins><em>The Associated Press contributed.</em></ins></p>
+<div class='heateor_sss_sharing_container heateor_sss_vertical_sharing heateor_sss_bottom_sharing' style='width:39px;left: -10px;top: 150px;-webkit-box-shadow:none;box-shadow:none;' data-heateor-sss-href='https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/'><div class="heateor_sss_sharing_ul"><a class="heateor_sss_facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftriblive.com%2Flocal%2Fregional%2Fprotecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban%2F" title="Facebook" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg" style="background-color:#3c589a;width:35px;height:35px;border-radius:5px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-5 -5 42 42"><path d="M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z" fill="#fff"></path></svg></span></a><a class="heateor_sss_button_twitter" href="https://twitter.com/intent/tweet?text=Protecting%20children%20or%20government%20overreach%3F%20Western%20Pa.%20reaction%20mixed%20on%20Australian%20social%20media%20ban&url=https%3A%2F%2Ftriblive.com%2Flocal%2Fregional%2Fprotecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban%2F" title="Twitter" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_twitter" style="background-color:#55acee;width:35px;height:35px;border-radius:5px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 39 39"><path d="M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z" fill="#fff"></path></svg></span></a><a class="heateor_sss_email" href="https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/" onclick="event.preventDefault();window.open('mailto:?subject=' + decodeURIComponent('Protecting%20children%20or%20government%20overreach%3F%20Western%20Pa.%20reaction%20mixed%20on%20Australian%20social%20media%20ban').replace('&', '%26') + '&body=https%3A%2F%2Ftriblive.com%2Flocal%2Fregional%2Fprotecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban%2F', '_blank')" title="Email" rel="nofollow noopener" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg" style="background-color:#649a3f;width:35px;height:35px;border-radius:5px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 43 43"><path d="M 5.5 11 h 23 v 1 l -11 6 l -11 -6 v -1 m 0 2 l 11 6 l 11 -6 v 11 h -22 v -11" stroke-width="1" fill="#fff"></path></svg></span></a><a class="heateor_sss_button_pinterest" href="https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/" onclick="event.preventDefault();javascript:void( (function() {var e=document.createElement('script' );e.setAttribute('type','text/javascript' );e.setAttribute('charset','UTF-8' );e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pinterest" rel="nofollow noopener" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_pinterest" style="background-color:#cc2329;width:35px;height:35px;border-radius:5px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-2 -2 35 35"><path fill="#fff" d="M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z"/></svg></span></a><a class="heateor_sss_button_linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftriblive.com%2Flocal%2Fregional%2Fprotecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban%2F&title=Protecting%20children%20or%20government%20overreach%3F%20Western%20Pa.%20reaction%20mixed%20on%20Australian%20social%20media%20ban" title="Linkedin" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_linkedin" style="background-color:#0077b5;width:35px;height:35px;border-radius:5px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path d="M6.227 12.61h4.19v13.48h-4.19V12.61zm2.095-6.7a2.43 2.43 0 0 1 0 4.86c-1.344 0-2.428-1.09-2.428-2.43s1.084-2.43 2.428-2.43m4.72 6.7h4.02v1.84h.058c.56-1.058 1.927-2.176 3.965-2.176 4.238 0 5.02 2.792 5.02 6.42v7.395h-4.183v-6.56c0-1.564-.03-3.574-2.178-3.574-2.18 0-2.514 1.7-2.514 3.46v6.668h-4.187V12.61z" fill="#fff"></path></svg></span></a><a class="heateor_sss_button_reddit" href="http://reddit.com/submit?url=https%3A%2F%2Ftriblive.com%2Flocal%2Fregional%2Fprotecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban%2F&title=Protecting%20children%20or%20government%20overreach%3F%20Western%20Pa.%20reaction%20mixed%20on%20Australian%20social%20media%20ban" title="Reddit" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_reddit" style="background-color:#ff5700;width:35px;height:35px;border-radius:5px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-3.5 -3.5 39 39"><path d="M28.543 15.774a2.953 2.953 0 0 0-2.951-2.949 2.882 2.882 0 0 0-1.9.713 14.075 14.075 0 0 0-6.85-2.044l1.38-4.349 3.768.884a2.452 2.452 0 1 0 .24-1.176l-4.274-1a.6.6 0 0 0-.709.4l-1.659 5.224a14.314 14.314 0 0 0-7.316 2.029 2.908 2.908 0 0 0-1.872-.681 2.942 2.942 0 0 0-1.618 5.4 5.109 5.109 0 0 0-.062.765c0 4.158 5.037 7.541 11.229 7.541s11.22-3.383 11.22-7.541a5.2 5.2 0 0 0-.053-.706 2.963 2.963 0 0 0 1.427-2.51zm-18.008 1.88a1.753 1.753 0 0 1 1.73-1.74 1.73 1.73 0 0 1 1.709 1.74 1.709 1.709 0 0 1-1.709 1.711 1.733 1.733 0 0 1-1.73-1.711zm9.565 4.968a5.573 5.573 0 0 1-4.081 1.272h-.032a5.576 5.576 0 0 1-4.087-1.272.6.6 0 0 1 .844-.854 4.5 4.5 0 0 0 3.238.927h.032a4.5 4.5 0 0 0 3.237-.927.6.6 0 1 1 .844.854zm-.331-3.256a1.726 1.726 0 1 1 1.709-1.712 1.717 1.717 0 0 1-1.712 1.712z" fill="#fff"/></svg></span></a><a class="heateor_sss_more" title="More" rel="nofollow noopener" style="font-size: 32px!important;border:0;box-shadow:none;display:inline-block!important;font-size:16px;padding:0 4px;vertical-align: middle;display:inline;" href="https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/" onclick="event.preventDefault()"><span class="heateor_sss_svg" style="background-color:#ee8e2d;width:35px;height:35px;border-radius:5px;display:inline-block!important;opacity:1;float:left;font-size:32px!important;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;display:inline;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box;" onclick="heateorSssMoreSharingPopup(this, 'https://triblive.com/local/regional/protecting-children-or-government-overreach-pittsburgh-area-reaction-mixed-on-australias-social-media-ban/', 'Protecting%20children%20or%20government%20overreach%3F%20Western%20Pa.%20reaction%20mixed%20on%20Australian%20social%20media%20ban', '' )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-.3 0 32 32" version="1.1" width="100%" height="100%" style="display:block;" xml:space="preserve"><g><path fill="#fff" d="M18 14V8h-4v6H8v4h6v6h4v-6h6v-4h-6z" fill-rule="evenodd"></path></g></svg></span></a></div><div class="heateorSssClear"></div></div>
+</div><!--// ccpa-->
+
+<!-- START AD-FREE BANNER -->
+<div class="bottom-support-local-journalism-box mesearch-off" id="promo-ad-free-story-bottom" style="width:100%; min-height:95px; margin-bottom:20px; padding:16px; background-color:#ececec;">
+	<p style="margin:0;">
+		<a href = "https://subscribe.triblive.com/nolanding?sitecode=TR&ofrgp_id=59,60" style = "text-decoration:none;">
+			<span style = "color: #b32025;font-weight:bold;text-decoration:none;">Remove the ads</span>
+		</a> from your TribLIVE reading experience
+but still support the journalists
+who create the content with TribLIVE Ad-Free.</p>
+	<p style="display:inline-block; margin:0;">
+		<a href="https://subscribe.triblive.com/nolanding?sitecode=TR&ofrgp_id=59,60" title="Get Ad-Free" class="button support-journalism-now-button" style="text-decoration:none; color:white; border:1px solid #b32025; float:left; background-color:#b32025;">Get Ad-Free &gt;</a>
+
+	</p>
+</div>
+<!-- END AD-FREE BANNER -->
+
+<!-- START NOTIFICATION BANNER -->
+<div class="" style="
+    background: #b32025;
+    margin-bottom: 15px;
+    padding: 12px;
+    position: relative;
+"><a href="/notifications/" style="
+    text-decoration: none;
+"><div style="
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    transform: rotate(45deg);
+"><i class="fa-solid fa-arrow-up" style="
+    color: #FFF; 
+	font-size: 24px;
+"></i></div>
+		<h4 style="
+    color: #FFF;
+    margin-right: 30px;
+    text-decoration: dotted;
+">Sign Up for Notifications</h4>
+		<p style="
+    margin: 0;
+    color: #FFF;
+">Stay up-to-date on important news from TribLIVE</p>
+	</a></div>
+<!-- END NOTIFICATION BANNER -->
+<!--Start categories-->
+<div><strong>Categories:</strong> 
+Local | Regional | Top Stories<br/>
+</div>
+<!--Start right rail-->
+
+<!--Mobile right rail-->
+<div class='row'><div class='col-xs-12 hidden-md hidden-lg' style='margin-top:10px;'><!--Start Newsletter signup-->
+<div class='top' style='padding-top:10px;' data-sj-ignore>
+<a href='https://signup.triblive.com/' target='_new' style='text-decoration: none;'>Email Newsletters <span class='fa fa-envelope'></span></a></div>
+
+<div class='preview' data-sj-ignore>
+<p class = "newsletter">TribLIVE's Daily and Weekly <a href="https://signup.triblive.com/" target="_new">email newsletters</a> deliver the news you want and information you need, right to your inbox.</p>
+</div>
+<!--End Newsletter signup-->
+</div></div>
+<!-- / Moible right rail-->
+<!--End right rail-->
+<!--Start related stories-->
+<div class='section push-down hidden-xs'>
+<!--===== MORE MODULE======-->
+<div class='top subsection' style='cursor: default !important'>More Regional Stories</div>
+<div class='pad-inside push-down hide-last-line'>
+<div class='preview bullet'><a href='https://triblive.com/local/regional/morning-roundup-downtown-pittsburgh-roads-reopened-after-water-main-break-crash-in-rostraver/' style='text-decoration: none;'><div class='focus'>Morning Roundup: Downtown Pittsburgh roads reopened after water main break; crash in Rostraver</div></a></div>
+<div class='preview bullet'><a href='https://triblive.com/local/regional/jordan-brown-says-a-murder-conviction-later-reversed-stole-his-childhood-a-jury-will-now-decide-if-police-wronged-him/' style='text-decoration: none;'><div class='focus'>Jordan Brown says a murder conviction, later reversed, stole his childhood. A jury will now decide if police wronged him</div></a></div>
+<div class='preview bullet'><a href='https://triblive.com/local/regional/inside-the-underground-iron-mountain-in-butler-county-preserves-audio-video-digital-media-for-the-future/' style='text-decoration: none;'><div class='focus'>Inside 'The Underground': Iron Mountain in Butler County preserves audio, video, digital media for the future</div></a></div>
+<div class='preview bullet'><a href='https://triblive.com/local/regional/2nd-amtrak-route-to-new-york-city-included-in-new-penndot-rail-plan/' style='text-decoration: none;'><div class='focus'>2nd Amtrak route to New York City included in new PennDOT rail plan</div></a></div>
+<div class='preview bullet'><a href='https://triblive.com/local/regional/ski-season-set-to-begin-at-seven-springs-resort/' style='text-decoration: none;'><div class='focus'>Ski season set to begin at Seven Springs resort</div></a></div>
+</div><!-- / pad-inside push-down hide-last-line-->
+</div> <!-- / pad-inside-->
+<!-- / related stories-->
+<div id="sidedwidget215" class="sided-widget" clientId="111" placementId="215" style="
+	margin: 20px 0;
+	"></div>
+</div><!-- End of class='copy'-->
+
+<!--end of copy divs--></div></div>
+</article>
+<script>
+	
+	var fetchURL = "https://triblive.com/wp-json/wp/v2/posts?per_page=6&categories=57";
+	
+	
+	async function fetchPosts(divID, divName) {
+		
+		
+		
+		if (divName == "post-widget-sports" || divName == "post-widget-sidebar-sports") {
+			fetchURL = "https://triblive.com/wp-json/wp/v2/posts?per_page=6&categories=5";		
+		}
+		
+    try {
+      const [postsResponse, railResponse] = await Promise.all([
+        fetch(fetchURL),
+        //fetch("https://community.triblive.com/rail")
+    fetch("https://s3.us-east-2.amazonaws.com/files.triblive.com/OL-Spotlight/scraped_rail.json")
+      ]);
+
+      const posts = await postsResponse.json();
+      const railData = await railResponse.json();
+      const partnerNewsItems = railData.data.filter(item => item.tags.includes("Partner News")).slice(0, 2);
+
+      await renderPosts(posts, partnerNewsItems, divID);
+    } catch (error) {
+      console.error("Error fetching posts:", error);
+    }
+  }
+
+  async function fetchMedia(mediaUrl) {
+    try {
+      const response = await fetch(mediaUrl);
+      const media = await response.json();
+      return media.media_details.sizes.thumbnail.source_url;  // Return the thumbnail image URL
+    } catch (error) {
+      console.error("Error fetching media:", error);
+      return "default-thumbnail.jpg";  // Fallback image
+    }
+  }
+
+  function formatDate(dateStr) {
+    const options = { year: "numeric", month: "short", day: "numeric" };
+    return new Date(dateStr).toLocaleDateString(undefined, options);
+  }
+
+  async function renderPosts(posts, partnerNewsItems, divID) {
+  var h5content = document.createElement("h5");
+  h5content.textContent = "Content you may have missed";
+  h5content.style="margin-bottom: .5em;";
+
+    divID.innerHTML = "";
+
+    const combinedPosts = [];
+    combinedPosts.push(posts[0], posts[1], posts[2], partnerNewsItems[0], posts[3], posts[4], partnerNewsItems[1], posts[5]);
+
+  var style = document.createElement("style");
+  style.innerHTML = `  
+  .post-wdgt{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(135px, 1fr));
+    grid-gap: .5rem;
+  }
+  .post-item {
+  flex-basis:20%;
+  position:relative;
+  box-sizing: border-box;
+  /*max-width: 150px;
+    margin: .5em; /* Center the card within the column */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: full;
+    background-color: white;
+  }
+  .partner {
+    background-color: #ffe8e3;
+  }
+
+  .post-item img {
+    width: 150px;
+  height:auto;
+  max-width: 150px;
+  }
+
+  .post-item h3 {
+  font-size: .8em;
+  font-weight: 200;
+  margin-bottom: 0px;
+  display: block;
+  color:#000;
+    margin: 5px;
+    /* height: 5em; */
+    overflow: hidden;
+  }
+
+  .post-item .date {
+    font-size: 0.6em;
+    color: #777;
+    margin: 4px;
+	text-align: right;
+  }
+
+  .partner-news {
+    background-color: #f00;
+    color: #fff;
+    text-align: center;
+    padding: 0 2px;
+  opacity:.9;
+  margin-bottom: .25em;
+  font-size: .8em;
+    font-weight: bold;
+  }
+
+  .img-wrapper {
+    width: 100%;
+    height: auto;
+    height:95px;
+    display: flex;
+    justify-content: center; /* Center the image horizontally */
+    align-items: center; /* Center the image vertically */
+    overflow: hidden; /* Ensure the image doesn"t overflow the container */
+  }
+
+  .img-wrapper img {
+    width: 100%; /* Ensure the image fills the width of the wrapper */
+    height: auto; /* Maintain aspect ratio */
+  }  `;
+  document.head.appendChild(style);
+
+
+    for (const post of combinedPosts) {
+      const postItem = document.createElement("a");
+	  if (post.tags && post.tags.includes("Partner News")) {
+		postItem.classList.add("post-item", "partner");
+    } else {
+		postItem.classList.add("post-item");
+    }
+      postItem.href = post.link || post.link;  // Make the entire card clickable
+
+      let imgURL = post.image_url || "default-thumbnail.jpg";
+      if (post._links && post._links["wp:featuredmedia"] && post._links["wp:featuredmedia"][0].href) {
+        imgURL = await fetchMedia(post._links["wp:featuredmedia"][0].href);
+      }
+
+
+    // Create a div to wrap the image
+      const imgWrapper = document.createElement("div");
+	  imgWrapper.classList.add("img-wrapper");  // Add a class for styling if needed
+
+	  const img = document.createElement("img");
+    img.src = imgURL;
+    if (img.src != "default-thumbnail.jpg"){
+    imgWrapper.appendChild(img);  // Append the image to the wrapper
+    postItem.appendChild(imgWrapper);  // Append the wrapper to the post item
+    }
+
+    if (post.tags && post.tags.includes("Partner News")) {
+        const partnerLabel = document.createElement("div");
+        partnerLabel.classList.add("partner-news");
+        partnerLabel.textContent = "PARTNER NEWS";
+        postItem.appendChild(partnerLabel);
+      }
+
+      const title = document.createElement("h3");
+      title.textContent = post.title.rendered || post.title;
+      postItem.appendChild(title);
+
+      const date = document.createElement("div");
+      date.classList.add("date");
+      date.textContent = formatDate(post.date || post.created_at);
+      postItem.appendChild(date);
+
+
+      divID.appendChild(postItem);
+    }
+  }
+	
+	</script><div class="row push-down"><div class="col-md-12 col-sm-12 col-xs-12">
+  <h5 style="margin-bottom:.5em">Content you may have missed</h5>
+  <div id="post-widget-3" class="post-wdgt"></div>
+  </div>
+  </div>
+<script>
+  const divID = document.getElementById("post-widget-3");
+  var divName3 = "post-widget-3";
+
+  fetchPosts(divID, divName3);
+</script><style>
+	
+	.msWdgt-carousel  {
+		background: #333;
+		border-radius: 8px;
+		margin: 40px 0;
+		padding: 20px 0 0;
+		padding: 0;
+    	overflow: hidden;
+	}
+	
+	.msWdgt-carousel h3  {
+		background: #b32025;
+		padding: 0 30px;
+		text-align: center;
+		color: #FFF;
+		padding: 10px;
+	}
+	
+  .msWdgt-carousel .cards { text-align: left; box-sizing: border-box; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; position: relative; font-size: 0; overflow: auto; padding: 30px 0 20px 10px; margin: -15px -20px -20px -10px; white-space: nowrap; }
+  .msWdgt-carousel .cards li a:hover .name { text-decoration: underline; }
+  .msWdgt-carousel .stage { color: var(--color-text); text-align: left; font-size: 0; white-space: nowrap; box-sizing: border-box; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; margin: -10px; padding: 10px; display: inline-block; }
+  .msWdgt-carousel .stage ul { color: var(--color-text); text-align: left; font-size: 0; white-space: nowrap; margin: 0; padding: 0; box-sizing: border-box; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; }
+  .msWdgt-carousel .featured { color: var(--color-text); white-space: nowrap; box-sizing: border-box; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; position: relative; box-shadow: var(--card-shadow); border-radius: var(--border-radius); display: inline-block; height: 225px; width: 300px; font-size: 15px; line-height: 1; padding: 10px 12px; overflow: hidden; background: white; transition: all 0.3s ease; margin: 0 20px 0 0; height: 225px; }
+  .msWdgt-carousel .card-top { white-space: nowrap; font-size: 15px; line-height: 1; margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; color: inherit; text-decoration: none; display: block; }
+  .msWdgt-carousel .image { white-space: nowrap; line-height: 1; color: inherit; padding: 0; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; font-size: 0; text-align: center; max-height: 550px; overflow: hidden; position: relative; height: 130px; background-size: cover; background-position: center center; background-color: #F5F5F5; margin: -12px -12px 15px; }
+  .msWdgt-carousel .card-info { white-space: nowrap; font-size: 15px; line-height: 1; color: inherit; margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; position: relative; }
+  .msWdgt-carousel .name { text-wrap: wrap; line-height: 1; color: inherit; margin: 0; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; font-size: 15px; font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding: 0 0 12px; }
+  .msWdgt-carousel .details .source { line-height: 1; margin: 0; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; list-style: none; user-select: none; color: var(--color-text-70); font-weight: normal; padding: 0 0 12px; font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+	
+		
+	.msWdgt-carousel .item ul {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: normal;
+		align-items: normal;
+		align-content: normal;
+		padding: 30px 40px;
+		
+	}
+	
+	.msWdgt-carousel .item ul li {
+		display: block;
+		flex-grow: 1;
+		flex-shrink: 1;
+		flex-basis: auto;
+		align-self: auto;
+		order: 0;
+		margin: 0 10px;
+		border-radius: 6px;
+		-webkit-transition: all .6s ease;
+		-moz-transition: all .6s ease;
+		-ms-transition: all .6s ease;
+		-o-transition: all .6s ease;
+		transition: all .6s ease;
+	}
+	
+	.msWdgt-carousel .item ul li:hover {
+		-moz-transform: scale(1.06);
+		-webkit-transform: scale(1.016));
+		-o-transform: scale(1.06);
+		-ms-transform: scale(1.06);
+		transform: scale(1.06);
+		z-index: 999;
+
+	}
+	
+	/* --------------------- */
+	
+	.msWdgt-carousel .carousel-control {
+		width: 40px;
+	}
+	
+	.msWdgt-carousel .carousel-control.left, .msWdgt-carousel .carousel-control.right {
+		background: transparent;
+		color: #FFF;
+		width: 50px;
+	}
+	
+	.msWdgt-carousel .carousel-control .fa-solid {
+		font-size: 30px;
+		display: inline-block;
+    	text-align: center;
+		top: 50%;
+		position: absolute;
+		right: 0;
+    	left: 0;
+	}
+	
+	.msWdgt-carousel .fa-chevron-left, .msWdgt-carousel .fa-chevron-right {
+		background: none;
+		position: absolute;
+		width: 50px;
+		text-align: center;
+	}
+
+	.msWdgt-carousel .item {
+		transition-behavior: normal, normal, normal;
+		transition-delay: 0s, 0s, 0s;
+		transition-duration: 0.6s, 0.6s, 0.6s;
+		transition-property: all;
+		transition-timing-function: ease-in-out, ease-in-out, ease-in-out;
+	}
+	
+	.msWdgt-carousel .item .ol-partner-news {
+		margin: 15px 0;
+		font-size: 10px;
+		text-transform: uppercase;
+		background: #b32025;
+		color: #FFF;
+		display: inline-block;
+		padding: 5px 10px;
+		border-radius: 4px;
+	}
+	
+	.msWdgt-carousel .item .card-info .details {
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+	
+	@media (max-width: 430px) {
+		
+		.msWdgt-carousel {
+			margin: 40px 5px;
+		}
+		
+		.msWdgt-carousel .item ul {
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+   		padding: 10px 50px;
+
+		}
+		
+		.msWdgt-carousel .item ul li {
+			    width: 100%;
+    			margin: 20px 0;
+		}
+		
+	}
+	
+</style>
+
+
+<div id="carousel-spotlight-wdget" class="carousel slide msWdgt-carousel">
+	<h3>News Spotlight</h3>
+  <div class="carousel-inner" role="listbox">
+<div class="item containerdiv1 active"><ul><li class="featured" style="height: 235px;">
+				<a bodyid="259092" class="card-top card-top-view" title="What is a Bay Window and its Benefits?" href="https://community.triblive.com/articles/What-is-a-Bay-Window-and-its-Benefits" thref="https://community.triblive.com/articles/What-is-a-Bay-Window-and-its-Benefits">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-platform-production/public/images/categories/300/84df537a-89b0-4814-9ed2-20b34bdc3603.jpeg');" bodyid="259092" title="What is a Bay Window and its Benefits?" thref="https://community.triblive.com/articles/What-is-a-Bay-Window-and-its-Benefits"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="259092" class="card-top" title="What is a Bay Window and its Benefits?" href="https://community.triblive.com/articles/What-is-a-Bay-Window-and-its-Benefits" thref="https://community.triblive.com/articles/What-is-a-Bay-Window-and-its-Benefits">
+						<div class="name" bodyid="259092" title="What is a Bay Window and its Benefits?" thref="https://community.triblive.com/articles/What-is-a-Bay-Window-and-its-Benefits">What is a Bay Window and its Benefits?</div>
+					</a>
+					<div class="details"> <span class="source"> Mt Pleasant Window & Remodeling Co. </span> </div>
+					<div class="ol-partner-news">Partner News</div>
+				</div>
+           </li><li class="featured" style="height: 235px;">
+				<a bodyid="263370" class="card-top card-top-view" title="Andy Macey: Nippon best for future of US Steel" href="https://community.triblive.com/news/3685507" thref="https://community.triblive.com/news/3685507">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-adforge-production/articles/external/600/8a8c6f59-ae5d-4347-a13b-b98e45a23f63.webp');" bodyid="263370" title="Andy Macey: Nippon best for future of US Steel" thref="https://community.triblive.com/news/3685507"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="263370" class="card-top" title="Andy Macey: Nippon best for future of US Steel" href="https://community.triblive.com/news/3685507" thref="https://community.triblive.com/news/3685507">
+						<div class="name" bodyid="263370" title="Andy Macey: Nippon best for future of US Steel" thref="https://community.triblive.com/news/3685507">Andy Macey: Nippon best for future of US Steel</div>
+					</a>
+					<div class="details"> <span class="source"> TribLive </span> </div>
+					
+				</div>
+           </li> </ul></div> <div class="item containerdiv3 "><ul><li class="featured" style="height: 235px;">
+				<a bodyid="259885" class="card-top card-top-view" title="The Ultimate Guide to Basement Waterproofing" href="https://community.triblive.com/articles/The-Ultimate-Guide-to-Basement-Waterproofing" thref="https://community.triblive.com/articles/The-Ultimate-Guide-to-Basement-Waterproofing">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-platform-production/public/images/categories/300/28895409-29cf-4fac-af36-1e9fcf85dfdd.jpeg');" bodyid="259885" title="The Ultimate Guide to Basement Waterproofing" thref="https://community.triblive.com/articles/The-Ultimate-Guide-to-Basement-Waterproofing"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="259885" class="card-top" title="The Ultimate Guide to Basement Waterproofing" href="https://community.triblive.com/articles/The-Ultimate-Guide-to-Basement-Waterproofing" thref="https://community.triblive.com/articles/The-Ultimate-Guide-to-Basement-Waterproofing">
+						<div class="name" bodyid="259885" title="The Ultimate Guide to Basement Waterproofing" thref="https://community.triblive.com/articles/The-Ultimate-Guide-to-Basement-Waterproofing">The Ultimate Guide to Basement Waterproofing</div>
+					</a>
+					<div class="details"> <span class="source"> Highlander Waterproofing and Foundation Repair </span> </div>
+					<div class="ol-partner-news">Partner News</div>
+				</div>
+           </li><li class="featured" style="height: 235px;">
+				<a bodyid="259253" class="card-top card-top-view" title="Top Tips for Keeping Your Car's Paint Looking New" href="https://community.triblive.com/articles/Top-Tips-for-Keeping-Your-Cars-Paint-Looking-New" thref="https://community.triblive.com/articles/Top-Tips-for-Keeping-Your-Cars-Paint-Looking-New">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-adforge-production/articles/220/a4b372a4-42f9-44ca-9e8a-4dd42de90490.webp');" bodyid="259253" title="Top Tips for Keeping Your Car's Paint Looking New" thref="https://community.triblive.com/articles/Top-Tips-for-Keeping-Your-Cars-Paint-Looking-New"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="259253" class="card-top" title="Top Tips for Keeping Your Car's Paint Looking New" href="https://community.triblive.com/articles/Top-Tips-for-Keeping-Your-Cars-Paint-Looking-New" thref="https://community.triblive.com/articles/Top-Tips-for-Keeping-Your-Cars-Paint-Looking-New">
+						<div class="name" bodyid="259253" title="Top Tips for Keeping Your Car's Paint Looking New" thref="https://community.triblive.com/articles/Top-Tips-for-Keeping-Your-Cars-Paint-Looking-New">Top Tips for Keeping Your Car's Paint Looking New</div>
+					</a>
+					<div class="details"> <span class="source"> Elusive Auto Shine </span> </div>
+					<div class="ol-partner-news">Partner News</div>
+				</div>
+           </li> </ul></div> <div class="item containerdiv5 "><ul><li class="featured" style="height: 235px;">
+				<a bodyid="263373" class="card-top card-top-view" title="Allegheny County councilman pitches compromise property tax hike as time ticks down to pass budget" href="https://community.triblive.com/news/3685513" thref="https://community.triblive.com/news/3685513">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-adforge-production/articles/external/600/0080bff7-1260-4f59-a357-b369764237f7.webp');" bodyid="263373" title="Allegheny County councilman pitches compromise property tax hike as time ticks down to pass budget" thref="https://community.triblive.com/news/3685513"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="263373" class="card-top" title="Allegheny County councilman pitches compromise property tax hike as time ticks down to pass budget" href="https://community.triblive.com/news/3685513" thref="https://community.triblive.com/news/3685513">
+						<div class="name" bodyid="263373" title="Allegheny County councilman pitches compromise property tax hike as time ticks down to pass budget" thref="https://community.triblive.com/news/3685513">Allegheny County councilman pitches compromise property tax hike as time ticks down to pass budget</div>
+					</a>
+					<div class="details"> <span class="source"> TribLive </span> </div>
+					
+				</div>
+           </li><li class="featured" style="height: 235px;">
+				<a bodyid="263377" class="card-top card-top-view" title="Overflowing dumpsters at New Kensington's Valley Royal Court expected to be emptied" href="https://community.triblive.com/news/3685562" thref="https://community.triblive.com/news/3685562">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-adforge-production/articles/external/600/600/ff4db52c-6b6d-4d6b-a5bd-53c04fa6d11b.webp');" bodyid="263377" title="Overflowing dumpsters at New Kensington's Valley Royal Court expected to be emptied" thref="https://community.triblive.com/news/3685562"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="263377" class="card-top" title="Overflowing dumpsters at New Kensington's Valley Royal Court expected to be emptied" href="https://community.triblive.com/news/3685562" thref="https://community.triblive.com/news/3685562">
+						<div class="name" bodyid="263377" title="Overflowing dumpsters at New Kensington's Valley Royal Court expected to be emptied" thref="https://community.triblive.com/news/3685562">Overflowing dumpsters at New Kensington's Valley Royal Court expected to be emptied</div>
+					</a>
+					<div class="details"> <span class="source"> TribLive </span> </div>
+					
+				</div>
+           </li> </ul></div> <div class="item containerdiv7 "><ul><li class="featured" style="height: 235px;">
+				<a bodyid="263382" class="card-top card-top-view" title="Football coach Shawn Liotta leaving Burrell for arena team in Wilkes-Barre" href="https://community.triblive.com/news/3685573" thref="https://community.triblive.com/news/3685573">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-adforge-production/articles/external/600/c5e542a8-27c1-4506-ae9d-b628eff64fe2.webp');" bodyid="263382" title="Football coach Shawn Liotta leaving Burrell for arena team in Wilkes-Barre" thref="https://community.triblive.com/news/3685573"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="263382" class="card-top" title="Football coach Shawn Liotta leaving Burrell for arena team in Wilkes-Barre" href="https://community.triblive.com/news/3685573" thref="https://community.triblive.com/news/3685573">
+						<div class="name" bodyid="263382" title="Football coach Shawn Liotta leaving Burrell for arena team in Wilkes-Barre" thref="https://community.triblive.com/news/3685573">Football coach Shawn Liotta leaving Burrell for arena team in Wilkes-Barre</div>
+					</a>
+					<div class="details"> <span class="source"> TribLive </span> </div>
+					
+				</div>
+           </li><li class="featured" style="height: 235px;">
+				<a bodyid="261207" class="card-top card-top-view" title="How to Design a Functional and Stylish Kitchen with Countertops" href="https://community.triblive.com/articles/How-to-Design-a-Functional-and-Stylish-Kitchen-with-Countertops" thref="https://community.triblive.com/articles/How-to-Design-a-Functional-and-Stylish-Kitchen-with-Countertops">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-adforge-production/articles/220/7f15361c-64ad-4616-aceb-97aba9727e53.webp');" bodyid="261207" title="How to Design a Functional and Stylish Kitchen with Countertops" thref="https://community.triblive.com/articles/How-to-Design-a-Functional-and-Stylish-Kitchen-with-Countertops"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="261207" class="card-top" title="How to Design a Functional and Stylish Kitchen with Countertops" href="https://community.triblive.com/articles/How-to-Design-a-Functional-and-Stylish-Kitchen-with-Countertops" thref="https://community.triblive.com/articles/How-to-Design-a-Functional-and-Stylish-Kitchen-with-Countertops">
+						<div class="name" bodyid="261207" title="How to Design a Functional and Stylish Kitchen with Countertops" thref="https://community.triblive.com/articles/How-to-Design-a-Functional-and-Stylish-Kitchen-with-Countertops">How to Design a Functional and Stylish Kitchen with Countertops</div>
+					</a>
+					<div class="details"> <span class="source"> Vangura </span> </div>
+					<div class="ol-partner-news">Partner News</div>
+				</div>
+           </li> </ul></div> <div class="item containerdiv9 "><ul><li class="featured" style="height: 235px;">
+				<a bodyid="263378" class="card-top card-top-view" title="Ohio man pleads guilty to stalking of Murrysville singer" href="https://community.triblive.com/news/3685566" thref="https://community.triblive.com/news/3685566">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-adforge-production/articles/external/600/600/623252ff-e3d8-47f0-9b8c-0ea7ac7b14d3.webp');" bodyid="263378" title="Ohio man pleads guilty to stalking of Murrysville singer" thref="https://community.triblive.com/news/3685566"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="263378" class="card-top" title="Ohio man pleads guilty to stalking of Murrysville singer" href="https://community.triblive.com/news/3685566" thref="https://community.triblive.com/news/3685566">
+						<div class="name" bodyid="263378" title="Ohio man pleads guilty to stalking of Murrysville singer" thref="https://community.triblive.com/news/3685566">Ohio man pleads guilty to stalking of Murrysville singer</div>
+					</a>
+					<div class="details"> <span class="source"> TribLive </span> </div>
+					
+				</div>
+           </li><li class="featured" style="height: 235px;">
+				<a bodyid="259957" class="card-top card-top-view" title="How to Prevent Common Auto Mechanic Mistakes" href="https://community.triblive.com/articles/How-to-Prevent-Common-Auto-Mechanic-Mistakes" thref="https://community.triblive.com/articles/How-to-Prevent-Common-Auto-Mechanic-Mistakes">
+					<div class="image" style="background-image: url('https://storage.googleapis.com/ownlocal-platform-production/public/images/categories/300/6c21f8ef-7b2d-4733-89be-ce1eedca754c.jpeg');" bodyid="259957" title="How to Prevent Common Auto Mechanic Mistakes" thref="https://community.triblive.com/articles/How-to-Prevent-Common-Auto-Mechanic-Mistakes"></div>
+				</a>
+				<div class="card-info">
+					<a bodyid="259957" class="card-top" title="How to Prevent Common Auto Mechanic Mistakes" href="https://community.triblive.com/articles/How-to-Prevent-Common-Auto-Mechanic-Mistakes" thref="https://community.triblive.com/articles/How-to-Prevent-Common-Auto-Mechanic-Mistakes">
+						<div class="name" bodyid="259957" title="How to Prevent Common Auto Mechanic Mistakes" thref="https://community.triblive.com/articles/How-to-Prevent-Common-Auto-Mechanic-Mistakes">How to Prevent Common Auto Mechanic Mistakes</div>
+					</a>
+					<div class="details"> <span class="source"> Elusive Auto Shine </span> </div>
+					<div class="ol-partner-news">Partner News</div>
+				</div>
+           </li> </ul></div> 	</div>
+	<a class="left carousel-control" href="#carousel-spotlight-wdget" role="button" data-slide="prev"> <i class="fa-solid fa-caret-left"></i></a> <a class="right carousel-control" href="#carousel-spotlight-wdget" role="button" data-slide="next"> <i class="fa-solid fa-caret-right"></i> </a>
+</div>
+
+
+		
+	<!-- Origami code3 -->        
+	<script id="origami-ad-widget" src="https://origami.secure.ownlocal.com/origami-widget.js" async data-partner-id="28dca0e7-2d0e-44ee-8ce8-a15d4a873814" data-ad-container-ids="origami-ad-container,origami-ad-container2" data-ad-size="300x250"></script>
+	<!--start origami row--><div class="row">
+<div class="col-md-6 col-sm-12 col-xs-12 text-center push-more">
+<div id='origami-ad-container'></div>
+</div><!-- / col-md-6 (origami) -->
+<div class='col-md-6 col-sm-12 col-xs-12 text-center push-more'>
+<div id='origami-ad-container2'></div>
+</div><!-- / col-md-6 (origami2) -->
+</div> <!-- / origami row -->
+<!-- AP sports widgets start-->
+<!--Checking AP sports widgets-->
+
+</div> <!--/ col-md-8 col-xs-12--> <!--close left column-->
+<!-- 437 #####################-->
+<!--start of right column-->
+<div class='col-md-4 col-sm-12 sm-push-more hidden-xs'>
+<div class="">
+  <h5 style="margin-bottom:.5em">Content you may have missed</h5>
+  <div id="post-widget-2" class="post-wdgt"></div>
+  </div>
+<script>
+  const divID2 = document.getElementById("post-widget-2");
+  var divName2 = "post-widget-2";
+  
+
+  fetchPosts(divID2, divName2);
+  
+</script><div id="sidedwidget216" class="sided-widget" clientId="111" placementId="216" style=" margin: 20px 0;"></div>
+<div class='row'>
+<!--start rra--><div class='col-md-12 col-sm-6 sm-push-more pull-right'>
+<div class="ad"><div id="dsk-box-ad-a"></div></div></div>  <!-- / rra-->
+<div class='clearfix'></div>
+<div class='col-md-12 col-sm-6 sm-push-more'>
+<!--Start of civic science--><div class='sm-push-more'>
+<script defer type="text/javascript" src="https://www.civicscience.com/widget/jspoll/?elt=8359b28c-c38e-73c4-bdfb-84753738c010&amp;tgtid=4692a1b1-8844-4d34-0921-f1b2c3c9877a"></script>
+<div id="8359b28c-c38e-73c4-bdfb-84753738c010" class = "cs-widget"></div>
+	</div><!--/ sm-push-more (civic science)--></div>
+<!-- /col-md-12 col-sm-6 sm-push-more-->
+<!--start rra--><div class='col-md-12 col-sm-6 sm-push-more pull-right'>
+<div class="ad"><div id="dsk-box-ad-b"></div></div></div>  <!-- / rra-->
+<div class='col-md-12 col-sm-6 sm-push-more'>
+<div class='sm-push-more'>
+<div class='push-down'>
+<div class='section'>
+<!--Editor's picks 11/11-->
+<div class='section hex-news push-down hide-last-line'>
+<div class='top'><a href='https://triblive.com/news/editors-picks/'>Editor's Picks</a></div><!--Horizontal photo--><div class='preview  photo-above '  ><a href='https://triblive.com/aande/theater-arts/pittsburgh-clos-whos-holiday-is-naughty-and-nice/'><div class='above'><div class='photo'><div class='hover' bg-srcset='https://assets-varnish.triblive.com/2024/12/7988705_web1_ptr-whosholidayreview.jpg'></div></div></div><h4 class='focus'>Pittsburgh CLO's 'Who's Holiday!' is naughty and nice</h4></a></div><!-- //Horizontal photo--><div class='preview ' ><a class='standard' href='https://triblive.com/aande/music/avril-lavigne-brings-greatest-hits-tour-to-pittsburgh-in-2025/'><div class='focus'>Avril Lavigne brings Greatest Hits tour to Pittsburgh in 2025&nbsp;<div class='fa fa-video-camera'></div></div></a></div><div class='preview ' ><a class='standard' href='https://triblive.com/aande/music/ac-dc-coming-to-pittsburgh-for-show-at-acrisure-stadium/'><div class='focus'>AC/DC coming to Pittsburgh for show at Acrisure Stadium&nbsp;<div class='fa fa-video-camera'></div></div></a></div><div class='preview ' ><a class='standard' href='https://triblive.com/aande/music/pianist-christian-sands-talks-christmas-classics-originals-ahead-of-pittsburgh-shows/'><div class='focus'>Pianist Christian Sands talks Christmas classics, originals ahead of Pittsburgh shows&nbsp;<div class='fa fa-video-camera'></div></div></a></div><div class='preview ' ><a class='standard' href='https://triblive.com/aande/movies-tv/tv-talk-from-blue-bloods-to-bluey-to-seinfeld-there-are-plenty-of-gift-ideas-for-tv-fans/'><div class='focus'>TV Talk: From ‘Blue Bloods’ to ‘Bluey’ to ‘Seinfeld,’ there are plenty of gift ideas for TV fans</div></a></div><a href='https://triblive.com/news/editors-picks/' title='Editors Picks' class='button' style='margin-bottom: 10px;'>More Editor's Picks &gt;</a>
+</div>
+      </div> <!--/ closes hex-news-->
+</div>
+</div><!--/ sm-push-more--></div><!-- /col-md-12 col-sm-6 sm-push-more-->
+<!--
+<div class="col-md-12 col-sm-6 sm-push-more hidden-xs">
+  <h5 style="margin-bottom:.5em">Content you may have missed</h5>
+  <div id="post-widget" class=""></div>
+<script>
+  const widgetContainer = document.getElementById('post-widget');
+
+  async function fetchPosts() {
+    try {
+      const [postsResponse, railResponse] = await Promise.all([
+        fetch('https://triblive.com/wp-json/wp/v2/posts?per_page=6'),
+        //fetch('https://community.triblive.com/rail')
+    fetch('https://s3.us-east-2.amazonaws.com/files.triblive.com/OL-Spotlight/scraped_rail.json')
+      ]);
+
+      const posts = await postsResponse.json();
+      const railData = await railResponse.json();
+      const partnerNewsItems = railData.data.filter(item => item.tags.includes('Partner News')).slice(0, 2);
+
+      await renderPosts(posts, partnerNewsItems);
+    } catch (error) {
+      console.error('Error fetching posts:', error);
+    }
+  }
+
+  async function fetchMedia(mediaUrl) {
+    try {
+      const response = await fetch(mediaUrl);
+      const media = await response.json();
+      return media.media_details.sizes.thumbnail.source_url;  // Return the thumbnail image URL
+    } catch (error) {
+      console.error('Error fetching media:', error);
+      return 'default-thumbnail.jpg';  // Fallback image
+    }
+  }
+
+  function formatDate(dateStr) {
+    const options = { year: 'numeric', month: 'short', day: 'numeric' };
+    return new Date(dateStr).toLocaleDateString(undefined, options);
+  }
+
+  async function renderPosts(posts, partnerNewsItems) {
+  var h5content = document.createElement('h5');
+  h5content.textContent = "Content you may have missed";
+  h5content.style="margin-bottom: .5em;";
+
+    widgetContainer.innerHTML = '';
+
+    const combinedPosts = [];
+    combinedPosts.push(posts[0], posts[1], posts[2], partnerNewsItems[0], posts[3], posts[4], partnerNewsItems[1], posts[5]);
+
+  var style = document.createElement('style');
+  style.innerHTML = `  
+  #post-widget{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(135px, 1fr));
+    grid-gap: .5rem;
+  }
+  .post-item {
+  flex-basis:20%;
+  position:relative;
+  box-sizing: border-box;
+  /*max-width: 150px;
+    margin: .5em; /* Center the card within the column */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: full;
+    background-color: white;
+  }
+  .partner {
+    background-color: #ffe8e3;
+  }
+
+  .post-item img {
+    width: 150px;
+  height:auto;
+  max-width: 150px;
+  }
+
+  .post-item h3 {
+  font-size: .8em;
+  font-weight: 200;
+  margin-bottom: 0px;
+  display: block;
+  color:#000;
+    margin: 5px;
+    /* height: 5em; */
+    overflow: hidden;
+  }
+
+  .post-item .date {
+    font-size: 0.6em;
+    color: #777;
+    margin: 4px;
+	text-align: right;
+  }
+
+  .partner-news {
+    background-color: #f00;
+    color: #fff;
+    text-align: center;
+    padding: 0 2px;
+  opacity:.9;
+  margin-bottom: .25em;
+  font-size: .8em;
+    font-weight: bold;
+  }
+
+  .img-wrapper {
+    width: 100%;
+    height: auto;
+    height:95px;
+    display: flex;
+    justify-content: center; /* Center the image horizontally */
+    align-items: center; /* Center the image vertically */
+    overflow: hidden; /* Ensure the image doesn't overflow the container */
+  }
+
+  .img-wrapper img {
+    width: 100%; /* Ensure the image fills the width of the wrapper */
+    height: auto; /* Maintain aspect ratio */
+  }  `;
+  document.head.appendChild(style);
+
+
+    for (const post of combinedPosts) {
+      const postItem = document.createElement('a');
+	  if (post.tags && post.tags.includes('Partner News')) {
+		postItem.classList.add('post-item', 'partner');
+    } else {
+		postItem.classList.add('post-item');
+    }
+      postItem.href = post.link || post.link;  // Make the entire card clickable
+
+      let imgURL = post.image_url || 'default-thumbnail.jpg';
+      if (post._links && post._links['wp:featuredmedia'] && post._links['wp:featuredmedia'][0].href) {
+        imgURL = await fetchMedia(post._links['wp:featuredmedia'][0].href);
+      }
+
+
+    // Create a div to wrap the image
+      const imgWrapper = document.createElement('div');
+	  imgWrapper.classList.add('img-wrapper');  // Add a class for styling if needed
+
+	  const img = document.createElement('img');
+    img.src = imgURL;
+    if (img.src != "default-thumbnail.jpg"){
+    imgWrapper.appendChild(img);  // Append the image to the wrapper
+    postItem.appendChild(imgWrapper);  // Append the wrapper to the post item
+    }
+
+    if (post.tags && post.tags.includes('Partner News')) {
+        const partnerLabel = document.createElement('div');
+        partnerLabel.classList.add('partner-news');
+        partnerLabel.textContent = 'PARTNER NEWS';
+        postItem.appendChild(partnerLabel);
+      }
+
+      const title = document.createElement('h3');
+      title.textContent = post.title.rendered || post.title;
+      postItem.appendChild(title);
+
+      const date = document.createElement('div');
+      date.classList.add('date');
+      date.textContent = formatDate(post.date || post.created_at);
+      postItem.appendChild(date);
+
+
+      widgetContainer.appendChild(postItem);
+    }
+  }
+
+  fetchPosts();
+</script>
+
+-->
+
+<style type="text/css">
+
+
+	#mob-banner-ad-a {
+		bottom: 33px !important;
+	}
+	
+	.slider.slideshow .main.slides .flickity-viewport {
+    	transition: none !important;
+	}
+
+</style>
+
+<!--meBlade 6--><div class="col-md-12 col-sm-12 col-xs-12"><!--meSearchNavigation--><div id = "meSearchNavigation" style="width:300px;"></div>	<div id = "meSearchBladeWidgetCompact"></div></div><!--/meBlade meSearchBladeWidgetCompact-->
+<div class="col-md-12 col-sm-12 col-xs-12"><div class="ad"><div id="dsk-box-ad-c"></div></div>
+</div><!--start shops widget-->
+<div class='col-md-12 col-sm-6 sm-push-more'>
+<div class='sm-push-more'>
+<!--EveryBodyShops widget-->
+ <!--EveryBodyShops widget--></div><!--/ sm-push-more--></div><!-- /col-md-12 col-sm-6 sm-push-more-->
+</div> <!-- / col-md-4 col-sm-12 sm-push-more hidden-xs-->
+<!-- 437 #####################-->
+</div><!--end container - line 483-->
+</main>
+<div id='push'></div>
+
+<!-- Sided Polls 20230525 -->
+	<!-- <script type="text/javascript" src="https://cdn.sided.co/embed-assets/load.min.js" async></script> -->
+	
+	<script>
+	
+	
+  function getCookieSided(cname) {
+    let name = cname + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(';');
+    for(let i = 0; i <ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+    }
+    return "";
+  }
+
+  var tokenSided = getCookieSided('tribtoken');
+  var parsedtokenSided = false;
+  if (tokenSided != null && tokenSided !=''){
+    let base64Url = tokenSided.split('.')[1];
+    let base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+    let jsonPayload = decodeURIComponent(window.atob(base64).split('').map(function(c) {
+      return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+    }).join(''));
+    let parsedtoken =  JSON.parse(jsonPayload);
+    console.log('TPD Parsed Token: ');
+    console.log(parsedtoken);
+    parsedtokenSided = parsedtoken.is_adfree;
+	console.log('TPD AdFree: ');
+    console.log(parsedtokenSided);
+  }
+
+  if (parsedtokenSided !== true){
+    // Create a new script element
+    var script = document.createElement('script');
+    // Set the source of the script
+    script.src = 'https://cdn.sided.co/embed-assets/load.min.js';
+    script.type = 'text/javascript';
+	script.async = true;
+    // Append the script to the document's head (or body)
+    document.body.appendChild(script);
+    console.log('LOGGED OUT USER');
+  } else {
+	  console.log('LOGGED IN USER');
+  }
+
+
+</script>
+		 
+	
+	<script type="text/javascript">
+		window.sidedScriptPayload = window.sidedScriptPayload || {};
+		window.sidedScriptPayload.categories = ['local','regional','top-stories'];
+	</script>
+		 
+	 <script>
+		var tokenSided = getCookie('tribtoken');
+		var parsedtokenSided = false;
+		if (tokenSided != null && tokenSided !=''){
+			let base64Url = tokenSided.split('.')[1];
+			let base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+			let jsonPayload = decodeURIComponent(window.atob(base64).split('').map(function(c) {
+				return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+			}).join(''));
+			let parsedtoken =  JSON.parse(jsonPayload);
+			console.log('FI Parsed Token: ');
+			console.log(parsedtoken);
+			parsedtokenSided = parsedtoken.is_adfree;
+		}
+		 
+		 var frontpage = true;		 
+		if (parsedtokenSided == true && frontpage) { 
+			document.getElementById('sidedwidget215').setAttribute('placementId', '411'); 
+			document.getElementById('sidedwidget216').setAttribute('placementId', '412');
+			document.getElementById('promo-ad-free-story-top').setAttribute('style', 'display: none;');
+			document.getElementById('promo-ad-free-story-bottom').setAttribute('style', 'display: none;');
+		}
+	</script>";
+
+<div class="clear"></div>
+</div>
+<!--<footer id="footer" role="contentinfo">-->
+<!--New Custom Footer menu-->
+<!--start of trib custom footer-->
+  <footer  class="ttmFooter" >
+     <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-2 footer-contact">
+                <img class="img-responsive ttm-logo" src="https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/images/icons/head/TTM-logo.png" alt="TRIB | Total Media" data-rjs="2" /><br />
+                <ul  class="pleft" style="padding-top:18px;">
+                    <li>
+                        <a class="fa fa-brands fa-facebook-f" href="https://www.facebook.com/triblive" target="_blank"></a>&nbsp;
+                    </li>
+                    <li>
+                        <a class="fa fa-brands fa-x-twitter" href="https://twitter.com/TribLIVE" target="_blank"></a>&nbsp;
+                    </li>
+                    <li>
+                        <a class="fa fa-brands fa-instagram" href="https://instagram.com/triblive/" target="_blank"></a>
+                    </li>
+                </ul>
+				<p class="pleft"><a href="tel:18009098742">1-800-909-8742</a></p>
+				<p class="pleft">Fax (724) 779-8743</p>
+				<p class="pleft">210 Wood Street<br>Tarentum, PA 15084</p>
+				<p class="pleft">&copy; 2024 Trib Total Media | All Rights Reserved</p>
+			</div>
+			
+	
+			<div class="col-lg-3">
+				<div class="mobileheaderancor" id="aboutus"></div>
+					<div class="footer-headings">
+						<h4>About Us</h4>
+					</div>
+					
+					<div class="row">
+					<div class="col-sm-6">
+						<p><a href="https://mediakit.triblive.com/about/who-we-are/" target="_blank">About Us</a></p>
+						<p><a href="https://mediakit.triblive.com/advertising-services" target="_blank">Advertise</a></p>
+						<p><a href="https://tribtotalmedia.com/jobs/" target="_blank">Career Opportunities</a></p>
+						<p><a href="https://mediakit.triblive.com/contact-us/" target="_blank">Contact Advertising</a></p>
+						<!--<p><a href="mailto:ttmcustomercare@triblive.com" >Contact Circulation</a></p>-->
+						<p><a href="https://triblive.com/news/contactus/" >Contact Newsroom</a></p>
+						<p><a href="https://triblive.com/news/contactus/">Contact Us</a></p>
+						<p><a href="https://tribtotalmedia.com/subscriber-services/customer-feedback/" target="_blank">Feedback</a></p>
+					</div>
+					<div class="col-sm-6">
+						<p><a href="mailto:corrections@triblive.com" >Request Correction</a></p>
+						<p><a href="https://triblive.com/resource-center/">Resource Center</a></p>
+                        <p><a href="https://tribtotalmedia.com/triblive-scholarship-program/" >Scholarship Opportunities</a></p>
+						<p><a href="https://triblive.com/opinion/send-a-letter/" >Send Letter to the Editor</a></p>
+						<p><a href="mailto:multimedia@triblive.com" >Send News Tip</a></p>
+						<p><a href="https://subscribe.triblive.com/" target="_blank">Subscribe</a></p>
+						<p><a href="https://tribtotalmedia.com/subscriber-services/" target="_blank">Subscriber Services</a></p>
+					</div>
+				</div>
+				</div>
+			
+
+				
+				<div class="col-lg-3">
+					<div class="mobileheaderancor" id="getthetrib"></div>
+					<div class="footer-headings">
+						<h4>Get the Trib</h4>
+					</div>
+					
+					<div class="row">
+					<div class="col-sm-6">
+						<p><a href=" https://mediakit.triblive.com/blog/" target="_blank">Blog</a></p>
+						<p><a href="https://advertisers.triblive.com/onlineMagazines/">eFeatures</a></p>
+						<p><a href="https://signup.triblive.com/">Email Newsletters</a></p>
+						<p><a href="https://e.triblive.com/" target="_blank">eTrib</a></p>
+						<p><a href="https://www.facebook.com/triblive" target="_blank">Facebook</a></p>
+						<p><a href="https://www.tribliveoffers.com/" target="_blank">Home Delivery</a></p>
+                                                <p><a href="https://www.instagram.com/triblive/" target="_blank">Instagram</a></p>
+					</div>
+					<div class="col-sm-6">
+						<p><a href="https://www.linkedin.com/showcase/triblive" target="_blank">LinkedIn</a></p>
+						<p><a href="https://mediakit.triblive.com/marketing-minute/" target="_blank">Marketing Minute</a></p>
+						<p><a href=" https://tribtotalmedia.com/tribune-review-store-and-other-retail-sales-locations/" target="_blank">Store Locations</a></p>
+						<p><a href="https://apps.apple.com/us/app/triblive-news-sports/id328217517" target="_blank">TribLIVE App - App Store</a></p>
+						<p><a href="https://play.google.com/store/apps/details?id=com.tribtotalmedia.triblive&hl=en_US" target="_blank">TribLIVE App - Google Play</a></p>
+						<p><a href="https://twitter.com/TribLIVE" target="_blank">X (formerly Twitter)</a></p>
+					</div>
+				</div>
+				</div>
+				
+				<div class="col-lg-3">
+					<div class="mobileheaderancor" id="sections"></div>
+					<div class="footer-headings">
+						<h4>Sections</h4>
+					</div>
+					
+					<div class="row">
+					<div class="col-sm-6">
+						<p><a href="https://triblive.com/aande/">Arts &#38; Entertainment</a></p>
+						<p><a href="https://bestofthebest.triblive.com/" target="_blank">Best of the Best</a></p>
+						<p><a href="https://community.triblive.com/businesses/" target="_blank">Business Directory</a></p>
+						<p><a href="https://triblive.com/circulars/">Circulars</a></p>
+                        <p><a href="https://contests.triblive.com/">Contests</a></p>
+						<p><a href="https://triblive.com/news/coronavirus/">Coronavirus</a></p>
+						<p><a href="https://triblive.com/lifestyles/">Lifestyles</a></p>
+						<p><a href="https://triblive.com/local/">Local</a></p>
+						<p><a href="https://triblive.com/news/">News</a></p>
+					</div>
+					<div class="col-sm-6">
+						<p><a href="https://obituaries.triblive.com/obituaries/triblive/">Obituaries</a></p>
+						<p><a href="https://triblive.com/opinion/">Opinion</a></p>
+						<p><a href="https://mediakit.triblive.com/advertising-services/" target="_blank">Our Publications</a></p>
+                                               <!-- <p><a href="http://photos.triblive.com/mycapture/index.asp">Photos</a></p>-->
+						<p><a href="https://realestate.triblive.com/">Real Estate</a></p>
+						<p><a href="https://triblive.com/sports/">Sports</a></p>
+						<p><a href="https://video.triblive.com">Video</a></p>
+						<p><a href="https://triblive.com/news/weather/">Weather</a></p>
+					</div>
+				</div>
+				</div>
+
+				
+				<div class="col-lg-1">
+					<div class="mobileheaderancor" id="termsofuse"></div>
+					<div class="footer-headings">
+                     	<h4>Terms of Use</h4>
+					</div>
+					<div class="tablet-break-footer-items">
+					<p><a href="https://cookiepedia.co.uk/giving-consent-to-cookies">Cookie Settings</a></p>
+					<p><a href="https://triblive.com/termsofservice/#Privacy" class="tablet-break-right-col" target="_blank">Privacy Policy</a></p>
+					<p><a href="https://triblive.com/termsofservice/">Terms of Service</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+<!--Custom footer includes go here-->
+<script src='https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/js/ThirtySix/clipboard.js'></script>
+<script src='https://triblive.com/wp-content/themes/TribLIVE2/assets/visuals/js/ThirtySix/scripts.min.js'></script>
+
+<!--meSearch widget-->
+<script src = "https://search-module.s3.us-east-2.amazonaws.com/pubs/trib/mesearch-trib3-min.js?ver=2024-12-02pm"></script>
+
+<!--adblade-->
+<script defer src='https://web.adblade.com/js/ads/async/show.js' type='text/javascript'></script>
+<!--in-article repositionable civicscience widget -->
+<div id="civsci-id-599317404" data-civicscience-widget="3c059610-d0fb-87f4-a925-25a361f2f72e"></div>
+<script type="text/javascript" async src="https://get.civicscience.com/jspoll/5/csw-polyfills.js"></script>
+
+<!--viafoura include-->
+<!--viafoura hidden2-->
+
+<!--floating footer 10/2/20-->
+<style>.vf-tray-trigger--floating {display: none !important;}</style>
+<div class ='top_button'>
+<a href='' class='fa fa-chevron-circle-up' style = 'line-height: 19px; z-index: 999999;'><br/>
+<span style="font-size:15px;text-decoration:none; font-family: 'open_sansregular';">Top</span></a>
+</div>
+
+<script>
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.fa-chevron-circle-up').fadeIn(duration);
+        }
+    });
+
+    jQuery('.fa-chevron-circle-up').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
+
+<!-- /floating footer-->
+
+
+      </div>
+    </div>
+
+</footer>
+</div>
+<script type='text/javascript' src='https://triblive.com/wp-content/plugins/page-links-to/dist/new-tab.js' id='page-links-to-js'></script>
+<script type='text/javascript' id='heateor_sss_sharing_js-js-before'>
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://triblive.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://triblive.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://triblive.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script type='text/javascript' src='https://triblive.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js' id='heateor_sss_sharing_js-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/ui/draggable.min.js' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/ui/slider.min.js' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/jquery/jquery.ui.touch-punch.js' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-admin/js/iris.min.js' id='iris-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://triblive.com/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://triblive.com/wp-admin/js/color-picker.min.js' id='wp-color-picker-js'></script>
+<script>
+acf.data = {"select2L10n":{"matches_1":"One result is available, press enter to select it.","matches_n":"%d results are available, use up and down arrow keys to navigate.","matches_0":"No matches found","input_too_short_1":"Please enter 1 or more characters","input_too_short_n":"Please enter %d or more characters","input_too_long_1":"Please delete 1 character","input_too_long_n":"Please delete %d characters","selection_too_long_1":"You can only select 1 item","selection_too_long_n":"You can only select %d items","load_more":"Loading more results&hellip;","searching":"Searching&hellip;","load_fail":"Loading failed"},"google_map_api":"https:\/\/maps.googleapis.com\/maps\/api\/js?key=AIzaSyCdhmDDjzenAH9sUyyHCmW_U21wDCSq4YA&libraries=places&ver=3&callback&language=en_US","datePickerL10n":{"closeText":"Done","currentText":"Today","nextText":"Next","prevText":"Prev","weekHeader":"Wk","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesMin":["S","M","T","W","T","F","S"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"dateTimePickerL10n":{"timeOnlyTitle":"Choose Time","timeText":"Time","hourText":"Hour","minuteText":"Minute","secondText":"Second","millisecText":"Millisecond","microsecText":"Microsecond","timezoneText":"Time Zone","currentText":"Now","closeText":"Done","selectText":"Select","amNames":["AM","A"],"pmNames":["PM","P"]},"mimeTypeIcon":"https:\/\/triblive.com\/wp-includes\/images\/media\/default.png","mimeTypes":{"jpg|jpeg|jpe":"image\/jpeg","gif":"image\/gif","png":"image\/png","bmp":"image\/bmp","tiff|tif":"image\/tiff","webp":"image\/webp","ico":"image\/x-icon","heic":"image\/heic","asf|asx":"video\/x-ms-asf","wmv":"video\/x-ms-wmv","wmx":"video\/x-ms-wmx","wm":"video\/x-ms-wm","avi":"video\/avi","divx":"video\/divx","flv":"video\/x-flv","mov|qt":"video\/quicktime","mpeg|mpg|mpe":"video\/mpeg","mp4|m4v":"video\/mp4","ogv":"video\/ogg","webm":"video\/webm","mkv":"video\/x-matroska","3gp|3gpp":"video\/3gpp","3g2|3gp2":"video\/3gpp2","txt|asc|c|cc|h|srt":"text\/plain","csv":"text\/csv","tsv":"text\/tab-separated-values","ics":"text\/calendar","rtx":"text\/richtext","css":"text\/css","vtt":"text\/vtt","dfxp":"application\/ttaf+xml","mp3|m4a|m4b":"audio\/mpeg","aac":"audio\/aac","ra|ram":"audio\/x-realaudio","wav":"audio\/wav","ogg|oga":"audio\/ogg","flac":"audio\/flac","mid|midi":"audio\/midi","wma":"audio\/x-ms-wma","wax":"audio\/x-ms-wax","mka":"audio\/x-matroska","rtf":"application\/rtf","pdf":"application\/pdf","class":"application\/java","tar":"application\/x-tar","zip":"application\/zip","gz|gzip":"application\/x-gzip","rar":"application\/rar","7z":"application\/x-7z-compressed","psd":"application\/octet-stream","xcf":"application\/octet-stream","doc":"application\/msword","pot|pps|ppt":"application\/vnd.ms-powerpoint","wri":"application\/vnd.ms-write","xla|xls|xlt|xlw":"application\/vnd.ms-excel","mdb":"application\/vnd.ms-access","mpp":"application\/vnd.ms-project","docx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document","docm":"application\/vnd.ms-word.document.macroEnabled.12","dotx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.template","dotm":"application\/vnd.ms-word.template.macroEnabled.12","xlsx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet","xlsm":"application\/vnd.ms-excel.sheet.macroEnabled.12","xlsb":"application\/vnd.ms-excel.sheet.binary.macroEnabled.12","xltx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.template","xltm":"application\/vnd.ms-excel.template.macroEnabled.12","xlam":"application\/vnd.ms-excel.addin.macroEnabled.12","pptx":"application\/vnd.openxmlformats-officedocument.presentationml.presentation","pptm":"application\/vnd.ms-powerpoint.presentation.macroEnabled.12","ppsx":"application\/vnd.openxmlformats-officedocument.presentationml.slideshow","ppsm":"application\/vnd.ms-powerpoint.slideshow.macroEnabled.12","potx":"application\/vnd.openxmlformats-officedocument.presentationml.template","potm":"application\/vnd.ms-powerpoint.template.macroEnabled.12","ppam":"application\/vnd.ms-powerpoint.addin.macroEnabled.12","sldx":"application\/vnd.openxmlformats-officedocument.presentationml.slide","sldm":"application\/vnd.ms-powerpoint.slide.macroEnabled.12","onetoc|onetoc2|onetmp|onepkg":"application\/onenote","oxps":"application\/oxps","xps":"application\/vnd.ms-xpsdocument","odt":"application\/vnd.oasis.opendocument.text","odp":"application\/vnd.oasis.opendocument.presentation","ods":"application\/vnd.oasis.opendocument.spreadsheet","odg":"application\/vnd.oasis.opendocument.graphics","odc":"application\/vnd.oasis.opendocument.chart","odb":"application\/vnd.oasis.opendocument.database","odf":"application\/vnd.oasis.opendocument.formula","wp|wpd":"application\/wordperfect","key":"application\/vnd.apple.keynote","numbers":"application\/vnd.apple.numbers","pages":"application\/vnd.apple.pages"},"admin_url":"https:\/\/triblive.com\/wp-admin\/","ajaxurl":"https:\/\/triblive.com\/wp-admin\/admin-ajax.php","nonce":"5d212cda7d","acf_version":"5.9.6","wp_version":"6.2","browser":"","locale":"en_US","rtl":false,"screen":null,"post_id":null,"validation":null,"editor":"classic"};
+</script>
+<script>
+acf.doAction( 'prepare' );
+</script>
+<script src="https://triblive.com/wp-content/themes/TribLIVE2/trib-extra/tribextra-portal-src/js/logout.js"></script>
+
+
+
+<style>
+	
+	footer {
+		padding: 30px 30px 120px !important;
+	}
+	
+	#adb_modal{
+		display:none;
+	}
+</style>
+<!-- <div id="adb_modal"></div> -->
+<style>
+	#adb_sticky{
+		display:none;
+		position: absolute;
+		bottom: 10px;
+		right: 10px;
+	}
+</style>
+<div id="adb_sticky"></div>
+
+<script>
+const getttCookie = (cname) => {
+  let name = cname + "=";
+  let ca = document.cookie.split(';');
+  console.log("CA Token List:", ca);
+  for(let i = 0; i < ca.length; i++) {
+	let c = ca[i].trim();
+	if (c.indexOf(name) === 0) {
+	  return c.substring(name.length, c.length);
+	}
+  }
+  return "";
+}
+
+    MG2Loader.init({  
+        plugins: [{
+            name: "FP",
+            initOptions: {
+                version: "triblive",
+                environment: "prod"
+            }
+        }, {
+            name: "DL",
+            initOptions: {
+                version: "triblive",
+                collectors: ["connext"],
+                tagManager: "GTM",
+                containerId: "GTM-PN8CQL65"
+            }
+        }, {
+            name: "NXT",
+            initOptions: {
+                clientCode: "triblive",
+                environment: "prod",
+                siteCode: "TR",
+                configCode: "TRConfig",
+                debug: false,
+				
+			publicEventHandlers: {  
+			  onNotAuthorized: function(eventData) {  
+				//event fires on every page load if visitor is logged out  
+				(document.getElementById("MG2login") || {}).hidden=false;
+				(document.getElementById("MG2Subscribe") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount") || {}).hidden=true;
+				(document.getElementById("MG2logout") || {}).hidden=true;
+				(document.getElementById("MG2activation") || {}).hidden=true;
+				(document.getElementById("MG2login_mob") || {}).hidden=false;
+				(document.getElementById("MG2Subscribe_mob") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount_mob") || {}).hidden=true;
+				(document.getElementById("MG2logout_mob") || {}).hidden=true;
+				(document.getElementById("MG2activation_mob") || {}).hidden=true;
+			  },  
+			  
+			  onLoggedIn: function(eventData) {
+
+				var get_tt = getttCookie('tribtoken');
+				var adfreecheck = false;
+				var admincheck = false;
+				var tt_exists = false;
+				var issuetime = Date.now();
+				if (get_tt != null && get_tt !=""){
+					let ttbase64Url = get_tt.split('.')[1];
+					let ttbase64 = ttbase64Url.replace(/-/g, '+').replace(/_/g, '/');
+					let ttjsonPayload = decodeURIComponent(window.atob(ttbase64).split('').map(function(c) {
+						return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+					}).join(''));
+					let ttparsedtoken =  JSON.parse(ttjsonPayload);
+					console.log("TPL Parsed Token: ");
+					console.log(ttparsedtoken);
+					adfreecheck = ttparsedtoken.is_adfree;
+					admincheck = ttparsedtoken.is_admin;
+					issuetime = ttparsedtoken.iat * 1000;
+					tt_exists = true;
+				}
+				
+				console.log("AdFree Check:", adfreecheck);
+				  
+				const LuserData = Connext.Storage.GetUserData();
+				console.log("On Logged In User Data:", LuserData);
+				
+				var useremail = LuserData.Email;
+				console.log("Logged User Email:", useremail);
+
+				// Iterate through this array to find adFree Subscription
+				var userhouseholdsublevel = 1;
+				var OwnedSubsArray = LuserData.OwnedSubscriptions;
+				if (OwnedSubsArray != null && OwnedSubsArray !=""){
+					for (i = 0; i < OwnedSubsArray.length; i++) {
+						console.log(OwnedSubsArray[i].HouseholdSubscriptionLevel);
+						if (OwnedSubsArray[i].HouseholdSubscriptionLevel == 3) {
+							userhouseholdsublevel = 3;
+						}
+					}
+				}
+				
+				//var userhouseholdsublevel = LuserData.DigitalAccess.Subscription.HouseholdSubscriptionLevel;
+				
+				var navadfreecheck = false;
+				if ( userhouseholdsublevel == 3 || adfreecheck == true ){ navadfreecheck = true; } // If tribtoken adFree is true make navcheck true
+				console.log("Logged Household:", userhouseholdsublevel);
+			
+				// Add a check for token issue date greater than 12 hours
+				// 43200000 milliseconds in 12 hours
+				// 3600000 millisecond in 1 hour
+				var rightnow = Date.now();
+				console.log("Token Issued:", issuetime);
+				console.log("Right Now:", rightnow);
+				
+				var timediff = rightnow - issuetime;
+				
+				console.log("Difference:", timediff);
+				
+				// If tribtoken does not exist yet or if adfreecheck does not equal navadfreecheck
+				if (adfreecheck != navadfreecheck || tt_exists == false || timediff > 43200000){
+					const apiUrl = `https://uezqiyl5esk7oubkt7bfg4gg4q0lcqpq.lambda-url.us-east-2.on.aws/?getuser=${useremail}&navafc=${userhouseholdsublevel}`; 
+					fetch(apiUrl)
+						.then(response => response.json())
+						.then(data => {
+							
+							console.log("Fetch response:", data);
+							
+							// Get the JWT token from the response
+							const token = data.token;
+							
+							console.log("Fetched token:", token);
+
+							// Set the JWT as a cookie
+							document.cookie = "tribtoken=" +token+ "; Path=/; domain=triblive.com";
+							document.cookie = "mstoken=" +token+ "; Path=/; domain=triblive.com";
+
+							window.location.reload();
+						})
+						.catch(error => {
+							console.error('Error:', error);
+						});
+				}
+
+				
+				},
+
+			  onAuthorized: function(eventData) {  
+				//event fires on every page load if visitor is logged in but has access to this product  
+				(document.getElementById("MG2login") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount") || {}).hidden=false;
+				(document.getElementById("MG2logout") || {}).hidden=false;
+				(document.getElementById("MG2activation") || {}).hidden=false;
+				(document.getElementById("MG2login_mob") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe_mob") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount_mob") || {}).hidden=false;
+				(document.getElementById("MG2logout_mob") || {}).hidden=false;
+				(document.getElementById("MG2activation_mob") || {}).hidden=false;
+			  },  
+
+			  onHasNoActiveSubscription: function(eventData) {  
+				//event fires on every page load if visitor is logged in but their subscription is stopped or inactive  
+				(document.getElementById("MG2login") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount") || {}).hidden=false;
+				(document.getElementById("MG2logout") || {}).hidden=false;
+				(document.getElementById("MG2activation") || {}).hidden=false;
+				(document.getElementById("MG2login_mob") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe_mob") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount_mob") || {}).hidden=false;
+				(document.getElementById("MG2logout_mob") || {}).hidden=false;
+				(document.getElementById("MG2activation_mob") || {}).hidden=false;
+			  },  
+
+			  onHasAccessNotEntitled: function(eventData) {  
+				//event fires on every page load if visitor is logged in and has no access to this product, but has access to other products)  
+				(document.getElementById("MG2login") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount") || {}).hidden=false;
+				(document.getElementById("MG2logout") || {}).hidden=false;
+				(document.getElementById("MG2activation") || {}).hidden=false;
+				(document.getElementById("MG2login_mob") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe_mob") || {}).hidden=false;
+				(document.getElementById("MG2MyAccount_mob") || {}).hidden=false;
+				(document.getElementById("MG2logout_mob") || {}).hidden=false;
+				(document.getElementById("MG2activation_mob") || {}).hidden=false;
+			  },  
+
+			  onHasAccess: function(eventData) {  
+				//event fires on every page load if visitor is subscriber  
+				(document.getElementById("MG2login") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe") || {}).hidden=true;
+				(document.getElementById("MG2MyAccount") || {}).hidden=false;
+				(document.getElementById("MG2logout") || {}).hidden=false;
+				(document.getElementById("MG2activation") || {}).hidden=true;
+				(document.getElementById("MG2login_mob") || {}).hidden=true;
+				(document.getElementById("MG2Subscribe_mob") || {}).hidden=true;
+				(document.getElementById("MG2MyAccount_mob") || {}).hidden=false;
+				(document.getElementById("MG2logout_mob") || {}).hidden=false;
+				(document.getElementById("MG2activation_mob") || {}).hidden=true;
+
+			  }  
+			}  
+		  }  
+		}  
+	  ]
+	}); 
+	
+	// Function to check if Connext is available
+	function waitForConnext(callback) {
+		const interval = setInterval(() => {
+			if (typeof Connext !== 'undefined' && Connext.Storage && typeof Connext.Storage.GetUserData === 'function') {
+				clearInterval(interval);
+				callback();
+			}
+		}, 100); // Check every 100ms
+	}
+	
+	function deleteCookie(){
+		document.cookie = "mstoken=; expires=Thu, 18 Dec 1970 12:00:00 UTC; path=/; domain=triblive.com";
+		document.cookie = "tribtoken=; expires=Thu, 18 Dec 1970 12:00:00 UTC; path=/; domain=triblive.com";
+	}
+
+	// Function to retrieve user data from local storage
+	function retrieveUserData() {
+		try {
+			const userState = Connext.Storage.GetUserState();
+			console.log("User State:", userState);
+			var check_tt = getttCookie('tribtoken');
+			var tt_check = false;
+			if (check_tt != null && check_tt !=""){ tt_check = true; }
+			// If user is logged out and has a tribtoken set delete tribtoken and mstoken
+			if ( userState == 'Logged Out' && tt_check == true ) { deleteCookie(); window.location.reload(); }
+		} catch (error) {
+			console.error("Error retrieving user data:", error);
+		}
+	}
+
+	// When the page loads, wait for Connext and then retrieve the data
+	window.addEventListener('load', () => {
+		waitForConnext(retrieveUserData);
+	});
+	 
+	 
+	
+</script>
+
+<script>
+(function() {
+	const gettCookie = (cname) => {
+	  let name = cname + "=";
+	  let ca = document.cookie.split(';');
+	  for(let i = 0; i < ca.length; i++) {
+		let c = ca[i];
+		while (c.charAt(0) == ' ') {
+		  c = c.substring(1);
+		}
+		if (c.indexOf(name) == 0) {
+		  return c.substring(name.length, c.length);
+		}
+	  }
+	  return "";
+	}
+	
+	var articlesViewed = [];
+	var articlesToTrack = [];
+	
+	var el = document.getElementById('carousel-spotlight-wdget');
+	if (el) {
+		function isElementInViewport (el) {
+			var rect = el.getBoundingClientRect();
+			return (
+				rect.top >= 0 &&
+				rect.left >= 0 &&
+				rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+				rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
+			);
+		}
+	}
+	
+	const olViewTracker = async (olArticlesViewed = []) => {
+        let obj = {
+            //targetTitle: e.target.innerText ? e.target.innerText : null,
+			areaClicked: olArticlesViewed
+        };
+		console.log("Clicked obj: " + JSON.stringify(obj));
+        try {
+            let myHeaders = new Headers();
+            myHeaders.append("Authorization", "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTA5NzkyMDAsImV4cCI6MTc0MjUxNTIwMCwicHVibGlzaGVyX2lkIjo1MTU0fQ.gCgVtoqHVoxmhKOr3Gtw40D2a2-Ja3CP2CpKAiSxtcc");
+            myHeaders.append("Content-Type", "application/json");
+            let myBody = JSON.stringify({
+				article_ids: obj.areaClicked
+            });
+            console.log("Clicked body:", myBody);
+            let res = await fetch(
+                "https://community.triblive.com/impressions", {
+                    method: "POST",
+                    headers: myHeaders,
+                    body: myBody,
+                }
+            );
+            if (!res.ok) {
+                // trow an error if response status is not 200
+                throw new Error(`Status Code Error: ${res.status}`);
+				console.log("OL Views Not OK Error");
+            } else {
+                const jsonRes = await res.json();
+				console.log("OL Views All OK");
+            }
+        } catch (error) {
+            console.log(error);
+			console.log("OL Views Catch Error");
+        }
+    };
+	
+	const olClickTracker = async (olareaClicked="", olbucketname="ol_widget_clicks", oltargetTitle="", oltargetLink="") => {
+		var currentPage = window.location.href;
+        let obj = {
+            //targetTitle: e.target.innerText ? e.target.innerText : null,
+			areaClicked: olareaClicked,
+			olLink: oltargetLink,
+			olTitle: oltargetTitle,
+            currentPage: currentPage,
+            serverLabel: "konate localhost",
+            publisher: "TribLive",
+            apiType: "widget",
+			fp: "2430589478",
+			device: "Desktop"
+        };
+		console.log("Clicked obj: " + JSON.stringify(obj));
+        try {
+            let myHeaders = new Headers();
+            myHeaders.append("X-API-Key", "SmvblRLZ4o7gGFY2eC0sD9oh8IFPHY1L4OUMxlBa");
+            myHeaders.append("Content-Type", "application/json");
+            let myBody = JSON.stringify({
+                api: {type: olbucketname, },
+				areaClicked: obj.areaClicked,
+				olLinkClicked: obj.olLink,
+				olTitle: obj.olTitle,
+                currentPage: obj.currentPage,
+                serverLabel: obj.serverLabel,
+                publisher: obj.publisher,
+                apiType: obj.apiType,
+				fp: obj.fp,
+                device: obj.device
+            });
+            console.log("Clicked body:", myBody);
+            let res = await fetch(
+                "https://ckxj10om5j.execute-api.us-east-2.amazonaws.com/default", {
+                    method: "POST",
+                    headers: myHeaders,
+                    body: myBody,
+                }
+            );
+            if (!res.ok) {
+                // trow an error if response status is not 200
+                throw new Error(`Status Code Error: ${res.status}`);
+				console.log("OL Res Not OK Error");
+            } else {
+                const jsonRes = await res.json();
+				console.log("OL All OK");
+            }
+        } catch (error) {
+            console.log(error);
+			console.log("OL Catch Error");
+        }
+    };
+	
+	const olLinkHandler = async (e) => {
+        e.preventDefault();
+		olareaClicked = e.target.getAttribute("bodyid");
+		oltargetLink = e.target.getAttribute("thref");
+		oltargetTitle = e.target.getAttribute("title");
+        olbucketname = "ol_widget_clicks";
+		olClickTracker(olareaClicked, olbucketname, oltargetTitle, oltargetLink);
+		console.log("Got to olLinkHandler: " + oltargetLink);
+		window.open(oltargetLink, "_self");
+    };
+
+	const tresultTracker = async (tuserIP="0.0.0.0", tuserType="Regular User") => {
+		var tcurrentPage = window.location.href;
+		let twidth = ""; if (document.documentElement && document.documentElement.clientWidth) {twidth = document.documentElement.clientWidth;} else {twidth = 1024;} let ttype = "";if ((twidth >0)&&(twidth <728)){ttype = "Mobile";} else if ((twidth>=728)&&(twidth<1024)){ttype = "Tablet";}else {ttype = "Desktop";}
+		let tobj = {
+			userType: tuserType,
+			userIP: tuserIP,
+			currentPage: tcurrentPage,
+			serverLabel: "konate localhost",
+			publisher: "Test Referrer",
+			apiType: "widget",
+			fp: mesearchfp.genFP(),
+			device: ttype,
+		};
+		console.log("Just loaded obj: " + JSON.stringify(tobj));
+		try {
+			let tmyHeaders = new Headers();
+			tmyHeaders.append("X-API-Key", "SmvblRLZ4o7gGFY2eC0sD9oh8IFPHY1L4OUMxlBa"); 
+			tmyHeaders.append("Content-Type", "application/json");
+			let tmyBody = JSON.stringify({
+				api: {type: "scriptcheck_total", },
+				userType: tobj.userType,
+				userIP: tobj.userIP,
+				currentPage: tobj.currentPage,
+				serverLabel: tobj.serverLabel,
+				publisher: tobj.publisher,
+				apiType: tobj.apiType,
+				fp: tobj.fp,
+				device: tobj.device,
+			});
+			console.log("Just loaded body:", tmyBody);
+			let tres = await fetch(
+				"https://ckxj10om5j.execute-api.us-east-2.amazonaws.com/default", {
+					method: "POST",
+					headers: tmyHeaders,
+					body: tmyBody,
+				}
+			);
+			if (!tres.ok) {
+				// trow an error if response status is not 200
+				throw new Error(`Status Code Error: ${tres.status}`);
+				console.log("Res Not OK Error");
+			} else {
+				const tjsonRes = await tres.json();
+				console.log("Loaded OK");
+			}
+		} catch (error) {
+			console.log(error);
+			console.log("Catch Error");
+		}
+	}
+	
+	var tuserIP = "0.0.0.0";
+	$.getJSON("https://api.ipify.org?format=json",
+	function (data) {
+		console.log("TPL My IP: ");
+		console.log(data.ip);
+		tuserIP = data.ip;
+	})
+	var ttokenBlock = gettCookie('tribtoken');
+	var tparsedtokenBlock = false;
+	var tuserType = "Regular User";
+	if (ttokenBlock != null && ttokenBlock !=""){
+		let tbase64Url = ttokenBlock.split('.')[1];
+		let tbase64 = tbase64Url.replace(/-/g, '+').replace(/_/g, '/');
+		let tjsonPayload = decodeURIComponent(window.atob(tbase64).split('').map(function(c) {
+			return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+		}).join(''));
+		let tparsedtoken =  JSON.parse(tjsonPayload);
+		console.log("TPL Parsed Token: ");
+		console.log(tparsedtoken);
+		tparsedtokenBlock = tparsedtoken.is_adfree;
+	}
+	if (tparsedtokenBlock != true) { tuserType = "Regular User"; } else { tuserType = "AdFree User"; }
+	
+	setTimeout(function () {
+		tresultTracker(tuserIP, tuserType);
+		
+		let ol_widget_links = document.getElementsByClassName("card-top");
+		console.log("Divs: " + ol_widget_links.length);
+		for (var i = 0; i < ol_widget_links.length; i++) {
+			ol_widget_links[i].addEventListener("click", olLinkHandler);
+			console.log("Click Tracker on: " + i);
+		}
+			
+	}, 2000);
+	
+	function onVisibilityChange(el, callback) {
+		var old_visible;
+		return function () {
+			var visible = isElementInViewport(el);
+			if (visible != old_visible) {
+				old_visible = visible;
+				if (typeof callback == 'function') {
+					callback();
+				}
+			}
+		}
+	}
+	
+	function onVisibilityChange2(el, callback) {
+		var old_visible;
+		return function () {
+			var visible = isElementInViewport(el);
+			if ( visible==true ) {
+				old_visible = visible;
+				if (typeof callback == 'function') {
+					callback(visible);
+				}
+			}
+		}
+	}
+	
+	var i = 0;
+	var handler = onVisibilityChange(el, function() {
+		console.log('Element is in the viewport! ' + i);
+		if (i==1){
+			var article_list = el.getElementsByClassName('card-top-view');
+			
+			var olBodyID = article_list[0].getAttribute("bodyid");
+			var olbucketname = "ol_widget_views";
+			var oltargetLink = article_list[0].getAttribute("href");
+			var oltargetTitle = article_list[0].getAttribute("title");
+			if(!articlesViewed.includes(olBodyID)){
+				olClickTracker(olBodyID, olbucketname, oltargetTitle, oltargetLink);
+				articlesViewed.push(olBodyID);
+				articlesToTrack.push(olBodyID);
+			}
+			console.log("Got to olViewHandler" + olBodyID);
+			
+			var olBodyID2 = article_list[1].getAttribute("bodyid");
+			var olbucketname2 = "ol_widget_views";
+			var oltargetLink2 = article_list[1].getAttribute("href");
+			var oltargetTitle2 = article_list[1].getAttribute("title");
+			if(!articlesViewed.includes(olBodyID2)){
+				olClickTracker(olBodyID2, olbucketname2, oltargetTitle2, oltargetLink2);
+				articlesViewed.push(olBodyID2);
+				articlesToTrack.push(olBodyID2);
+			}
+			console.log("Got to olViewHandler2" + olBodyID2);
+			
+			
+			if (articlesToTrack.length > 0){
+				olViewTracker(articlesToTrack);
+				console.log("Articles Viewed to OL: " + articlesToTrack);
+				articlesToTrack = [];
+			}
+			
+			console.log("Articles Viewed: " + articlesViewed);
+		}
+
+		i++;
+	});
+	var handler2 = onVisibilityChange2(el, function(onoroff) {
+		console.log('Element is in the viewport! ' + i);
+		console.log('On or Off: ' + onoroff);
+			
+		if (onoroff==true){
+			var active_card = el.getElementsByClassName('active');
+			var article_list = active_card[0].getElementsByClassName('card-top-view');
+			
+			var olBodyID = article_list[0].getAttribute("bodyid");
+			var olbucketname = "ol_widget_views";
+			var oltargetLink = article_list[0].getAttribute("href");
+			var oltargetTitle = article_list[0].getAttribute("title");
+			if(!articlesViewed.includes(olBodyID)){
+				olClickTracker(olBodyID, olbucketname, oltargetTitle, oltargetLink);
+				articlesViewed.push(olBodyID);
+			}
+			console.log("Got to olViewHandler" + olBodyID);
+			
+			var olBodyID2 = article_list[1].getAttribute("bodyid");
+			var olbucketname2 = "ol_widget_views";
+			var oltargetLink2 = article_list[1].getAttribute("href");
+			var oltargetTitle2 = article_list[1].getAttribute("title");
+			if(!articlesViewed.includes(olBodyID2)){
+				olClickTracker(olBodyID2, olbucketname2, oltargetTitle2, oltargetLink2);
+				articlesViewed.push(olBodyID2);
+			}
+			console.log("Got to olViewHandler2" + olBodyID2);
+			
+			console.log("Articles Viewed: " + articlesViewed);
+		}
+		i++;
+	});
+	
+
+	$('#carousel-spotlight-wdget').on('slide.bs.carousel', function () {
+		console.log("Carousel has moved: " + i);
+	})
+
+
+	if (window.addEventListener) {
+		//addEventListener('DOMContentLoaded', handler, false);
+		//addEventListener('load', handler, false);
+		addEventListener('scroll', handler, false);
+		addEventListener('resize', handler, false);
+	} else if (window.attachEvent)  {
+		//attachEvent('onDOMContentLoaded', handler); // Internet Explorer 9+ :(
+		//attachEvent('onload', handler);
+		attachEvent('onscroll', handler);
+		attachEvent('onresize', handler);
+	}
+
+})();
+</script>
+
+
+		
+		<!-- <script src="https://search-module.s3.us-east-2.amazonaws.com/pubs/trib/triblive_mnbvcx.js"></script> -->
+		<!-- <script src="https://search-module.s3.us-east-2.amazonaws.com/pubs/trib/aa_adb_modal20240125.js"></script> -->
+		
+		<script src="https://search-module.s3.us-east-2.amazonaws.com/pubs/trib/adex.js"></script>
+		<script src="https://search-module.s3.us-east-2.amazonaws.com/pubs/trib/adblockdetect.js"></script>
+		
+		<script src="https://search-module.s3.us-east-2.amazonaws.com/pubs/trib/triblive_qwerty.js?20241202"></script>
+		<!-- <script src="https://search-module.s3.us-east-2.amazonaws.com/pubs/trib/aatribscriptcheck20240125.js?20241202"></script> -->
+		
+
+
+
+<script src="/wp-content/themes/TribLIVE2/assets/visuals/js/bootstrap/carousel.js"></script>
+
+<script type="text/javascript">
+
+	$(document).ready(function(){
+		
+		$('.carousel').carousel({
+		  interval: 4000
+		})
+		
+		$('.carousel').carousel('cycle'); 
+		
+		$('.carousel .right.carousel-control').carousel('next');
+		$('.carousel .left.carousel-control').carousel('prev');
+		
+	});
+
+</script>
+
+<script src="/wp-content/themes/TribLIVE2/assets/visuals/js/smartbanner/smartbanner.min.js"></script>
+
+<!-- START TPD AD CODE -->
+<div id="dsk-banner-ad-a"></div>
+<!-- START TPD AD CODE -->
+<div id="mob-banner-ad-a"></div>
+
+</body>
+</html>
+
+</div></body>

@@ -1,0 +1,22 @@
+{
+    "authors": [
+        "Simple Investment Ideas",
+        "seekingalpha.com",
+        "simple-investment-ideas"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 14:12:45",
+    "description": "Learn why Tesla, Inc.'s valuation is at risk due to its struggles with self-driving technology, facing competition from Waymo. Click for my TSLA update.",
+    "filename": ".json",
+    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1178244881/image_1178244881.jpg?io=getty-c-w1536",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Analyst\u00e2\u0080\u0099s Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla's Self-Driving Narrative Is Falling Apart",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Letters to the Editor"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-12-02 22:21:28",
+    "description": "Santa Cruz has a long standing reputation of being a very inclusive and safe place for all. More so than most anyplace else. Calder Nold and Emily Anne Pillari should be shown the door for their anti-inclusive behavior pertaining to the Women on Waves contest. Feel free to drop in on them anytime. \u2014 Chelsea [\u2026]",
+    "filename": ".json",
+    "image_url": "https://www.santacruzsentinel.com/wp-content/uploads/2018/09/SCS-placeholder.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Santa Cruz has a long standing reputation of being a very inclusive and safe place for all. More so than most anyplace else. Calder Nold and Emily Anne Pillari should be shown the door for their anti-inclusive behavior pertaining to the Women on Waves contest. Feel free to drop in on them anytime.\n\u2014 Chelsea Wagner, Soquel\nThe Sentinel welcomes your letters to the editor. Letters should be short, no more than 175 words. We do not accept anonymous letters. Letter-writers should include their full name as well as a street address and telephone number. We don\u2019t publish those details in the newspaper, but need the information for verification purposes. Occasionally, we reject letters simply because we\u2019ve had so many on the same subject. Submit your letters online at www.santacruzsentinel.com/submit-letters.",
+    "source_domain": null,
+    "text": null,
+    "title": "Letter | Anti-inclusive intrusion on Women on Waves contest",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

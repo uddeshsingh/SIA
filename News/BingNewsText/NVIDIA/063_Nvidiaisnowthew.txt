@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Ben Stockton"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-11-06 16:00:17",
+    "description": "Thanks to AI-powerful graphics cards like the GeForce RTX 4090, Nvidia is now valued at over $3 trillion, beating Apple for the first time.",
+    "filename": ".json",
+    "image_url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/11/nvidia-most-valuable-company-crown.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Nvidia has just become the most valuable company in the world, passing other tech titans like Apple and Microsoft to take the crown. With a valuation of $3.43 trillion, Nvidia is now worth more than any other company for the first time, thanks to the huge demand for its GPUs due to the rise of AI and its dominance in the gaming market.\nIt\u2019s not hard to see why Nvidia, which was worth just $10 billion a decade ago, has had such success. The best graphics cards out there are made by the company, with the most recent RTX 40-series helping to put the Nvidia GPU market share at 88%, with second-place AMD stuck with just 12% of the total.\nHowever, while gaming is on the up, there\u2019s one big reason for Nvidia\u2019s huge success of late: AI. The chip maker bet big on artificial intelligence by introducing tensor cores into its GPUs in the late 2010s. The recent success of OpenAI\u2019s ChatGPT service has also fuelled both industry and consumer demand for the chips needed to both train and use AI models, which Nvidia helpfully provides.\nGamers, too, are starting to see the benefits of AI capable chips from companies like Nvidia. GPUs like the Nvidia GeForce RTX 4070 Super derive much of their competitive edge from their ability to tap into AI-enhanced graphics features. Technologies like Nvidia DLSS 3.0 use the AI-friendly tensor cores to help improve image quality and performance, as well as generate additional frames without needing the extra GPU power.\nWith next-gen GeForce RTX GPUs like the RTX 5090 rumored to launch in the new year, and with nearly 90% of the market share already in their pocket, there doesn\u2019t seem to be much that can slow Nvidia down. It\u2019s also got its eye on taking on Intel and AMD in the CPU market, with a rumored Nvidia PC CPU reportedly in development.\nAs for Nvidia\u2019s competitors, it\u2019s probably thinking about what could have been. A mooted Intel-Nvidia tie up back in 2005 could have completely changed the computing industry, but it never happened. Instead, Intel is now underperforming, while Nvidia is thriving.",
+    "source_domain": null,
+    "text": null,
+    "title": "Nvidia is now the world\u2019s most valuable company, thanks to AI and RTX GPUs",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}

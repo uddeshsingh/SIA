@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Agence France-Presse"
+    ],
+    "date_download": "None",
+    "date_modify": "None",
+    "date_publish": "2024-10-14 00:00:00",
+    "description": "Accident happened outside the French city of Niort, causing the deaths of the driver and three passengers.",
+    "filename": ".json",
+    "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/10/14/61eb8d1f-a895-45ba-b02a-8d85d1999a83_955d25f9.jpg?itok=JQ280WHg&v=1728849061",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Four people were killed in western France late on Saturday when a Tesla electric car caught fire for reasons not yet determined, prosecutors said on Sunday.\nThe accident happened outside the city of Niort, causing the deaths of the driver and three passengers who were employees at a restaurant in nearby Melle, according to a source close to police.\n\u201cAn inquiry has been opened to determine the causes and circumstances of the deadly accident, a probe during which expertise on the vehicle will be requested,\u201d a local judge told Agence France-Presse.\nAccording to preliminary reports, the vehicle rammed into several road signs at high speed.\nThe passengers on board were already dead when rescuers arrived at the scene, police said.",
+    "source_domain": null,
+    "text": null,
+    "title": "Tesla car fire kills 4 in France",
+    "title_page": null,
+    "title_rss": null,
+    "url": null
+}
