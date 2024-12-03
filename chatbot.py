@@ -1,8 +1,8 @@
 import os
 import logging
 import discord
-# from langchain_google_vertexai import VertexAI
-from langchain_openai import ChatOpenAI
+from langchain_google_vertexai import VertexAI
+# from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -43,20 +43,20 @@ def get_best_match(company_name, choices):
     best_match, score = result[0], result[1]
     return best_match if score > 90 else "unknown"
 
-# Initialize the Groq chat model
-# chat_model = VertexAI(
-#     model="gemini-1.0-pro-002",
-#     temperature=0.3,
-#     max_output_tokens=512,
-#     top_p=0.9
-# )
-chat_model = ChatOpenAI(
-    model="gpt-3.5-turbo",
-    temperature=0.5,
-    max_completion_tokens=512,
-    top_p=0.9
 
+chat_model = VertexAI(
+    model="gemini-1.0-pro-002",
+    temperature=0.3,
+    max_output_tokens=512,
+    top_p=0.9
 )
+# chat_model1 = ChatOpenAI(
+#     model="gpt-3.5-turbo",
+#     temperature=0.5,
+#     max_completion_tokens=512,
+#     top_p=0.9
+
+# )
 
 # Intent recognition prompt
 intent_prompt = ChatPromptTemplate.from_messages([
@@ -176,7 +176,7 @@ def identify_company(user_id, input_text):
     chain = company_prompt | chat_model
     try:
         response = chain.invoke({"input": full_context})
-        llm_output = response.content.strip()
+        llm_output = response.strip()
         logger.info(f"Company identified using LLM: {llm_output}")
 
         # Run LLM output through fuzzy matching to refine the result
@@ -228,14 +228,14 @@ def retrieve_relevant_docs(vectorstore, query):
     main_doc_included = any(main_doc_path in (doc.metadata.get('source', '') or '') for doc in docs)
 
     # Load the main document if not included
-    if not main_doc_included:
-        try:
-            with open(main_doc_path, "r") as file:
-                main_doc_content = file.read()
-            main_doc = Document(page_content=main_doc_content, metadata={"source": main_doc_path})
-            docs.insert(0, main_doc)  # Add the main document to the top of the results
-        except Exception as e:
-            print(f"Error loading main document: {e}")
+    # if not main_doc_included:
+    #     try:
+    #         with open(main_doc_path, "r") as file:
+    #             main_doc_content = file.read()
+    #         main_doc = Document(page_content=main_doc_content, metadata={"source": main_doc_path})
+    #         docs.insert(0, main_doc)  # Add the main document to the top of the results
+    #     except Exception as e:
+    #         print(f"Error loading main document: {e}")
 
     # Debugging: Print retrieved document sources
     for doc in docs:
@@ -253,8 +253,8 @@ def invoke_chain_with_history(prompt_template, user_id, input_text, context= "")
     try:
         chain = prompt_template | chat_model
 
-        rendered_prompt = prompt_template.format_prompt(context=context, input=input_text)
-        print(f"\n\n\n\nRendered Prompt: {rendered_prompt}")
+        # rendered_prompt = prompt_template.format_prompt(context=context, input=input_text)
+        # print(f"\n\n\n\nRendered Prompt: {rendered_prompt}")
         response = chain.invoke({
             "input": input_text,  # User's query
             "context": full_context    # Retrieved context
@@ -262,9 +262,9 @@ def invoke_chain_with_history(prompt_template, user_id, input_text, context= "")
         
         # Update conversation history
         history.append(f"User: {input_text}")
-        history.append(f"Bot: {response.content.strip()}")
+        history.append(f"Bot: {response.strip()}")
 
-        return response.content.strip()
+        return response.strip()
     except Exception as e:
         logger.error(f"Error invoking chain with history: {e}")
         return "Sorry, I couldn't process your request right now."
