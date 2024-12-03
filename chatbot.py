@@ -1,7 +1,8 @@
 import os
 import logging
 import discord
-from langchain_google_vertexai import VertexAI
+# from langchain_google_vertexai import VertexAI
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -12,7 +13,7 @@ from rapidfuzz import fuzz, process
 
 # Retrieve environment variables
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
-VERTEX_AI_API_KEY = os.getenv("VERTEX_AI_API_KEY")
+# VERTEX_AI_API_KEY = os.getenv("VERTEX_AI_API_KEY")
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -43,18 +44,26 @@ def get_best_match(company_name, choices):
     return best_match if score > 90 else "unknown"
 
 # Initialize the Groq chat model
-chat_model = VertexAI(
-    model="gemini-1.0-pro-002",
-    temperature=0.3,
-    max_output_tokens=512,
+# chat_model = VertexAI(
+#     model="gemini-1.0-pro-002",
+#     temperature=0.3,
+#     max_output_tokens=512,
+#     top_p=0.9
+# )
+chat_model = ChatOpenAI(
+    model="gpt-3.5-turbo",
+    temperature=0.5,
+    max_completion_tokens=512,
     top_p=0.9
+
 )
 
 # Intent recognition prompt
 intent_prompt = ChatPromptTemplate.from_messages([
     ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA, an assistant that classifies user intents based on the provided message. Your response must be exactly one word from the following list of intents:\n"
                "'financial_summary', 'risk_factors', 'management_analysis', 'revenue_analysis', 'expense_analysis', "
-               "'liquidity_analysis', 'future_outlook', 'competitive_position', 'debt_analysis', 'segment_analysis'.\n"
+               "'liquidity_analysis', 'future_outlook', 'competitive_position', 'debt_analysis', 'segment_analysis',"
+               "'news_summary', 'financial_event'.\n"
                "If the message does not fit any of these intents, output 'unknown' only."),
     ("human", "{input}")
 ])
@@ -102,6 +111,14 @@ intent_prompts = {
     ]),
     "segment_analysis": ChatPromptTemplate.from_messages([
         ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA, an expert in segment analysis. Analyze the performance of different business segments. CONTEXT START: {context} CONTEXT END. Keep your answers within 1500 characters"),
+        ("human", "{input}")
+    ]),
+    "news_summarize": ChatPromptTemplate.from_messages([
+        ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA, an expert in news summarizer. Summarize the news. CONTEXT START: {context} CONTEXT END. Bring the topic back to your main objective. Keep your answers very concise."),
+        ("human", "{input}")
+    ]),
+    "financial_event": ChatPromptTemplate.from_messages([
+        ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA, an expert in event summarizer. Summarize the related events. CONTEXT START: {context} CONTEXT END. Bring the topic back to your main objective. Keep your answers very concise."),
         ("human", "{input}")
     ]),
     "unknown": ChatPromptTemplate.from_messages([
@@ -188,7 +205,7 @@ def create_faiss_for_company(company_name):
     if os.path.exists(faiss_index_file):
         return FAISS.load_local(vectorstore_path, embeddings, allow_dangerous_deserialization=True)
     else:
-        loader = DirectoryLoader(company_folder, glob="**/*.txt")
+        loader = DirectoryLoader(company_folder, glob=["**/*.txt", "**/*.json"])
         documents = loader.load()
         text_splitter = CharacterTextSplitter(chunk_size=5000, chunk_overlap=500)
         texts = text_splitter.split_documents(documents)
@@ -245,9 +262,9 @@ def invoke_chain_with_history(prompt_template, user_id, input_text, context= "")
         
         # Update conversation history
         history.append(f"User: {input_text}")
-        history.append(f"Bot: {response.strip()}")
+        history.append(f"Bot: {response.content.strip()}")
 
-        return response.strip()
+        return response.content.strip()
     except Exception as e:
         logger.error(f"Error invoking chain with history: {e}")
         return "Sorry, I couldn't process your request right now."
@@ -268,11 +285,14 @@ async def on_ready():
 # Event: Message received
 @bot.event
 async def on_message(message):
+    logger.info(message.content)
     if message.author == bot.user:
         return
 
     # Check if the bot is mentioned
+    logger.info(message.mentions)
     if bot.user in message.mentions:
+
         user_input = message.content.replace(f"<@{bot.user.id}>", "").strip()
 
         user_id = str(message.author.id)
@@ -289,7 +309,8 @@ async def on_message(message):
 
         # Load user history
         history = load_history(user_id)
-        
+        print("loaded till here")
+
         # Recognize intent
         intent = invoke_chain_with_history(intent_prompt, message.author.id, user_input)
         logger.info(f"The intent is: {intent}")
@@ -303,13 +324,16 @@ async def on_message(message):
                     user_companies[user_id] = identified_company
                 break
 
-        # Identify company name
+        # Identify company namess
         current_company = user_companies.get(user_id, "unknown")
         if current_company == "unknown":
             # Provide a generic answer for basic queries
             generic_response = "I'm here to help with general questions. For advanced analysis, please set a company by saying something like 'Change company to Tesla'."
 
-            print(intent, intent_prompts[intent])
+            try:
+                print(intent, intent_prompts[intent])
+            except Exception as e:
+                print(e)
 
             if intent in intent_prompts:
                 try:
