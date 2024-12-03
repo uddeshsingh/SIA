@@ -66,9 +66,9 @@ user_companies = {}
 # Initialize the Groq chat model
 chat_model = VertexAI(
     model="gemini-1.0-pro-002",
-    temperature=0.3,
+    temperature=0.1,
     max_output_tokens=512,
-    top_p=0.3
+    top_p=0.1
 )
 
 def get_user_state(user_id):
@@ -123,7 +123,7 @@ def get_next_state(llm_response):
 # Intent recognition prompt
 intent_prompt = ChatPromptTemplate.from_messages([
     ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA, an assistant that classifies user intents based on the provided message. Your response must be exactly one word from the following list of intents:\n"
-               "'financial_summary', 'risk_factors', 'management_analysis', 'future_outlook', 'clarifications', 'summarize','wrap_up','follow_up', 'feedback', 'questions'.\n"
+               "'financial_summary', 'risk_factors', 'management_analysis', 'future_outlook', 'clarifications','wrap_up','follow_up', 'feedback', 'questions'.\n"
                "If the message does not fit any of these intents, output 'unknown' only."),
     ("human", "{input}")
 ])
@@ -152,7 +152,7 @@ intent_prompts = {
         ("human", "{input}")
     ]),
     "greeting": ChatPromptTemplate.from_messages([
-        ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA. Respond to the input."),
+        ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA. Respond to the greeting as SIA, not as a bot."),
         ("human", "{input}")
     ]),
     "follow_up": ChatPromptTemplate.from_messages([
@@ -165,6 +165,10 @@ intent_prompts = {
     ]),
     "intent": ChatPromptTemplate.from_messages([
         ("system", "Clarify the user's intent."),
+        ("human", "{input}")
+    ]),
+    "questions": ChatPromptTemplate.from_messages([
+        ("system", "Answer the user's questions in an appropriate manner. The length of the anwwer depends on you. ONLY RESPOND WITH THE ANSWER"),
         ("human", "{input}")
     ])
 }
@@ -387,11 +391,12 @@ async def on_message(message):
         # LLM invocation to decide state transition
         decision_prompt = ChatPromptTemplate.from_messages([
             ("system", "You are SIA (Stock Investment Advisor). Based on the conversation context, decide the next step in the flow. Return exactly one of the following steps: "
-                    "greeting, random_conversation, reset_history, company_selection, intent_identification, detailed_response, questions, summarize, next_steps, wrap_up, inactivity, feedback. Your response must be one of the aforementioned ONLY. BE VERY CONCISE"),
+                    "greeting, random_conversation, reset_history, intent_identification, detailed_response, questions, summarize, next_steps, wrap_up, inactivity, feedback. Your response must be one of the aforementioned ONLY. BE VERY CONCISE"),
             ("human", f"Current State: {state['step']}\nUser Input: {user_input}")
         ])
 
-        VALID_STATES = ["greeting", "random_conversation", "reset_history", "company_selection","intent_identification", "detailed_response", "questions", "summarize","next_steps", "wrap_up", "inactivity", "feedback"]
+        VALID_STATES = ["greeting", "random_conversation", "reset_history", "company_selection","intent_identification", "detailed_response", "questions","next_steps", "wrap_up", "inactivity", "feedback"]
+        intent_opts = ["financial_summary",'risk_factors','management_analysis','future_outlook', 'questions','clarifications']
 
         try:
             decision_chain = decision_prompt | chat_model
@@ -410,6 +415,12 @@ async def on_message(message):
             update_user_state(user_id, "step", STATES["ERROR_RECOVERY"])
             next_state_name = STATES["ERROR_RECOVERY"]
             return
+        
+
+        identified_company = identify_company(user_id, user_input)
+        logger.info(f"Identified company: {identified_company}")
+        if identified_company != "unknown":
+            user_companies[user_id] = identified_company
 
         
         if user_input.lower() == "reset history" or next_state_name == STATES["RESET_HISTORY"]:
@@ -432,21 +443,9 @@ async def on_message(message):
             update_user_state(user_id, "step",STATES["COMPANY_SELECTION"])
             await send_response(message, user_id, user_input, response)
 
-        elif next_state_name == STATES["COMPANY_SELECTION"] or get_user_state(user_id)['step'] == STATES["COMPANY_SELECTION"]:
-            identified_company = identify_company(user_id, user_input)
-            logger.info(f"Identified company: {identified_company}")
-            if identified_company != "unknown":
-                user_companies[user_id] = identified_company
-                await send_response(message, user_id, user_input,f"Got it! We're discussing {identified_company}.")
-                update_user_state(user_id, "step",STATES["INTENT_IDENTIFICATION"])
-            else:
-                response = invoke_chain_with_history(intent_prompts["unknown"], user_id, user_input)
-                update_user_state(user_id, "step",STATES["RANDOM_CONVO"])
-                await send_response(message, user_id, user_input, response)
-
-        if next_state_name == STATES["INTENT_IDENTIFICATION"] or get_user_state(user_id)['step'] == STATES["INTENT_IDENTIFICATION"]:
+        elif next_state_name == STATES["INTENT_IDENTIFICATION"] or get_user_state(user_id)['step'] == STATES["INTENT_IDENTIFICATION"]:
             # Recognize intent
-            intent = get_best_match(invoke_chain_with_history(intent_prompt, message.author.id, user_input), VALID_STATES)
+            intent = process.extractOne(invoke_chain_with_history(intent_prompt, message.author.id, user_input), intent_opts, scorer=fuzz.partial_token_sort_ratio)[0]
             logger.info(f"The intent is: {intent}")
             company_name = user_companies.get(user_id, "unknown")
             if company_name == 'unknown' and intent != 'unknown':
@@ -466,16 +465,18 @@ async def on_message(message):
             elif intent == 'clarifications':
                 update_user_state(user_id, "step",STATES["CLARIFICATIONS"])
                 print('in here: changed state to CLARIFICATIONS')
-            elif intent == 'summarize':
-                update_user_state(user_id, "step",STATES["SUMMARIZE"])
-                print('in here: changed state to summarizense')
 
 
-
+        just_dr = False
         if next_state_name == STATES["DETAILED_RESPONSE"] or get_user_state(user_id)['step'] == STATES["DETAILED_RESPONSE"]:
             logger.info('In Detailed Response')
             intent = get_user_state(user_id)["intent"]
+            if intent == None:
+                intent = process.extractOne(invoke_chain_with_history(intent_prompt, message.author.id, user_input), intent_opts, scorer=fuzz.partial_token_sort_ratio)[0]
+
             company_name = user_companies.get(user_id, "unknown")
+
+            print("Detailed Response", company_name, intent)
             if company_name != "unknown":
                 id_company_ticker = tnc.get(company_name, "unknown")
                 vectorstore = create_faiss_for_company(id_company_ticker)
@@ -484,6 +485,8 @@ async def on_message(message):
                     return
                 context = retrieve_relevant_docs(vectorstore, user_input)
                 response = invoke_chain_with_history(intent_prompts[intent], user_id, user_input, context)
+                update_user_state(user_id, "step",STATES["QA"])
+                just_dr = True
                 await send_response(message, user_id, user_input, response)
             else:
                 generic_response = "I'm here to help with general questions. For advanced analysis, please set a company by saying something like 'Change company to Tesla'."
@@ -498,17 +501,26 @@ async def on_message(message):
                     response = generic_response
                     await send_response(message, user_id, user_input, response)
                     return
-        elif next_state_name == STATES["QA"] or get_user_state(user_id)['step'] == STATES["QA"]:
+        
+        
+        if next_state_name == STATES["QA"] or get_user_state(user_id)['step'] == STATES["QA"]:
             logger.info('In QA')
-            await send_response(message, user_id, user_input, "Is there anything else you'd like to know about this topic?")
-            return
+            if just_dr:
+                await send_response(message, user_id, user_input,"Do you have any questions on the above?")
+                just_dr = False
+                return
+            
+            response = invoke_chain_with_history(intent_prompts["questions"], user_id, user_input)
+            await send_response(message, user_id, user_input, response)
+            update_user_state(user_id, "step",STATES["WRAP_UP"])
 
-        elif next_state_name == STATES["CLARIFICATIONS"] or get_user_state(user_id)['step'] == STATES["CLARIFICATIONS"]:
+        if next_state_name == STATES["CLARIFICATIONS"] or get_user_state(user_id)['step'] == STATES["CLARIFICATIONS"]:
             logger.info('In Clarifications')
             await send_response(message, user_id, user_input, "Could you clarify your question so I can provide a more accurate response?")
             return
 
-        elif next_state_name == STATES["SUMMARIZE"] or get_user_state(user_id)['step'] == STATES["SUMMARIZE"]:
+        if next_state_name == STATES["WRAP_UP"] or get_user_state(user_id)['step'] == STATES["WRAP_UP"]:
+            logger.info('In WRAP UP')
             logger.info('In Summarize')
             history = load_history(user_id)
             summary_prompt = ChatPromptTemplate.from_messages([
@@ -518,20 +530,27 @@ async def on_message(message):
             summary_chain = summary_prompt | chat_model
             response = summary_chain.invoke({})
             await send_response(message, user_id, user_input, response)
-            update_user_state(user_id, "step",STATES["WRAP_UP"])
-            return
-
-        elif next_state_name == STATES["WRAP_UP"] or get_user_state(user_id)['step'] == STATES["WRAP_UP"]:
-            logger.info('In WRAP UP')
             await send_response(message, user_id, user_input, "Thank you for using SIA! Feel free to reach out again anytime.")
             update_user_state(user_id, "step",STATES["FEEDBACK"])
-
-        if next_state_name == STATES["INACTIVITY"] or get_user_state(user_id)['step'] == STATES["INACTIVITY"]:
-            await reset_user_state_after_timeout(user_id)
-            await send_response(message, user_id, user_input, "It seems you've been inactive. Resetting the session.")
-
+        
+        inact = True
         if next_state_name == STATES["FEEDBACK"] or get_user_state(user_id)['step'] == STATES["FEEDBACK"]:
             await send_response(message, user_id, user_input, "How was my assistance today? Type [your thoughts] to let me know.")
+            response = invoke_chain_with_history(intent_prompts["unknown"],user_id,user_input, "The input is user feedback on your performance as SIA")
+            await send_response(message, user_id, user_input, response)
+            update_user_state(user_id, "step",STATES["INACTIVITY"])
+            inact = False
+    
+        if next_state_name == STATES["INACTIVITY"] or get_user_state(user_id)['step'] == STATES["INACTIVITY"]:
+            if inact:
+                await reset_user_state_after_timeout(user_id)
+                await send_response(message, user_id, user_input, "It seems you've been inactive. Resetting the session.")
+            else:
+                await reset_user_state_after_timeout(user_id, 1)
+                await send_response(message, user_id, user_input, "Ending the session.")
+
+
+            
 
 
         return
