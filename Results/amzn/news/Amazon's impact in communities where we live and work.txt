@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 00:00:00
+Description: We focus on building long-term and innovative programs that have a lasting positive impact in communities around the world.
+Filename: .json
+Image_Url: https://assets.aboutamazon.com/dims4/default/f86f626/2147483647/strip/true/crop/1999x1125+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F89%2F69%2Fc3b095ac40d29e3f22d8032f7483%2Fhero-image-cir.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon's impact in communities where we live and work
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Supporting Our Communities We look to leverage our scale for good and use our ability to innovate quickly to strengthen communities around the world where our employees live and work. Amazon’s culture is built around solving impossible problems, which is why we’re able to take a different, more hands-on approach than most. We work side-by-side with community partners to find solutions to the world’s most pressing challenges and build long-term, innovative programs that have a lasting, positive impact.
+Financial_Events: []

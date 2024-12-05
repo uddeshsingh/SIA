@@ -1,0 +1,17 @@
+Authors: ['Etan Vlessing']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 15:26:15
+Description: Netflix's offices in Paris and Amsterdam were raided as part of a tax fraud probe.
+Filename: .json
+Image_Url: https://www.hollywoodreporter.com/wp-content/uploads/2023/05/GettyImages-1377867918.jpg?w=1296&h=730&crop=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix Europe Offices Raided Tax Fraud Probe
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Prosecutors and police investigators focused on tax fraud and corruption raided Netflix offices in Paris and Amsterdam on Tuesday as part of an ongoing probe into alleged financial wrongdoing, The Hollywood Reporter has confirmed. The searches were part of a preliminary investigation opened in November 2022 to probe allegations of aggravated tax fraud and concealed work in an organized conspiracy. In Amsterdam, Dutch prosecutors with the National Office for Serious Fraud, Environmental Crime and Asset Confiscation carried out the Netflix headquarters searches in coordination with French authorities at the French National Financial Prosecutor’s Office (PNF). Netflix’s French subsidiary was investigated starting in 2021 for allegedly reducing its tax obligations for its revenues generated in France by using a company in the Netherlands. La Lettre reported that Netflix posted far higher French revenues in 2021 when it began to account for its local subscriber base in France and not in the Netherlands.
+Financial_Events: ['Netflix’s French subsidiary was investigated starting in 2021 for allegedly reducing its tax obligations for its revenues generated in France by using a company in the Netherlands.\nThe French outlet claimed Netflix subscribers in France signed agreements with a Dutch subsidiary, Netflix International BV, to reduce the parent company’s tax charges in the 2019 and 2020 filing periods', 'La Lettre reported that Netflix posted far higher French revenues in 2021 when it began to account for its local subscriber base in France and not in the Netherlands.']

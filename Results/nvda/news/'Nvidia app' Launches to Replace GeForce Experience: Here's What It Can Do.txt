@@ -1,0 +1,17 @@
+Authors: ['Michael Kan', 'feature launches', 'fights between rival providers']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 18:07:12
+Description: The Nvidia app is out of beta and aims to improve the old GeForce Experience with interface changes and a bulked-up in-game overlay.
+Filename: .json
+Image_Url: https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-app/nvidia-app-launches-to-replace-geforce-experience-heres-what_8882.1200.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 'Nvidia app' Launches to Replace GeForce Experience: Here's What It Can Do
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The app, first previewed in February, is meant to be a "unified GPU control center," which can also automatically optimize PC games for your Nvidia graphics card. Like with GeForce Experience, the new overlay will appear when you press ALT+Z, giving you an easy way to take screenshots, record videos, or augment a game's visuals with an AI-powered filter. For example, you can use a filter to play a game in black-and-white, make the visuals appear like a watercolor painting, or increase the vibrance to HDR fidelity. Another change is a new "Performance" tab, which can monitor your GPU’s current statistics and even calibrate its voltage, power, and temperature limits. Helldivers 2, God of War Ragnarok, and Baldur’s Gate 3 were notably absent from the GPU optimization feature until we ran the games.
+Financial_Events: []

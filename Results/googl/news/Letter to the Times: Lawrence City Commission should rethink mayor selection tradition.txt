@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 14:47:11
+Description: ”Allowing the commission to choose who they think would be the best fit (for mayor) would allow us to have more than one year with a commissioner who does a great job,” Chris Flowers writes in this letter to the Times.
+Filename: .json
+Image_Url: https://lawrencekstimes.com/wp-content/uploads/2022/07/Letters-to-the-Times-W.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Letter to the Times: Lawrence City Commission should rethink mayor selection tradition
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: For starters, one of the reasons for a different mayor each year has been that it keeps our advisory boards from being stacked with people chosen by one person. Singling out a commissioner to not get a turn based on election results makes more sense when it’s a two-year term. One of the arguments I’ve heard for our current tradition is that if there is a mayor who is terrible, we only have to have them for one year. Well, at this point I think the main thing they do is run city commission meetings. This leads to inconsistency with how meetings are run and rules enforced over a course of four years.
+Financial_Events: []

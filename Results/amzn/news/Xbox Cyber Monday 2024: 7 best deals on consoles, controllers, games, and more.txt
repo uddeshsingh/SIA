@@ -1,0 +1,17 @@
+Authors: ['Divya Burman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:37:09
+Description: Cyber Monday is surely the most eagerly awaited day of the year for gamers and gaming enthusiasts.
+Filename: .json
+Image_Url: https://static.soapcentral.com/editor/2024/12/49744-17331697817439.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Xbox Cyber Monday 2024: 7 best deals on consoles, controllers, games, and more
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This completely digital powerhouse offers breathtaking 4K gaming, creating more vibrant worlds, clearer visuals, and astonishingly lifelike characters. The innovative Velocity Architecture developed by XBox custom SSD and integrated software helps achieve lightning-fast loading times and smoother gameplay. Its textured grip on triggers, bumpers, and the back casing provides a secure hold, while the updated hybrid D-pad allows for accurate, intuitive input that feels both precise and familiar. This is an officially licensed card built using the Xbox Velocity Architecture, which builds up the load times and creates richer, more immersive environments for an unparalleled gaming experience. Retailers have had their extended discount offerings, making Cyber Monday a way to gear up for this holiday season, irrespective of what one is looking to buy, be it for them or purchasing as a gift for any fellow gamer.
+Financial_Events: []

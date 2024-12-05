@@ -1,0 +1,17 @@
+Authors: ['Reality Check team']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2021-04-08 23:19:18
+Description: Are the activities of the fishing industry destroying the world's oceans as a new film suggests?
+Filename: .json
+Image_Url: https://ichef.bbci.co.uk/news/1024/branded_news/8051/production/_117894823_gettyimages-549405079.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Is Netflix's Seaspiracy film right about fishing damaging oceans?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: There are plenty of examples of overfished stocks, the catching of unwanted fish, and habitat loss, as well as issues with pollution and climate change, says Prof Worm. "We hear a lot about the Great Pacific Garbage Patch (GPGP)... 46% of it is discarded fishing nets, which are far more dangerous for marine life than our plastic straws," says environmentalist George Monbiot, a contributor to the documentary. The statistic - 0.03% of ocean plastic is straws - is sourced to two studies highlighted in the film, one led by Jenna Jambeck, at the University of Georgia, and another by two Australian scientists Denise Hardesty and Chris Wilcox. The documentary refers to an IMF report that says "we calculate that this is equivalent to the amount of carbon dioxide (CO2) captured by 1.70 trillion trees - four Amazon forests' worth". "It's fair to say that over the global ocean, phytoplankton absorb about four times as much carbon dioxide as the Amazon does," says Dr BB Cael, a scientist at National Oceanography Centre in Southampton.
+Financial_Events: []

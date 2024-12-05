@@ -1,0 +1,17 @@
+Authors: ['Simon Sharwood']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-30 07:24:06
+Description: Fabbed by TSMC, needed for … it's a secret
+Filename: .json
+Image_Url: https://regmedia.co.uk/2024/01/29/openai.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: OpenAI reportedly talks custom silicon with Broadcom
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A Reuters report claims the AI upstart and the chip design firm have staged confidential discussions about custom silicon, with Taiwan Semiconductor Manufacturing Company involved as the likely foundry for the effort. Just why OpenAI wants its own inferencing chip is not known, but it's not hard to guess why such a move appeals: the startup has enormous cloud bills – some of them comped by partners like Microsoft – and might fancy running its own hardware instead. OpenAI has also reportedly tried to convince investors to build giant datacenters dedicated to running AI services. Cast a hex on ChatGPT to trick the AI into writing exploit code OpenAI loses another senior figure, disperses safety research team he led OpenAI's rapid growth loaded with 'corner case' challenges, says Fivetran CEO Open source LLM tool primed to sniff out Python zero-days The Register can't imagine OpenAI wants to get into the mucky business of hardware sales – an industry that requires all sorts of bothersome investments in the real world and would therefore bloat its headcount. But as inferencing is a workload best run physically close to users – because latency sucks – a play that puts devices deep into networks can't be ruled out.
+Financial_Events: []

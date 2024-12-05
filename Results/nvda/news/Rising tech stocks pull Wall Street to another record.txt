@@ -1,0 +1,17 @@
+Authors: ['Stan Choe']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:19:55
+Description: Super Micro Computer, a stock that’s been on an AI-driven roller coaster, soared 28.7% to lead the market.
+Filename: .json
+Image_Url: https://ca-times.brightspotcdn.com/dims4/default/b64bf8f/2147483647/strip/true/crop/3908x2052+0+277/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2F4d%2F4763baf9879671e0d9d231bf61de%2F4ed94c5d8f4b444ea123fc8b8620da11
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Rising tech stocks pull Wall Street to another record
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Intel was another propellant during the morning, but it lost an early gain to fall 0.5% after the chip company said Chief Executive Pat Gelsinger has retired and stepped down from the board. Carlos Tavares steps down after nearly four years in the top spot of the automaker, which owns car brands Jeep, Citroën and Ram, amid an ongoing struggle with slumping sales and an inventory backlog at dealerships. They could steer the next moves for the Federal Reserve, which recently began pulling interest rates lower to give support to the economy. Economists expect Friday’s headliner report to show U.S. employers accelerated their hiring in November, coming off October’s lackluster growth that was hampered by damaging hurricanes and strikes. “We now find ourselves in the middle of this Goldilocks zone, where economic health supports earnings growth while remaining weak enough to justify potential Fed rate cuts,” according to Mark Hackett, chief of investment research at Nationwide.
+Financial_Events: ['employers accelerated their hiring in November, coming off October’s lackluster growth that was hampered by damaging hurricanes and strikes.\n“We now find ourselves in the middle of this Goldilocks zone, where economic health supports earnings growth while remaining weak enough to justify potential Fed rate cuts,” according to Mark Hackett, chief of investment research at Nationwide.\nIn financial markets abroad, Chinese stocks led gains worldwide as monthly surveys showed improving conditions for manufacturing, partly driven by a surge in orders ahead of Trump’s inauguration next month.\nBoth official and private sector surveys of factory managers showed strong new orders and export orders, possibly partly linked to efforts by importers in the U.S']

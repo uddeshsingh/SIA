@@ -1,0 +1,17 @@
+Authors: ['Joe O’Halloran', 'Alex Scroxton', 'Cliff Saran']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 07:45:00
+Description: Integrated communications and cloud services provider teams with operator’s internet of things division to bring connectivity to enterprise communications platform users.
+Filename: .json
+Image_Url: https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Vodafone-IoT-hero.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle taps Vodafone Business to provide global IoT connectivity
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Built on Oracle Cloud Infrastructure, ECP uses edge architecture to give businesses what is claimed to be out-of-the-box connectivity and the near real-time data intelligence required to power essential new services. In addition, with access to Vodafone’s IoT network of over 180 countries, businesses will have connectivity compliant with local regulatory requirements, meaning they will be able to operate globally and grow more efficiently. “We’re excited to announce the next step in our partnership with Oracle – providing reliable and secure connectivity to its Enterprise Communications Platform customers,” said Erik Brenneis, CEO of Vodafone Business IoT. “Using drones to inspect construction job sites, remote monitoring the health of a patient, paying the bill tableside at a restaurant – none of these scenarios are possible without wireless connectivity and industry-specific applications working in harmony. “By expanding our long partnership with Vodafone and bringing its extensive global network reach and IoT expertise together with Oracle’s, wide-ranging portfolio of industry suites, we can help create new ways to delight customers and deliver new revenue streams.”
+Financial_Events: ['“Using drones to inspect construction job sites, remote monitoring the health of a patient, paying the bill tableside at a restaurant – none of these scenarios are possible without wireless connectivity and industry-specific applications working in harmony.\n“By expanding our long partnership with Vodafone and bringing its extensive global network reach and IoT expertise together with Oracle’s, wide-ranging portfolio of industry suites, we can help create new ways to delight customers and deliver new revenue streams.”']

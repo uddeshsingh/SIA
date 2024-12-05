@@ -1,0 +1,17 @@
+Authors: ['Sean Michael Kerner']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 14:00:00
+Description: Couchbase integrates model serving, vectorization, agent catalog and enterprise AI function calling into its cloud database platform to help enterprises overcome deployment challenges.
+Filename: .json
+Image_Url: https://venturebeat.com/wp-content/uploads/2024/11/couchbase-developeroncouch-smk.jpg?w=1024?w=1200&strip=all
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Enterprise AI gets closer to data with Couchbase’s new Capella AI services
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The announcement comes as organizations grapple with integrating AI into their existing applications while managing concerns about data privacy, operational complexity and development efficiency. “We’re focusing on building a developer data platform for critical applications in our AI world today,” Matt McDonough, SVP of product and partners at Couchbase, told VentureBeat. The service supports both open source models and commercial offerings, with value-added features including request batching and semantic caching. He noted that by caching semantically relevant responses, Couchbase can provide more contextual and meaningful information to the AI models or applications consuming the data. “Ultimately we believe that is going to reduce latency operational cost, by keeping these models and the data together throughout the entire software development life cycle for AI applications,” he said.
+Financial_Events: []

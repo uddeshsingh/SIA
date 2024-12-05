@@ -1,0 +1,17 @@
+Authors: ['Nadeem Sarwar']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 14:32:08
+Description: A team of researchers has built two apps that only need the sensors fitted inside a phone to help blind people navigate buildings. Here's how they work.
+Filename: .json
+Image_Url: https://www.digitaltrends.com/wp-content/uploads/2024/11/app-system-map-wayfinding-app.jpeg?resize=1200%2C630&p=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How two apps are turning smartphones into navigation devices for the blind
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “The best we do is build ramps for people with motor disabilities,” Khan, who owns Pause Design Studio in India’s national capital, tells Digital Trends. Roberto Manduchi, professor of computer science and engineering at UC Santa Cruz, spearheaded the development of these apps to help blind users move within a building using audio cues. “This is akin to the old navigation technique that computed a ship’s path using the compass for heading and a chip log (a rope with a number of regularly placed knots) for speed,” Manduchi explains. The team expressed confidence in the inertial-based localization technique driving the app, predominantly because it’s accessible and doesn’t require any external infrastructure to offer guidance services. However, Manduchi tells me that Wayfinding and Backtracking are “only experimental apps, still far from a distribution version.” Notably, the team is considering the open-source route via the UCSC Center for Research on Open Source Software platform.
+Financial_Events: []

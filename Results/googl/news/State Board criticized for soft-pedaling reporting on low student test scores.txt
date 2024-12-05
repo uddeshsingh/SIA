@@ -1,0 +1,17 @@
+Authors: ['John Fensterwald']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: Critics argue proposed characterizations of Smarter Balanced test results will confuse parents.
+Filename: .json
+Image_Url: https://edsource.org/wp-content/uploads/2024/12/AMERICANED_UCLACOMM_053-1024x683.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: State Board criticized for soft-pedaling reporting on low student test scores
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The State Board of Education delayed its adoption at its November meeting because of criticism that the revised wording may compound, not solve, current unclear language. In a letter to the State Board about the proposed changes, particularly the labeling of low test scores, nine student advocacy groups — the Alliance for Students — argued that the revised language “will only serve to obfuscate the data and make it even more challenging for families and advocates to lift the needs of our most underserved students.” Signers of the letter included Teach Plus, Children Now, and Innovate Public Schools. “The language is confusing and not engaging for families with the first two levels,” said Joanna French, director of research and policy strategies for Innovate Public Schools. Smarter Balanced said students demonstrate this in how they respond to more complex reading passages, concepts and advanced vocabulary, or in math, the number of elements in equations and difficult word problems. Rob Manwaring, a senior adviser to the advocacy group Children Now, said that the new labels would feed the “reality gap in the perceptions of parents that their kids are doing better than they are” in school.
+Financial_Events: ['In an often-cited 2023 parent survey in communities nationwide, survey firm Gallup and the nonprofit parent advocacy organization Learning Heroes found that, based on their kids’ report cards, parents’ perceptions were out of whack with how their children did on assessments']

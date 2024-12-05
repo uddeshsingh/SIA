@@ -1,0 +1,17 @@
+Authors: ['Tim Schiesser']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 12:12:00
+Description: If you're a GeForce GPU owner and haven't yet transitioned to the Nvidia App, this is the perfect time to do so. The new app is far...
+Filename: .json
+Image_Url: https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-12-image-17.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia kills GeForce Experience, Nvidia App 1.0 goes live
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This marks the first step toward creating a single, unified application that will eventually replace both GeForce Experience and the Nvidia Control Panel. Accessing key features is significantly faster and easier, with a more modern feel than the outdated Control Panel. Information about connectors and display capabilities remains accessible, and the larger font size is easier to read on high-resolution monitors. An interface that consolidates all display settings into a single, fast-access page is a huge improvement, and we already see Nvidia working towards that in the current app. Important driver settings – frame rate caps, DSR, G-Sync, Vsync, and others – are included in the app's more accessible and user-friendly interface.
+Financial_Events: []

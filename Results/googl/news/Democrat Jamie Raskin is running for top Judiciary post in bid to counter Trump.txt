@@ -1,0 +1,17 @@
+Authors: ['Farnoush Amiri', 'Associated Press']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:58:44
+Description: Rep. Jamie Raskin of Maryland has announced that he will be running to become the top Democrat on the powerful House Judiciary Committee next year.
+Filename: .json
+Image_Url: https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5T35VEX6VJCWNPEB3GXD6QJEHM.jpg?_a=DATAdtfiZAA0
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Democrat Jamie Raskin is running for top Judiciary post in bid to counter Trump
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: "House Democrats must stand in the breach to defend the principles and institutions of constitutional democracy," Raskin wrote in a letter to colleagues. But by throwing his hat in the ring, Raskin is inviting what a bitter intra-party fight with Nadler, who is currently serving his 17th term in Congress and who has held the top spot on Judiciary since 2019. Democrats have over the years rarely broken from the seniority system for committee assignments, no matter how long someone has held a position, making the outcome of the race uncertain. Both men did not respond to requests for comment but Raskin closed his letter by praising Nadler, saying that he made this decision “with respect and boundless admiration” for him. “If I’m lucky enough to be chosen for this responsibility in the 119th Congress, I will turn to Jerry first and throughout for his always wise counsel and political judgment,” Raskin added.
+Financial_Events: []

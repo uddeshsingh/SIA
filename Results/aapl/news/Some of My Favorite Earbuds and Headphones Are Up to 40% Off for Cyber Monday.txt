@@ -1,0 +1,17 @@
+Authors: ['Eric Zeman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:19:06
+Description: I've been reviewing electronics for more than 20 years, and these four hand-picked headphone deals from Apple, Bose, Sennheiser, and Sony are among the best you'll hear.
+Filename: .json
+Image_Url: https://i.pcmag.com/imagery/articles/00EYeMeNZYAAlEXmoLjiZEe-2.fit_lim.size_1200x630.v1733165692.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Some of My Favorite Earbuds and Headphones Are Up to 40% Off for Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: I manage the Consumer Electronics Reviews team at PCMag, so I am intimately familiar with a wide range of devices, from Bluetooth headphones to mobile phones, smart home products, tablets, and beyond. The Best Noise-Cancelling Earphone Deal Apple's AirPods Pro 2 set a performance benchmark for iPhone owners. This iconic in-ear pair is light, easy to wear, and feature deep integration with Apple's smartphones, tablets, and computers. These in-ear, noise-cancelling earphones support a range of advanced codecs for high-resolution playback, particularly if you're using an Android phone. These over-ear cans are supremely comfortable to wear all day long—and that's about how long they'll last, thanks to more than 60 hours of battery life with noise-cancelling on.
+Financial_Events: []

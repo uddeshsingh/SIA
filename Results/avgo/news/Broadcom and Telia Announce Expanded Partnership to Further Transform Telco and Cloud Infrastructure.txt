@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-04-05 00:00:00
+Description: --Broadcom Inc. and Telia Company today announced the expansion of their longtime partnership with a new multi-year agreement, which will see Telia further modernize and transform its telco and cloud infrastructure with the VMware product portfolio. "In collaboration with Broadcom, Telia is building a more agile, reliable and secure network and IT...
+Filename: .json
+Image_Url: https://www.nasdaq.com/sites/acquia.prod/files/2024/04/05/Nasdaq%20default%20share%20image.jpg?695328196
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Broadcom and Telia Announce Expanded Partnership to Further Transform Telco and Cloud Infrastructure
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Telia was recently named a Broadcom Pinnacle Partner – the highest designation in the VMware Cloud Service Provider Program. Broadcom is a critical partner in making this a reality.” About BroadcomBroadcom Inc. (NASDAQ: AVGO) is a global technology leader that designs, develops, and supplies a broad range of semiconductor, enterprise software and security solutions. Broadcom's category-leading product portfolio serves critical markets including cloud, data center, networking, broadband, wireless, storage, industrial, and enterprise software. Our solutions include service provider and enterprise networking and storage, mobile device and broadband connectivity, mainframe, cybersecurity, and private and hybrid cloud infrastructure. We’re the hub in the digital ecosystem, providing 26 million mobile, broadband and TV subscriptions that empower people, companies and societies to stay in touch with everything that matters 24/7/365.
+Financial_Events: []

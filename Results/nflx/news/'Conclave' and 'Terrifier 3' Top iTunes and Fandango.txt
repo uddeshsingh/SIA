@@ -1,0 +1,17 @@
+Authors: ['Tom Brueggemann']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:02:48
+Description: VOD charts: 'Conclave' and 'Terrifier 3' top iTunes and Fandango, while Lindsay Lohan is tops at Netflix.
+Filename: .json
+Image_Url: https://www.indiewire.com/wp-content/uploads/2024/10/MCDTETH_EC228.jpg?w=650
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 'Conclave' and 'Terrifier 3' Top iTunes and Fandango
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Damien Leone’s “Terrifier 3” leads at Fandango, yet only briefly appeared during the week at iTunes (debuting at #3) before dropping off the list. Netflix, after two beefcake Christmas originals (“Hot Frosty” then “The Merry Gentlemen”) at #1 on its domestic movie top 10, continues the holiday theme with “Our Little Secret.” This one stars Lindsay Lohan (who has a production deal with the streamer) and Ian Harding as a former couple unexpectedly spending the holiday together when it turns out they are currently dating each others’ siblings. Lindsay Lohan’s film is directed by Stephen Herek, whose credits include “Bill and Ted’s Excellent Adventure,” “The Mighty Ducks,” “Mr. This week’s VOD charts feature several films in top positions because of newly reduced rental prices. Top 10s iTunes ranks films daily by number of transactions, while Fandango at Home lists by revenue.
+Financial_Events: ['Fandango ranks by revenue accrued for a title, while iTunes goes by transactions', 'A number of new studio library titles were added, with “Fast” starring the ubiquitous Dwayne Johnson (the 2010 film is not part of the “Fast and Furious” franchise) #2 at the moment.\nTop 10s\niTunes ranks films daily by number of transactions, while Fandango at Home lists by revenue']

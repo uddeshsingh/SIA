@@ -1,0 +1,17 @@
+Authors: ['Elizabeth Weise']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-29 00:00:00
+Description: USA TODAY spoke with apple breeders, growers and researchers to find the secrets of one of America's most popular fruits.
+Filename: .json
+Image_Url: https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/29/USAT/75917835007-wa-64-apple-on-the-tree.jpg?crop=3000,1688,x-1,y2094&width=3000&height=1688&format=pjpg&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Fresh apples often aren't new
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Today's juicy Honeycrisps, sweet Fujis, crunchy SweeTangos or tart-ish Pink Ladies are the product of bewildering scientific and agricultural innovations. Orchards of today ‒ filled with short, trellised trees harvested by people on self-driving platforms or sometimes even robots ‒ sound like the stuff of science fiction. A trip to even an average American supermarket today is likely to turn up many new varieties, such as Cosmic Crisp, SnapDragon, Opal, Ruby Frost, SweeTango, Sonata, Jazz and Envy. “We have very low humidity because we’re irrigated desert,” said Kate Evans, a professor of horticulture in the Washington State University Tree Fruit Research & Extension Center. Perhaps the WA 64 variety, the most recent apple out of the breeding program at Washington State University's Wenatchee Tree Fruit Research and Extension Center.
+Financial_Events: []

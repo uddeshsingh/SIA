@@ -1,0 +1,17 @@
+Authors: ['Sweta Killa']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-30 14:00:00
+Description: Meta Platforms has a high chance of beating earnings estimates. It has also seen positive earnings estimate revision for the to-be-reported quarter.
+Filename: .json
+Image_Url: https://media.zenfs.com/en/zacks.com/e611779c44447da8f91a3a605a4ebc8e
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta Platforms Likely to Beat in Q3 Earnings: ETFs to Buy
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: META stock has delivered returns of 28.1% over the past three months and has outperformed the industry’s growth of 5.2%. Image Source: Zacks Investment Research This has put the focus on ETFs — iShares Global Comm Services ETF IXP, Fidelity MSCI Communication Services Index ETF FCOM, Vanguard Communication Services ETF VOX, Communication Services Select Sector SPDR Fund XLC and First Trust Dow Jones Internet Index Fund FDN — that have a substantial allocation to this social media giant. Meta Platforms saw a positive earnings estimate revision of a couple of cents over the past 30 days for the soon-to-be-reported quarter. Analysts increasing estimates right before earnings — with the most up-to-date information possible — is a good indicator for the stock. The current Zacks Consensus Estimate for the to-be-reported quarter indicates year-over-year earnings growth of 17.8%.
+Financial_Events: ['The solid trend is likely to continue given that Meta Platforms has a high chance of beating earnings estimates and has also seen positive earnings estimate revision for the to-be-reported quarter, which is generally a precursor to an earnings beat', 'This is not enough, as analysts also turned bullish ahead of the earnings (read: How to Play Mag 7 Earnings).\nImage Source: Zacks Investment Research\nThis has put the focus on ETFs — iShares Global Comm Services ETF IXP, Fidelity MSCI Communication Services Index ETF FCOM, Vanguard Communication Services ETF VOX, Communication Services Select Sector SPDR Fund XLC and First Trust Dow Jones Internet Index Fund FDN — that have a substantial allocation to this social media giant.\nEarnings Whispers\nMeta Platforms has an Earnings ESP of +2.83% and a Zacks Rank #2 (Buy)', 'According to our methodology, the combination of a positive Earnings ESP and a Zacks Rank #1 (Strong Buy), 2 or 3 (Hold) increases the chances of an earnings beat', 'You can uncover the best stocks to buy or sell before they’re reported with our Earnings ESP Filter.\nMeta Platforms saw a positive earnings estimate revision of a couple of cents over the past 30 days for the soon-to-be-reported quarter', 'Analysts increasing estimates right before earnings — with the most up-to-date information possible — is a good indicator for the stock', 'The current Zacks Consensus Estimate for the to-be-reported quarter indicates year-over-year earnings growth of 17.8%', 'Revenues are expected to increase 17.6%', 'Meta Platforms delivered an earnings surprise of 12.6%, on average, in the last four quarters.\nMeta Platforms, Inc', 'Quote\nThe social media giant beat the Zacks Consensus Estimate for earnings in the last seven consecutive quarters and the same for revenues in nine straight quarters', 'Of the 49 recommendations, 41 are Strong Buy and one is Buy (read: Big 5 Earnings Ahead: Are Single-Stock ETFs Set for Big Gains?).\nImage Source: Zacks Investment Research']

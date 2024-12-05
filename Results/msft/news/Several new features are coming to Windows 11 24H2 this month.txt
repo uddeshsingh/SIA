@@ -1,0 +1,17 @@
+Authors: ['Mikael Markander', 'Joel Lee']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: It'll be the last update for Windows 11 this year. Here are some of the changes you can expect.
+Filename: .json
+Image_Url: https://www.pcworld.com/wp-content/uploads/2024/12/Windows-11-logo-on-phone-sitting-on-laptop-keyboard-hero.jpg?quality=50&strip=all&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Several new features are coming to Windows 11 24H2 this month
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In about two weeks, we’re going to get December’s Patch Tuesday, which means it’ll be time for Microsoft to ship out a new collection of bug fixes and security updates for Windows 11. [ ] Among other things, the update will bring the ability to change the layout of the date and time in the taskbar, allowing the box to take up less space for users who prefer compact designs. Expect lots of new jump lists, especially for system apps in the Start menu. Details about connected storage devices will be clearer, making it easier to see what type of SSD or HDD is labeled and how it’s performing. Even though Windows 11 24H2 has been quite a mess ever since it started rolling out in October, we hope this final update of the year will be pretty good and address several issues.
+Financial_Events: []

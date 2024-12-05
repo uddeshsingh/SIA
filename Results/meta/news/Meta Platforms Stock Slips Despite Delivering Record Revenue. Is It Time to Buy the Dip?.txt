@@ -1,0 +1,17 @@
+Authors: ['Geoffrey Seiler, The Motley Fool', 'AOL Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-03 17:00:28
+Description: Investors continue to be nervous about the company's spending.
+Filename: .json
+Image_Url: https://media.zenfs.com/en/aol_the_motley_fool_392/cc8ba74b9cf7f109eda74ba86b8f9e2d
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta Platforms Stock Slips Despite Delivering Record Revenue. Is It Time to Buy the Dip?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: However, investor focus once again turned to spending, with the company indicating that it would continue to ramp up its capital expenditures (capex) to take advantage of the artificial intelligence (AI) opportunity it sees in front of it. Meta plans to add more features to help users stay up to date on topics they care about and believes it could become the next big social media app. Reality Labs has been a money drain on the company given the losses associated with it, while Meta plans to significantly ramp up capex next year in pursuit of AI growth. This is how Facebook and Instagram were built, and the company eventually was able to monetize its huge user bases through advertising to create the $1.5 trillion social media giant it is today. Meta should continue to benefit from the AI advancements it has made, which are leading to users spending more time on its platforms and more advertising dollars.
+Financial_Events: ['Meta Platforms (NASDAQ: META) shares slipped following its third-quarter results, despite the company posting record revenue in the quarter that topped expectations', "However, investor focus once again turned to spending, with the company indicating that it would continue to ramp up its capital expenditures (capex) to take advantage of the artificial intelligence (AI) opportunity it sees in front of it.\nLet's take a close look at Meta's Q3 earnings guidance and AI ambitions to see if investors should be buying this modest pullback in the stock.\nRecord results\nMeta turned in record Q3 results, as its revenue jumped 19% year over year to $40.6 billion", "Ad revenue climbed nearly 19% to $39.9 billion, while Reality Labs, which is home to Meta's metaverse and the augmented reality headsets, saw revenue jump by 29% year over year to $270 million", 'Earnings per share (EPS) surged 37% year over year to $6.03.\nFamily daily active people (DAP), which measures registered users who log in to one of its apps on a daily basis, increased 5% year over year to 3.29 billion on average in September', 'Family average revenue per person (ARPP), meanwhile, rose 12% to $12.29', 'With Instagram, meanwhile, it says Reels continues to see good traction, as it continues to promote original content.\nMeta forecasted fourth-quarter revenue to be between $45 billion and $48 billion', 'Whether Reality Labs will pay off is a question that is still very much in the air, but the spending on AI is seeing some strong early results.\nHowever, Meta has a long history of building out platforms without looking to initially profit from them', 'From a valuation standpoint, the company is attractively priced at a forward price-to-earnings (P/E) ratio of about 23 based on 2025 analyst estimates.\nMETA PE Ratio (Forward 1y) data by YCharts\nMeta has proven to be a long-term winner and with the company continuing to aggressively invest in its future, I think it should continue to be a winner in the future']

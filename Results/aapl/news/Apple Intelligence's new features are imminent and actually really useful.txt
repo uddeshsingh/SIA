@@ -1,0 +1,17 @@
+Authors: ["Britta O'Boyle"]
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:00:00
+Description: Apple Intelligence will bring more helpful Writing Tools with iOS 18.2 coming this month.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/W03mSo38oKFEOr_x0ahAgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/t3_620/91213c61add20d3a8aabd19531123e8f
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple Intelligence's new features are imminent and actually really useful
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Artificial intelligence has been the main buzzword of this year when it comes to phones, tablets and even smartwatches, but while Google and Samsung have fully embraced AI with their respective offerings, we’re still waiting for Apple. In iOS 18.1, the Writing Tools offered a way to rewrite an email or document into a more ‘Professional’ or ‘Friendly’ tone, and it could also proofread and summarise text anywhere you’d find a cursor too. But, with the next software update, ChatGPT gets baked into Siri, as 9to5Mac highlighted in a recent report, and that brings with it some extra tricks. Apple has said iOS 18.2 is due to be released to iPhone users in December, though the company hasn’t confirmed the exact date as yet. Along with the more advanced Writing Tools, iOS 18.2 is set to bring features like the Hearing Test for AirPods Pro 2 users.
+Financial_Events: []

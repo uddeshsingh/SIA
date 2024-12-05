@@ -1,0 +1,17 @@
+Authors: ['Kate Quiñones/CNA']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:01:53
+Description: The Holy See decree follows the dismissal of the former nuns in October by their superior after a series of disagreements with the local bishop.
+Filename: .json
+Image_Url: https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20241202151244_d420c70b6502b1957f610808d791efdb7b45ca276f797ed47e72ff9355b8fb95.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Vatican Suppresses Carmelite Monastery Following Long-Running Controversy
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Vatican has suppressed the Carmelite Monastery of the Most Holy Trinity in Arlington, Texas, following a long-running controversy that began with a diocesan investigation into allegations that the prioress had broken her vow of chastity. Their website continues to identify them as “Discalced Carmelite Nuns.” The controversy began last year when Bishop Olson launched an investigation into the monastery amid allegations that Reverend Mother Teresa Agnes Gerlach had conducted an affair with a priest. In April of this year, the Vatican declared that the Association of Christ the King in the United States of America would oversee the “government, discipline, studies, goods, rights, and privileges” of the Texas monastery. Mother Marie of the Incarnation, the president of the Association of Christ the King, who was appointed to oversee the women, announced in October that they were dismissed from the Order of Discalced Carmelites and “reverted to the lay state.” “I wish to repeat that since this sad series of events began to unfold in April 2023 when the former prioress self-reported to me her grave failure against the vow of chastity with a priest, I was obliged to begin the search, in accord with canon law, for both justice and mercy for all involved,” Bishop OIson said in his letter. The decree stated: “This dicastery exhorts all the members of the Discalced Carmelite Order, as well as the faithful of the Diocese of Fort Worth, to pray earnestly that the hearts of such as have erred may repent and return to the unity of the truth bestowed on the Church by Our Lord, Jesus Christ.”
+Financial_Events: []

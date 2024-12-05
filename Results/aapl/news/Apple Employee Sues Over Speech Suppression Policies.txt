@@ -1,0 +1,17 @@
+Authors: ['Sean Burch']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:39:32
+Description: Apple is being sued by an employee who claims the tech giant's "speech suppression policies" unlawfully restrict its workers from talking
+Filename: .json
+Image_Url: https://www.thewrap.com/wp-content/uploads/2024/06/Apple_IntelligenceGettyImages-2156422292_scaled.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple Employee Sues Over Speech Suppression Policies
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Apple is being sued by an employee who claims the tech giant’s “speech suppression policies” unlawfully restrict its workers from talking about their experience at the company. The same lawsuit, filed Monday in Santa Clara, California, calls Apple a “surveillance capitalist” that violates its employees’ privacy by tracking their personal iPhones and other devices. This is a real and ongoing concern.” The lawsuit was filed in state court by Apple employee Amar Bhakta, who has managed digital ads for the company since joining in 2020. We strongly disagree with these claims and believe they lack merit.” The tech company, headquartered in nearby Cupertino, California, has access to personal emails, photos, and health information, among other private details, thanks to its overreaching surveillance, the lawsuit added. “The cost to employees of switching to a non-Apple device for purely personal reasons is too high,” the lawsuit claims, pointing to Apple’s “monopoly power” on the U.S. smartphone market.
+Financial_Events: []

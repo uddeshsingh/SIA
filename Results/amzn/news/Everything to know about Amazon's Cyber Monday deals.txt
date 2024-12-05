@@ -1,0 +1,17 @@
+Authors: ['Amazon Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 05:30:05
+Description: Check out some of Amazon’s best Cyber Monday event deals, including savings of up to 30% off select Victoria’s Secret products and up to 35% on sets from LEGO.
+Filename: .json
+Image_Url: https://assets.aboutamazon.com/dims4/default/952b4c7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa2%2Fd6%2F8d30ddf44cfa864b3296584fa90d%2Faa-nov2024-cm-deals-announcement-hero-v1-2000x1125.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Everything to know about Amazon's Cyber Monday deals
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Amazon’s Cyber Monday event kicks off on November 30 at 12:01 a.m. PST and runs through December 2, offering millions of deals across more than 35 categories, including electronics, home, beauty, and fashion. Here’s how: Amazon’s new Virtual Holiday Shop allows customers to step into the festive 3D immersive experience, where over 300 of the season's most coveted gifts and toys await discovery, on display as if they were in a physical store. With cheerful music, holiday decorations, and fun animations, the shop inspires customers to discover unique items, browse premium products, and add all of their new favorite finds directly to their cart and then check out as usual. This holiday season, Amazon also makes it easy to shop and discover unique gifts from small businesses—including from Black-owned, woman-owned, military family-owned, Hispanic-owned, AANHPI-owned, and LGBTQIA-owned businesses. For instance, customers can save up to up to 50% on select candles from Hemlock Park, up to 30% off on men's apparel from True Classic, up to 20% on suitcases from Take OFF luggage, and up to 20% on beauty and makeup products from Saltair, Starface World, and Ami Cole.
+Financial_Events: []

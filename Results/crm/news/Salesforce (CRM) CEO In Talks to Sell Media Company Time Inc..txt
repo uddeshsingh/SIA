@@ -1,0 +1,17 @@
+Authors: ['TipRanks']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2019-05-09 00:00:00
+Description: According to multiple reports, Salesforce (CRM) co-founder and current CEO Marc Benioff is in talks to sell media company Time Inc. to privately held Greek company Antenna Group. Time Inc. today publishes its namesake news magazine. Benioff and his wife Lynne bought Time from Meredith Corp. in 2018 for $190 million. Early discussions with the Antenna Group are focused on a $150 million price tag for the magazine, though no deal has been reached. Founded in 1922, Time Inc. was once a mighty and influential media company that, at its peak, published more than 100 magazines, including Sports Illustrated, Life, People, and Entertainment Weekly. However, a series of mergers, sales, and closures over the years have reduced Time Inc.’s current holdings to only Time magazine. A Volatile Time For the Media Benioff and his wife own Time Inc. on their own. It is separate and apart from Salesforce, one of the world’s leading cloud computing companies. Benioff is reportedly looking to sell Time Inc. as the influence and value of traditional media assets wanes. A 24-hour news cycle, competition from social media, and free online news channels continues to result in diminishing subscribers and advertising dollars for media properties such as Time Inc. The Antenna Group has been on the hunt for distressed media companies in recent years. Antenna almost bought Vice Media in 2022 before that company declared bankruptcy. Salesforce was the top performing stock in the Dow Jones Industrial Average in October, rising 8% during the month. Is CRM Stock a Buy?Salesforce has a consensus Moderate Buy rating among 42 Wall Street analysts. That rating is based on 32 Buy, nine Hold, and one sell recommendations made in the last three months. The average CRM price target of $315.93 implies 7.01% upside from current levels. Read more analyst ratings on CRM stock
+Filename: .json
+Image_Url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Salesforce (CRM) CEO In Talks to Sell Media Company Time Inc.
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: According to multiple reports, Salesforce (CRM) co-founder and current CEO Marc Benioff is in talks to sell media company Time Inc. to privately held Greek company Antenna Group. Early discussions with the Antenna Group are focused on a $150 million price tag for the magazine, though no deal has been reached. Founded in 1922, Time Inc. was once a mighty and influential media company that, at its peak, published more than 100 magazines, including Sports Illustrated, Life, People, and Entertainment Weekly. Benioff is reportedly looking to sell Time Inc. as the influence and value of traditional media assets wanes. Salesforce was the top performing stock in the Dow Jones Industrial Average in October, rising 8% during the month.
+Financial_Events: ['However, a series of mergers, sales, and closures over the years have reduced Time Inc.’s current holdings to only Time magazine.\nA Volatile Time For the Media\nBenioff and his wife own Time Inc']

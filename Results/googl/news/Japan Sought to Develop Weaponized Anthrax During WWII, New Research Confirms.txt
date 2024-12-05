@@ -1,0 +1,17 @@
+Authors: ['Margherita Bassi', 'Ed Cara', 'Passant Rabie', 'Dua Rashid']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:10:37
+Description: A team of Chinese scientists has confirmed the presence of the anthrax-causing bacteria at the site of an infamous Second World War laboratory.
+Filename: .json
+Image_Url: https://gizmodo.com/app/uploads/2024/12/Harbin-bioweapon-facility-of-Unit-731.jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Japan Sought to Develop Weaponized Anthrax During WWII, New Research Confirms
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The extent of these tests is largely shrouded in mystery, but new evidence provides important support for historical accounts of this dark period in history. Their findings, published in a November 20 research letter in the journal Emerging Infectious Diseases, provide strong scientific support for historical accounts suggesting that, among other horrors, scientists at Unit 731 intentionally infected prisoners with pathogens to develop biological weapons. None of these additional samples had any traces of B. anthracis, leading the researchers to conclude that the bacteria in the previous positive samples likely did not originate from the natural local environment.Â However, they warned that similar remains at World War 2 sites might pose a risk to humans, animals, and nature if they are not dealt with properly. âBy analyzing the distribution of the positive samples, qualities of the isolated strain, and historical documents, we established a chain of evidence supporting the hypothesis that B. anthracis was misused in inhumane medical experiments and likely for developing biologic weapons during WWII,â the researchers wrote, adding that their âfindings highlight the role of microbial forensics in tracing biologic warfare and providing insights into biothreats.â Several factors have contributed to the lack of knowledge surrounding the inhumane Unit 731 medical experiments, including the fact that the Japanese executed all of the lab’s surviving victims at the end of the war. The United Statesâ response also played a determining role: U.S. authorities, including General Douglas MacArthur (who supervised the U.S.âs post-war occupation of Japan), granted the doctors immunity in exchange for the medical information they had learned from the experiments.
+Financial_Events: []

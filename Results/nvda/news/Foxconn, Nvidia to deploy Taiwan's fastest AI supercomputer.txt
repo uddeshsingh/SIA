@@ -1,0 +1,17 @@
+Authors: ['Gavin Bonshor']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-08 15:57:16
+Description: How does 90 exaFLOPS sound?
+Filename: .json
+Image_Url: https://regmedia.co.uk/2024/03/18/nvidia_blackwell_package.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Foxconn, Nvidia to deploy Taiwan's fastest AI supercomputer
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nvidia has confirmed it will be working with mega electronics contractor Foxconn to construct Taiwan's most powerful AI supercomputer. The system is expected to support a range of AI-driven applications across industries such as smart manufacturing, healthcare, robotics, and autonomous driving. The system will host over 2,000 GB200 NVL graphics cards designed for advanced AI model training. China reportedly tells local AI buyers to ignore Nvidia Inflection AI Enterprise offering ditches Nvidia GPUs for Intel's Gaudi 3 Two years after entering the graphics card game, Intel has nothing to show for it Patch now: Critical Nvidia bug allows container escape, complete host takeover Foxconn, the world's largest contract electronics manufacturer and iPhone supplier, has been diversifying into semiconductor packaging and EVs, among other sectors, and with the collab announced today will be hoping to reinforce Taiwan's growing importance in the global AI and HPC sectors. Industries ranging from robotics to medical research are poised to benefit from the new supercomputing resources, positioning Taiwan as an important player in the future of large-scale AI development, the company says.
+Financial_Events: []

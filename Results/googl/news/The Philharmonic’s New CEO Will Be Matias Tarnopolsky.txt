@@ -1,0 +1,17 @@
+Authors: ['Justin Davidson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:00:13
+Description: The New York Philharmonic’s new CEO will be Matias Tarnopolsky, the orchestra’s former artistic planner and, for the past six years, president of the Philadelphia Orchestra.
+Filename: .json
+Image_Url: https://pyxis.nymag.com/v1/imgs/124/921/fc11ed127206b16f66b0ecb4cb74f62551-matias-philharmonic.1x.rsocial.w1200.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The Philharmonic’s New CEO Will Be Matias Tarnopolsky
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Now Matias Tarnopolsky will take over as president and CEO on New Year’s Day, returning to an orchestra where he served as head of artistic planning nearly two decades ago. And the Philharmonic, still getting used to its radically rebuilt Geffen Hall, is looking forward to some disruption from inside, as the Venezuelan conductor Gustavo Dudamel gradually takes over the music director’s duties even before his tenure officially begins in 2026. They bonded instantly over a common language — as the London-bred child of Argentinian parents, Tarnopolsky grew up speaking Spanish at home. Long-interred resentments resurfaced, a new investigation was launched, and the two musicians accused of misconduct, Matthew Muckey and Liang Wang, were placed on leave — then sued the orchestra. The chief executive, Gary Ginstling, faced with a suddenly fractious institutional culture, abruptly quit last summer, just two years into his tenure.
+Financial_Events: []

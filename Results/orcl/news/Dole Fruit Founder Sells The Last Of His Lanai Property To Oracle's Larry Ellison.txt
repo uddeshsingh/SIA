@@ -1,0 +1,17 @@
+Authors: ['Jeff Vasishta']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 20:30:40
+Description: None
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2024/11/30/Aerial-View-Of-Lanai--Hawaii-Featuring-H.jpeg?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Dole Fruit Founder Sells The Last Of His Lanai Property To Oracle's Larry Ellison
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If there's proof that a diet rich in fruits and vegetables is the key to a long life, former Dole Food owner David Murdock, now 101 years old, is it. Murdock has been a pescatarian since 1985, eating a diet rich in fruits and vegetables, drinking several smoothies a day and, according to The New York Times, aims to live until 125. This Jeff Bezos-backed startup will allow you to become a landlord in just 10 minutes, with minimum investments as low as $100 for properties like the Byer House from Stranger Things. Despite his age, Murdock, a self-made billionaire, only used his Lanai residence as a vacation home, staying full-time in Lake Sherwood, Los Angeles. He started in the produce business relatively late in his career in 1985 when he bought Castle & Cooke, a Hawaii real-estate firm that owned Dole and most of Lanai.
+Financial_Events: ['The $700 profit allowed him to start a business as a property developer in Arizona']

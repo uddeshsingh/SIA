@@ -1,0 +1,17 @@
+Authors: ['None']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 10:05:00
+Description: Thank the GOP for making this nation honest. Due to their bowing to Donald Trump’s pressure, we are now no longer pretending not to be a fascist people.
+Filename: .json
+Image_Url: https://www.staradvertiser.com/wp-content/uploads/2024/11/web1_US-NEWS-SC-GOP-POLL-LV.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Letter: GOP shows America not afraid to elect a fascist
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Thank the GOP for making this nation honest. Due to their bowing to Donald Trump’s pressure, we are now no longer pretending not to be a fascist people. We reserve the right to edit for clarity and length. Include your name, address and daytime phone number. >> Mail: Letters to the Editor, Honolulu Star-Advertiser 7 Waterfront Plaza, 500 Ala Moana, Suite #7-500 Honolulu, HI 96813
+Financial_Events: []

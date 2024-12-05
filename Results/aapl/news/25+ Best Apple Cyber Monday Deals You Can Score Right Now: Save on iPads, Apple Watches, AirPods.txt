@@ -1,0 +1,17 @@
+Authors: ['Chris Reed']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 09:21:04
+Description: From iPads and MacBooks to AirPods and AirTags, these are all the best Apple deals still available for Cyber Monday.
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 25+ Best Apple Cyber Monday Deals You Can Score Right Now: Save on iPads, Apple Watches, AirPods
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If you’re in the market for a new pair of AirPods, an Apple Watch, an iPad, or even AirTags (for $72.99) to keep track of things you might lose, you can still save cash at retailers across the map. This year's baseline MacBook Air with an M3 chip is on sale at Amazon for $899 as of December 2 – it was as low as $849 during Black Friday, but this is still a solid discount off its retail price. However, if you need even more power for editing, creative work, or gaming, the brand-new 2024 MacBook Pro with M4 chip is also on sale for $1,474, almost as low as it was on Black Friday ($1,399). Powered by Apple’s M2 Pro chip with a 10-Core CPU, a 16-Core GPU, and a 16-Core Neural Engine, this tiny computer breezes through heavy tasks like video editing and much more. Personally, I'd rather have an up-front discount at the retailers listed above, but if you plan on shopping at the Apple Store in the near future, a gift card could be a fine option too.
+Financial_Events: []

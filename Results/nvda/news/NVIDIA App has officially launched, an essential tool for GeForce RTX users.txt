@@ -1,0 +1,17 @@
+Authors: ['Kosta Andreadis', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 08:00:04
+Description: The NVIDIA App is officially out of Beta, so here's five reasons why every GeForce RTX user and PC gamer should consider installing it.
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: NVIDIA App has officially launched, an essential tool for GeForce RTX users
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: It is a one-stop shop for all things GeForce RTX, serving as the latest place to update drivers, optimize games, change display settings, or install and access RTX apps like GeForce NOW, NVIDIA Broadcast, ChatRTX, and more. The full release includes several bug fixes and other tweaks but doesn't arrive with any significant new additions. As someone who has been using the NVIDIA App for some time, here's my list of features that make it a great addition to any GeForce RTX rig. Revamped NVIDIA Overlay The NVIDIA overlay has been redesigned with a faster, cleaner, and more powerful interface that gives you quick access to detailed performance metrics (that you can customize the look of), game recording and screenshot tool, gallery access, and more. The app also updates NVIDIA's ShadowPlay tech, so you can now record gameplay in 4K 120 FPS using the more efficient AV1 codec.
+Financial_Events: []

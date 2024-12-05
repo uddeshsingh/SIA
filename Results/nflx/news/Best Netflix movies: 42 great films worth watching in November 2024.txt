@@ -1,0 +1,17 @@
+Authors: ['Tom Power', 'Matthew Bolton', 'Amelia Schwanke', 'Axel Metz', 'Grace Morris', 'Lucy Buglass']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2022-02-21 15:57:08
+Description: These are the best Netflix movies to stream on the world's most popular streaming service.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/TaGyQzYWQeczSDHZaHX86F-1200-80.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Netflix movies: 42 great films worth watching in November 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Based on Erich Maria Remarque’s landmark novel of the same name (which was first adapted into a feature film in 1930), this award-winning German-language movie tells the story of a young German soldier (Felix Kammerer) whose naive expectations of fighting for his country are shattered by war’s harrowing reality. Shot entirely using stop-motion (in a manner akin to Netflix series The House), del Toro’s darker adaptation is set in 1930s Italy during Mussolini’s fascist regime and features a star-studded voice cast that includes Ewan McGregor, David Bradley, Tilda Swinton, Christoph Waltz and Cate Blanchett. Directed by Oscar-winning filmmaker Chris Williams (Moana, Big Hero Six), the movie follows Jacob Holland (voiced by The Boys’ Karl Urban), a celebrated sea monster hunter whose life is upended when a young girl, Maisie Brumble (newcomer Zaris-Angel Hator), stows away on his ship. • Watch The Sea Beast on Netflix now • Watch The Sea Beast's trailer on YouTube Spider-Man: Across the Spider-Verse Age rating: PG Runtime: 140 minutes Main cast: Shameik Moore, Hailee Steinfeld, Oscar Isaac, Jake Johnson, Luna Lauren Velez, Bryan Tyree Henry, Issa Rae, Daniel Kaluuya, and Jason Schwartzman Directors: Kemp Powers, Joaquin Dos Santos, and Justin K. Thompson RT score: 95% Recommended by Recommended by Tom Power As a spectacularly assembled animated superhero film, there are few better than it in the genre space right now than Spider-Man: Across the Spider-Verse – both from animation and storytelling perspectives. To discuss its plot at length is to spoil its biggest surprises, but here's a brief synopsis to give you a flavor of what to expect: "A series of eerie events thrusts an unlikely trio (Jamie Foxx, John Boyega, and Teyonah Parris) onto the trail of a nefarious government conspiracy in this pulpy mystery caper."
+Financial_Events: []

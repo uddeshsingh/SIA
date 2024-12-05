@@ -1,0 +1,17 @@
+Authors: ['Matt Ashare']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 11:43:37
+Description: The two providers launched the first of several planned Oracle Database@AWS deployments on Monday under limited preview.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/W21ZgZKuVHUbuxlGYEZuAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cio_dive_389/971d098c6958d7e0e7d088c200c22943
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle activates first AWS multicloud data integration
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The multicloud database solution is available in limited preview to customers in AWS's U.S. East region, Oracle said in an announcement. The two companies intend to expand the partnership to other regions after the first deployment reaches general availability next year, Leo Leung, group VP of Oracle Tech and OCI, told CIO Dive. “We've had mutual customers for much longer than the other providers.” The Azure and Google Cloud integrations encompass Oracle’s Exadata platform as well as automated database management services. “Certainly, the goal is to expand.” Obstacles to hybrid multicloud adoption are gradually eroding, as organizations level up data operations to fuel analytics, ML and generative AI capabilities. “This renewed focus on data management is integral to GenAI adoption,” Dave McCarthy, VP of cloud and edge infrastructure services at IDC,” said in an email.
+Financial_Events: []

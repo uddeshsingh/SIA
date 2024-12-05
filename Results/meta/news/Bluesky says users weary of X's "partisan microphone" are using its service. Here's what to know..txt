@@ -1,0 +1,17 @@
+Authors: ['Aimee Picchi']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:25:00
+Description: Bluesky has added millions of new subscribers in the last month as some users leave X. Here's what to know.
+Filename: .json
+Image_Url: https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/17/f7f770bf-43e0-4304-929c-5c7d20975895/thumbnail/1200x630/c1b70ba5225d9daa69ecd5e2413fbb7c/blueskymusk.jpg?v=e3aa8b4a58817620ee227c79202c9709
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Bluesky says users weary of X's "partisan microphone" are using its service. Here's what to know.
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: It's unusual for a new social media service to get a foothold in a marketplace entrenched by the likes of X (formerly Twitter), Instagram and TikTok which, dominate people's phones. Musk became one of the most viral voices on elections during the 2024 campaign, frequently sharing conspiratorial narratives while promoting President-elect Donald Trump, a CBS News investigation found. Bluesky resembles the "old Twitter" in terms of layout and content, wrote PCWorld tech writer Dave Parrack in a recent column. To be sure, Bluesky may never achieve the size of bigger social media networks, which advertisers flock to in order to reach much larger groups of users. As with other platforms, you can tag people on Bluesky by typing "@" before their username, you can like posts by tapping a heart icon, and use hashtags to highlight a theme.
+Financial_Events: ['Wang noted that Bluesky is focused on figuring out how to sustain its business, which will soon include new revenue streams from subscriptions and financial transactions.\n"We are launching subscriptions at the end of this year," Wang noted', "For instance, Meta, the owner of Facebook and Instagram, had more than 3 billion daily users across its apps in the most recent quarter, and booked almost $40 billion in revenue during that time.\nHow do you sign up for Bluesky?\nBluesky opened as an invitation-only platform in February 2023, but anyone can now sign up for the service.\nUser handles on the service are a little bit different than X or other social media networks because they end with the site's domain, .bsky.social"]

@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: mParticle Apple SDK. Contribute to mParticle/mparticle-apple-sdk development by creating an account on GitHub.
+Filename: .json
+Image_Url: https://opengraph.githubassets.com/bc2337a58146cfed8f4608d30c41dd6b77b7be9bf04fdf064d2db47f560e5ddd/mParticle/mparticle-apple-sdk
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: mParticle Apple SDK
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Like most app owners, you end up implementing and maintaining numerous SDKs ranging from analytics, attribution, push notification, remarketing, monetization, etc. We support an ever growing number of integrations with services and SDKs, including developer tools, analytics, attribution, messaging, advertising, and more. If your app targets iOS and tvOS in the same Xcode project, you need to configure the Podfile differently in order to use the SDK with multiple platforms. Enter the repository URL https://github.com/mParticle/mparticle-apple-sdk in the search box on the top right, choose mparticle-apple-sdk from the list of pacakges, and change "Dependency Rule" to "Up to Next Major Version". Kit CocoaPods Carthage Swift Package Manager Adjust ✓ ✓ ✓ Appboy ✓ ✓ ✓ Adobe ✓ ✓ AppsFlyer ✓ ✓ ✓ Appsee ✓ Apptentive ✓ ✓ Apptimize ✓ Apteligent ✓ Blueshift ✓ Branch Metrics ✓ ✓ Button ✓ ✓ CleverTap ✓ ✓ comScore ✓ Flurry ✓ Google Analytics for Firebase ✓ Instabot ✓ Iterable ✓ ✓ Kahuna ✓ Kochava ✓ ✓ Leanplum ✓ ✓ Localytics ✓ ✓ Optimizely ✓ ✓ OneTrust ✓ ✓ Pilgrim ✓ ✓ Primer ✓ ✓ Radar ✓ ✓ Responsys Reveal Mobile ✓ Singular ✓ Skyhook ✓ Taplytics ✓ Tune ✓ ✓ Urban Airship ✓ UserLeap ✓ ✓ Wootric ✓ The mParticle SDK is initialized by calling the startWithOptions method within the application:didFinishLaunchingWithOptions: delegate call.
+Financial_Events: []

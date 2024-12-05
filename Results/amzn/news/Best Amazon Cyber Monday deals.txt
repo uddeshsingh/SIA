@@ -1,0 +1,17 @@
+Authors: ['Nishka Dhawan']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:31:51
+Description: Amazon's Cyber Monday deals are here and there are a ton of discounts available on tech, home goods and beauty products.
+Filename: .json
+Image_Url: https://cdn.abcotvs.com/dip/images/15485356_bfdeals.jpg?w=1600
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Amazon Cyber Monday deals
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: As a participant in multiple affiliate marketing programs, Localish will earn a commission for certain purchases. See full disclaimer below* Amazon is known for having some of the biggest discounts during Cyber Monday and Cyber Monday, and it's the best time of the year to get any holiday shopping done. Find the best Amazon Cyber Monday deals below, including sales on tech, beauty, kitchen appliances and more. Best Amazon Cyber Monday deals Best tech deals - Beats Studio Pro for $159.99 (54% off) - SAMSUNG Galaxy Tab A9+ for $149.99 (32% off) - LG 65-Inch Class OLED evo G4 Series Smart TV for $2,296.99 (32% off) -Apple iPad Air 13-inch (M2) for $799.99 (11% off) - Tile by Life360 Starter Pack for $39.99 (20% off) Best home and kitchen deals - iRobot Roomba Combo for $209.99 (24% off) - Dyson Hot+Cool Fan for $279.99 (40% off) - CHEFMAN Multifunctional Digital Air Fryer for $79.99 (39% off) - Ninja BN401 Nutri Pro Compact Personal Blender for $59.99 (40% off) - KitchenAid Artisan Mixer for $329.95 (27% off) - Swiffer PowerMop for $19.94 (34% off) Best beauty deals - Covergirl Clean Fresh Yummy Gloss for $7.49 (42% off) - Philips Sonicare Electric Toothbrush for $59.96 (45% off) - Gentle Foaming Face Wash for $11.99 (82% off) Looking for more Cyber Monday deals? Prices and availability are subject to change from the date of publication.
+Financial_Events: []

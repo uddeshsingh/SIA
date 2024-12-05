@@ -1,0 +1,17 @@
+Authors: ['Ross Kelly']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-03 08:34:00
+Description: The move by Nvidia marks a strategic shift aimed at promoting CoWoS technology, analysts suggest
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/qpVQ8tDDq7srY5QsqWVctJ-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia has renamed its Blackwell Ultra product series - here’s why
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nvidia has rebranded its flagship Blackwell Ultra products, in what appears to be a strategic shift at the chipmaker aimed at promoting the B300 and GB300 lines, both of which leverage CoWoS-L technology. The chipmaker later shifted to the B300A series during the design process, however, which the market research firm suggested indicated a “weaker demand for downgraded GPUs than anticipated”. This shift in product strategy from Nvidia could have long-term implications, with TrendForce suggesting the move “reveals a clear pivot toward AI models that promise greater revenue in 2025”. With the Blackwell series beginning to gain widespread enterprise appeal, CoWoS demand is forecast to increase by around 10% year-on-year. “In light of recent changes, NVIDIA is likely to concentrate on supplying B300 and GB300 products to major North American CSPs—both leveraging CoWoS-L technology,” TrendForce said.
+Financial_Events: ['The chipmaker later shifted to the B300A series during the design process, however, which the market research firm suggested indicated a “weaker demand for downgraded GPUs than anticipated”.\nThis shift in product strategy from Nvidia could have long-term implications, with TrendForce suggesting the move “reveals a clear pivot toward AI models that promise greater revenue in 2025”.\n“The company is making significant investments in improving NVL rack solutions, assisting server system providers with performance optimization and liquid cooling for NVL72 systems,” analysis from TrendForce noted.\n“Companies like AWS and Meta are being urged to transition from NVL36 to NVL72.”\nNotably, shipment trends point toward Nvidia’s high-end GPU offerings surging in the year ahead, with overall shipment share anticipated to hit around 50% in 2024.\nThis, TrendForce said, marks a sizable 20% increase compared to the year prior - and it’s expected to continue']

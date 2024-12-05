@@ -1,0 +1,17 @@
+Authors: ['Kris Holt']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 13:20:18
+Description: Our pick for the best set-top streaming box is on sale in a Cyber Monday deal. At $79, the 2024 Roku Ultra is available for $20 off.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/6bx0jOc.aVjqM6nGi3xUEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/17d7b540-b0b0-11ef-bed7-c086a630f4dd
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon Cyber Monday deals discount the 2024 Roku Ultra to $79
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: There are a number of Cyber Monday deals on streaming devices, including the latest Roku Ultra. Other features include hands-free voice control and a lost remote finder function. The Roku Ultra is also compatible with Alexa, Google Assistant, Apple HomeKit and AirPlay. In case you need a new flatscreen to actually plug your Roku devices into, there are a ton of Cyber Monday deals on TVs as well. The prices of some TCL and Sony Bravia TVs have also dropped by hundreds of dollars for Cyber Monday.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Emma Aerin Becker', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:31:48
+Description: Chris Martin shares daughter Apple, 20, and son Moses, 18, with ex-wife Gwyneth Paltrow. Apple made her debutante debut at Le Bal des Débutantes in Paris on Nov. 30.
+Filename: .json
+Image_Url: https://people.com/thmb/QYomoF23VZani6Uht4V-jiPLLyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/apple-martin-chris-martin-120224-6ae58338800149279c02f0364f7a84c0.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Chris Martin and Daughter Apple Share a Slow Dance During Le Bal Debut
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: On Saturday, Nov. 30, the 20-year-old daughter of the Coldplay frontman, 47, and his ex-wife Gwyneth Paltrow, 52, made her society debut at the Le Bal des Débutantes in Paris. At the event, Chris and Apple were spotted sharing a slow dance in a sweet video from Paris Match. The third slide showed a snap seemingly featuring Martin and their son Moses, 18, as they sat on a bench outside with their backs toward the camera. The sweet photo was followed by a family picture of Paltrow, her mother Blythe Danner, and Moses in a white room with art pieces hanging behind them. The Iron Man alum wore a glittery sheer black gown from Valentino’s spring 2025 collection for the occasion.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Marla Jo Fisher', 'gqlshare']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:25:37
+Description: Yes, those photos with Santa are heart-warming keepsakes. If you don't want to empty out your wallet for photos of your family with the Big Guy himself, here are some places where you can take your own photos for free.
+Filename: .json
+Image_Url: https://www.ocregister.com/wp-content/uploads/2023/12/SantaChristmas2023-5.jpg?w=1024&h=757
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 17 places to get free photos with Santa in 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Now daily until Dec. 24 — Irvine and Rancho Cucamonga: Bass Pro Shops is hosting a Santa’s Wonderland inside its giant stores, including free photos with the big guy himself. Check out the store’s other holiday activities: basspro.com/shop/en/santas-wonderland Dec. 2, 9, 16, 23 — Long Beach: Selfies with Santa on Mondays from 4-6 p.m. at his sailboat, located near Van Leeuwen Ice Cream at the 2nd & PCH mall. 2ndandpch.com/portfolio/photos-with-santa-2/ Thursday, Dec. 5 — Valencia: Prosperitas Financial is holding its annual holiday open house from 5 to 8 p.m. that includes the chance to take your own photos with Santa and have a hot cocoa. shopriversideplaza.com/events/riverside-plaza-holiday-celebration-event Dec. 6-23 (Various dates) — Redlands: Meet Santa and the Grinch at Citrus Plaza and Mountain Grove food courts and take a free selfie. The event, in the parking lot near Hobby Lobby, includes photo opportunities with Santa, kids crafts, face painting and train rides.
+Financial_Events: []

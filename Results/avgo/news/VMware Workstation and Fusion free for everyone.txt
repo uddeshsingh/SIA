@@ -1,0 +1,17 @@
+Authors: ['Liam Proven']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-14 15:33:09
+Description: And yes, that does include commercial use in production
+Filename: .json
+Image_Url: https://regmedia.co.uk/2024/11/14/leonardo_ai_virtual_pcs.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: VMware Workstation and Fusion free for everyone
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Broadcom's announcement may be bad news for Oracle’s VirtualBox desktop hypervisor, but we doubt that Big Red will lose much sleep over it. Back then, the news caused quite a few people to head for the Broadcom Support Portal, the only source of legal downloads, leading blogger Matt Duggan to dub it The Worst Website In The Entire World. As these full-function versions are now freeware, Virtzilla is discontinuing its existing free offering, VMware Player, on all three host OSes. The Extension Pack provides some extra bells and whistles – such as encrypted virtual disks, connection to VMs over RDP, PXE boot, PCI passthrough, and so on. In recent years, full hardware-assisted virtualization is becoming common, generic functionality that most processor architectures include in some form.
+Financial_Events: []

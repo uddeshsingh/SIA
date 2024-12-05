@@ -1,0 +1,17 @@
+Authors: ['Kyle Wiggers', 'Frederic Lardinois']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-03 00:03:32
+Description: Amazon's re:invent 2024 conference returns to Las Vegas for a series of reveals and keynotes through December 6. AI is expected to be the focus of the event, but there's plenty more in store for Amazon Web Services users, which you can follow live below throughout the week.
+Filename: .json
+Image_Url: https://techcrunch.com/wp-content/uploads/2024/12/aws-reinvent-2024-logo.png?resize=1200,627
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: AWS re:Invent 2024: Live updates from Amazon's biggest event
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Amazon’s re:invent 2024 conference returns to Las Vegas for a series of reveals and keynotes through December 6. AI is expected to be the focus of the event, but there’s plenty more in store for Amazon Web Services users, which you can follow live below throughout the week.
+Financial_Events: []

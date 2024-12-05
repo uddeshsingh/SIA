@@ -1,0 +1,17 @@
+Authors: ['Ben Stockton']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 16:00:17
+Description: Thanks to AI-powerful graphics cards like the GeForce RTX 4090, Nvidia is now valued at over $3 trillion, beating Apple for the first time.
+Filename: .json
+Image_Url: https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/11/nvidia-most-valuable-company-crown.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia is now the world’s most valuable company, thanks to AI and RTX GPUs
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: With a valuation of $3.43 trillion, Nvidia is now worth more than any other company for the first time, thanks to the huge demand for its GPUs due to the rise of AI and its dominance in the gaming market. The best graphics cards out there are made by the company, with the most recent RTX 40-series helping to put the Nvidia GPU market share at 88%, with second-place AMD stuck with just 12% of the total. The recent success of OpenAI’s ChatGPT service has also fuelled both industry and consumer demand for the chips needed to both train and use AI models, which Nvidia helpfully provides. GPUs like the Nvidia GeForce RTX 4070 Super derive much of their competitive edge from their ability to tap into AI-enhanced graphics features. Technologies like Nvidia DLSS 3.0 use the AI-friendly tensor cores to help improve image quality and performance, as well as generate additional frames without needing the extra GPU power.
+Financial_Events: []

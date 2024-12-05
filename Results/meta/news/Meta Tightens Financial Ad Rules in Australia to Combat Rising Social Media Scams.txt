@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 21:26:26
+Description: Meta Platforms has introduced stricter ad regulations for financial products in Australia, aiming to curb scams. Advertisers must now verify credentials, including financial licenses, to ensure transparency and deter...
+Filename: .json
+Image_Url: https://f1.econotimes.com/2024/12/1y5n54v4lv_th_1024x0.jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta Tightens Financial Ad Rules in Australia to Combat Rising Social Media Scams
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Meta Platforms has introduced stricter ad regulations for financial products in Australia, aiming to curb scams. Meta Enforces Stricter Rules for Financial Advertisements in Australia According to Reuters, in an effort to curb scams on social media, Instagram and Facebook owner Meta Platforms announced on Monday that it had implemented more stringent regulations for advertising of financial products and services targeting Australians. Meta announced in October that it had removed 8,000 "celeb bait" adverts in an effort to combat the prevalence of investment frauds involving the exploitation of famous people's likenesses. "The introduction of financial advertiser verification is an important additional step towards protecting people in Australia from these sophisticated scammers," stated Will Easton, managing director of Meta ANZ-Insurance. In the run-up to the federal election in just over a year, the law was a component of a broad regulatory crackdown by Canberra, where politicians have voiced concerns about tech platforms based overseas infringing on the country's sovereignty.
+Financial_Events: []

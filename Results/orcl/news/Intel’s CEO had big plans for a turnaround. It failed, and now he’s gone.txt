@@ -1,0 +1,17 @@
+Authors: ['Greg McKenna', 'AOL Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:02:32
+Description: The company has missed out on the AI boom, and shares plunged more than 60% during Pat Gelsinger’s tenure.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/BYZqfjhnTGltlm5d94MVvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/96fdefc1d861963fb985c53ec41d8bf5
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel’s CEO had big plans for a turnaround. It failed, and now he’s gone
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Intel’s shares rose 5% Monday after the company announced the 63-year-old Gelsinger, who began his career at the chipmaker in 1979, had retired from the position of chief executive and also stepped down from the board of directors. The move amounted to a vote of no-confidence from investors who had initially cheered Gelsinger’s turnaround plan, which included clawing back market share from chip design companies like Nvidia and semiconductor manufacturers like TSMC. “While we have made significant progress in regaining manufacturing competitiveness and building the capabilities to be a world-class foundry, we know that we have much more work to do at the company and are committed to restoring investor confidence,” Frank Yeary, the independent chair of Intel’s board, said in a statement Monday. Intel, meanwhile, has fallen victim to the classic innovator’s dilemma not once but twice, as Fortune’s Jeremy Kahn recently explained, missing the boat on AI after remaining complacent during the smartphone revolution. Chief financial officer David Zinsner and Michelle Johnston Holthaus, a longtime Intel executive taking a new role as CEO of the company’s product group, will serve as co-CEOs as the board looks for a permanent replacement.
+Financial_Events: ['This fall, Intel’s market cap fell below the $100 billion threshold for the first time since 2012.\nView this interactive chart on Fortune.com\nThat happened after a disastrous earnings report in August sent the stock falling more than 25%, its worst day since 1974', 'After badly missing profit and revenue targets for Q2, the company announced it would suspend the dividend it had paid to shareholders for over three decades.\nIn response, the company also said it would cut its workforce by 15%, translating to roughly 15,000 jobs, as part of $10 billion in cost saving measures']

@@ -1,0 +1,17 @@
+Authors: ['MARIA DEUTSCHER', 'GUEST AUTHOR', 'ROBERT HOF', 'PAUL GILLIN']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-28 19:06:35
+Description: Meta reportedly developing custom search engine for its Meta AI chatbot - SiliconANGLE
+Filename: .json
+Image_Url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/Meta-1.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta reportedly developing custom search engine for its Meta AI chatbot
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The chatbot is powered by Llama, a series of large language models that Meta started developing early last year. With an in-house search engine, there is no risk of the company’s chatbot losing access to key information because of a change in a third-party component. Google and Microsoft provide developers with access to their respective search engines through paid application programming interfaces. Additionally, the company can align the feature set of its search engine with its chatbot’s requirements more closely that would be possible with an off-the-shelf service. Last week, the Facebook parent inked a deal with Reuters to make the news agency’s content available in the chatbot.
+Financial_Events: ['In September, Meta equipped Meta AI with the ability to answer questions about images uploaded by the user, a capability that ChatGPT has offered since 2023.\nOpenAI recently disclosed that 75% of its revenue, which is expected to reach $3.7 billion by year end, comes from consumer subscriptions']

@@ -1,0 +1,17 @@
+Authors: ['Vanessa Page']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2015-05-20 23:53:00
+Description: Amazon Fresh, a grocery delivery company, also offers modern solutions to in-store shopping by incorporating "Just Walk Out" technology.
+Filename: .json
+Image_Url: https://www.investopedia.com/thmb/nDYQNBeYoIRSXIEEG8HgcYZRyoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basket-690778_1280-5bfc380cc9e77c0051832d15.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How Amazon Fresh Works
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Customers can choose from thousands of items, including produce, meat, seafood, snacks, and household essentials. Pricing and Delivery Amazon Fresh is free for Prime members in eligible regions of the United States. Consumers can earn 5% back when paying with their Amazon Prime Rewards Visa Signature credit card. Amazon Fresh stores are located in California, Illinois, New York, Tennessee, Maryland, Pennsylvania, Virginia, Washington, and New Jersey. Most brick-and-mortar supermarket chains, like Stop & Shop and Giant Foods, offer e-commerce and delivery services to their customers in 2024.
+Financial_Events: ['With the acquisition of Whole Foods, Amazon Fresh offers organic, seasonal, and fresh goods']

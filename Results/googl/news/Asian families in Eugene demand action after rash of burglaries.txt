@@ -1,0 +1,17 @@
+Authors: ['Haleigh Kochanski']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 00:00:00
+Description: Amid a string of targeted burglaries tied to a multistate crime ring, Eugene’s Asian community is demanding action from law enforcement.
+Filename: .json
+Image_Url: https://www.desmoinesregister.com/gcdn/authoring/authoring-images/2024/11/29/NREG/76659045007-asian-crime-copy.jpg?crop=2085,1173,x0,y130&width=2085&height=1173&format=pjpg&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Asian families in Eugene demand action after rash of burglaries
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: On Nov. 9, a local Asian business owner watched in horror as their Ring security camera captured two individuals walking out of their family home near 39th Avenue and Willamette Street in Eugene. A string of burglaries across Oregon and a perceived lack of response from law enforcement agencies prompted a letter from members of the Asian community in Eugene demanding action from state and local officials. The safe, similar to that of the business owner in Eugene, contained thousands of dollars worth of heirloom jewelry, gold bars, watches, personal documents, deeds to the house, and more. In August, Komo News reported that prosecutors with the U.S. Attorney's Office in Seattle filed charges against two men accused of targeting Asian families throughout western Washington in a series of "violent home-invasion robberies and a murder in the summer of 2022." In October, CBS News reported burglary crews were targeting the homes of Asian business owners in Colorado stealing massive amounts of cash, jewelry, watches, and high-end purses in what one detective called an "epidemic."
+Financial_Events: []

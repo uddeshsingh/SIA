@@ -1,0 +1,17 @@
+Authors: ['Victoria Gayton', 'PAUL GILLIN', 'DUNCAN RILEY', 'MIKE WHEATLEY', 'GUEST AUTHOR', 'MARIA DEUTSCHER']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 14:16:29
+Description: Explore high-performance computing innovations from SC24, including scalable AI systems, modular solutions and advanced thermal management technologies.
+Filename: .json
+Image_Url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/12/Armando-Acosta-director-of-HPC-product-management-at-Dell-Technologies-SC24-November-2024.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: performance computing innovations: Key insights from SC24
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: We got together with Nvidia and Supermicro and tried to attack one of the core problems that is becoming the Achilles heel for data center growth, particularly for AI infrastructure.” AI’s exponential growth has pushed traditional computing frameworks to their limits, making clustered systems essential for scaling modern workloads, according to Hasan Siraj, head of software products, ecosystem, at Broadcom Inc. Networking advances reflect high-performance computing innovations, serving as the glue connecting these clusters, enabling efficient training of large language models while addressing latency and bandwidth challenges. “We’re building this really systematic software with AI workers that will save people material [and] time and ultimately drive topline revenue and getting enterprises to really high-fidelity solutions.” Here’s the complete video interview with Patrick Chiu, Nilesh Patel and Ian Finder: 2. These modular superclusters integrate over 1,000 GPUs in under 900 square feet, leveraging advanced liquid immersion cooling to optimize power usage and space, according to Broadcom’s Hasan Siraj; Vaishali Ghiya, executive officer of global ecosystems and partnerships at Denvr Dataworks; and Arun Narayanan, senior vice president of compute and networking product management at Dell. By ingesting, analyzing and delivering insights across diverse data types, platforms such as DataDirect Networks Inc. enhance AI performance and adapt to evolving business needs, according to Alex Bouzari, co-founder and chief executive officer of DDN. This integration unlocks the potential of AI operations while driving high-performance computing innovations that deliver both efficiency and business value, according to Scott Bils, vice president of product management, professional services, at Dell.
+Financial_Events: ['“We’re building this really systematic software with AI workers that will save people material [and] time and ultimately drive topline revenue and getting enterprises to really high-fidelity solutions.”\nHere’s the complete video interview with Patrick Chiu, Nilesh Patel and Ian Finder:\n2']

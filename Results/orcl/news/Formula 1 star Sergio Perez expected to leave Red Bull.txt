@@ -1,0 +1,17 @@
+Authors: ['Alex Butler']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 11:10:35
+Description: Mexican Formula 1 star Sergio Perez, one of the top drivers in the sport over the last five years, is expected to part with Oracle Red Bull Racing at the end of this season.
+Filename: .json
+Image_Url: https://cdnph.upi.com/sv/ph/og/upi/2311733152585/2024/1/c01b88b6400cbc4f70d78807d2cb3a9a/v1.5/Formula-1-star-Sergio-Perez-expected-to-leave-Red-Bull.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Formula 1 star Sergio Perez expected to leave Red Bull
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Dec. 2 (UPI) -- Mexican Formula 1 star Sergio Perez, one of the top drivers in the sport over the last five years, is expected to part with Oracle Red Bull Racing at the end of this season. Oracle Red Bull Racing principal Christian Horner told Sky Sports on Sunday that he would let Perez "come to his own conclusions" when asked if he would stay with the team beyond this season. The 2024 Abu Dhabi Grand Prix -- Formula 1's season finale -- will be held at 8 a.m. EST Sunday at Yas Marina Circuit. Advertisement "We're very much focused on really supporting him to the checkered flag in Abu Dhabi, and then obviously it's not an enjoyable situation for Checo, being in this position with speculation every week," Horner said. Second-place Lando Norris, third-place Charles Leclerc, fourth-place Oscar Piastri and fifth-place George Russell round out the Top 5 in the driver standings.
+Financial_Events: []

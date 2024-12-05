@@ -1,0 +1,17 @@
+Authors: ['Michelle Chapman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:04:14
+Description: Struggling chipmaker Intel says in a surprise announcement that CEO Pat Gelsinger has retired.
+Filename: .json
+Image_Url: https://gray-kpho-prod.gtv-cdn.com/resizer/v2/YIHWPJFLNREU5KYCGU6KEFTM5A.jpg?auth=9b09ad1ce882b52eec9696ab90c3a4c57daecf7e79d7a9d9a511e154df30fd8f&width=1200&height=600&smart=true
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel CEO announces retirement amid layoffs
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The company was once a dominant force in the semiconductor industry but has been eclipsed by rival Nvidia, which has cornered the market for chips that run artificial intelligence systems. Holthaus was appointed to the newly created position of CEO of Intel Products, which includes the client computing, data center and AI groups. Gelsinger announced plans in August to slash 15% of its huge workforce — or about 15,000 jobs — as part of cost-cutting efforts to to save $10 billion in 2025. Intel has benefited from tens of billions of dollars that the administration has pledged to support construction of U.S. chip foundries and reduce reliance on Asian suppliers, which Washington sees as a security weakness. The Biden administration had said it would give Intel up to $8.5 billion in federal funding for semiconductor plants around the country, but last week it trimmed that amount, according to three people familiar with the grant who spoke on the condition of anonymity.
+Financial_Events: []

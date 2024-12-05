@@ -1,0 +1,17 @@
+Authors: ['Fox News']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 03:01:27
+Description: After its Facebook account was suspended, the popular American gun manufacturer Smith & Wesson thanked Elon Musk and X for supporting free speech amid what it called ongoing attacks against the First and Second Amendments.
+Filename: .json
+Image_Url: https://nypost.com/wp-content/uploads/sites/2/2024/11/popular-gun-manufacturer-smith-wesson-94507138.jpg?quality=75&strip=all&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Gunmaker Smith & Wesson applauds Elon Musk's X after getting suspended by Facebook
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: After its Facebook account was suspended, the popular American gun manufacturer Smith & Wesson thanked Elon Musk and X for supporting free speech amid what it called ongoing attacks against the First and Second Amendments. Andy Stone, a representative for Facebook’s parent company, Meta, told Fox News Digital that the account had been suspended in error and that it has since been restored. Founded in 1852 in Norwich, Connecticut, today Smith & Wesson is based in Maryville, Tennessee, and is one of the most recognized gun brands in America, reporting $535.8 million in sales in the 2024 fiscal year. Although its account has since been reinstated, Smith & Wesson encouraged its 1.6 million Facebook followers and fans to “seek out platforms” that represent the “shared values” of free speech and the right to bear arms. “It is becoming clear that X is one of the last major bastions of 2A and Firearms content on social media,” said the group, adding, “the noose is slowly tightening everywhere else, seeking to squeeze us out entirely.” This article was edited to reflect new information from Meta about the Smith & Wesson account being suspended in error.
+Financial_Events: []

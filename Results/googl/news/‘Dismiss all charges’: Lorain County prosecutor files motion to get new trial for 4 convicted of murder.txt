@@ -1,0 +1,17 @@
+Authors: ['Noelle Haynes']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:23:09
+Description: The Lorain County prosecutor has filed a motion to grant four men convicted of murder a new trial.
+Filename: .json
+Image_Url: https://gray-woio-prod.gtv-cdn.com/resizer/v2/RSKC22OODNFXFO4PBXQ4OQVN4U.PNG?auth=b071f270bc09eb92d5274a07220ef1c83d095c4bbdc87fbe6a8d313643e7fd8d&width=1200&height=600&smart=true
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: ‘Dismiss all charges’: Lorain County prosecutor files motion to get new trial for 4 convicted of murder
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Cleveland, Davis, and the Edwards were all convicted in the 1991 murder of 22-year-old Marsha Blakely. It comes after a painstaking review of the evidence, testimony, and circumstances surrounding these convictions,” said Prosecutor Tomlinson. “This is not an effort to cast blame, but rather an acknowledgment that new evidence and deeper scrutiny demand action.” The letter said the testimony of a key witness in the case completely unraveled. “These recantations, combined with the complete lack of physical evidence linking the defendants to the crime, undermine the very foundation of these convictions,” said Prosecutor Tomlinson in the letter. Without it, there is no credible evidence linking these four men to the crime.” Prosecutor Tomlinson said the state did not meet it’s burden of proof in this case.
+Financial_Events: []

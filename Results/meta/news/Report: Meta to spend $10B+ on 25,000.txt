@@ -1,0 +1,17 @@
+Authors: ['MARIA DEUTSCHER', 'GUEST AUTHOR', 'ROBERT HOF', 'PAUL GILLIN', 'JAMES FARRELL']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 14:46:32
+Description: Report: Meta to spend $10B+ on 25,000-mile submarine internet cable - SiliconANGLE
+Filename: .json
+Image_Url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/11/Meta.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Report: Meta to spend $10B+ on 25,000
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The system is expected to take years to complete, partly because the specialized cable ships used in such projects are fully booked for the foreseeable future. As part of its previous submarine internet projects, Meta has developed several technologies to streamline the flow of data across the ocean floor. Using aluminum lowers both costs and voltage drop, a phenomenon that limits the amount of power delivered to a cable’s components and thereby constrains its bandwidth. One research project, which the company detailed in 2021, sought to boost the bandwidth of submarine cables by enhancing the way they implement repeaters. According to Marvell, the chip runs Meta-developed firmware that makes it easier for the social media giant’s engineers to fix technical issues.
+Financial_Events: []

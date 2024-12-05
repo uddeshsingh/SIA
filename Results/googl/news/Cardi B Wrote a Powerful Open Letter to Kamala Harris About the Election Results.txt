@@ -1,0 +1,17 @@
+Authors: ['Elizabeth Logan', 'Rachel Janfaza', 'Clara Strunck', 'Kathleen Walsh', 'Erin Coulehan', 'Danielle Sinay', 'Stephanie McNeal', 'Hannah Chenoweth', 'Emily Tannenbaum']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 13:48:16
+Description: After Donald Trump won re-election, rapper Cardi B posted a statement to Instagram about the Harris campaign.
+Filename: .json
+Image_Url: https://media.glamour.com/photos/672bb559691ed39553f2f0c4/16:9/w_1280,c_limit/kamala%20cardi.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Cardi B Wrote a Powerful Open Letter to Kamala Harris About the Election Results
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Despite losing the presidential election, Vice President Kamala Harris hasn’t lost the confidence of many of her supporters, rapper Cardi B among them. The “Bodak Yellow” singer posted a powerful open letter to Harris on Instagram shortly after the race was called for former/future President Trump. Harris did fight an uphill battle, inheriting the nomination with just months before Election Day after President Biden dropped out of the race. “I never thought I would see the day that a woman of color would be running for the President of the United States,” she added, praising Harris because “you have shown me, showed my daughters and women across the country that anything is possible.” Cardi B has three kids with Migos rapper Offset, two of whom are girls. The comments on the post…do not pass the vibe check, and while everyone is entitled to their opinion, I would simply remind those who question Cardi B’s ability to understand politics that she is, actually, a bit of a presidential history buff.
+Financial_Events: []

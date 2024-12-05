@@ -1,0 +1,17 @@
+Authors: ['Kanika Gogia']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 12:48:54
+Description: The Amazon Black Friday sale brings an amazing discount on the Keychron K3 Version 2 bringing down the price by $25.
+Filename: .json
+Image_Url: https://beebom.com/wp-content/uploads/2024/11/Keychron-Mechanical-Keyboard-Black-Friday-Deal.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: This Black Friday Deal on Keychron Mechanical Keyboards Is Too Good to Be True
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: As deals continue to pour in, we’ve spotted a fantastic offer on the popular Keychron K3 that deserves your attention. If you’re in the market for a mechanical keyboard, don’t miss this Black Friday deal on the Keychron K3 Version 2, which knocks down the price by 30%. Normally, the Keychron K3 version 2 is available at $83.99, but the Amazon Black Friday sale currently offers you this mechanical keyboard at $58.99, that’s a nice $25 saving right away. The Keychron K3 version is a 75% layout ultra-slim mechanical 84-key keyboard that delivers a tactile typing experience and boosts your productivity. With a reinforced aluminium body, Keychron K3 is one of the thinnest and most lightweight wireless mechanical keyboards you can find today.
+Financial_Events: []

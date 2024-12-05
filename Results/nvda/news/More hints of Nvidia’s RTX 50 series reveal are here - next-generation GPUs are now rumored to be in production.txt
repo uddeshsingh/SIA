@@ -1,0 +1,17 @@
+Authors: ['Isaiah Williams']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 22:34:06
+Description: Watch this space, Nvidia fans…
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/bCyFyUamGN9VWFEWGaN6EZ-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: More hints of Nvidia’s RTX 50 series reveal are here - next-generation GPUs are now rumored to be in production
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Now, if a new rumor holds any truth, Team Green’s production of RTX 5000 series GPUs could already be underway. While this doesn’t mean Nvidia’s current-gen GPUs have been officially discontinued, the post claims that there is an ongoing transition to the next-gen GPUs within Nvidia’s main production line - the 4000 series is reportedly within its ‘final stage of inventory clearance’, as Team Green’s AD106 chip production line (which powers the RTX 4060) has halted entirely. Considering the raw power of the RTX 4090 and 4080, it wouldn’t be surprising to see scalping become a prominent issue once again - it may take a while for stock to run out, but scalpers will always be quick to act (AMD’s Ryzen 9800X3D CPU is the latest victim). Third-party AIC (Add-in-Card) brands that have partnered with Nvidia to manufacture RTX cards could see a decrease in supply for the 4000 series leading into 2025 - this is already evident over at Team Green’s key rival, AMD, with its flagship GPU (the Radeon RX 7900 XTX) now heavily discounted or sold as refurbished at multiple retailers in the UK, like eBuyer. If Nvidia’s new GPUs are set to launch earlier than we anticipated, there’s no better time than now to make a move on the current-gen cards while they are still available - after all, if you pick up an RTX 4000 GPU now, it’ll still last you for years to come.
+Financial_Events: []

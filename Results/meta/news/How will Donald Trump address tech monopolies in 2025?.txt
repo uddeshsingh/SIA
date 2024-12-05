@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 14:17:51
+Description: President-elect Donald Trump has hinted at significant policy changes aimed at tackling tech monopolies once he returns to the White House in 2025. These proposals, aimed at breaking up what Trump has previously called...
+Filename: .json
+Image_Url: https://f1.econotimes.com/2024/12/3uc9i5ie7z_th_1024x0.jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How will Donald Trump address tech monopolies in 2025?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: These proposals, aimed at breaking up what Trump has previously called “dangerous monopolies,” could mark one of the most aggressive federal approaches to regulating the technology sector in recent history. Throughout his campaign, Trump criticized major tech companies for wielding “unchecked power” over free speech, commerce, and data. Experts believe his administration could pursue strategies such as strengthening antitrust laws, dismantling monopolistic practices, and ensuring greater regulatory oversight of tech giants. These include: Antitrust Actions Renewed efforts could be directed at dismantling monopolies through legal challenges, similar to past federal cases against Microsoft. Breakup of Vertical Mergers Trump may support the separation of companies that own multiple platforms and services, such as Amazon’s control over both retail and cloud computing.
+Financial_Events: ['His plans could involve mandating greater transparency around content moderation policies.\nData Privacy Laws\nEnhancing federal oversight over user data practices is likely to be a major focus, potentially imposing stricter regulations on how companies collect, store, and share personal information.\nBreakup of Vertical Mergers\nTrump may support the separation of companies that own multiple platforms and services, such as Amazon’s control over both retail and cloud computing.\nNetizens Debate Trump’s Big Tech Agenda\nThe announcement of Trump’s intent to address Big Tech has divided social media users']

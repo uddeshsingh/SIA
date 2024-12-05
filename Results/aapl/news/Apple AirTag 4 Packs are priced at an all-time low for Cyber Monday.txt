@@ -1,0 +1,17 @@
+Authors: ['Mashable']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:19:39
+Description: The Apple AirTag 4 Pack is available for $69.99 on Cyber Monday, its lowest price ever. Get it now and save $29.01.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/mQbd6i7gm2Q.2UALNhcRLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mashable_articles_863/5a7d258c456c0e2d9f966d4bbe8e5f03
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple AirTag 4 Packs are priced at an all-time low for Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: SEE ALSO: A bunch of new Apple deals just dropped for Cyber Monday Simple to connect and precise to track, AirTags will lead you right to them. AirTags emit a BlueTooth signal that can be picked up and transmitted through the Apple network. With millions of Apple devices around the world, they would have to go quite far afield indeed to lose contact with the network. Don’t miss Cyber Monday and your chance to get an Apple AirTag 4 Pack for $69.99 and save $29.01. Place AirTags in your luggage so that you don’t lose it while you travel, or leave one in your car so you never forget what block you parked on.
+Financial_Events: []

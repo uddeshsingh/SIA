@@ -1,0 +1,17 @@
+Authors: ['Frank Ziemann', 'Joel Lee']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 00:00:00
+Description: Close to a hundred issues have been addressed in November's Patch Tuesday, including six zero-day vulnerabilities in Windows.
+Filename: .json
+Image_Url: https://www.pcworld.com/wp-content/uploads/2024/11/WindowsUpdate.jpg?quality=50&strip=all&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Microsoft fixes dozens of security flaws in Windows and Office
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: [ ] Microsoft doesn’t offer any details on these vulnerabilities in the Security Update Guide, but fortunately Dustin Childs covers it all in a much clearer way on the Zero Day Initiative blog, always with an eye for admins who manage corporate networks. On top of all this, Microsoft has released a new version of the Windows Malicious Software Removal Tool, which you can use to find malware threats on your system and reverse any damage they’ve caused. Critical Windows security vulnerabilities According to Microsoft, there are already attacks in the wild on two Windows security vulnerabilities: CVE-2024-43451 is a spoofing gap in the old MSHTML platform that allows an attacker to log in as the user, and CVE-2024-49039 allows malicious code to break out of an app container and cause at least limited damage. The eighth Office vulnerability is an SFB (Security Feature Bypass) vulnerability that affects Word, allowing the protected Office view to be bypassed with a specially prepared Word document. In most cases, an attack would require a vulnerable system to be connected to a prepared database, which is unlikely to happen.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['DAMIAN J. TROISE and ALEX VEIGA THE ASSOCIATED PRESS', 'DAMIAN J. TROISE']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-28 01:43:00
+Description: Technology stocks helped pull stocks lower on Wall Street Wednesday, handing the market its first loss in more than a week.
+Filename: .json
+Image_Url: https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/208798818_208798084-5843191a02294cdea9d2ca8945ac5fd2_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Losses for Big Tech dampen Wall Street indexes
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The U.S. economy expanded at a healthy 2.8% annual pace from July through September, according to the Commerce Department, leaving its original estimate of third-quarter growth unchanged. Shares of department store operator Nordstrom fell 8.1% after warning investors about a trend toward weakening sales that started in late October. The central bank started raising its benchmark interest rate from near-zero in early 2022 to a two-decade high by the middle of 2023 and held it there in order to tame inflation. "Today's data shouldn't change views of the likely path for disinflation, however bumpy," said David Alcaly, lead macroeconomic strategist at Lazard Asset Management. President-elect Donald Trump has said he plans to impose sweeping new tariffs on Mexico, Canada and China when he takes office in January.
+Financial_Events: ['Microsoft shares fell 1.2% and Broadcom finished 3.1% lower.\nSeveral personal computer makers also helped pull the market lower following their latest earnings reports.\nHP shares sank 11.4% after giving investors a weaker-than-expected earnings forecast for its current quarter', "Dell stock slid 12.2% after its latest quarterly revenue fell short of Wall Street forecasts.\nGains for financial and health care companies helped temper the market's losses", "consumers improved in November, but not by as much as economists expected.\nConsumers have been driving economic growth, but the latest round of earnings reports from retailers shows a mixed and more cautious picture.\nShares of department store operator Nordstrom fell 8.1% after warning investors about a trend toward weakening sales that started in late October.\nClothing retailer Urban Outfitters jumped 18.3% after beating analysts' third-quarter financial forecasts"]

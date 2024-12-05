@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 13:35:00
+Description: None
+Filename: .json
+Image_Url: https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle founder Larry Ellison's billions helped shape the NIL deal that flipped a top football recruit to Michigan from LSU
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Michigan collective was quick to thank Larry Ellison and wife Jolin, describing them as "instrumental in making this happen by providing Champions Circle with invaluable guidance and financial resources." A college or university "cannot directly pay the athlete for playing sports; the money must come from outside sources that want to use the player's NIL for marketing," Brown added. Many student-athletes had for decades lamented rules that barred them from seeking any form of financial payment while the games they played in generated millions of dollars - especially in football and basketball. Reports surrounding athletes including Cam Newton and Deandre Ayton detailed alleged arrangements under which funds, prior to the institution of the NCAA's NIL policy, were funneled to the players while still in college. "This trend will persist moving forward," Brandon Copeland, an NFL veteran who co-founded Athletes.org, a nonprofit aimed at giving financial and other benefits to athletes, told MarketWatch.
+Financial_Events: ['And some say this could become a trend.\n"In my opinion, more and more ultrahigh-net-worth individuals will continue to support their alma maters as they always have, just in a different way," Brown said.\n"This trend will persist moving forward," Brandon Copeland, an NFL veteran who co-founded Athletes.org, a nonprofit aimed at giving financial and other benefits to athletes, told MarketWatch']

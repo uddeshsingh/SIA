@@ -1,0 +1,17 @@
+Authors: ['Tom Warren']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-07 14:00:00
+Description: Nvidia is adding playtime caps to GeForce Now. The Priority membership is also changing to Performance with 1440p and ultrawide support.
+Filename: .json
+Image_Url: https://cdn.vox-cdn.com/thumbor/bQCZ7uwkhFn0r8is_Y0rfz4J4hE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25343231/STK083_NVIDIA_C.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia to cap game streaming hours on GeForce Now instead of raising fees
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nvidia is also introducing a 100-hour monthly playtime cap for new Performance or Ultimate GeForce Now members starting on January 1st, 2025. That works out to around three hours of usage every day of the month, and Nvidia says it’s putting the cap in place to avoid increasing membership prices “in the foreseeable future.” “This allows GeForce Now to continue to provide unparalleled quality and speed — as well as short to no queue times — for all paid members, without increasing membership fees,” says Nvidia in a blog post. “This change will affect less than 6 percent of members.” While this cap will only initially impact new GeForce Now members, most active paid subscribers as of the end of this year will still lose their unlimited playtime on January 1st, 2026. Even then, “Founders can upgrade to Ultimate and return to their prior Founders benefits at any time without penalty, as long as there is no lapse in their payments.” GeForce Now subscribers will also be able to carry over 15 hours of unused time automatically to the next month, but if you hit the 100-hour cap, then you’ll need to purchase additional playtime or play using the Basic rigs for the remainder of the month. Correction, November 7th: An earlier version of this story incorrectly stated that all GeForce Now subscribers would get the monthly cap.
+Financial_Events: []

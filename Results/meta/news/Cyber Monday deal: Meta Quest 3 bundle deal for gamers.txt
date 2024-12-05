@@ -1,0 +1,17 @@
+Authors: ['Mashable']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 11:48:58
+Description: Meta Quest 3 128GB is $299 at Amazon for Cyber Monday, now with 'Batman: Arkham Shadow' and 3 months of Meta Quest+.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/DiZThj6yfWHKuXxct7eCZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mashable_articles_863/f3779840526533acd54fd17960d17e8d
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Cyber Monday deal: Meta Quest 3 bundle deal for gamers
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: But today only, Amazon has boosted its digital credit offer to $100 (up from the usual $70), with the bundle still including Batman: Arkham Shadow and a three-month trial of Meta Quest+ (a $70 combined value). From the usual VR gaming offerings to streaming your desktop PC onto massive virtual monitors, this is the digital place to be in 2024. Its multitasking features allow users to surf the web, watch YouTube, or message friends simultaneously while keeping their surroundings in view. Transform any room into your personal cinema with its vibrant virtual screen and support for USB-C, Bluetooth, and 3.5mm headphones. Parental controls, multi-user support, and tools for sharing content with everyone in the house make Meta Quest 3 a solid fit for any family member.
+Financial_Events: []

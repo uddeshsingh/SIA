@@ -1,0 +1,17 @@
+Authors: ['accesswdun.com', 'the-associated-press']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:52:00
+Description: The Australian Parliament has passed a social media ban for young children in a world-first law
+Filename: .json
+Image_Url: https://7b1de02a7bcf9c1df487-6849f9022b05f72b83236695aa4e9a0a.ssl.cf2.rackcdn.com/uploads/sliders/2024/29/hardy-update-103124.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Australian Parliament bans social media ban for under-1...
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “The social media ban legislation has been released and passed within a week and, as a result, no one can confidently explain how it will work in practice – the community and platforms are in the dark about what exactly is required of them,” DIGI managing director Sunita Bose said. Sen. David Shoebridge, from the minority Greens party, said mental health experts agreed that the ban could dangerously isolate many children who used social media to find support. “The core focus of this legislation is simple: It demands that social media companies take reasonable steps to identify and remove underage users from their platforms,” Kovacic told the Senate. The platforms had complained that the law would be unworkable and had urged the Senate to delay the vote until at least June 2025 when a government-commissioned evaluation of age assurance technologies will report on how young children could be excluded. Criticisms include that the legislation was rushed through Parliament without adequate scrutiny, is ineffective, poses privacy risks for all users, and undermines the authority of parents to make decisions for their children.
+Financial_Events: ['“The core focus of this legislation is simple: It demands that social media companies take reasonable steps to identify and remove underage users from their platforms,” Kovacic told the Senate.\n“This is a responsibility these companies should have been fulfilling long ago, but for too long they have shirked these responsibilities in favor of profit,” she added.\nOnline safety campaigner Sonya Ryan, whose 15-year-old daughter Carly was murdered by a 50-year-old pedophile who pretended to be a teenager online, described the Senate vote as a “monumental moment in protecting our children from horrendous harms online.”\n“It’s too late for my daughter, Carly, and the many other children who have suffered terribly and those who have lost their lives in Australia, but let us stand together on their behalf and embrace this together,” she said.\nWayne Holdsworth, whose teenage son Mac took his own life after falling victim to an online sextortion scam, had advocated for the age restriction and took pride in its passage.\n“I have always been a proud Australian, but for me subsequent to today’s Senate decision, I am bursting with pride,” Holdsworth said.\nChristopher Stone, executive director of Suicide Prevention Australia, the governing body for the suicide prevention sector, said the legislation failed to consider positive aspects of social media in supporting young people’s mental health and sense of connection.\n“The government is running blindfolded into a brick wall by rushing this legislation']

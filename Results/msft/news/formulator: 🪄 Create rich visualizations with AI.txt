@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: 🪄 Create rich visualizations with AI . Contribute to microsoft/data-formulator development by creating an account on GitHub.
+Filename: .json
+Image_Url: https://opengraph.githubassets.com/bbd84f2b59b528885e2a6ed536a0fea028429c15e445370a6b2f1335fdc1c5dc/microsoft/data-formulator
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: formulator: 🪄 Create rich visualizations with AI
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Data Formulator is an AI-powered tool for analysts to iteratively create rich visualizations. Unlike most chat-based AI tools where users need to describe everything in natural language, Data Formulator combines user interface interactions (UI) and natural language (NL) inputs for easier interaction. This blended approach makes it easier for users to describe their chart designs while delegating data transformation to AI. Once you’ve completed the setup using either option, follow these steps to start using Data Formulator: Provide OpenAI keys and select a model (GPT-4o suggested) and choose a dataset. When you submit a pull request, a CLA-bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., label, comment).
+Financial_Events: []

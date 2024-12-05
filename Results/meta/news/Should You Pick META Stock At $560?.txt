@@ -1,0 +1,17 @@
+Authors: ['Trefis Team']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 23:00:01
+Description: Meta stock (NASDAQ: META) has seen a 3% fall in a week, while it’s up around 60% this year.
+Filename: .json
+Image_Url: https://blogs-images.forbes.com/greatspeculations/files/2014/07/Trefis-Team_avatar_1404395763-400x400.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Should You Pick META Stock At $560?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Not only did the company post higher revenues, its operating margin expanded to 43%, up around 300 bps y-o-y. A rise in valuation multiple for META makes sense given the solid advertising growth lately. However, continued aggressive investments into AI also poses a slight risk if it would eventually provide a meaningful boost to the company’s earnings growth. Although META stock has seen a 2x rise since 2021, the increase has been far from consistent, with annual returns being considerably more volatile than the S&P 500. In contrast, the Trefis High Quality Portfolio, with a collection of 30 stocks, is considerably less volatile.
+Financial_Events: ['Also, look at what’s happening with Google stock.\nHow Did Meta Fare In Q3?\nMeta Platforms’ revenues of $40.6 billion in Q3 reflected a 19% y-o-y rise, driven by a 7% rise in ad impressions and an 11% growth in average price per ad', 'Most of the company’s revenue came from ad sales on Facebook, Instagram, Threads, and WhatsApp', 'The company plans to use AI to generate more content.\nNot only did the company post higher revenues, its operating margin expanded to 43%, up around 300 bps y-o-y', 'Higher revenues and margin expansion resulted in earnings of $6.03 per share, up 37% y-o-y', 'Looking forward, Meta expects its Q4 revenue to be in the range of $45 billion to $48 billion.\nWhat didn’t sit well with the investors was the company’s hike in capital spending guidance to $38 billion to $40 billion and higher investments in 2025 as well', 'At $560, META stock is already trading at 25x expected earnings of $22.65 in 2024, compared to the stock’s average P/E ratio of 17x over the last three years', 'However, continued aggressive investments into AI also poses a slight risk if it would eventually provide a meaningful boost to the company’s earnings growth']

@@ -1,0 +1,17 @@
+Authors: ['Shannon McDonagh']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 13:31:43
+Description: Market reactions from Black Friday weekend as retailers like Amazon win big.
+Filename: .json
+Image_Url: https://d.newsweek.com/en/full/2534225/black-friday-weekend-financial-report.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Wall Street Starts December Near Record Highs as Tech and Retail Lead Gains
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Super Micro Computer led the market's upward momentum, with its stock soaring 24.2 percent after an internal investigation cleared the company of fraud allegations. Intel has faced pressure to regain its footing after losing its spot in the Dow Jones Industrial Average to Nvidia, a beneficiary of Wall Street's future-driven rally. On the flip side, automaker Stellantis faced sharp losses, with its stock tumbling 6.3 percent after CEO Carlos Tavares announced his departure. Key labor market reports are set to shape the Federal Reserve's monetary policy as economists anticipate an uptick in November hiring after October's slow growth due to hurricanes and strikes. "We now find ourselves in the middle of this Goldilocks zone, where economic health supports earnings growth while remaining weak enough to justify potential Fed rate cuts," said Mark Hackett, chief of investment research at Nationwide.
+Financial_Events: ['manufacturing showed contraction for the month, albeit less severe than expected.\nKey labor market reports are set to shape the Federal Reserve\'s monetary policy as economists anticipate an uptick in November hiring after October\'s slow growth due to hurricanes and strikes.\n"We now find ourselves in the middle of this Goldilocks zone, where economic health supports earnings growth while remaining weak enough to justify potential Fed rate cuts," said Mark Hackett, chief of investment research at Nationwide.\nGlobally, Chinese manufacturing strength lifted Asian markets, with Shanghai and Hong Kong indexes rising 1.1 percent and 0.7 percent, respectively']

@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets
+Filename: .json
+Image_Url: https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/RT_TwitterCard_2018.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Movies on Netflix (2024)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Back Signing in as username@email User 8 or more characters with a number and a lowercase letter. No spaces.
+Financial_Events: []

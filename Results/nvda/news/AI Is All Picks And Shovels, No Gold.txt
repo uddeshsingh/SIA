@@ -1,0 +1,17 @@
+Authors: ['Peter Andersen']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:53:57
+Description: The dark side of AI spending that no one wants to hear about. While riding the AI wave has been exciting, it may be time to consider stepping off the surfboard.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/674e1d176ad084ae47f12057/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: AI Is All Picks And Shovels, No Gold
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: From IBM’s Watson to ChatGPT’s ability to mimic human conversation, we’ve come a long way in “narrow AI” advancements. Last year, two paths emerged: bet on the builders (companies creating AI products) or the suppliers (the “pick and shovel” providers). Mark Twain famously quipped, “When everyone is looking for gold, it’s a good time to be in the pick and shovel business.” Nvidia, as a supplier of GPUs, has become a cornerstone of AI infrastructure. This is little-followed Australian company is using off-the-shelf components to create brain-inspired systems (neuromorphic computing) that are dramatically more efficient—and much cheaper. AI-related stocks are riding high, but a large selloff could be on the horizon as the Great Enlightenment and Better Mousetrap gain momentum.
+Financial_Events: ['Here are some of my concerns:\nCircus-like atmosphere around NVDA’s earnings announcements: Countdown clocks, near continuous coverage the day before earnings, and general analysts’ positive coverage of NVDA are all at the highest possible level.\nEntire nuclear power plants dedicated to AI only', 'Am I the only one that thinks this is excessive? For example, Google will use nuclear reactors to power its AI centers—for what? To have a more analytic answer to “would you like fries with that?” So far, we can only speculate on the benefits.\nCEO Jensen Huang’s growing media halo: The media has crowned him the “Godfather of AI” with Nvdia’s “flawless” earnings results', 'Any investment can be made to appear cheap on a forward price/earnings (P/E), price/sales (P/S) or P/E to growth rate: just inflate the forward sales or earnings expectations', 'AI-related stocks are riding high, but a large selloff could be on the horizon as the Great Enlightenment and Better Mousetrap gain momentum.\nWhile riding the AI wave has been exciting and profitable, it may be time to consider stepping off the surfboard.\nDisclosure: Andersen Capital owns the referenced stocks in this article']

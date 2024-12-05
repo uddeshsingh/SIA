@@ -1,0 +1,17 @@
+Authors: ['David Price', 'Author: David Price']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: You might even see it pop up on your iPad and Mac.
+Filename: .json
+Image_Url: https://www.macworld.com/wp-content/uploads/2024/12/iphone-15-pro-action-button.jpg?quality=50&strip=all&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Wild Apple patent hints at an iPhone with multiple customizable action buttons
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If you’re still struggling to get used to the Action button which Apple brought to its Pro iPhones in late 2023 and to the standard models earlier this year, we have bad news: the discovery of a surprising patent application suggests future versions of the iPhone may be equipped with multiple such buttons. [ ] Accompanying illustrations show the three hardware buttons running down the lefthand edge of what appears to be an iPhone. Apple But there’s an interesting bonus to this story, which is that the Action button may cease to be an iPhone exclusive. Other portable electronic devices, such as laptops or tablet computers with touch-sensitive surfaces… are, optionally, used.” In other words, get ready Action buttons everywhere! Or not, as patent activity, as ever, is not necessarily an indicator of future decisions, but merely shows one path the company has considered (and wishes to block its competitors from pursuing).
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Peter Hoskins']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2023-05-24 03:35:55
+Description: The firm reaches an agreement with Broadcom as the tech trade row between US and China intensifies.
+Filename: .json
+Image_Url: https://ichef.bbci.co.uk/news/1024/branded_news/E8C0/production/_129848595_gettyimages-1246838921.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Chip war: Apple strikes major US-made semiconductor deal
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The long-running dispute has seen the US impose a series of measures against China's chip making industry and invest billions of dollars to boost America's semiconductor sector. In recent months, US tech giants have come under increased scrutiny from both Democrat and Republican lawmakers over their reliance on Chinese manufacturers and components. In 2022, Apple also announced plans to make the iPhone 14 in India, a significant milestone in the company's strategy to diversify manufacturing outside of China. Under the latest deal, which expands the iPhone maker's existing relationship with Broadcom, components for Apple devices will be designed and built in Colorado and other parts of the US. "We're thrilled to make commitments that harness the ingenuity, creativity, and innovative spirit of American manufacturing," Apple's chief executive Tim Cook said in a statement.
+Financial_Events: []

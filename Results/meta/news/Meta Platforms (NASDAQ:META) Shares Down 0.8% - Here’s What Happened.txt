@@ -1,0 +1,17 @@
+Authors: ['MarketBeat News']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 03:32:52
+Description: Read Meta Platforms (NASDAQ:META) Shares Down 0.8% – Here’s What Happened at ETF Daily News
+Filename: .json
+Image_Url: https://www.marketbeat.com/logos/meta-platforms-inc-logo-1200x675.png?v=20220609084126
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta Platforms (NASDAQ:META) Shares Down 0.8% - Here’s What Happened
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Cantor Fitzgerald restated an “overweight” rating and set a $670.00 price target on shares of Meta Platforms in a research note on Wednesday, October 16th. Bank of America raised their price target on Meta Platforms from $630.00 to $660.00 and gave the stock a “buy” rating in a report on Thursday, October 31st. Loop Capital lifted their price target on Meta Platforms from $550.00 to $575.00 and gave the company a “buy” rating in a research report on Tuesday, August 6th. The Goldman Sachs Group increased their price objective on Meta Platforms from $555.00 to $636.00 and gave the stock a “buy” rating in a report on Monday, October 14th. Finally, Tigress Financial lifted their target price on Meta Platforms from $575.00 to $645.00 and gave the company a “strong-buy” rating in a report on Friday, August 16th.
+Financial_Events: ['The company has a market capitalization of $1.45 trillion, a P/E ratio of 27.05, a P/E/G ratio of 1.25 and a beta of 1.22.\nMeta Platforms (NASDAQ:META – Get Free Report) last released its earnings results on Wednesday, October 30th', 'The company had revenue of $40.59 billion during the quarter, compared to analysts’ expectations of $40.21 billion', 'will post 22.62 earnings per share for the current year.\nMeta Platforms Announces Dividend\nThe firm also recently announced a quarterly dividend, which was paid on Thursday, September 26th', 'The Family of Apps segment offers Facebook, which enables people to share, discuss, discover, and connect with interests; Instagram, a community for sharing photos, videos, and private messages, as well as feed, stories, reels, video, live, and shops; Messenger, a messaging application for people to connect with friends, family, communities, and businesses across platforms and devices through text, audio, and video calls; and WhatsApp, a messaging application that is used by people and businesses to communicate and transact privately.\nFeatured Articles\nFive stocks we like better than Meta Platforms\nThe How and Why of Investing in Gold Stocks\nServiceNow: Will the High-Flyer Finally Split in 2024?\nWhat is a SEC Filing?\nMarketBeat Week in Review – 11/25 – 11/29\nEV Stocks and How to Profit from Them\nThese 3 Stocks Are Heavy Hitters in Alternative Asset Management']

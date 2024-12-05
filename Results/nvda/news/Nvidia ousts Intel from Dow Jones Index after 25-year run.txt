@@ -1,0 +1,17 @@
+Authors: ['Benj Edwards']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-04 17:28:07
+Description: Stock index switch-up reflects symbolic market shift as chip industry refocuses around AI.
+Filename: .json
+Image_Url: https://cdn.arstechnica.net/wp-content/uploads/2024/11/robot_breakthrough_1-1152x648.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia ousts Intel from Dow Jones Index after 25-year run
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Intel's stock has dropped 54 percent this year, making it the worst performer on the Dow, and the company now holds a market value of under $100 billion for the first time in three decades, Reuters reported. The chipmaker has lost its manufacturing leadership to Taiwan's TSMC and reportedly missed opportunities in the growing market for AI processors. Meanwhile, due to the demand for AI accelerator chips, Nvidia's market capitalization has soared to $3.32 trillion, making it the second most valuable company in the world. While the rise of AI has caused a surge in several tech stocks, it has delivered tough times for chipmaker Intel, which is perhaps best known for manufacturing CPUs that power Windows-based PCs. Intel recently withdrew its forecast to sell over $500 million worth of AI-focused Gaudi chips in 2024, a target CEO Pat Gelsinger had promoted after initially pushing his team to project $1 billion in sales.
+Financial_Events: ["The setback follows Intel's pattern of missed opportunities in AI, with Reuters reporting that Bank of America analyst Vivek Arya questioned the company's AI strategy during a recent earnings call.\nIn addition, Intel has faced challenges as device manufacturers increasingly use Arm-based alternatives that power billions of smartphone devices and from symbolic blows like Apple's transition away from Intel processors for Macs to its own custom-designed chips based on the Arm architecture.\nWhether the historic tech company will rebound is yet to be seen, but investors will undoubtedly keep a close watch on Intel as it attempts to reorient itself in the face of changing trends in the tech industry."]

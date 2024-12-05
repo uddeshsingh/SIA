@@ -1,0 +1,17 @@
+Authors: ['Alex Billington']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:43:43
+Description: "What makes you think I want someone to be in love with me?" The very first movie trailer mashup 2024 retrospective video has dropped today, created by the London-based movie lover Jed Wagman of Wagman Studios. His "2024 Movie Mashup" video is out and ready to watch! Click play for a voyage across time and
+Filename: .json
+Image_Url: https://media2.firstshowing.net/firstshowing/img16/2024mashupWagmanmainimgTW1.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Watch: '2024 Movie Mashup' Annual Recap Video from Wagman Studio
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The very first movie trailer mashup 2024 retrospective video has dropped today, created by the London-based movie lover Jed Wagman of Wagman Studios. Click play for a voyage across time and space and cinema - taking us back through the past year. Nearly 7 minutes of footage from nearly every big and small movie in 2024 cut together into an emotional, triumphant, endearing video. Wagman's 2024 movie mashup is also a reminder that if you haven't seen these films yet, you really need to watch them: Kneecap, Sasquatch Sunset (really! From the delayed and much anticipated releases of Dune: Part Two and Challengers, to Inside Out 2 and Deadpool & Wolverine breaking box office records, there have been so many great films..." Enjoy this look back at 2024.
+Financial_Events: []

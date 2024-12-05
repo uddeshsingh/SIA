@@ -1,0 +1,17 @@
+Authors: ['Leah MarieAnn Klett']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 13:29:00
+Description: On Dec. 6th, Netflix invites audiences on a compelling journey back to ancient Judea to witness the story of the Nativity through the eyes of Mary.
+Filename: .json
+Image_Url: https://assets.christianpost.com/files/original/thumbnail/26/22/262222.jpg?v=1.2
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix releases trailer for biblical epic ‘Mary'
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This Christmas season, Netflix is set to bring a retelling of the Nativity story to audiences around the world, offering a fresh perspective on an ancient narrative in the forthcoming film “Mary.” Directed by D.J. The film stars Israeli actress Noa Cohen as Mary and Ido Tako as Joseph, with Academy Award-winning actor Anthony Hopkins taking on the role of King Herod. Watch the trailer for 'Mary' below: According to showrunners, the film offers a look at Mary as both a holy figure and a relatable young woman, enduring rejection and hardship in the wake of a miraculous conception. From there, we carefully fictionalized the moments between Mary's journey, adding tension, emotion, and pacing — all vital elements for compelling cinema — while preserving the truths of the miraculous events in her life. "Mary," filmed on location in Morocco, also stars Stephanie Nur; Susan Brown; Ori Pfeffer; Eamon Farren; Hilla Vidor; Mili Avital; Gudmundur Thorvaldsson; Dudley O'Shaughnessyl; Keren Tzur; Mehmet Kurtulus and Mila Harris.
+Financial_Events: []

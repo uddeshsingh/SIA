@@ -1,0 +1,17 @@
+Authors: ['Stephen Biddix', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:37:00
+Description: Last year's letter projected an 18.5% increase before the legislative session when it was brought down to 13.8%.
+Filename: .json
+Image_Url: https://kubrick.htvapps.com/vidthumb/7a215af3-48f3-4a83-bd37-308c66114604/05a78688-f36f-4b81-aa5c-8d21935ae552.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tax Department projects Vermonters to face 5.9% property tax increase
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “It’s important that we continue to work together to find solutions to make our education funding system sustainable. "Last year's letter projected an 18.5% increase before the legislative session when it was in part brought down to 13.8% in the final version of the yield bill that was vetoed by Gov. “We know Vermonters are already struggling to pay for this year’s unprecedented increase in property taxes. “It’s important that we continue to work together to find solutions to make our education funding system sustainable." Advertisement Last year's letter projected an 18.5% increase before the legislative session when it was in part brought down to 13.8% in the final version of the yield bill that was vetoed by Gov.
+Financial_Events: []

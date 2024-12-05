@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: Local news, sports, obituaries, photos, videos and more by journalists covering Butler County, Pennsylvania. Subscribe today.
+Filename: .json
+Image_Url: https://imengine.public.prod.bte.navigacloud.com/?uuid=7d49ccd3-8914-5504-957c-c9eaf30f03ab&function=cover&type=preview&source=false&height=700
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: China’s dystopian tech influence grows in Vietnam
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Southeast Asian nation is now ramping up already tight controls over online platforms with new rules that will require companies to verify the identities of users and share this information with authorities when asked. The blow has been especially painful because there was a time when platforms like Facebook and YouTube gave a mouthpiece for people to disseminate information when traditional media outlets were forced to toe the party line. That could deal a devastating blow to Vietnam’s growth, and it could find itself caught in the crosshairs of greater scrutiny on goods originating from China that pass through its borders. The American Chamber of Commerce in Vietnam said earlier this year that the most important factor to improve investments is a fair, transparent, predictable and streamlined regulatory environment. While the recent battles over internet freedoms carry numerous similarities to China, a key distinction is that many of the most widely used social networks in Vietnam originate from Silicon Valley.
+Financial_Events: ['Hanoi is the world’s third-largest jailer of journalists, according to the nonprofit group, which cited Facebook as a major tool for circulating news.\nMoreover, Vietnam’s new digital regulations also risk threatening business at an especially precarious time']

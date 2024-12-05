@@ -1,0 +1,17 @@
+Authors: ['Extreme Tech']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:05:00
+Description: "If you proceed with installing Windows 11, your PC will no longer be supported and won't be entitled to receive updates."
+Filename: .json
+Image_Url: https://media.zenfs.com/en/extreme_tech_articles_222/5797cbff16bf50a71e932b1cedbdfbf5
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Microsoft Gets Aggressive, Now Warns You If You're Running Windows 11 on Incompatible Hardware
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The company added a new disclaimer and watermark to warn users about possible risks and limits. A new disclaimer warns users about potential compatibility issues and lack of future support, XDA reports. The company said PCs running Windows 11 on incompatible hardware will no longer receive updates, and manufacturer warranties will not cover damage due to compatibility issues. An updated support page now includes this statement: This PC doesn't meet the minimum system requirements for running Windows 11 - these requirements help ensure a more reliable and higher quality experience. Using Windows past this date could lead to security risks for users.
+Financial_Events: []

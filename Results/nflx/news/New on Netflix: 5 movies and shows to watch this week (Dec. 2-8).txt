@@ -1,0 +1,17 @@
+Authors: ['Malcolm McMillan']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 05:00:00
+Description: Dig into all the new Netflix TV shows and movies heading to Netflix this week.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/usYAX3Ewsq8CGZhpXkFkMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/toms_guide_826/825d3dc90bd95aeeef3034d8fa10d16c
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: And it looks set to be a star-studded event, with highly-anticipated duets with Chappell Roan, Tyla, Shania Twain, and Kali Uchis and guest appearances from Nico Hiraga, Quinta Brunson, Cara Delevingne, Kyle Mooney, Megan Stalter, Sean Astin, Owen Thiele, and Jillian Bell. "Black Doves" (GB) (Netflix series) When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance. "Jentry Chau vs. the Underworld" (Netflix family) As her 16th birthday approaches, a not-so-average teen rediscovers the fiery powers she's long suppressed and is forced to face her demons — literally. ET / 6 p.m. PT Pop icon Sabrina Carpenter jingles all the bells in her first-ever variety music special full of Christmas hits, unexpected duets and comedic cameos. When King Herod ignites a murderous pursuit for her newborn baby Jesus, Mary and Joseph go on the run – bound by faith and driven by courage – to save his life at all costs.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Cydney Henderson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-16 23:43:21
+Description: The streaming broadcast of Mike Tyson vs. Jake Paul on Friday delivered record-breaking records on Netflix, despite some technical difficulties.
+Filename: .json
+Image_Url: https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/16/USAT/76362074007-clean.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Mike Tyson vs. Jake Paul fight 'shattered records'
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Netflix dove headfirst into the arena of live sporting events with the broadcast of Mike Tyson vs. Jake Paul on Friday and the streaming service said it delivered a knockout punch, despite some technical difficulties. One day after Paul defeated Tyson by unanimous decision, Netflix announced that more than 60 million households tuned into the fight streaming live from AT&T Stadium in Arlington, Texas. Multiple users expressed frustration over various issues plaguing the broadcast, including buffering, screen quality concerns and audio issues: "The boxing mega-event dominated social media, shattered records, and even had our buffering systems on the ropes." MIKE TYSON VS. JAKE PAUL:Netflix suffers significant issues on massive fight night The boxing event marked the first live sporting event on Netflix's lineup. The platform is set to stream an NFL doubleheader on Christmas Day — Kansas City Chiefs at Pittsburgh Steelers, followed by Baltimore Ravens at Houston Texans.
+Financial_Events: []

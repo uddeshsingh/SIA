@@ -1,0 +1,17 @@
+Authors: ['Scharon Harding']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:58:31
+Description: Cloud provider moved most of its 20,000 VMs off VMware.
+Filename: .json
+Image_Url: https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1010109896-1152x648.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Company claims 1,000 percent price hike drove it from VMware to open source rival
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: According to Beeks, OpenNebula has enabled the company to dedicate more of its 3,000 bare metal server fleet to client loads instead of to VM management, as it had to with VMware. With OpenNebula purportedly requiring less management overhead, Beeks is reporting a 200 percent increase in VM efficiency since it now has more VMs on each server. But Broadcom has emphasized the financial success it has seen (PDF) from its VMware acquisition, suggesting that it will continue with its strategy even at the risk of losing some business. Similarly to Beeks, AT&T previously claimed that Broadcom proposed new pricing that would have resulted in AT&T’s VMware costs increasing by 1,050 percent. The move came amid concerns that Broadcom was primarily interested in enterprise-size customers for VMware and was overlooking the needs of smaller firms.
+Financial_Events: ["But Broadcom has emphasized the financial success it has seen (PDF) from its VMware acquisition, suggesting that it will continue with its strategy even at the risk of losing some business.\nBeeks is just one company that has moved away from Broadcom's VMware"]

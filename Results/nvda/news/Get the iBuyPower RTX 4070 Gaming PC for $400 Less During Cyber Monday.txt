@@ -1,0 +1,17 @@
+Authors: ['Elvis Shida', 'Vineet Washington', 'Michael Akuchie', 'Dominik Bošnjak', 'Sai Vsr']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:55:14
+Description: Save big on upgrading your PC gaming with this pre-built option, on sale through Walmart for Cyber Monday.
+Filename: .json
+Image_Url: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/walmart-cyber-monday-sale-drops-this-powerful-ibuypower-rtx-4070-gaming-pc-to-1199-game-rant-deals-feature.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Get the iBuyPower RTX 4070 Gaming PC for $400 Less During Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This is the lowest price we've seen on Cyber Monday for an RTX 4070 pre-built PC, offering a huge $400 in savings for one of the best 1440p gaming PCs. Part of AMD's previous Zen 4 chips, it brings an 8-core, 16-thread design, 32 MB of L3 cache, and a max boost clock of 5.4 GHz. If you have a 1080p monitor, you don't have to worry about performance, as the RTX 4070 and Ryzen 7-7700 pairing will enable you to play any game on max settings at 1080p. It's a beautiful, panoramic mid-tower case that lets you showcase the vertically mounted GPU and RGB lighting while offering excellent airflow. Walmart also has great deals on gaming laptops, including the Lenovo Legion 5i with an RTX 4060.
+Financial_Events: []

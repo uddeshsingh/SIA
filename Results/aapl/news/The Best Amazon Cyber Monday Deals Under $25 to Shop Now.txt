@@ -1,0 +1,17 @@
+Authors: ['Isabel Garcia', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:00:00
+Description: Amazon's Cyber Monday deals end tonight, but you can still shop the best deals under $25 that are actually worthwhile. Save big on the Apple AirTag, Yankee Candle, Laneige Lip Sleeping Masks, plus more leggings, mascara, headphones, and more starting at $5
+Filename: .json
+Image_Url: https://people.com/thmb/XaQmUpEN10nyvChXU9zUGQ7Q3rY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-amazon-cyber-monday-under-25-deals-tout-bb85b17c82f64642a10ff566edd1620b.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The Best Amazon Cyber Monday Deals Under $25 to Shop Now
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Scoop up the Laneige Lip Sleeping Mask, which only goes on sale a few times throughout the year, then grab the Amazon Smart Plug while it has an impressive discount. Plus, score savings on kitchen must-haves like KitchenAid oven mitts and the Lodge Pre-Seasoned Cast Iron Skillet that reviewers call “versatile” and “durable.” Fab Totes Storage Bags These fabric storage bags make it a breeze to store and organize extra linens, off-season clothes, toys, and more items you want to keep dust-free and out of sight. Score popular skincare, makeup, and hair care products like this brightening CeraVe vitamin C serum and this hydrating Sol De Janeiro leave-in conditioner. Shop wardrobe staples from Hanes and Gap, plus beauty bag must-haves including a luxe moisturizer and smoothing hand mask. Amazon’s Cyber Monday sale has deals that are just as good, if not better across virtually every category, including home, fashion, tech, beauty, and more.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['David Marino-Nachison']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 10:30:00
+Description: Meta's results are set to arrive with Wall Street analysts overwhelmingly bullish on the shares, though at present calling for comparatively little further update.
+Filename: .json
+Image_Url: https://www.investopedia.com/thmb/9mR5eDcL6J9dCdD82k8jkRW4I0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2173579370-b35273a1ceac476297a3a2bd1ef4bc1b.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What Wall Street Thinks of Meta Platforms Stock Ahead of Earnings
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Shares of Meta Platforms (META) ticked higher in early Wednesday trading ahead of the company's next round of financial results, due after the bell. The results are set to arrive with the company's shares up nearly 70% this year—and Wall Street analysts overwhelmingly bullish on the shares, though at present calling for comparatively little further update. Of the 30 analysts tracking shares of the Facebook and Instagram parent company as of Wednesday morning, 28 had "buy" or equivalent ratings on the stock and two had "hold," according to Visible Alpha data. The median target, $613.72, represents a premium to Tuesday's close of a bit more than 3%. Meta's results are due on the heels of a report last night from Snapchat parent Snap (SNAP), whose shares recently were up about 16% after the company turned in 15% year-over-year revenue growth in the latest quarter and a smaller loss.
+Financial_Events: ["Meta stock was recently up about 0.3% to just over $595.\nMeta's results are due on the heels of a report last night from Snapchat parent Snap (SNAP), whose shares recently were up about 16% after the company turned in 15% year-over-year revenue growth in the latest quarter and a smaller loss."]

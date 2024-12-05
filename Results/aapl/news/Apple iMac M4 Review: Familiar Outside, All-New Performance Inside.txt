@@ -1,0 +1,17 @@
+Authors: ['David Phelan']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-07 09:00:00
+Description: The Apple all-in-one Mac has just been updated with more power, new colors and — at last — USB-C mouse and keyboard.
+Filename: .json
+Image_Url: https://specials-images.forbesimg.com/imageserve/60405eee53225e1960d30b0e/400x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple iMac M4 Review: Familiar Outside, All-New Performance Inside
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: ForbesiPhone 17 Long-Awaited Design Upgrade Coming, New Leak Claims I’ve been testing the yellow version, which has an understated, subtler hue than before. There’s another change: last time around you could only snag a yellow, orange or purple finish if you chose the iMac with the faster version of the chip. While this isn’t the step-change in convenience that it was on the iPhone because you likely have a Lightning cable attached to the back of the iMac anyway, it’s a definite move forward. The camera is excellent and where some people had previously complained that video call quality was subpar, here it seems pristine, clear and highly watchable. There’s no option to chip up to M4 Pro, but that doesn’t matter: this is a general-use device and it remains the most attractive, approachable and delightful all-in-one around.
+Financial_Events: []

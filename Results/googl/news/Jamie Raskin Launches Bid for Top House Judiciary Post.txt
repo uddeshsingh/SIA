@@ -1,0 +1,17 @@
+Authors: ['Natalie Venegas']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 17:41:29
+Description: Representative Raskin announced he will seek the top House Judiciary Committee position, challenging Jerry Nadler.
+Filename: .json
+Image_Url: https://d.newsweek.com/en/full/2534459/jamie-raskin.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Jamie Raskin Launches Bid for Top House Judiciary Post
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In a letter shared with colleagues and obtained by The Associated Press (AP), Raskin said, "House Democrats must stand in the breach to defend the principles and institutions of constitutional democracy. He pledged it would serve as "the headquarters of Congressional opposition to authoritarianism" and safeguard constitutional norms amid potential challenges from a second Trump administration. Opponent for the Position However, Raskin's decision sets up a potential clash with Judiciary Committee veteran and fellow Democratic Representative Jerry Nadler. Historically, House Democrats have rarely deviated from seniority-based assignments, making the outcome of this race uncertain. "If I'm lucky enough to be chosen for this responsibility in the 119th Congress, I will turn to Jerry first and throughout for his always wise counsel and political judgment," Raskin added.
+Financial_Events: []

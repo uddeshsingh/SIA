@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-03 05:20:00
+Description: Australia proposed a law on Monday that could impose fines of up to A$50 million ($33 million) on global technology companies if they suppress competition and prevent consumers from switching between services. The centre-left Labor government has targeted Big Tech's influence, and parliament passed a law last week that banned…
+Filename: .json
+Image_Url: https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/31/3f/d9aac3bdbce4f617aaea93d1baf0934a8191/tagreuters/_w1700.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Proposed Australia law would fine Big Tech over digital competition
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The centre-left Labor government has targeted Big Tech's influence, and parliament passed a law last week that banned social media for children aged under 16. The proposed law would empower Australia's competition regulator to oversee compliance, investigate anti-competitive practices online and fine companies, Assistant Treasurer Stephen Jones said in excerpts of a speech due later on Monday. "The digital economy challenges our current legal framework," Jones will in the speech viewed by Reuters at the public policy research McKell Institute in Sydney. The planned law, similar to the European Union's Digital Markets Act legislation, could make it easier for people to move among competing services, such as social media platforms, internet browsers and app stores. These specific obligations would restrict companies from pushing their apps with low user ratings to the top of their search list and prevent providing favorable treatment to their own services, compared with third parties.
+Financial_Events: ['Innovation outside of the established players becomes almost impossible."\nApple, Google and Meta, which dominate app downloads and ad revenues, did not immediately respond when approached for comment on the proposed law.\nThe consultation process is scheduled to end on Feb']

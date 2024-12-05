@@ -1,0 +1,17 @@
+Authors: ['Kaif Shaikh']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 23:51:20
+Description: Learn what makes Bluesky different by taking an in-depth look at its technological framework, privacy commitments, and user-centric innovations.
+Filename: .json
+Image_Url: https://media.zenfs.com/en/interesting_engineering_646/90a4999c35d482954738957788c3eb40
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Bluesky 101: Everything you should know about X and Meta’s latest headache
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This article will focus on Bluesky Social and explore how it has captured and captivated an expanding audience with its user-centric approach in an industry long dominated by the exploitation of user data and ad-centric models. The platform's user-centric approach is a response to the market's demand for greater personal data control, which has become increasingly important following the introduction of paid subscriptions and blue tick payments by X under Elon Musk's leadership. Users can also create and customize their lists and feeds based on topics or keywords, like "Portland Sports" or pizza-related content, accessible through a control panel on the left side of the interface. Political figures such as Rep. Alexandria Ocasio-Cortez and Brazil President Luiz Inácio Lula da Silva and notable personalities like Mark Cuban, Dril, and Weird Al Yankovic have also made the switch. This subscription model is designed to avoid the "pay to win" strategies employed by platforms like X, ensuring that Bluesky remains free from the necessity of selling user data for ads.
+Financial_Events: ["presidential election.\nDespite X-formerly-Twitter boasting around 300 million active users, its popularity has waned due to persistent issues like trolling and hate speech, particularly after Elon Musk's acquisition in April 2022", "We'll cover everything you need to know about Bluesky, including insights into the platform's structure, detailed guidance, privacy policies, revenue models, who has migrated to it, and how competitors have reacted.\nInside the decentralized social media Bluesky\nBluesky Social, a decentralized social network, has rapidly expanded its user base, largely driven by an influx from North America and the UK"]

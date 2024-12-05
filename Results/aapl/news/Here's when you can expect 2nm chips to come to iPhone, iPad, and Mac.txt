@@ -1,0 +1,17 @@
+Authors: ['Michael Burkhardt', 'Justin Kahn', 'Zac Hall', 'Ben Lovejoy']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 18:21:10
+Description: Although Apple typically follows a two year cycle with process nodes, with the 7nm and 5nm processes lasting two years...
+Filename: .json
+Image_Url: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/iphone-chip-list.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Here's when you can expect 2nm chips to come to iPhone, iPad, and Mac
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: However, the reality is, while it’s branded as 4nm to the public, TSMC refers to the N4 processed used in the A16 Bionic as part of the “5nm technology family”: TSMC continues to expand its 5nm technology family to meet diverse customer demands. Next generation silicon fabrication simply isn’t being developed as fast as it used to, so we’re really on a 3 year release cycle now. This timeline would theoretically line up for the iPhone 17 launch, but for one reason or another, Apple has chosen to hold out. This isn’t out of the ordinary, as the first generation 3nm process also began volume production in late 2022, but Apple still elected to not adopt it for another year. Apple also isn’t expected to adopt 2nm for the M5 family of chips in Macs and iPads.
+Financial_Events: []

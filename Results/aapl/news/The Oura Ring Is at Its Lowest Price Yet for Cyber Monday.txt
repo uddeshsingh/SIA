@@ -1,0 +1,17 @@
+Authors: ['Beth Skwarecki']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 21:00:14
+Description: The Oura ring is a great fitness tracker for minimalists. It picks up on your sleep, HRV, skin temperature and more while you sleep, and its app tells you how recovered and ready you are each day. Today, the gen 3 ring is at its lowest price yet, as little as $221 for some styles.
+Filename: .json
+Image_Url: https://lifehacker.com/imagery/articles/01JE4FFJRZBSF8DYBYNN4ZHWR8/hero-image.fill.size_1200x675.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The Oura Ring Is at Its Lowest Price Yet for Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Oura has been running a sale on the gen 3 for a little while now, but today the price of some models has dropped even further. The gen 4 Oura ring is not on sale for Cyber Monday (and wasn’t for Black Friday, either). (Oura and Whoop both have subscription fees; check that link for a breakdown of the numbers.) And if I’m starting to convince you, I’ll add that Whoop is also running a Cyber Monday deal. All that said, the Oura ring is an excellent sleep tracker to pair with a fitness watch, or to keep tabs on your health without worrying about activity tracking at all.
+Financial_Events: []

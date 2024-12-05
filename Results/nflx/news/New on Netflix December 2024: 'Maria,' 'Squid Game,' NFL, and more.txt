@@ -1,0 +1,17 @@
+Authors: ['Ryan Coleman', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 08:00:00
+Description: Netflix offers a bounty of gifts this December, from new specials by Sabrina Carpenter and Jamie Foxx, to its first NFL offerings, and Angelina Jolie's 'Maria.'
+Filename: .json
+Image_Url: https://ew.com/thmb/ifgAVnqQp-TjU5wys5Yy8j6ry0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sabrina-Carpenter-Lisa-Kudrow-and-Ray-Romano-Jamie-Foxx-112024-8374a563862d415986e81c38d15f360e.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: New on Netflix December 2024: 'Maria,' 'Squid Game,' NFL, and more
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: 'Twas the night before Christmas, when all through the streamer, more new titles were stirring, (janky boxing not featured) — from TV, to movies and comedy specials to anime, reality, the NFL, and much more, the offerings were splendid with stars and drama galore! Elsewhere on the calendar for next month, Tyler Perry debuts The Six Triple Eight, a new historical drama starring Kerry Washington, and Carry-On teams Taron Egerton and Jason Bateman for a Christmas Eve-set thriller centered on a bad TSA experience. For the history buff, Italy's The Children's Train; for the hopeless romantic, South Africa's Umjolo: Day Ones; for the fan of Hunger Games-style dystopic class war, Thailand's Tomorrow + I; and for the literary-minded, Colombia's adaptation of Gabriel García Márquez's One Hundred Years of Solitude. We have Kiera Knightley leading a new spy thriller called Black Doves, a new serial killer series from horror maestro Alex De La Iglesia, the wild true crime docuseries The Kings of Tupelo, and the frontrunner in most stacked cast of the year, No Good Deed, a series that features Ray Romano, Denis Leary, Linda Cardellini, Luke Wilson, Abbi Jacobson, Teyonah Harris, Lisa Kudrow, Linda Lavin, and more in a dark comedy about the petit bourgeoisie. Finally, you can look forward to new seasons of The Great British Baking Show: Holidays, Queer Eye (featuring new host Jeremiah Brent after Bobby Berk exited last year), The Manny, and Virgin River.
+Financial_Events: []

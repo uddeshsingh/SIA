@@ -1,0 +1,17 @@
+Authors: ['Stephanie Bertini', 'Alex Meier']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:00:51
+Description: New York City is reporting a decrease in migrants in shelters, but what does that really mean?
+Filename: .json
+Image_Url: https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/1280/720/getty-migrants-trump-protest.jpg?ve=1&tl=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Has New York City turned a corner in the migrant crisis?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In response to this trend, we are consolidating our emergency shelter operations and scaling down the number of sites in use," a city spokesperson tells FOX 5 NY. His journey began modestly, selling arepas outside Manhattan's Row Hotel, once a 1,300-room luxury accommodation that the city converted into a shelter amidst the historic migrant crisis. In the early days, NYC Mayor Eric Adams extended a warm welcome to the migrants, affirming New York's status as a sanctuary city with a robust right-to-shelter mandate. In June 2024, President Joe Biden called for a halt to asylum processing at the border in times when officials deemed it overwhelmed, leading to tightened federal immigration policies in September. As a result of the above efforts, since intensive case management services began in October 2023, 42 percent more families with children in humanitarian centers each week have been able to take their next steps out of shelter and towards building a life of self-sufficiency," city officials said in a statement.
+Financial_Events: ["He told Bertini he'd upped his daily earnings to approximately $250-$300.\nDennis confirms that his situation has considerably improved since his family of three were granted Temporary Protected Status (TPS) upon entering the United States"]

@@ -1,0 +1,17 @@
+Authors: ['Eleanor Pringle', 'AOL Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 10:00:00
+Description: Elon Musk led the way, with the world's richest man adding $119 billion to his fortune.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/snG4WYNdWuvEhGTWHOLb7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDI-/https://media.zenfs.com/en/aol_fortune_385/955ee8458fb69806a3c6b27e7eabb606
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: From Jensen Huang to Elon Musk: The biggest wealth gainers of 2024 have added $585 billion to their fortunes
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Not only has Tesla become an AI darling with its promises of autonomous cabs and full self-driving software (plus, let's not forget the robots), but Musk's big bet on Trump has paid off. While Musk has earned himself an administration position for his proposal for a Department of Government Efficiency (DOGE), Tesla shareholders have been particularly motivated by Trump's change in tone on EVs. The former president previously said EV drivers are “[destroying] our once great USA” and should “rot in hell” but on the campaign trail did a U-turn, telling supporters: “I’m for electric cars; I have to be because Elon endorsed me very strongly." Mark Zuckerberg—again flying high on the AI boom—has seen his net worth grow to $70 billion as Meta continues to explore emerging technology and reap the rewards of its year of efficiency. Rounding out the top 10 of 2024 wealth gainers this year (with one month left to go) is Thomas Peterffy, the chairman of Interactive Brokers, which specializes in equities, futures and foreign exchange trades.
+Financial_Events: []

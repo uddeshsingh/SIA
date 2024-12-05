@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: The new Windows Terminal and the original Windows console host, all in the same place! - microsoft/terminal
+Filename: .json
+Image_Url: https://repository-images.githubusercontent.com/100060912/dc77b180-764a-11e9-9e12-aace7d0ecd7d
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Windows Terminal
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Terminal will also need to meet our goals and measures to ensure it remains fast and efficient, and doesn't consume vast amounts of memory or power. Since taking ownership of the Windows command-line in 2014, the team added several new features to the Console, including background transparency, line-based selection, support for ANSI / Virtual Terminal sequences, 24-bit color, a Pseudoconsole ("ConPTY"), and more. However, because Windows Console's primary goal is to maintain backward compatibility, we have been unable to add many of the features the community (and the team) have been wanting for the last several years including tabs, unicode text, and emoji. We ultimately decided that our goals would be best met by continuing our investment in our C++ codebase, which would allow us to reuse several of the aforementioned modernized components in both the existing Console and the new Terminal. Note: Opening the solution in VS 2022 will prompt you to install missing components automatically: Desktop Development with C++ Universal Windows Platform Development The following Individual Components C++ (v143) Universal Windows Platform Tools You must install the .NET Framework Targeting Pack to build test projects This repository uses git submodules for some of its dependencies.
+Financial_Events: []

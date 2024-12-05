@@ -1,0 +1,17 @@
+Authors: ['Tom Power', 'Matthew Bolton', 'Amelia Schwanke', 'Axel Metz', 'Grace Morris', 'Lucy Buglass']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2022-02-21 16:58:49
+Description: These are the best Netflix movies to watch the world's most popular streaming service.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/5PtRSwocxDuJe4qx3fX5B9-1200-80.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Netflix movies: 46 amazing films to stream in December 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Based on Erich Maria Remarque’s landmark novel of the same name (which was first adapted into a feature film in 1930), this German-language movie tells the story of a young German soldier (Felix Kammerer) whose naïve expectations of fighting for his country are shattered by war’s harrowing reality. Shot entirely using stop-motion (in a manner akin to Netflix series The House), del Toro’s darker adaptation is set in 1930s Italy during Mussolini’s fascist regime and features a star-studded voice cast who bring vivacity, levity, menace, and more to each of the films' distinct characters. Watch The Lure on Netflix now Watch The Lure's trailer on YouTube Best romance movies on Netflix Call Me by Your Name Age rating: 15 Runtime: 132 minutes Main cast: Timothée Chalamet, Armie Hammer, Michael Stuhlbarg, Esther Garral, André Aciman and Victoire Du Bois Director: Luca Guadagnino RT score: 94% Recommended by Recommended by Lucy Buglass Call Me by Your Name is another acclaimed masterpiece to add to director Luca Guadagnino's successful movie resume, prior to his other projects Challengers, Bones and All and Suspiria which established him as a treasured filmmaker in the world of arthouse cinema. Watch Attack the Block on Netflix now Watch Attack the Block's trailer on YouTube Annihilation Age rating: 15 Runtime: 115 minutes Main cast: Natalie Portman, Gina Rodriguez, Jennifer Jason Leigh, Tessa Thompson, and Oscar Isaac Director: Alex Garland RT score: 88% Recommended by Recommended by Tom Power Ex Machina director Alex Garland helms this hypnotic adaptation of Jeff VanderMeer's novel of the same name, which follows a group of explorers – led by Natalie Portman's Lena – who enter 'The Shimmer', a mysterious, quarantined zone of mutating plants and animals. To discuss its plot at length is to spoil its biggest surprises, but here's a brief synopsis to give you a flavor of what to expect: "A series of eerie events thrusts an unlikely trio (Jamie Foxx, John Boyega, and Teyonah Parris) onto the trail of a nefarious government conspiracy in this pulpy mystery caper."
+Financial_Events: []

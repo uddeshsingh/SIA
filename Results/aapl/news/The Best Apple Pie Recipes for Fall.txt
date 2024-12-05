@@ -1,0 +1,17 @@
+Authors: ['Kim Wehby', 'Alexis McCowan', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2015-01-05 15:04:42
+Description: This autumn, there's room for all types of apple pie, including classic double-crust, salted caramel, streusel-topped, and apple pie ice cream sandwiches. The next time you come home with a bagful of the season's finest varieties, you won't have to ask yourself what to make with your apples. It's all here.
+Filename: .json
+Image_Url: https://www.foodandwine.com/thmb/CPA4zNuqpDpLF5uyKFcv4PIPtKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Flambe-Pie-FT-BLOG1022-2000-547435dfcf804e1987e42104fde78498.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The Best Apple Pie Recipes for Fall
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Perry creates a traditional dessert that exudes sweet-tart apples in a perfectly buttery shell. Stacked cinnamon apple slices are topped first with homemade caramel and then with a brown sugar streusel. An aromatic apple filling is swirled into vanilla ice cream, then the mixture gets sandwiched between two homemade cookies. A filling of sugared apples creates a delicious canvas for adding your favorite spices as desired. The paper grocery bag traps in all the moisture, creating the perfect conditions for tender apples nestled in a crisp, golden crust.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['The Center Square Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2023-01-02 00:00:00
+Description: Number of artificially generated, sexually explicit impersonations of nonconsenting individuals increased by 550% from 2019 to 2023.
+Filename: .json
+Image_Url: https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-01/GettyImages-1245872196.jpg?h=69f2b9d0&itok=z1OMEA6N
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Lawmakers press Google, Meta, others on addressing deep fake pornography
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A bipartisan group of 26 U.S. lawmakers have sent letters to seven major tech companies requesting updates on how the platforms plan to counter the growing prevalence of pornographic “deep fakes” on social media. “[Deep fake technology] has enabled abusers to create and disseminate realistic, non-consensual pornographic content, causing emotional, psychological, and reputational harm,” the lawmakers, led by Reps. Debbie Dingell, D-Mich., and August Pfluger, R-Texas, wrote. “The spread of this content, often with little recourse for victims, underscores the need for stronger and effective protections.” The lawmakers highlighted specific examples of how each company had failed to adequately or permanently address instances of deep fake abuse on their platforms. Google pledged earlier this year to ban advertisements for websites and services that produce deep fake pornography and implement developer restriction policies and in-app reporting mechanisms. The letters requested each company to promptly provide Congress with detailed outlines of how they plan to address the deep fake problem.
+Financial_Events: []

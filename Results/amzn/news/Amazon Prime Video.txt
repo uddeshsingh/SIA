@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Arts
+Filename: .json
+Image_Url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon Prime Video
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: By Critic’s Pick ‘My Old Ass’ Review: If She Could Turn Back Time A buoyant comedy with a big heart follows a teen girl who meets her older self the summer before college. By The Watching Newsletter ‘Culte’ Is a Fascinating Romp Through the Dawn of French Reality TV A new docudrama recounts the conflicts and controversy surrounding “Loft Story,” a French twist on “Big Brother” that divided critics and generations. By Dave Itzkoff The Watching Newsletter ‘My Lady Jane’ Is a Sly and Sassy Historical Comedy Inspired by the very (very) brief reign of Queen Jane, the Amazon series has fun rewriting Tudor history — complete with magical creatures. By Chris Vognar Film Crew Veteran, Injured in an Accident, Faults Amazon for His Pain The visual effects supervisor, hurt in one of three recent accidents on Amazon film sets, has sued, but the company says it is not to blame. By Nicole Sperling and Matt Stevens Erin Moriarty Is a Woman Among ‘The Boys’ The actress in the hit superhero satire mulled her role in an age of online bullying and token feminism: “Thank God there are characters like this.” By Ashley Spencer
+Financial_Events: []

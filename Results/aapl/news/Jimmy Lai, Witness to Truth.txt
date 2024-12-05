@@ -1,0 +1,17 @@
+Authors: ['The Editors']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:32:33
+Description: EDITORIAL: Lai’s testimony in court has highlighted the unswerving determination of this heroic Chinese Catholic to tell the truth — no matter the personal co...
+Filename: .json
+Image_Url: https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20241202161228_109cf6c1744836e3f02697e50b65e10d8a3ae3ac5dd28121c57df1fd01524454.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Jimmy Lai, Witness to Truth
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Media magnate Jimmy Lai, who has been unjustly imprisoned in solitary confinement for nearly four years because of his support for Hong Kong’s pro-democracy movement, continues to testify in his own defense, witnessing as much to his Catholic faith as to his innocence. Local Chinese authorities claim he colluded with a broad range of foreign actors, including senior members of the Trump administration, with the objective of separating Hong Kong from China’s control. Lai’s “crime,” as publisher of the pro-democracy Apple Daily newspaper, was to allow his publication to report accurately about Beijing’s continuing betrayals of its 1997 promises to preserve Hong Kong’s existing civil liberties for at least 50 years, which the communist regime gave as a condition for securing the U.K.’s handover of control over its former colony. To clamp down on this journalistic truth-telling, Hong Kong police invaded Apple Daily’s offices in August of 2020 and carted Lai away in handcuffs, shortly after a draconian new national security law came into effect. Chinese authorities might be inclined to comply with Trump’s request — if only to spare themselves from further embarrassment stemming from Lai’s ongoing witness to the truth from his jail cell.
+Financial_Events: []

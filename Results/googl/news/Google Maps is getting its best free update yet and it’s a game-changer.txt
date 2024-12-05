@@ -1,0 +1,17 @@
+Authors: ['Carrie Marshall']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 13:00:00
+Description: Google's best traffic warnings are coming to the main Maps app at last.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/DgUcN4u8tgx7EO88aESlJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/t3_620/8638bdb676beeaa78c449042f4fd1dec
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Google Maps is getting its best free update yet and it’s a game-changer
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Quick Summary Google Maps is starting to roll out integration with Waze, the open source incident, accident and roadworks app. As Google promised this summer, it's bringing incident reporting from the Waze traffic information app to Maps – and that integration has finally begun. That information is then available instantly to other app users, enabling them to route around it or find out how much it'll add to their journey time. As 9to5Google reports, users are starting to see Waze information in Google Maps on their phones and also in Android Auto. While the 9to5Google story is based on a Reddit report from this week, many users have replied to say they've been receiving Waze alerts for a month or more.
+Financial_Events: []

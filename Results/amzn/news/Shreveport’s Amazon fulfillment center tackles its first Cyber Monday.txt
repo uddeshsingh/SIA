@@ -1,0 +1,17 @@
+Authors: ['Daffney Dawson', 'Donna Keeya']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:42:14
+Description: The Amazon Robotics Fulfillment Center in Shreveport marks its first Cyber Monday on Dec. 2.
+Filename: .json
+Image_Url: https://gray-ksla-prod.gtv-cdn.com/resizer/v2/U5THSEK7JVESNGNGGSDMPURUHE.jpg?auth=b515984d86060606a359a59037f72b62d9bc2ee277dd9aa0aa1aae0bd0d0bb65&width=1200&height=600&smart=true
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Shreveport’s Amazon fulfillment center tackles its first Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Officials say Cyber Monday is the busiest online shopping day of the year, with millions of customers making purchases ahead of the holidays. KSLA’s Donna Keeya toured the facility to see first-hand how the center handles orders during this busy time. At the height of peak, we’re expected to nearly double that and process a million packages per day.” At SHV1, employees pick, pack and ship items like books, toys, housewares and electronics. And Amazon says it achieved its fastest delivery times for Cyber Monday orders, with many items delivered within hours of being purchased in some areas. In addition, most employees get access to benefits when they start, including healthcare, dental and vision coverage; a 401k with a 50% company match; and up to 20 weeks of paid parental leave.
+Financial_Events: []

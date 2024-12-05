@@ -1,0 +1,17 @@
+Authors: ['Annie Palmer, CNBC']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:48:09
+Description: Sporting a sparkly dress and a Santa hat atop her distinctly pink hair, Sarah Potempa stood in front of her smartphone at her hair-care company’s warehouse in Waukegan, Illinois.
+Filename: .json
+Image_Url: https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241202-TikTok-aa-1141a-56819c.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Why Amazon sellers and retailers are flocking to TikTok Shop despite looming U.S. ban
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Sporting a sparkly dress and a Santa hat atop her distinctly pink hair, Sarah Potempa stood in front of her smartphone at her hair-care company’s warehouse in Waukegan, Illinois. Via a dedicated Shop tab, retailers big and small promote products of all kinds, ranging from eyeshadow palettes, phone chargers, detox teas, treadmills and more. Besides sellers, the company has also hired talent away from Amazon, filling key roles for TikTok Shop in areas like marketing, creator relationships, brand safety, category managers and operations. “Our selling partners are incredibly important to Amazon, and we work hard to innovate on their behalf and support the growth and success of these businesses across all of their sales channels,” Dix said. Yay’s founder and CEO Marlin Chan, a former YouTuber, frequently posts humorous TikTok videos promoting his snacks, which are based on his grandmother’s original recipe.
+Financial_Events: ['“I would get those questions like, ‘Can I buy it somewhere else?’ Now that it’s been around for a year or so, we’ve done 1.2 million orders.”\nByteDance-owned TikTok has already cemented itself as an advertising powerhouse, and with TikTok Shop, the company has been trying to carve out another revenue stream through e-commerce', 'Among the videos is a series that parodies the show “Undercover Boss.” Those videos helped Yay’s amass tens of thousands of TikTok followers, who keep buying the jerky, Cheng said.\nAt one point, TikTok sales comprised nearly 90% of Yay’s total revenue, with monthly sales from the app peaking at $75,000 last November, Cheng said']

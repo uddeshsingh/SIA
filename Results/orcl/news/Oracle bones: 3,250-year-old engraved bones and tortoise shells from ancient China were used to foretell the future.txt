@@ -1,0 +1,17 @@
+Authors: ['Tom Metcalfe']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 11:00:00
+Description: Archaeologists say the "oracle bones" from ancient China were used in magical attempts to foretell the future.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/55Rwqdrdr4WyyAHiGhQk9P-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle bones: 3,250-year-old engraved bones and tortoise shells from ancient China were used to foretell the future
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Name: Oracle Bones What it is: Tortoise shells or the shoulder blades of oxen that were inscribed with ancient Chinese characters Where it is from: China When it was made: 3,250 years ago Related: The 3,300-year-old ancient Egyptian statue of Ramesses II said to have inspired Percy Shelley's 'Ozymandias' What it tells us about the past: There is no one "oracle bone" — about 13,000 have been found — but these relics hint at the development of writing in ancient China. According to Chinese scholars, oracle bone artifacts were often dug up by later farmers in the former Shang territories, and many were exhumed during burial ceremonies in the former Shang capital of Anyang, in China’s Henan province. Oracle bones were often made from tortoise shells, as in this photograph, and from the shoulder blades of oxen. The surviving oracle bones are the earliest existing form of Chinese writing. But other experts doubted the claims, noting it was unlikely that any Shang characters were used more than 5,000 years earlier than thought.
+Financial_Events: []

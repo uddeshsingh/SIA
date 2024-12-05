@@ -1,0 +1,17 @@
+Authors: ['Laura McCandless']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 02:06:47
+Description: A list of the 25 best stocks to own in December over the past 10 years, featuring Broadcom (AVGO)
+Filename: .json
+Image_Url: https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/bearish/bigstock-drawing-or-sketch-of-angry-ind-423481658.jpg?sfvrsn=18e2d206_4
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 25 Best Stocks to Own in December, Including Broadcom
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Focusing in on number three on the list, Broadcom Inc (NASDAQ:AVGO) is the only chip manufacturer in the top 20. Per Schaeffer's Senior Quantitative Analyst Rocky White, AVGO finished the month of December higher eight times in the past 10 years, averaging a gain of 7.3%. In fact, subscribers to Expiration Week Countdown tripled their money with our AVGO put recommendation last month. Broadcom stock's 14-day relative strength index (RSI) of 21.9 sits in "oversold" territory, which is also indicative of a short-term bounce. Plus, long-term support at the 200-day moving average -- which captured pullbacks in August and September -- still lingers below.
+Financial_Events: ['After a particularly strong November, traders are eager to protect their profits as the year winds down']

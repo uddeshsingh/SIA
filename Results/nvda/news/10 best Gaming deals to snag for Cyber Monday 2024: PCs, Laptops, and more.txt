@@ -1,0 +1,17 @@
+Authors: ['Gourab Kundu']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 12:09:30
+Description: This Cyber Monday brings exciting deals for gamers.
+Filename: .json
+Image_Url: https://static.soapcentral.com/editor/2024/12/f3068-17331529666390.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 10 best Gaming deals to snag for Cyber Monday 2024: PCs, Laptops, and more
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: An eye-catching lineup of gaming laptops, monitors, GPUs, and other accessories are included in this year's Cyber Monday sale by several retailers at reduced prices. Featuring an all-new premium aluminum chassis with customizable lighting, this laptop merges style and durability. Below is what Walmart had to highlight about this product: "Chipset: AMD RX 7900 XT|Memory: 20GB GDDR6|XFX MERC Triple Fan Cooling Solution|Boost Clock: Up to 2535 MHz" 5. You're ready to roll with a top-of-the-line processing AMD CPU and NVIDIA GeForce RTX graphics, with OMEN Gaming Hub helping to push the performance of both even farther." Below is what Walmart had to mention regarding this laptop: "YOU ARE INDIANA JONES - Live the adventure as Indy in a thrilling story full of exploration, immersive action, and intriguing puzzles."
+Financial_Events: []

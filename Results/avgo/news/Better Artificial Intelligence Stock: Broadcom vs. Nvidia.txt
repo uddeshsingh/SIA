@@ -1,0 +1,17 @@
+Authors: ['Robert Izquierdo', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-25 15:00:00
+Description: None
+Filename: .json
+Image_Url: https://g.foolcdn.com/editorial/images/798589/ai-chip-glowing-with-bright-colors-on-circuit-board-gettyimages-1464561797-1200x675-c2b5ff2.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Better Artificial Intelligence Stock: Broadcom vs. Nvidia
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Among the companies benefiting from artificial intelligence (AI) entering the mainstream are semiconductor giants Broadcom (AVGO 2.73%) and Nvidia (NVDA 0.28%). As a result, Broadcom stock skyrocketed to a 52-week high of $186.42 in October, a dramatic change from the $90.31 low it was at last December. The VMware Cloud Foundation (VCF) platform enables Broadcom's customers to establish a private AI. This type of computer architecture processes data-intensive tasks separately from the work handled by a CPU, making it ideal for complex tech such as AI. As the chart shows, once AI demand exploded in 2023, Nvidia's EPS rocketed up while Broadcom's declined.
+Financial_Events: ['4, Broadcom delivered $13.1 billion in revenue, a 47% year-over-year increase.\nIts networking hardware, in particular, benefited from AI demand, as sales in this area rose 43% year over year to $4 billion', "But softness in non-AI related sales meant the division's overall Q3 revenue growth was just 5% year over year to $7.3 billion.\nThe other major area of Broadcom's business, software to manage IT infrastructure, grew a whopping 200% year over year to $5.8 billion thanks to the company's acquisition of VMware last November", 'It achieved record Q3 revenue of $35.1 billion, up 94% from the prior year.\nThe company expects this sales growth to continue into Q4 with revenue estimated to reach around $37.5 billion', "One consideration is to look at the diluted earnings per share (EPS) for each company.\nAs the chart shows, once AI demand exploded in 2023, Nvidia's EPS rocketed up while Broadcom's declined", "Over its last three fiscal quarters, Broadcom's net income dropped to $1.6 billion from $10.6 billion in the previous year as it dealt with higher expenses related to its VMware acquisition.\nAnother factor to weigh is the price-to-earnings ratio (P/E ratio) for each company", 'This metric tells you how much investors are willing to pay for every dollar of earnings, which helps you to assess the relative value of a stock.']

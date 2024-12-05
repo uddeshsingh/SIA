@@ -1,0 +1,17 @@
+Authors: ['Kyt Dotson', 'GUEST AUTHOR', 'MARIA DEUTSCHER', 'ROBERT HOF', 'PAUL GILLIN', 'JAMES FARRELL']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-29 08:00:03
+Description: Salesforce launches Agentforce AI agent platform into general availability - SiliconANGLE
+Filename: .json
+Image_Url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/ai-agents-walking.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Salesforce launches Agentforce AI agent platform into general availability
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Salesforce Inc. today announced the general availability of Agentforce, its suite of tools for building autonomous artificial intelligence agents to augment work for enterprise employees worldwide. To that end, Agentforce is an all-in-one solution designed to put everything together and deliver working agents out-of-the-box that are easy to customize with English prompts and deploy with low-code or no-code tools. Starting today, they don’t need to take this DIY approach to AI.” Agents launched by users from Agentforce get access to Salesforce’s ecosystem of application partners, which provides them a large number of what the company calls “skills,” or tooling capabilities. The company also announced the Agentforce AI Partner Network, which provides enterprises with what they need to add these capabilities and functions from their platforms or deploy partner-built agents for industry-specific roles. Leading global systems integrators, including Accenture plc, Capgemini SE, Deloitte Touche Tohmatsu Ltd., IBM Corp. and PricewaterhouseCoopers LLP, also partnered with Salesforce to assist enterprise customers in building and deploying AI agents.
+Financial_Events: []

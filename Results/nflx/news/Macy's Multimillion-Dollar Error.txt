@@ -1,0 +1,17 @@
+Authors: ['Motley Fool Staff, The Motley Fool', 'AOL Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:21:00
+Description: We also talk about snack foods, AI, Netflix's strategy on live events, and more.
+Filename: .json
+Image_Url: https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Macy's Multimillion-Dollar Error
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: There's a good article in the New York Times, I'll link it in the show notes by Thomas Weber, it's about how the junk food industry is trying to adapt to wider spread GLP one drug use. It's called Matson, and it's trying to develop food for GLP 1 users, thinking like chicken sticks wrapped in mozzarella or brownie bite cubes with way protein in them. Bob Nolan, who's a senior vice president at Conagra Brands, told the writer, "you're probably not going to want to be in the kitchen prepping an elaborate meal just to have a few bites." Lucas Shaw: It's definitely a trade off because actually the 17 billion figure has been pretty steady for probably two or three years now, and the money for live comes out of the larger unscripted budget because it all folds up under this executive Brandon Reg. Ricky Mulvey: On Netflix's film strategy, along with Thomas Buckley, you reported that now they're talking to IMAX to get Greta Gerwig's Narnia on very large screens.
+Financial_Events: ['I think I would look for a company that did a lot of transactions, probably dealt with a lot of inventory, and probably mentioned shrink a lot in their earnings calls over the last couple of years', "Given the Livongo acquisition and everything that they're doing to try to address chronic conditions and whatnot", 'You go through an Nvidia earnings call']

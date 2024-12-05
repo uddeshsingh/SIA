@@ -1,0 +1,17 @@
+Authors: ['Ben Stockton']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 14:05:28
+Description: The new app is now available as a wider release for the general public, ready for you to manage your Nvidia GeForce RTX graphics card.
+Filename: .json
+Image_Url: https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/11/nvidia-geforce-app-officially-released.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia app is now out of beta, download it for your GeForce RTX gaming GPU now
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nvidia’s new app replaces the older GeForce Experience and Control Panel apps as the one-stop shop for managing your GeForce graphics card settings on your Windows system and in-game. The company has also been using your own Nvidia app feedback to help guide the development decisions that it’s been making. This gives you access to screenshots and screen recording tools, as well as game filters to improve the gameplay experience, such as the RTX HDR filter to bring HDR support to games that don’t natively support it, as well as the AI-powered RTX Dynamic Vibrance filter which improves clarity and color in darkened game environments. This is the first official launch of Nvidia’s new app, but that doesn’t mean the development process is over. That said, it’s not surprising that Nvidia is getting the app out first, giving it a chance to gain some important additional feedback from users before its brand-new graphics cards are released.
+Financial_Events: []

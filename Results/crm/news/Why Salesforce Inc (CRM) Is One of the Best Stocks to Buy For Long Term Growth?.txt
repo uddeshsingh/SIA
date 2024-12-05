@@ -1,0 +1,17 @@
+Authors: ['Maleha Afzal']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 18:30:27
+Description: We recently published a list of 10 Best Stocks to Buy For Long Term Growth.
+Filename: .json
+Image_Url: https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19164444/CRM-insidermonkey-1695156282285.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Why Salesforce Inc (CRM) Is One of the Best Stocks to Buy For Long Term Growth?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: On November 26, Venu Krishna, head of US equity strategy at Barclays, joined Yahoo Finance to share his opinion on the stock market, particularly the tech sector. While turmoil and uncertainty remain a key element in the market, some stocks are revolutionary enough that they are bound to offer great opportunities in the coming years, if not now. Previously the launch of AsyncAPI in MuleSoft aimed to facilitate the widespread adoption of event-driven infrastructures, allowing businesses to respond to real-time events faster. On November 27, the company and AWS expanded their existing partnership by empowering customers to focus on technology and the full potential of AI. While we acknowledge the potential of CRM to grow, our conviction lies in the belief that certain AI stocks hold greater promise for delivering higher returns, and doing so within a shorter time frame.
+Financial_Events: ['All these reasons combined explain the price target of 6,600 for the S&P 500.\nSpeaking of the technology sector, Krishna agreed that the “market is, on a consistent basis, underestimating the earnings power of tech, especially big tech.” He added that at the same time, the market is also overestimating the earnings power of the other non-tech names in the S&P 500', 'He shared that the market expected Big Tech to post earnings up by 19% year-over-year and have “flat revisions” in the third quarter', 'Non-tech stocks on the other hand were marked down by 2%.\nHowever, Krishna revealed that as the earnings period of Q3 2024 comes to a close, Big Tech actually delivered 31% of earnings growth during the quarter', 'He explained that, for example, non-tech stocks were originally marked down, but instead, they expanded by 2%, accelerating at a very slow pace.\nHe also emphasized that the rate at which the market expects Big Tech earnings to slow down is in reality much lower than the actual deceleration rate', 'On November 27, the company and AWS expanded their existing partnership by empowering customers to focus on technology and the full potential of AI.\nOverall, Salesforce Inc (NYSE:CRM) expects to become an AI powerhouse and is expecting a major tailwind in revenue due to AI adoption in the coming years', 'If you are looking for an AI stock that is more promising than CRM but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.\nREAD NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock']

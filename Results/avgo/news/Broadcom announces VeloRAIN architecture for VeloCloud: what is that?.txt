@@ -1,0 +1,17 @@
+Authors: ['Sander Almekinders', 'Federica Monsone', 'Erik van Klinken']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 09:00:00
+Description: After some actual, physical downpours at the beginning of VMware Explore in Barcelona, Broadcom is also making it rain metaphorically this week. It Broadcom is giving VeloCloud a fundamental update. In this article, read all about VeloRAIN and new VeloCloud Edge appliances.
+Filename: .json
+Image_Url: https://www.techzine.eu/wp-content/uploads/2024/11/SD-WAN_RAIN.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Broadcom announces VeloRAIN architecture for VeloCloud: what is that?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: After some actual, physical downpours at the beginning of VMware Explore in Barcelona, Broadcom is also making it rain metaphorically this week. Hence, Broadcom is equipping the VeloCloud portfolio with VeloRAIN, where RAIN stands for Robust AI Networking. By this he means not only distributed inferencing workloads, but also agentic applications and heavy Retrieval-Augmented Generation (RAG) tasks. Broadcom VeloRAIN (the company no longer seems to use the prefix VMware in conjunction with VeloCloud) consists of several components. According to Broadcom, the new program is built with MSPs in mind and consists of three tiers: Pinnacle, Premier and Registered.
+Financial_Events: []

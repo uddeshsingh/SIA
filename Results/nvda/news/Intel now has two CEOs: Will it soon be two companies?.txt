@@ -1,0 +1,17 @@
+Authors: ['Mike Rogoway | The Oregonian/OregonLive', 'Mike Rogoway', 'The Oregonian']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:55:24
+Description: The chipmaker made the unconventional decision to appoint two interim CEOs as Pat Gelsinger abruptly retired.
+Filename: .json
+Image_Url: https://www.oregonlive.com/resizer/v2/AIMWWNVYPFCUNJ43LSWEFDTWHE.jpeg?auth=a3c14e155e98e08431880d568cd10c6fff7b5fd845167f4d32af8b4e463d0701&width=1280&quality=90
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel now has two CEOs: Will it soon be two companies?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Intel CEO Pat Gelsinger’s abrupt retirement Monday may represent the end of an era, the last grasp at restoring one of America’s signature technology companies. Intel’s board hired Gelsinger at the beginning of 2021, unanimously signing on to his plan to return the company to its glory days by spending tens of billions of dollars to upgrade the company’s manufacturing and product portfolio.
+Financial_Events: []

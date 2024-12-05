@@ -1,0 +1,17 @@
+Authors: ['Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-15 01:18:53
+Description: Email threads obtained by News 12 reveal how the city shakeup and resignation of former Wrens Police Chief John Maynard went down.
+Filename: .json
+Image_Url: https://gray-wrdw-prod.gtv-cdn.com/resizer/v2/W4QKH5YKVFG7VEV34GWO44RQDA.png?auth=2e111e2d000d56962c4418c4c091cccc5d4bc4afdedde07c539c9093174e421b&width=1200&height=600&smart=true
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Email threads reveal more on how Wrens police chief’s exit went down
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “I am not sure when nor why any meeting was called with council and has taken place concerning my employment, but it seems to me that the two reasons that I was given and even asked to resign, were all based and led by false information,” Maynard wrote. “The shifts that I worked at the mall were at night, protecting the linemen, their belongings and ensuring they were well rested to continue other restorations,” Maynard wrote. Needs to build confidence and morale back up in the department...Need more of the chief’s presence, guidance and input.” Four months later in May, Maynard received a follow-up. This review mentioned improvements in the police department but echoed previous statements of “lots of work to be done.” The salary increase was still recommended. According to the resignation, Hambrick stated: “I truly enjoyed my time with the city of Wrens and have had the opportunity to work alongside some great folks.
+Financial_Events: []

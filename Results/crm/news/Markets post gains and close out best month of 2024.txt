@@ -1,0 +1,17 @@
+Authors: ['Associated Press']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 21:51:49
+Description: Stocks closed with solid gains as Wall Street put the finishing touches on one of its best months of the year.
+Filename: .json
+Image_Url: https://ca-times.brightspotcdn.com/dims4/default/9764d10/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F68%2F00f075767ba895f04b834430ff25%2F01902ee2793740c99230f0a5ce27f287
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Markets post gains and close out best month of 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The technology giant is hoping recently added artificial intelligence features are enough to entice consumers to treat themselves or their loved ones to a new iPhone for the holidays. Walt Disney Co. has the biggest percentage gain for the month at 22.1%, but the price-weighted index also got a boost from Goldman Sachs, up 17.5% to $608.57, and Salesforce, up more than 13% to $329.99. Investors believe the credit card company’s merger with Capital One has a greater chance of going through under a Trump administration and overall the financial services industry faces less restrictive oversight. Musk also gave a boost to Hasbro shares after he triggered takeover speculation when he asked in a post on X how much the toy and game company was worth. Retailers’ stocks drove market gains after a two-day meeting in Beijing that focused on promoting consumption ended on Thursday.
+Financial_Events: ['Investors believe the credit card company’s merger with Capital One has a greater chance of going through under a Trump administration and overall the financial services industry faces less restrictive oversight.\nTesla shares rose 3.7% on Friday and posted a monthly increase of more than 38%']

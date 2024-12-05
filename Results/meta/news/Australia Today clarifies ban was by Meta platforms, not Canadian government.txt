@@ -1,0 +1,17 @@
+Authors: ['Suhasini Haidar']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 16:06:13
+Description: Australia Today clarifies not being "selectively blocked" by Canada, despite allegations, highlighting freedom of speech concerns.
+Filename: .json
+Image_Url: https://th-i.thgim.com/public/news/national/5ec5r1/article68856833.ece/alternates/LANDSCAPE_1200/2024-11-04T225626Z_170547514_RC290Y91RM74_RTRMADP_3_META-PLATFORMS-ADVERTISING.JPG
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Australia Today clarifies ban was by Meta platforms, not Canadian government
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Australian media portal at the centre of a storm between India and Canada clarified on Monday (November 11, 2024) that it had not been “selectively blocked” by the Canadian government as alleged earlier. Based on Australia Today’s allegations, the Ministry of External Affairs spokesperson had said last week that these were “actions which yet again highlight the hypocrisy of Canada towards freedom of speech”. “We acknowledge the recent statement from the Canadian Foreign Ministry and would like to clarify that we first learned that users in Canada were unable to access our Facebook and Instagram pages shortly after publishing our interview with Indian External Affairs Minister Dr. S. Jaishankar,” Mr. Bharadwaj explained. In Canada, Meta, which owns and operates Facebook and Instagram, blocked the sharing of news content on their sites, irrespective of the outlet,” it said in its statement. Questions over the Ministry statement against the Canadian government had gained prominence, after an Indian fact-checking site “Boom” investigated the allegations and found Australia Today’s claim that it had been specifically banned for publishing Mr. Jaishankar’s interview to be false.
+Financial_Events: []

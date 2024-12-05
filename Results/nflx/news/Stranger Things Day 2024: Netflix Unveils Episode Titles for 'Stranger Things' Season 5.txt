@@ -1,0 +1,17 @@
+Authors: ['Jacob Robinson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 14:00:39
+Description: All eight episodes of the final season of Stranger Things have been unveiled.
+Filename: .json
+Image_Url: https://www.whats-on-netflix.com/wp-content/uploads/2024/11/stranger-things-season-episode-titles.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Stranger Things Day 2024: Netflix Unveils Episode Titles for 'Stranger Things' Season 5
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Fans are patiently waiting for the final season of Stranger Things, which will be released on Netflix sometime in 2025. Meanwhile, fans have been eager to learn more details about the final season as filming is ongoing. It’s the annual celebration of Stranger Things held each November 6th, marking the day Will Byers went missing in the show’s first season. It will feature the final showdown between Eleven and Vecna as our heroes attempt to close the connection to the Upside Down once and for all. The eighth and final episode, titled “The Rightside Up,” suggests our heroes were victorious in closing the connection between our world and the Upside Down.
+Financial_Events: []

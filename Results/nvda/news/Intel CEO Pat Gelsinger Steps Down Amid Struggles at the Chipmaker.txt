@@ -1,0 +1,17 @@
+Authors: ['PC Mag']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:09:42
+Description: In the interim, the US chip giant will be led by CFO David Zisner and Michelle Johnston Holthaus, the head of Intel products.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/ESH8ObUJjqoyLlOSXiP7cA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/f263221a5d5611c5b3f875029bf94df1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel CEO Pat Gelsinger Steps Down Amid Struggles at the Chipmaker
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Intel's board hints that it lost confidence in Gelsinger, who took over as CEO in February 2021 with the goal of restoring the company’s chip manufacturing prowess. "While we have made significant progress in regaining manufacturing competitiveness and building the capabilities to be a world-class foundry, we know that we have much more work to do at the company and are committed to restoring investor confidence,” said Frank Yeary, who has taken over as independent chair of Intel’s board. Yeary also indicated that Intel desperately needs to shore up its products, which include chips for PCs, servers, and AI-powered data centers. It has been a challenging year for all of us as we have made tough but necessary decisions to position Intel for the current market dynamics.” As CEO, one of Gelsinger’s main bets was building out a chip foundry business, making it a manufacturing processor for third-party clients like Apple, Nvidia, and Qualcomm. Yeary added: “With Dave and MJ’s leadership, we will continue to act with urgency on our priorities: simplifying and strengthening our product portfolio and advancing our manufacturing and foundry capabilities while optimizing our operating expenses and capital.
+Financial_Events: []

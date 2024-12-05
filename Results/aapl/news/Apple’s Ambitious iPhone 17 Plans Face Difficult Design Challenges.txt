@@ -1,0 +1,17 @@
+Authors: ['Ewan Spence']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 14:57:29
+Description: Apple's plan to introduce a new and fashionable iPhone is facing a significant problem that could limit its success.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/67325f8cfd278050a2a542ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple’s Ambitious iPhone 17 Plans Face Difficult Design Challenges
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Yet a recent report suggests that a critical component that would facilitate a slimmer iPhone will not be ready in time, forcing Apple to compromise on the specifications or the physical dimensions of the new iOS-powered smartphone. The Key To An iPhone 17 Slim Noted smartphone commentator Jukanlosreve highlights various leaks across the supply chain around Apple’s endeavour to use a new substrate material inside the battery. While not explicit, there has been a reduction in size where possible, although each step smaller has required Apple’s engineering to work hard on issues such as battery life, durability and cooling to keep them at acceptable levels. Early reviews of the Galaxy Z Fold SE have critiqued the choices made by Samsung to reach the slim profile, including removing support for the S-Pen stylus, increasing the size of the camera system and the relatively low battery capacity of 4400 mAh. The display's complexity could also be reduced, but that leads to a drop in quality and leaves Apple in an awkward place if it is pitching the Slim as the fashionable iPhone.
+Financial_Events: []

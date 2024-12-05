@@ -1,0 +1,17 @@
+Authors: ['Ross W Berman IV']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-03 20:53:46
+Description: Netflix is seemingly not interested in adhering to WWE's brand split, as it has some "SmackDown" superstars on its "WWE Raw" wishlist.
+Filename: .json
+Image_Url: https://www.wrestlinginc.com/img/gallery/backstage-news-on-wwe-raws-netflix-transition/l-intro-1730667124.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Backstage News On WWE Raw's Netflix Transition
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: "WWE Raw" is heading to Netflix on January 6, after 30 years on cable television. As WWE prepares for the big streaming debut, new details have emerged about the Netflix premiere. According to Fightful Select, Netflix has mentioned "SmackDown" stars Roman Reigns and Cody Rhodes alongside "Raw" superstars like CM Punk as wrestlers they hope will be featured on the show. Further adding to Netflix's seeming ambivalence to WWE's brand split, "SmackDown" wrestlers like WWE Tag Team Champions the Motor City Machine Guns, the LWO, IYO SKY, and other members of the roster were on hand to film a commercial for Netflix. Also at the commercial filming was Baron Corbin, whose departure from WWE was announced just days after the production.
+Financial_Events: []

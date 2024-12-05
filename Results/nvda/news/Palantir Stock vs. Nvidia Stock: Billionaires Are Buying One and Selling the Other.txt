@@ -1,0 +1,17 @@
+Authors: ['Adam Spatacco, The Motley Fool', 'AOL Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:00:00
+Description: Palantir and Nvidia have emerged as two of the hottest names fueling the AI movement.
+Filename: .json
+Image_Url: https://media.zenfs.com/en/aol_the_motley_fool_392/bfd02968bdcdae14c7c92ba46737bcb0
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Palantir Stock vs. Nvidia Stock: Billionaires Are Buying One and Selling the Other
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: With Palantir and Nvidia looking like two of the AI realm's most dominant forces, would you be surprised to learn that some of Wall Street's brightest minds are only buying one of these stocks right now? The advent of AIP has catapulted Palantir into the forefront of the AI narrative, helping the company accelerate revenue across both the commercial and public sectors, all while achieving notable margin expansion and consistent profitability. As the chart above illustrates, the company has experienced notable valuation expansion throughout 2024 and has emerged as one of the priciest software-as-a-service (SaaS) stocks among its peers. In my eyes, the two most obvious catalysts fueling Nvidia's bull case thesis over the next few years are rising investment in AI-related infrastructure combined with the upcoming launch of the company's next generation GPU architecture, Blackwell. NVDA PE Ratio data by YCharts While Nvidia's valuation isn't cheap per se, the company's current price-to-earnings (P/E) and price-to-free-cash-flow (P/FCF) multiples are trading relatively in line with 10-year averages.
+Financial_Events: ['The advent of AIP has catapulted Palantir into the forefront of the AI narrative, helping the company accelerate revenue across both the commercial and public sectors, all while achieving notable margin expansion and consistent profitability', 'Shaw for reducing their exposure.\nThe stock has had a historic run, and now appears to be a logical opportunity to lock in some profits.\nWhy buy Nvidia right now?\nNvidia is one of the most important pillars supporting the entire AI ecosystem right now', "The company's chip sets, known as graphics processing units (GPUs), are perhaps the most coveted piece of infrastructure for generative AI development.\nIn my eyes, the two most obvious catalysts fueling Nvidia's bull case thesis over the next few years are rising investment in AI-related infrastructure combined with the upcoming launch of the company's next generation GPU architecture, Blackwell.\nSimilar to why I think investors are selling Palantir, the primary reason influencing the decisions to buy Nvidia could be valuation.\nNVDA PE Ratio data by YCharts\nWhile Nvidia's valuation isn't cheap per se, the company's current price-to-earnings (P/E) and price-to-free-cash-flow (P/FCF) multiples are trading relatively in line with 10-year averages"]

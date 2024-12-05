@@ -1,0 +1,17 @@
+Authors: ['Hilbert Hagedoorn']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 13:43:00
+Description: Featuring a unified GPU control center, NVIDIA app allows fine-tuning of game, program, and driver settings from a single place, while introducing a redesigned in-game overlay for convenient access to powerful gameplay recording tools, performance monitoring overlays, and game enhancing filters, including innovativ ...
+Filename: .json
+Image_Url: https://www.guru3d.com/data/publish/224/27e459c05a3b1dcae5b4b6acfff4d655e06963/image.webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: NVIDIA App Is Now Officially Released And Out Of Beta
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Featuring a unified GPU control center, NVIDIA app allows fine-tuning of game, program, and driver settings from a single place, while introducing a redesigned in-game overlay for convenient access to powerful gameplay recording tools, performance monitoring overlays, and game enhancing filters, including innovative new AI-powered filters for RTX users. When compared to GeForce Experience, it installs in half the time, offers a modernized UI that is 50% more responsive, and includes numerous features via easily navigated sub-sections: Home: Access every element of NVIDIA app with a few clicks, load and configure your most recently used programs, view the latest NVIDIA announcements, and download other NVIDIA applications NVIDIA Overlay: Redesigned and enhanced, now boasting 4K 120 FPS AV1 video capture, AI-powered RTX game filters, a new Gallery to sort and view your videos and screenshots, and a highly customizable statistic overlay for viewing hardware stats on the desktop and during gameplay Drivers: Redesigned with bullet points to call out “what’s new” and “what’s fixed,” single carousel to access driver-related articles on games and technologies, and ability to rollback to previous drivers. Graphics: Optimal Playable Settings and relevant NVIDIA Control Panel options are now accessible in a unified interface. System: Configure your displays, enable G-SYNC, enhance local and streamed videos with our AI-powered Video Super Resolution and High Dynamic Range features, tune your GPU's performance for faster frame rates, and view rig details Redeem: Claim GeForce Rewards for your favorite games and apps, including our newly-launched GeForce Reward for the game THRONE AND LIBERTY Settings: Change NVIDIA app's language, adjust app options, configure notifications, and more. Of note, settings that are no longer relevant for modern applications are still accessible via NVIDIA Profile Inspector for users wanting to enhance and customize legacy games and apps.
+Financial_Events: []

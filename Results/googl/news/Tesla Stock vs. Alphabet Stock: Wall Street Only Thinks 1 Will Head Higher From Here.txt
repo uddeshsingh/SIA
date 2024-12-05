@@ -1,0 +1,17 @@
+Authors: ['Adam Levy', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 10:55:00
+Description: Wall Street's price targets predict these self-driving car stocks will head down different roads over the next year.
+Filename: .json
+Image_Url: https://g.foolcdn.com/editorial/images/799071/gettyimages-bull-bear-phone-buy-sell-stock-chart.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tesla Stock vs. Alphabet Stock: Wall Street Only Thinks 1 Will Head Higher From Here
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In the race to develop fully self-driving cars, there are two clear front-runners today: Tesla (TSLA 3.46%) and Alphabet's (GOOG 1.46%) (GOOGL 1.50%) Waymo. The company held a big event in October at which CEO Elon Musk unveiled the Cybercab, a self-driving coupe, and the Robovan, a 20-seater vehicle with the sleek profile of a high-speed train engine. It needs a more advanced solution capable of responding correctly across every conceivable condition and situation before it can roll out a software update that makes full self-driving available to Tesla owners. Even if the stock price fell to Wall Street's median estimate of $265, its multiple would still be high at about 60 -- a level that suggests most analysts are extremely optimistic about the potential for Tesla to grow its vehicle sales and win a substantial share of the market with robotaxis once they launch. During Alphabet's third-quarter earnings call, CEO Sundar Pichai said that each week, Waymo's vehicles complete 150,000 rides and drive more than 1 million total miles.
+Financial_Events: ["Ark Invest, headed by Cathie Wood, predicts that between 63% and 88% of Tesla's revenue will come from robotaxis by 2029", 'That gives it the advantage of being able to tap into Google\'s resources, including algorithms, computing power, and perhaps most importantly, its cash.\nWaymo is part of Alphabet\'s "other bets" segment, which generated total revenue of $388 million last quarter and an operating loss of $1.1 billion', "During Alphabet's third-quarter earnings call, CEO Sundar Pichai said that each week, Waymo's vehicles complete 150,000 rides and drive more than 1 million total miles", 'It has been a big beneficiary of artificial intelligence spending, as its cloud platform revenue has ballooned to more than $10 billion per quarter']

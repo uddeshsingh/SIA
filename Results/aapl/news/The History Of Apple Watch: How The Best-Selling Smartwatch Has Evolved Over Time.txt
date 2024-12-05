@@ -1,0 +1,17 @@
+Authors: ['Andrew Ekuwem']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:30:59
+Description: The Apple Watch revolutionized what was possible through smartwatches and have become health-and-fitness tracking necessities for many.
+Filename: .json
+Image_Url: https://www.slashgear.com/img/gallery/the-history-of-apple-watch-how-the-best-selling-smartwatch-has-evolved-over-time/l-intro-1732205018.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The History Of Apple Watch: How The Best-Selling Smartwatch Has Evolved Over Time
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In the second quarter of 2015, the year it was released, the company shipped out 4.2 million units of the Apple Watch, beating brands like Xiaomi to become the world's leading vendor of smartwatches. This generation also kept the same design as the previous watches but had all-around upgrades, like improved battery life and 16 GB storage space, double that of earlier models. Overall, while the Apple Watch SE fell behind the Series 6 in terms of features, it was still a great option, and users still got a faster processor than older models. Rumors had suggested that users would get a number of new features, like a temperature sensor, blood sugar level detector, satellite connectivity, and crash detection. This piece of tech, built with a titanium-made 49mm case, was noticeably larger than the other Apple Watches, equipped with a bigger strap, more buttons, and a 2,000-nits ultra-bright screen.
+Financial_Events: []

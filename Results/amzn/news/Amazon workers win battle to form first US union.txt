@@ -1,0 +1,17 @@
+Authors: ['Natalie Sherman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2022-04-01 16:48:50
+Description: The Amazon Labor Union won a contest to establish the first unionised Amazon warehouse in the US.
+Filename: .json
+Image_Url: https://ichef.bbci.co.uk/news/1024/branded_news/59E0/production/_123980032_tv075007346.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon workers win battle to form first US union
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: However, in Alabama, where Amazon was facing a separate union drive, the company appeared to have fended off activists in a tight contest in which challenged ballots could yet overturn that result. Rebecca Givan, professor of labour studies at Rutgers University, said Amazon's defeat by Mr Smalls and his team of worker-organisers was a "really big deal", calling it a "David and Goliath story" that upset the odds. Amazon said it may challenge the results, citing the timing of a decision by the National Labor Relations Board to sue the company last month alleging unfair labour practices in New York. As part of its statement, it shared comments by two of the country's most powerful business lobbies also raising objections, including a letter from the National Retail Federation to congressional leaders that called for an investigation of the matter. Organisers said Amazon made critical mistakes ahead of the vote, such as pushing to reverse policies relaxed under Covid, including allowing workers to keep their mobiles with them while working.
+Financial_Events: []

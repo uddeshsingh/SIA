@@ -1,0 +1,17 @@
+Authors: ['Asher Notheis', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 18:15:24
+Description: Brendan Carr praised Elon Musk’s advocacy for free speech with X, arguing more people need to move in his direction and “away from government control.”
+Filename: .json
+Image_Url: https://www.washingtonexaminer.com/wp-content/uploads/2024/12/X-scaled.webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Trump’s FCC chairman nominee says social media should follow X on free speech
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: When asked about a ban of social media platform TikTok in the United States and whether or not Trump would take action to stop this ban, Carr pointed to how this topic is “in the court system,” adding that “we’ll see the actions” that Trump takes regarding it. “I think we’re all going to follow President Trump’s lead on that one, but what’s clear is we need a lot more competition,” Carr said on Fox News’s Sunday Morning Futures with Maria Bartiromo, guest-hosted by Jackie DeAngelis. What Twitter has done, what X has done now with Elon Musk in terms of restoring freedom of speech, that’s so important and integral to this country. Carr contended that restoring freedom of speech is vital to the nation, adding that Facebook and other social media platforms have been part of a “censorship cartel” in cooperation with advertisers to censor people. Another major factor would be to eliminate the promotion of diversity, equity, and inclusion initiatives in the FCC, for which Carr argued “there’s no place.”
+Financial_Events: []

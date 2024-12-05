@@ -1,0 +1,17 @@
+Authors: ['Laura Bratton']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-08 21:38:24
+Description: AI chipmaker Nvidia has officially joined the Dow Jones Industrial Average, replacing its struggling counterpart Intel.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/o9NIHkzXY3m1NrfdxhAJ1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/e4371f30-e5f5-11ee-97f6-9af8b1858f04
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia, the world's most valuable company, has officially joined the Dow
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: AI chipmaker Nvidia (NVDA) has officially joined the Dow Jones Industrial Average (^DJI), cementing the tech giant's significance in the artificial intelligence era. But really most of America knows the Dow,” said Ritholtz Wealth Management chief market strategist Callie Cox in an interview with Yahoo Finance Friday, “So a lot of America is going to be introduced or at least have to get a little bit more familiar with Nvidia, and all of what Nvidia means in this AI story.” The AI chip market is set to grow 99% in 2024 and another 74% next year, according to consulting firm International Business Strategies, which tracks industry data. Meanwhile, the former tech darling Intel (INTC), which Nvidia replaced in the Dow, has fallen nearly 50% since the beginning of 2024 as investors grow wary of its ongoing production issues and gloomy financials and question whether its turnaround plan will succeed. In Trump's second term, Nvidia, like the rest of the AI chip market, could face hurdles in the form of high tariffs on Chinese goods and heightened trade tensions. "Trump's victory brings further uncertainty to the semiconductor sector in terms of its impact on additional China restrictions, higher tariffs, and CHIPS Act funding," Jefferies analysts wrote in a note Friday.
+Financial_Events: ['Davidson analyst Gil Luria told Yahoo Finance in an interview this week.\nThe chipmaker is set to report quarterly earnings on Nov']

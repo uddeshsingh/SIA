@@ -1,0 +1,17 @@
+Authors: ['Yi-Jin Yu', 'Good Morning America']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:52:00
+Description: A New York high school ice hockey player has died following a "sudden medical event" during a game on Dec. 1, 2024.
+Filename: .json
+Image_Url: https://i.abcnewsfe.com/a/f6fd9502-2bca-4339-b3fd-54712368e8bf/connor-kasin-1-ht-gmh-241202_1733176100546_hpMain_16x9.jpg?w=992
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: High school ice hockey player dies after losing consciousness during game
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A New York high school ice hockey player died Saturday night after losing consciousness midway through a game. Nassau County Police said in a news release that officers responded to an incident on Nov. 30 at 9 p.m. at the Town of Oyster Bay Ice Skating Center in Bethpage, New York. "Connor experienced a sudden medical event during a varsity ice hockey game last night and was transported to the hospital by ambulance," the letter from Massapequa High School Principal Barbara Lowell read in part. He had a way of bringing light and joy to those around him, and his absence will be felt deeply by all of us," Brennan wrote in a message shared with Massapequa students and families. The coaches of the Massapequa varsity ice hockey team said in a joint statement that Connor's unexpected death had left their community "completely heartbroken."
+Financial_Events: []

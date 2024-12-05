@@ -1,0 +1,17 @@
+Authors: ['Keithen Drury, The Motley Fool']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 23:00:00
+Description: Nvidia has been a top performer in 2024.
+Filename: .json
+Image_Url: https://media.zenfs.com/en/motleyfool.com/e6602fd13b3dd8b9e239523e083cbf6b
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Is Nvidia Headed to $200 in 2025?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: While the stock doubling or tripling isn't likely to occur, a modest gain, like crossing the $200 price per share mark, may be in the cards. Artificial intelligence (AI) has been a huge driver across the entire stock market, and few companies (if any) have benefited as much as Nvidia. Nvidia makes graphics processing units (GPUs), which are used to train and run AI models. These two factors caused Nvidia's profits to soar, which increased the stock price. For FY 2026 (ending January 2026), Wall Street analysts expect about 43% growth, which is still quite impressive for Nvidia's size.
+Financial_Events: ["That's quite the run, and many investors might wonder if year three of its run will also be profitable.\nWhile the stock doubling or tripling isn't likely to occur, a modest gain, like crossing the $200 price per share mark, may be in the cards", "Furthermore, multiple GPUs can be connected in clusters to create unreal processing speeds.\nOver the past two years, nearly all of the big tech players have purchased thousands (if not hundreds of thousands) of GPUs from Nvidia, which is why its revenue has skyrocketed.\nNvidia's margins also expanded during this run, as its profit margin rose from about 30% to more than 55%", "These two factors caused Nvidia's profits to soar, which increased the stock price.\nThe question is, how long will those catalysts last? After all, no company can sustain its revenue doubling year over year forever.\nNvidia has a tough road ahead\nAs Nvidia's results reach tough year-over-year comparisons, its growth rate will naturally slow down, which is what we're seeing now", "In Q2 FY 2025 (ending July 28), Nvidia's revenue rose 122% year over year", 'Q3 looks to bring about more of the same, as management expects $32.5 billion in revenue, up 80% from last year.\nMake no mistake; these are incredible growth figures, but they are slowing down from the rapid growth investors became accustomed to in 2023 and 2024.\nAccording to Wall Street analysts, 2025 will continue the growth moderation trend', 'They also expect earnings per share growth to match revenue growth, rising 43% next year.']

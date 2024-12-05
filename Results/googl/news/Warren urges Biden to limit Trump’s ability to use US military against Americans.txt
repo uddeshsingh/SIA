@@ -1,0 +1,17 @@
+Authors: ['Adam Reilly', 'www.wgbh.org', 'adam-reilly']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:18:50
+Description: The Massachusetts senator and her colleague from Connecticut made their call in a letter released Monday.
+Filename: .json
+Image_Url: https://cdn.grove.wgbh.org/dims4/default/f75f6ec/2147483647/strip/true/crop/8000x4200+0+159/resize/1200x630!/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2F67%2Fea%2Ff875c0da462b9255d6c56c982599%2Fwarren-trump-side-by-side.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Warren urges Biden to limit Trump’s ability to use US military against Americans
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Senator Elizabeth Warren (D-MA) is publicly urging President Joe Biden and Lloyd Austin, Biden’s defense secretary, to take steps to limit the possible use of active-duty U.S. military and National Guard personnel against Americans once President-elect Donald Trump returns to the White House in 2025. Warren and Blumenthal also suggested that the policy directive specify that presidents should consult with Congress “to the maximum extent practicable” before deploying the military under the Insurrection Act, and convey that any military domestically deployed are bound by the Standing Rules for the Use of Force “and cannot violate the writ of habeas corpus, federal law, or where applicable, federal or state law.” As the letter notes, Trump has repeatedly spoken of using the military for domestic purposes, including securing the border and quashing protests. He also said prior to winning reelection that he would be a dictator on his first day in office but not afterward, and has described his political opponents as the “enemy within.” Warren and Blumenthal argue that the U.S. Supreme Court’s ruling in Trump v. United States — which found that presidents enjoy broad immunity from criminal prosecution for the commission of official acts — make it especially important to limit Trump’s future use of the Insurrection Act. This action would set up a future warning alarm and force the next Trump Administration to justify any expansion of the military’s role against its fellow citizens.” Juliette Kayyem, a senior lecturer at Harvard University’s Kennedy School of Government and former assistant secretary in President Barack Obama’s Department of Homeland Security, called the letter an attempt to convey that Trump’s possible abuse of the military poses a real and imminent danger. “Americans seem not to believe what a threat Trump is in this regard, and I welcome putting lines in the sand,” said Kayyem, who also served as Massachusetts Governor Deval Patrick’s homeland security advisor.
+Financial_Events: []

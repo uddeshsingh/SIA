@@ -1,0 +1,17 @@
+Authors: ['Frederic Lardinois']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 04:00:00
+Description: Slowly but surely, Amazon's AWS cloud computing unit has become a major player in the call/contact center space with its Amazon Connect cloud-based (and
+Filename: .json
+Image_Url: https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?resize=1200,900
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: AWS wants to make your call center interactions less painful
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: At its annual re:Invent conference in Las Vegas, the company has now announced a number of updates to Connect which, unsurprisingly, focus on AI, powered by the Amazon Q platform. “When we first came out, we were really a voice-only solution that focused heavily on bringing AI to the contact center [with] scalability, security — the things that are our calling cards for AWS. “Now, we offer channels across everything from chat, email — coming out as we speak — and also SMS, WhatsApp, Apple Messaging for Business.” DeMaio stressed that AWS built Connect as an end-to-end solution that is now in use by over 14,000 external customers, as well as Amazon.com itself. “Companies can now use a single routing and workflow solution for their Amazon Connect and Salesforce channels to intelligently deliver calls, chats, email, and cases to the right self-service or agent interaction,” AWS explains. “When I talk to customers in the real world who are trying to do this, their big thing is: please stop trying to ram [generative] AI down my throat for every solution,” DeMaio said.
+Financial_Events: []

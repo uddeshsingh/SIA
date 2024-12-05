@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Find the latest Salesforce Inc (CRM | US79466L3024) share price plus latest trades, performance, company information and news
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Salesforce Inc Share Price
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Important Information Please note the value of investments can go down as well as up so you may get back less than you invested. This information is not a personal recommendation for any particular investment. If you are unsure about the suitability of an investment you should speak to an authorised financial adviser. The information contained herein: (1) is proprietary to Morningstar and/or its content providers; (2) may not be copied or distributed; and(3) is not warranted to be accurate, complete or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information.
+Financial_Events: []

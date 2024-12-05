@@ -1,0 +1,17 @@
+Authors: ['Eric Song']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:16:00
+Description: More powerful than the newest iPad or iPad Mini.
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Target Just Dropped the Best Cyber Monday iPad Air Deal on Our Favorite iPad of 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The display is superior to the one found on the standard iPad model with more premium features like P3 wide color, True Tone, and an ultra-low reflectivity film that helps combat glare and direct sunlight. If you're interested specifically in the 5th generation Apple iPad Air, I believe this will be the lowest price. However, if you're not yet sure which iPad to get, there will be more deals on other models by the time Black Friday is upon us. The Apple Store is also hosting its own Cyber Monday Sale with their own set of discounts, although usually not as good. Eric Song is the IGN commerce manager in charge of finding the best gaming and tech deals every day.
+Financial_Events: []

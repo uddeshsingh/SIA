@@ -1,0 +1,17 @@
+Authors: ['Shafiq Najib', 'ABC News']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 22:58:00
+Description: Amazon Haul offers a variety of items priced at $20 or less.
+Filename: .json
+Image_Url: https://i.abcnewsfe.com/a/2ccfa33a-5d57-46d3-856d-ad3143ff1b64/amazon-3-as-jm-241113_1731536206859_hpMain_16x9.jpg?w=1600
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon introduces Amazon Haul, a budget-friendly service: What to know
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In an announcement Wednesday, Dharmesh Mehta, vice president of Amazon's Worldwide Selling Partner Services, said the new service aims to offer customers low-priced products across various categories while ensuring authenticity and safety. "Finding great products at very low prices is important to customers, and we continue to explore ways that we can work with our selling partners so they can offer products at ultra-low prices," he said, adding that the company will continue to refine the service based on customer feedback. It offers a separate shopping experience with its own search, cart and checkout, making it easy to browse and purchase low-cost products in one convenient place. The section offers a wide range of affordable items in categories like home goods, electronics, beauty and fashion. With its range of low-cost options and flexible ordering, Amazon Haul is designed to help shoppers find affordable products quickly and conveniently.
+Financial_Events: []

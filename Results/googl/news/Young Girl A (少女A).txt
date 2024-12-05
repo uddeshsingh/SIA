@@ -1,0 +1,17 @@
+Authors: ['Mateus']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2023-09-18 15:18:53
+Description: Young Girl A or 少女A is a song released in 2013 by the Vocaloid Japanese artist siinamota (椎名もた) that delves into deeply introspective thoughts like life, d
+Filename: .json
+Image_Url: https://i.kym-cdn.com/entries/icons/original/000/046/575/young_girl_A_song.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Young Girl A (少女A)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: About Young Girl A or 少女A is a song released in 2013 by the Vocaloid Japanese artist siinamota (椎名もた) that delves into deeply introspective thoughts like life, death, love and self-identity. The music was popularized in the online anime community with remixes, parodies and other video edits shared on YouTube, Facebook, Twitter (X) and TikTok throughout the 2010s and early 2020s. Origin "Young Girl A" was first released on October 17th, 2013, by the Japanese Vocaloid singer Shiina Mota, popularly known as siinamota or PowapowaP. Spread The song resurfaced on social media around early 2022, inspiring parodies and video edits of anime characters. For instance, on January 30th, 2022, YouTuber ynexz273 posted an edited video of the Charlotte anime featuring the "Young Girl A" song (shown below, left), which garnered more than 141,000 views and 9,400 likes in a year.
+Financial_Events: []

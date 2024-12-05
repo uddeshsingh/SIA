@@ -1,0 +1,17 @@
+Authors: ['Alexandra Tremayne-Pengelly', 'observer.com', 'alexandra-tremayne-pengelly']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 18:06:27
+Description: Before it became an A.I. powerhouse due to its sought-after GPUS, Nvidia first saw success in the computer graphics industry.
+Filename: .json
+Image_Url: https://observer.com/wp-content/uploads/sites/2/2024/11/GettyImages-2094937967.jpg?quality=80
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The 12 Executives Behind Nvidia’s Unprecedented A.I. Domination
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Above a table in a San Jose, Calif., Denny’s hangs a plaque that reads: “The booth that launched a $1 trillion company.” The breakfast spot is where, in 1993, engineers Jensen Huang, Chris Malachowsky and Curtis Priem founded the technology company Nvidia (NVDA). Huang, who earned a Bachelor of Science from Oregon State University and a master’s in electrical engineering from Stanford, previously worked at companies like LSI Logic and Advanced Micro Devices. Her leadership “has been instrumental in Nvidia’s success with Wall Street and is key to Jensen’s vision,” Dan Ives, a Wedbush Securities analyst, told Fortune in June. Before joining Nvidia in 2005, Puri spent more than two decades in sales, marketing and management at Sun Microsystems, where his positions included a stint as senior vice president of its Asia-Pacific Group. with renderings and physics simulations, Nvidia’s Omniverse allows for the creation of so-called “digital twins,” which virtually replicate environments and processes to help companies solve issues across areas like factory scale, robotics development or even climate research.
+Financial_Events: []

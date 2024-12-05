@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: iOS 18 brings impressive AI features, RCS functionality, journaling, and interface customization features to the iPhone, though a major Siri update is still in the works.
+Filename: .json
+Image_Url: https://i.pcmag.com/imagery/reviews/00eIV28mIHCxEGGvKru1f9P-1.fit_lim.size_1200x630.v1721156959.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple iOS 18 Review
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Apple loosens its grip on interface customization with iOS 18, giving iPhone users a refreshing degree of personalization that rivals Android. One of the most high-profile additions is Apple Intelligence, which adds convenient writing and photo editing tools to a number of newer iPhone models, though some promised features are still yet to come. Sure, you could reorder apps and swap wallpapers, but you were limited to Apple's rigid grid layout, default icons, and sparse widget placement. Having just returned from vacation, the Journal app offered numerous recent activities to kick-start a new entry, including photo memories, visited locations, and the number of steps I walked. I selected "Night visit to Shibuya" from recent locations, which caused Journal to pull some of my photos, an Apple Maps ping of the prefecture, and a prompt to describe the outing.
+Financial_Events: []

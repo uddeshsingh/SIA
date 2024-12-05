@@ -1,0 +1,17 @@
+Authors: ['Caroline Reid']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:53:06
+Description: The streaming landscape has become so crowded with content that the season-ender of a strong show is no longer guaranteed to get widely reported and watched.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/674d18189cc127f1a416354a/0x0.jpg?format=jpg&crop=2307,1468,x0,y0,safe&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix Top Ten Show Has An AI Star To Thank For Its Popularity
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A far cry from muscle-bound stars like Sylvester Stallone and Arnold Schwarzenegger, Macchio's modest physique made the movie more believable whilst gravitas came from the late Hollywood veteran Pat Morita who played a karate master mentoring the young boy. Its poignant premise and authentic acting made it an unexpected hit and it grossed $91.1 million making it the fifth highest-earning movie of 1984 behind titans like Gremlins and Ghostbusters as well as Indiana Jones and the Temple of Doom – the second instalment to an already-iconic film franchise. It set a high barrier for making a contemporary show based on the films but instead of trying to bring the format up to date, the YouTube series embraced the original's ethos. It sets the scene for rivalries and scuffles between the two camps and rather than treating the subject with seriousness, like the original movie, Cobra Kai is a tongue-in-cheek comedy well aware that its cheesy premise is outdated. This appealed to fans of the original movies and made the show accessible to a new audience which explains why its first season has a perfect critics score of 100% on review aggregator Rotten Tomatoes.
+Financial_Events: []

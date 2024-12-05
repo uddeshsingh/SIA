@@ -1,0 +1,17 @@
+Authors: ['Divya Burman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:27:03
+Description: Walmart Cyber Monday, which happens every year is among the greatest shopping events in the USA.
+Filename: .json
+Image_Url: https://static.soapcentral.com/editor/2024/12/3c620-17331703762616.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Walmart Cyber Monday 2024 sale: 8 best early deals to avail right away
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Most of the deals are available both online and through the Walmart app, making it possible to buy with free shipping on qualifying orders or to pick up items in stores easily. It easily sets up and starts fast for those no-trace fires out beyond the backyard, using our proprietary airflow design to maximize efficiency while keeping the smoke at bay. NEW VERSION of our popular Fire Pits featuring a removable base plate and ash pan that make cleaning an absolute breeze. The PartyBox app allows one to easily configure music and light settings, while multisource playback supports Bluetooth, USB, and aux connections. The Ninja Blast Portable Blender is USB-C rechargeable and has a one-handed sip lid and a carrying handle to keep up with your active lifestyle on the go.
+Financial_Events: []

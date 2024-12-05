@@ -1,0 +1,17 @@
+Authors: ['Maxwell Zeff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:11:14
+Description: Coinbase announced an integration with Apple Pay on Monday, allowing app makers to build the ability to buy crypto with Apple Pay directly into their
+Filename: .json
+Image_Url: https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Coinbase now lets you buy crypto with Apple Pay in third-party apps
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: With the integration of Apple Pay, Coinbase is continuing to push its products toward the average consumer by making crypto purchases more accessible. President-elect Trump has signaled his incoming administration would be kinder to the crypto industry than previous leaders, which has undoubtedly pushed the price of bitcoin to nearly $100,000. Securities and Exchange Commission chair Gary Gensler recently announced he would step down when Trump takes office, marking an end to his years-long crackdown on crypto. Coinbase CEO Brian Armstrong previously criticized Apple for not playing nice with the crypto industry, alleging in 2022 that there could be antitrust issues for the iPhone maker. Earlier this year, the Cupertino-based company pulled Binance, Kraken, and several of the world’s largest crypto exchanges from its App Store in India.
+Financial_Events: []

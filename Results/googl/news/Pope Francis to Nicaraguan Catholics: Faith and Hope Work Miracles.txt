@@ -1,0 +1,17 @@
+Authors: ['Almudena Martínez-Bordiú/ACI Prensa/CNA']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:31:43
+Description: The Pontiff professed the affection he has for the Nicaraguan people, distinguished by their “extraordinary love for God,” whom they affectionately call “Papa...
+Filename: .json
+Image_Url: https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20241202141252_379e3fbfe8bb5209e0ad8885c519af41a686a203b0eed422f0a493284e20aeff.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Pope Francis to Nicaraguan Catholics: Faith and Hope Work Miracles
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Pope Francis has written a moving letter to Catholics in Nicaragua to express his closeness, affection, and incessant prayer to the Virgin, imploring her consolation in the midst of the persecution of the faith that the country is suffering under the regime of President Daniel Ortega and his wife, Vice President Rosario Murillo. In the context of the novena prior to the solemnity of the Immaculate Conception, the Holy Father wrote a Dec. 2 pastoral letter to the “beloved Church in Nicaragua.” The Pontiff professed the affection he has for the Nicaraguan people, distinguished by their “extraordinary love for God,” whom they affectionately call “Papachú.” “I am with you,” the Holy Father assured, encouraging the faithful to trust in Providence, “the only sure guide,” especially in the most difficult moments, when humanly “it becomes impossible to understand what God wants of us.” In these circumstances, he reminded, “we are called not to doubt his care and mercy.” Pope Francis emphasized that trust in God and fidelity to the Church are “two great beacons” that illuminate their lives. The Conception of Mary!” This popular expression marks the celebration of “La Gritería,” a Nicaraguan tradition that fills churches every Dec. 7 in honor of the Mother of God. Among the most controversial measures is a provision that requires that “religious organizations must remain free of all foreign control.” For years, the Ortega regime has intensified a systematic persecution against all expressions of faith in the country. Under the socialist regime, Catholics have been silenced and public expressions of faith, such as prayers for the persecuted or pastoral and spiritual activities, are strictly prohibited.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Paul Gillin', 'DUNCAN RILEY', 'MARIA DEUTSCHER', 'KYT DOTSON']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 08:00:39
+Description: Oracle database on AWS cloud enters limited preview - SiliconANGLE
+Filename: .json
+Image_Url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/oracle.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle database on AWS cloud enters limited preview
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Oracle Corp. today announced a limited preview of its Exadata Database offering on the Amazon Web Services Inc. cloud. They already have similar capabilities on Microsoft Corp. Azure and Google LLC’s Cloud Platform. Oracle is the world’s most popular database management system, followed by its MySQL open-source counterpart, according to SolidIT Consulting & Software Development gmbh’s DB-Engines ranking. They can more easily connect data in their Oracle databases to applications running on Amazon Elastic Compute Cloud, including AWS Analytics services. They can also take advantage of AWS’ artificial intelligence AI services, including Amazon Bedrock, a fully managed service that provides access to various foundation models from Amazon and other vendors.
+Financial_Events: []

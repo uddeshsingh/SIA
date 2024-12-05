@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 13:05:52
+Description: Select customers can begin using Oracle Exadata Database Service on Oracle Database@AWS to simplify the migration and deployment of enterprise workloads to the cloud
+Filename: .json
+Image_Url: https://assets.aboutamazon.com/dims4/default/b79fdfb/2147483647/strip/true/crop/1320x660+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2F08%2F232f7d434fdd9622143a76f5c5f4%2Famazon-smile-og-open-graph.jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle Database@AWS Available in Limited Preview
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “Up until now, it has been impossible to replicate the performance and functionality of Oracle Database on Exadata in AWS,” said Dave McCarthy, research vice president, IDC. “With Oracle Database@AWS, customers can finally enjoy that same experience with an easy migration path to the cloud for their on-premises mission-critical workloads. Customers can also benefit from: Seamlessly and securely connect and analyze data across Oracle Database services and applications they already have running on AWS to get faster, deeper insights without having to build pipelines. A fully unified support experience from both AWS and Oracle, as well as guidance through reference architectures, landing zones, and other collateral for customers to successfully build and run their most trusted enterprise applications in the cloud. “This partnership provides a unified way for customers to use the best of Oracle and AWS to take advantage of the latest AI innovations and simplify operations.
+Financial_Events: []

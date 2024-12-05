@@ -1,0 +1,17 @@
+Authors: ['Michael Bizzaco']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:23:36
+Description: Take all the back-breaking labor out of snow shoveling when you purchase the MZK 20V 13-inch Electric Snow Shovel, now on sale for Cyber Monday.
+Filename: .json
+Image_Url: https://www.digitaltrends.com/wp-content/uploads/2024/12/mzk-20v-13-inch-cordless-shovel-lifestyle-1.jpg?resize=1200%2C630&p=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: This electric shovel is 36% off for Cyber Monday, but hurry!
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Snow shoveling is one of the biggest bummers of the winter season, especially if you’re a person who despises the cold. At just 17.6 pounds, it’s super-easy to cart the shovel around your property, and you can expect up to 25 minutes of performance with a fully charged battery. We were also glad to see that MZK thought to include a built-in LED for tackling snowfall once the sun goes down. Whether you’re short or tall, the MZK features an adjustable handle to properly align with your standing height, too. You’ll also be able to rotate the snow chute by up to 30 degrees, ensuring you don’t get the white stuff anywhere it’s not supposed to land.
+Financial_Events: []

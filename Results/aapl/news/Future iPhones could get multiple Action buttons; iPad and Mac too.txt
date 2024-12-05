@@ -1,0 +1,17 @@
+Authors: ['Ben Lovejoy', 'Justin Kahn', 'Zac Hall', 'Michael Burkhardt']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 12:25:54
+Description: An Apple patent has revealed that future iPhones could effectively get multiple Action buttons, as all three buttons on the...
+Filename: .json
+Image_Url: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/Future-iPhones-could-get-multiple-Action-buttons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Future iPhones could get multiple Action buttons; iPad and Mac too
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In accordance with a determination that the second portion of the first input meets a second set of criteria, the electronic device performs the first operation of the first application. In accordance with a determination that the second portion of the first input meets the second set of criteria, the electronic device performs the second operation of the second application. The drawings primarily show iPhones, but Apple notes that the patent also applies to iPad and Mac. Other portable electronic devices, such as laptops or tablet computers with touch-sensitive surfaces (e.g., touch-screen displays and/or touchpads), are, optionally, used. As always, we caution that Apple patents all kinds of things it never implements, but given the history here of first an Action button and then the Camera Control one, it does seem more likely than not that we can expect the trend to continue.
+Financial_Events: []

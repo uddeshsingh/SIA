@@ -1,0 +1,17 @@
+Authors: ['Alex Donaldson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 14:00:00
+Description: I can’t believe I’m excited about a PC settings app, but here we are. Nvidia’s new software is an excellent much-needed upgrade.
+Filename: .json
+Image_Url: https://assetsio.gnwcdn.com/Nvidia-app-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The new Nvidia App is a brilliant new unified graphics settings powerhouse - and it’s out now
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In fact, by the time you’re reading this, it’ll be available via the usual official channels - but I’ve been road testing the new software ahead of release. The logic is pretty simple; the app has been designed to offer up a single, unified place for settings. It aims to have a higher level of utility than Nvidia’s previous offerings, but arguably its biggest success is in how much tighter, clearer, and cleaner it is than anything that came before. With this one choice, the app immediately reorients what it presents you with, making sure the settings that actually matter for you are front-and-centre. Hopefully over time things like Nvidia Broadcast can be integrated more directly into the app so they don’t operate as discrete applications.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Muktita Suhartono', 'www.nytimes.com', 'muktita-suhartono']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-04 05:02:26
+Description: The Cia-Cia language has been passed down orally for centuries. Now the tribe’s children are learning to write it in Hangul, the Korean script.
+Filename: .json
+Image_Url: https://static01.nyt.com/images/2024/10/29/world/00indonesia-hangul-dispatch1/00indonesia-hangul-dispatch1-facebookJumbo.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: An Indonesian Tribe’s Language Gets an Alphabet: Korea’s
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Every desk had a paper nameplate on it with the occupant’s name written in the Korean alphabet, called Hangul. Soon, the students were following their instructor’s lead and etching the distinctive circles and lines of the script in their notebooks. It has survived orally for centuries in Indonesia, and is now spoken by about 93,000 people in the Cia-Cia tribe on Buton Island, southeast of the peninsula of Sulawesi Island in Indonesia’s vast archipelago. “Say, ‘ph.’ Hold a piece of paper in front of your mouth and make sure the paper moves when you pronounce it,” Deuk-young Jung, who has been teaching the alphabet here for more than a decade, told his 40 or so students at Hendea Elementary School, south of the town of Baubau. It is the most linguistically diverse nation in the world after neighboring Papua New Guinea.
+Financial_Events: []

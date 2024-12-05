@@ -1,0 +1,17 @@
+Authors: ['PERRY CHIARAMONTE']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 16:13:30
+Description: Tech giants face hefty fines down under as new law aims to protect children's online safety.
+Filename: .json
+Image_Url: https://wp.nysun.com/wp-content/uploads/2022/12/tiktok.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Social Media Companies Decry Australia’s Ban on Children Under 16 Using Facebook, TikTok, Other Apps
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The law, which bans any child under 16 from having any presence on social media, was passed by the Australian Parliament’s Senate on Thursday after it had been overwhelmingly approved by its House of Representatives a day earlier on a 102-13 vote, according to the Associated Press. “Platforms now have a social responsibility to ensure the safety of our kids is a priority for them,” Australia’s prime minister, Anthony Albanese, told reporters after the bill was passed into law. Social media platforms would not be allowed to force users to provide government-issued IDs like passports or driver’s licenses, nor will they be able to demand digital identifications through a government system. While the new policy is the first nationwide ban, lawmakers in Washington have been working on a bipartisan bill this year that aims to protect American children from what they say are the harmful effects associated with social media use. Arkansas and Utah have enacted laws requiring social media platforms to use age verification and parental consent while including provisions blocking minors from sharing content.
+Financial_Events: []

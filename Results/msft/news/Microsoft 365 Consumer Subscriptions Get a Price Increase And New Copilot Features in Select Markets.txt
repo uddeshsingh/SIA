@@ -1,0 +1,17 @@
+Authors: ['Laurent Giret']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 16:01:20
+Description: Microsoft is upgrading its Microsoft 365 Personal and Family subscriptions with new Copilot features in select Asian countries, but they come at a cost.
+Filename: .json
+Image_Url: https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/11/Microsoft-365-Personal-Copilot.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Microsoft 365 Consumer Subscriptions Get a Price Increase And New Copilot Features in Select Markets
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: We’ve spent that time adding new features, improving performance, and listening carefully to customer feedback. However, consumers can still pay for a separate Copilot Pro subscription to get rid of these monthly usage limits. As for price increases, they will apply to existing Microsoft 365 Personal and Family subscribers upon their next renewal, and they will vary in each market. While the official announcement doesn’t mention this, ZDNet reported that a “Microsoft 365 Classic” option will be available for consumers who don’t want to pay for more for these Copilot features. We don’t have anything more to share today.” Would you be willing to pay more for your Microsoft 365 Personal or Family subscription in exchange for new Copilot features?
+Financial_Events: []

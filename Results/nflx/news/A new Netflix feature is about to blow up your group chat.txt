@@ -1,0 +1,17 @@
+Authors: ['Steve Vegvari']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-28 18:20:13
+Description: You can now share moments from your favorite shows using a link, here's how.
+Filename: .json
+Image_Url: https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2024/03/caspar-camille-rubin-vbgylwhnw88-unsplash.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: A new Netflix feature is about to blow up your group chat
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Key Takeaways Netflix's Moments feature allows users to bookmark scenes and easily share them with others. Netflix is rolling out a new Moments feature that lets you bookmark specific scenes or instances from a series or movie. This function will undoubtedly enable Netflix subscribers to generate even more viral discussions about a new series or movie. Speaking with The Verge, Netflix spokesperson Dorian Rosenburg says that it'll ultimately depend on the length of the content. From the sounds of it, you'll likely be able to bookmark more of say Stranger Things than you would when wanting to clip Moments from Beverly Hills Cop: Axel F. However, Rosenberg does state, "There’s plenty of space to save your favorite Moments, so most members won’t need to worry about a limit when it comes to saving across multiple shows and movies.”
+Financial_Events: []

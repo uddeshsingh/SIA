@@ -1,0 +1,17 @@
+Authors: ['Michelle Ehrhardt']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:45:00
+Description: For Cyber Monday, gaming consoles, accessories, collectibles, and games are on sale across Amazon, Best Buy, and more.
+Filename: .json
+Image_Url: https://lifehacker.com/imagery/articles/01JDN0W0NJMVY997C7M5PH4ED3/hero-image.fill.size_1200x675.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: I'm a Tech Editor, and These Are My Favorite Cyber Monday Deals for Xbox, PlayStation, Switch, and PC Gamers
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Hori Split Pad Pro sometimes feels like a downright necessary upgrade for playing the Switch in portable mode, making it far more comfortable to hold over extended periods. This 14-inch model is a bit smaller, but manages to pack an AMD Ryzen 8 8945HS CPU, Nvidia GeForce RTX 4060 GPU, 16GB of RAM, a 1TB SSD, and 2,880 x 1,800 display with a 120Hz refresh rate. The sequel to the modern classic The Legend of Zelda: Breath of the Wild once again sees players embarking on a more open world journey across Hyrule, this time wielding a magic arm that can build all sorts of wacky contraptions. This brand-new series from the Persona team keeps many of the same element fans of those games have become accustomed to, while also introducing light real-time combat and a fantasy world dealing with political turmoil. This sequel to Final Fantasy VII Remake follows Cloud and friends as they venture beyond Midgard into the wider world, introducing a new slew of open-world mechanics to go alongside their much expanded journey.
+Financial_Events: []
