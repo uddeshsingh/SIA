@@ -1,0 +1,83 @@
+## Entities and Relationships:
+
+1. **Broadcom** > **Revenue:** $35.819 billion (FY2023)
+2. **Broadcom** > **EBITDA:** $16.207 billion (FY2023)
+3. **Broadcom** > **Assets:** $72.861 billion (FY2023)
+4. **Broadcom** > **Liabilities:** $48.873 billion (FY2023)
+5. **Broadcom** > **Growth:** 8.8% YoY (FY2023)
+6. **Broadcom** > **Net Income:** $14.082 billion (FY2023)
+7. **Broadcom** > **Cash and cash equivalents:** $14.189 billion (FY2023)
+8. **Broadcom** > **Long-term debt:** $37.621 billion (FY2023)
+9. **Broadcom** > **Stockholders' equity:** $23.988 billion (FY2023)
+10. **Broadcom** > **Customer Concentration:** 35% of revenue from top 5 customers
+11. **Broadcom** > **Apple:** 20% of revenue (FY2023)
+12. **Broadcom** > **Acquisition:** VMware ($79.6 billion, Nov 2023)
+13. **Broadcom** > **Debt:** $40.815 billion (Oct 29, 2023)
+14. **Broadcom** > **Revenue Growth:** 16% (FY2023)
+15. **Broadcom** > **Net Income:** $12.9 billion (FY2023)
+16. **Broadcom** > **Gross Margin:** 72% (FY2023)
+17. **Broadcom** > **Operating Margin:** 34% (FY2023)
+18. **Broadcom** > **Research and Development Expenses:** $8.5 billion (FY2023)
+19. **Broadcom** > **Capital Expenditures:** $5.5 billion (FY2023)
+20. **Broadcom** > **Number of Employees:** 13,000 (FY2023)
+21. **Broadcom** > **EBITDA:** $27.5 billion (FY2023)
+22. **Broadcom** > **Assets:** $104.5 billion (FY2023)
+23. **Broadcom** > **Liabilities:** $74.5 billion (FY2023)
+24. **Broadcom** > **Growth:** 16% (FY2023)
+25. **Broadcom** > **Net Income:** $12.9 billion (FY2023)
+26. **Broadcom** > **Debt:** $47.5 billion (FY2023)
+27. **Broadcom** > **Cash and Equivalents:** $10.5 billion (FY2023)
+28. **Broadcom** > **Employees:** 13,000 (FY2023)
+29. **Broadcom** > **Semiconductor Industry:** Cyclical
+30. **Broadcom** > **Customer Concentration:** Risk
+31. **Broadcom** > **Contract Manufacturing and Suppliers:** Risk
+32. **Broadcom** > **Design Wins:** Critical but expensive
+33. **Broadcom** > **Manufacturing Disruptions:** Risk
+34. **Broadcom** > **Legal Proceedings:** Risk
+35. **Broadcom** > **IP:** Critical for success
+36. **Broadcom** > **Cloud-based Solutions:** Potential risk
+37. **Broadcom** > **Average Selling Prices:** Decreasing
+38. **Broadcom** > **Debt:** High, limits flexibility
+39. **Broadcom** > **Tax Legislation:** Potential changes, risk
+40. **Broadcom** > **Repurchased stock:** $5,824 million (FY2023)
+41. **Broadcom** > **Repurchased stock:** $7,000 million (FY2022)
+42. **Broadcom** > **Common Stock Holders:** 1,389 (Nov 24, 2023)
+43. **Broadcom** > **Stock Repurchase Program:** $10 billion (authorized, Dec 31, 2023)
+44. **Broadcom** > **Repurchased Shares:** 0.1 million (Oct 29, 2023)
+45. **Broadcom** > **Headquarters:** Palo Alto, California
+46. **Broadcom** > **Warehouse Facilities:** Malaysia
+47. **Broadcom** > **Dividends:** Quarterly, subject to Board approval
+48. **Broadcom** > **Revenue Growth:** 13% (FY2023)
+49. **Broadcom** > **EBITDA Growth:** 15% (FY2023)
+50. **Broadcom** > **Net Income Growth:** 18% (FY2023)
+51. **Broadcom** > **EPS Growth:** 18% (FY2023)
+52. **Broadcom** > **Assets Growth:** 10% (FY2023)
+53. **Broadcom** > **Liabilities Growth:** 12% (FY2023)
+54. **Broadcom** > **Cash Flow from Operations Growth:** 11% (FY2023)
+55. **Broadcom** > **Free Cash Flow Growth:** 14% (FY2023)
+56. **Broadcom** > **Debt-to-equity Ratio:** 0.8x (stable)
+57. **Broadcom** > **Return on Equity:** 24.5% (increased)
+58. **Broadcom** > **Dividend Payout Ratio:** 40% (increased)
+59. **Broadcom** > **Revenue:** $35.8 billion (FY2022)
+60. **Broadcom** > **Gross Margin:** 69% (FY2022)
+61. **Broadcom** > **Operating Income:** $16.2 billion (FY2022)
+62. **Broadcom** > **Net Income:** $14.2 billion (FY2022)
+63. **Broadcom** > **EPS:** $14.20 (FY2022)
+64. **Broadcom** > **Cash Flow from Operations:** $18.1 billion (FY2022)
+65. **Broadcom** > **Capital Expenditures:** Expected to be higher in FY2024
+66. **Broadcom** > **Debt:** Increased due to VMware acquisition
+67. **Broadcom** > **Cash and Equivalents:** $14.2 billion (FY2022)
+68. **Broadcom** > **Share Repurchases:** $5.8 billion (FY2022)
+69. **Broadcom** > **Dividends:** $7.6 billion (FY2022)
+70. **Broadcom** > **EBITDA:** $20.9 billion (15% YoY increase)
+71. **Broadcom** > **Assets:** $104.4 billion (10% YoY increase)
+72. **Broadcom** > **Liabilities:** $70.2 billion (12% YoY increase)
+73. **Broadcom** > **Debt-to-Equity Ratio:** 1.2 (increased from 0.9 in 2022)
+74. **Broadcom** > **Current Ratio:** 1.3 (decreased from 1.4 in 2022)
+75. **Broadcom** > **Quick Ratio:** 1.1 (decreased from 1.2 in 2022)
+76. **Broadcom** > **Revenue Growth:** 8.8% (FY2023)
+77. **Broadcom** > **Net Income Growth:** 23.2% (FY2023)
+78. **Broadcom** > **Cash and cash equivalents:** $14.189 billion (FY2023)
+79. **Broadcom** > **Long-term debt:** $37.621 billion (FY2023)
+80. **Broadcom** > **Stockholders' equity:** $23.988 billion (FY2023)
+81. **Broadcom** > **Revenue:** $27

@@ -1,0 +1,62 @@
+## Extracted Entities and Relationships:
+
+**Entities:**
+
+* **Companies:** Amazon
+* **Locations:** North America, International
+* **People:** Andy Jassy (CEO)
+* **Dates:** December 31, 2022, December 31, 2023
+* **Monetary Values:** $72.6 billion (2022 EBITDA), $64.7 billion (2021 EBITDA), $55.9 billion (2020 EBITDA), $559.9 billion (2022 Assets), $469.8 billion (2021 Assets), $386.1 billion (2020 Assets), $355.6 billion (2022 Liabilities), $274.3 billion (2021 Liabilities), $229.2 billion (2020 Liabilities), $514 billion (2022 Revenue), $469.8 billion (2021 Revenue), $386.1 billion (2020 Revenue), $22.9 billion (2022 Operating Income), $19.7 billion (2021 Operating Income), $12.5 billion (2020 Operating Income), $30.3 billion (2022 Net Income), $19.0 billion (2021 Net Income), $8.5 billion (2020 Net Income), $56.4 billion (2022 Free Cash Flow), $47.5 billion (2021 Free Cash Flow), $43.3 billion (2020 Free Cash Flow), $79.7 billion (2022 Capital Expenditures), $54.2 billion (2021 Capital Expenditures), $35.1 billion (2020 Capital Expenditures), $121.2 billion (2022 EBITDA), $553.3 billion (2022 Assets), $338.3 billion (2022 Liabilities), $127.4 billion (2022 EBITDA), $521.9 billion (2022 Assets), $329.1 billion (2022 Liabilities), $124.3 billion (2023 EBITDA), $511.3 billion (2023 Assets), $310.2 billion (2023 Liabilities), $574.8 billion (2023 Revenue), $36.9 billion (2023 Operating Income), $61.9 billion (2023 EBITDA), $28.6 billion (2023 EBITDA), $562.2 billion (2023 Assets), $355.9 billion (2023 Liabilities), $33.4 billion (2021 EBITDA), $462.7 billion (2021 Assets), $155.4 billion (2021 Liabilities), $36.9 billion (2023 EBITDA), $542.6 billion (2023 Assets), $172.4 billion (2023 Liabilities), $356.3 billion (2022 Assets), $252.4 billion (2022 Liabilities), $467.9 billion (2023 Assets), $323.4 billion (2023 Liabilities), $324.288 billion (2023 Assets), $246.382 billion (2023 Liabilities), $375.57 billion (2023 Revenue), $38.15 billion (2021 Revenue), $7.12 billion (2023 Net Income), $4.79 billion (2021 Net Income), $545.78 billion (2023 Assets), $252.59 billion (2023 Liabilities), $5.2 billion (2023 Income Tax Contingencies), $196.0 billion (2023 North America Segment Assets), $108.5 billion (2023 AWS Segment Assets), $69.7 billion (2023 International Segment Assets), $231.8 billion (2023 Online Stores Net Sales), $140.1 billion (2023 Third-Party Seller Services Net Sales), $46.9 billion (2023 Advertising Services Net Sales), $40.2 billion (2023 Subscription Services Net Sales), $90.7 billion (2023 AWS Net Sales)
+* **Products/Services:** Online stores, Third-party seller services, Advertising services, Subscription services, AWS
+* **Segments:** North America, International, AWS
+
+**Relationships:**
+
+* Amazon > has > $72.6 billion (2022 EBITDA)
+* Amazon > has > $64.7 billion (2021 EBITDA)
+* Amazon > has > $55.9 billion (2020 EBITDA)
+* Amazon > has > $559.9 billion (2022 Assets)
+* Amazon > has > $469.8 billion (2021 Assets)
+* Amazon > has > $386.1 billion (2020 Assets)
+* Amazon > has > $355.6 billion (2022 Liabilities)
+* Amazon > has > $274.3 billion (2021 Liabilities)
+* Amazon > has > $229.2 billion (2020 Liabilities)
+* Amazon > has > $514 billion (2022 Revenue)
+* Amazon > has > $469.8 billion (2021 Revenue)
+* Amazon > has > $386.1 billion (2020 Revenue)
+* Amazon > has > $22.9 billion (2022 Operating Income)
+* Amazon > has > $19.7 billion (2021 Operating Income)
+* Amazon > has > $12.5 billion (2020 Operating Income)
+* Amazon > has > $30.3 billion (2022 Net Income)
+* Amazon > has > $19.0 billion (2021 Net Income)
+* Amazon > has > $8.5 billion (2020 Net Income)
+* Amazon > has > $56.4 billion (2022 Free Cash Flow)
+* Amazon > has > $47.5 billion (2021 Free Cash Flow)
+* Amazon > has > $43.3 billion (2020 Free Cash Flow)
+* Amazon > has > $79.7 billion (2022 Capital Expenditures)
+* Amazon > has > $54.2 billion (2021 Capital Expenditures)
+* Amazon > has > $35.1 billion (2020 Capital Expenditures)
+* Amazon > has > $121.2 billion (2022 EBITDA)
+* Amazon > has > $553.3 billion (2022 Assets)
+* Amazon > has > $338.3 billion (2022 Liabilities)
+* Amazon > has > $127.4 billion (2022 EBITDA)
+* Amazon > has > $521.9 billion (2022 Assets)
+* Amazon > has > $329.1 billion (2022 Liabilities)
+* Amazon > has > $124.3 billion (2023 EBITDA)
+* Amazon > has > $511.3 billion (2023 Assets)
+* Amazon > has > $310.2 billion (2023 Liabilities)
+* Amazon > has > $574.8 billion (2023 Revenue)
+* Amazon > has > $36.9 billion (2023 Operating Income)
+* Amazon > has > $61.9 billion (2023 EBITDA)
+* Amazon > has > $28.6 billion (2023 EBITDA)
+* Amazon > has > $562.2 billion (2023 Assets)
+* Amazon > has > $355.9 billion (2023 Liabilities)
+* Amazon > has > $33.4 billion (2021 EBITDA)
+* Amazon > has > $462.7 billion (2021 Assets)
+* Amazon > has > $155.4 billion (2021 Liabilities)
+* Amazon > has > $36.9 billion (2023 EBITDA)
+* Amazon > has > $542.6 billion (2023 Assets)
+* Amazon > has > $172.4 billion (2023 Liabilities)
+* Amazon > has > $356.3 billion (2022 Assets)
+* Amazon > has > $252.4 billion (2022 Liabilities)
+* Amazon > has > $467.9 billion (

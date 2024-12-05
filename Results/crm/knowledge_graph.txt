@@ -1,0 +1,44 @@
+EBITDA > Not explicitly stated > Salesforce
+Assets > Not explicitly stated > Salesforce
+Liabilities > Not explicitly stated > Salesforce
+Growth > Focus on continuous innovation and enabling customers to access the latest technology advances > Salesforce
+Revenue > Not explicitly stated > Salesforce
+Net Income > Not explicitly stated > Salesforce
+Earnings per Share (EPS) > Not explicitly stated > Salesforce
+Customer Base > Global customer base > Salesforce
+Market Share > Not explicitly stated > Salesforce
+Attrition Rate > 8% (excluding Slack) > Salesforce
+Remaining Performance Obligation > Represents future revenue under contract not yet recognized ($56.9 billion) > Salesforce
+Cost of Revenue > 25% of total revenue > Salesforce
+Operating Expenses > 61% of total revenue > Salesforce
+Subscription & Support Revenue > 93% of total revenue > Salesforce
+Professional Services & Other > 7% of total revenue > Salesforce
+Gross Profit > 75% of total revenue > Salesforce
+Operating Income > 14% of total revenue > Salesforce
+Net Income > 12% of total revenue > Salesforce
+Cash & Equivalents > $14.19 billion > Salesforce
+Unearned Revenue > $19.00 billion > Salesforce
+Debt > $9.50 billion > Salesforce
+Cash provided by operations > $10.2 billion (44% YoY growth) > Salesforce
+Total cash, cash equivalents, and marketable securities > $14.2 billion > Salesforce
+Share repurchases > $7.7 billion > Salesforce
+Restructuring costs > $988 million > Salesforce
+EBITDA > $5.0 billion > Salesforce
+EBITDA > $1.0 billion > Salesforce
+EBITDA > $11.4 billion > Salesforce
+EBITDA > Not explicitly stated > Salesforce
+EBITDA > $12.3 billion > Salesforce
+EBITDA > Not explicitly stated > Salesforce
+RSU Award Value > $375,000 > Salesforce
+Number of RSUs > Determined by dividing the RSU Award Value by the closing sales price of Common Stock on the grant date > Salesforce
+Vesting Schedule > Four equal installments on February 22, May 22, August 22, and November 22 of the year of grant > Salesforce
+Vesting Schedule > Pro-rated RSU Award based on the number of days remaining in the fiscal year > Salesforce
+Vesting Schedule > 50% of the RSU Award Value, vested in two equal installments on February 22 and May 22 > Salesforce
+Cash Fees > $150,000 annually > Salesforce
+Cash Fees > $50,000 annually > Salesforce
+Cash Fees > $50,000 annually > Salesforce
+Cash Fees > $50,000 annually > Salesforce
+Cash Fees > $25,000 annually > Salesforce
+Grant Date > First day of the fiscal year for current directors, first day of the month following appointment for new directors > Salesforce
+Number of Shares > Determined by dividing the RSU Award Value by the closing sales price of Common Stock on the grant date > Salesforce
+Tax Obligations > Participant is responsible for all tax obligations related to the RSUs and Shares > Salesforce

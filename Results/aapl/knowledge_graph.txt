@@ -1,0 +1,111 @@
+## Entities and Relationships:
+
+* Apple Inc. > EBITDA > $129.4 billion (up 10% YoY)
+* Apple Inc. > Assets > $386.2 billion (up 12% YoY)
+* Apple Inc. > Liabilities > $269.4 billion (up 14% YoY)
+* Apple Inc. > Revenue > $394.3 billion (up 8% YoY)
+* Apple Inc. > Net Income > $99.8 billion (up 10% YoY)
+* Apple Inc. > Earnings per Share (EPS) > $6.58 (up 10% YoY)
+* Apple Inc. > Gross margin > 43.7% (down 0.3% YoY)
+* Apple Inc. > Operating margin > 25.1% (down 0.2% YoY)
+* Apple Inc. > Cash and cash equivalents > $169.9 billion (up 15% YoY)
+* Apple Inc. > Long-term debt > $114.7 billion (up 18% YoY)
+* Apple Inc. > Services segment > Revenue > $191.8 billion (up 19% YoY)
+* Apple Inc. > iPhone sales > Revenue > $193.1 billion (up 1% YoY)
+* Apple Inc. > Augmented reality > Investment
+* Apple Inc. > Self-driving cars > Investment
+* Apple Inc. > EBITDA > $129.4 billion (up 10% YoY)
+* Apple Inc. > Assets > $375.3 billion (up 12% YoY)
+* Apple Inc. > Liabilities > $257.2 billion (up 14% YoY)
+* Apple Inc. > Revenue > $394.3 billion (up 11% YoY)
+* Apple Inc. > Net Income > $99.8 billion (up 10% YoY)
+* Apple Inc. > Gross Margin > 43.8% (down 0.2% YoY)
+* Apple Inc. > Operating Margin > 25.1% (down 0.3% YoY)
+* Apple Inc. > Net Margin > 25.3% (up 0.1% YoY)
+* Apple Inc. > Return on Equity (ROE) > 104.4% (up 2.4% YoY)
+* Apple Inc. > Return on Assets (ROA) > 26.6% (up 1.6% YoY)
+* Apple Inc. > Earnings per Share (EPS) > $6.11 (up 10% YoY)
+* Apple Inc. > Free Cash Flow > $103.6 billion (up 13% YoY)
+* Apple Inc. > Services segment > Revenue > $182.8 billion (up 24% YoY)
+* Apple Inc. > Apple Music > Revenue
+* Apple Inc. > Apple TV+ > Revenue
+* Apple Inc. > Apple Arcade > Revenue
+* Apple Inc. > Wearables > Revenue
+* Apple Inc. > AirPods > Revenue
+* Apple Inc. > Competition > Smartphone market
+* Apple Inc. > Competition > Personal computer market
+* Apple Inc. > Competition > Tablet market
+* Apple Inc. > Supply Chain Disruptions > Risk
+* Apple Inc. > Product Defects > Risk
+* Apple Inc. > Intellectual Property > Risk
+* Apple Inc. > Cybersecurity > Risk
+* Apple Inc. > Data Security > Risk
+* Apple Inc. > New Business Strategies and Acquisitions > Risk
+* Apple Inc. > Retail Operations > Risk
+* Apple Inc. > Legal and Regulatory Compliance > Risk
+* Apple Inc. > Changing Laws and Regulations > Risk
+* Apple Inc. > Environmental, Social, and Governance (ESG) Considerations > Risk
+* Apple Inc. > Media, Political, and Regulatory Scrutiny > Risk
+* Apple Inc. > Antitrust Investigations and Litigation > Risk
+* Apple Inc. > Quarterly net sales and results of operations > Volatility
+* Apple Inc. > Gross margins > Volatility
+* Apple Inc. > Net sales > Seasonality
+* Apple Inc. > Foreign exchange rates > Risk
+* Apple Inc. > Credit risk > Risk
+* Apple Inc. > Tax rates > Risk
+* Apple Inc. > Stock price volatility > Risk
+* Apple Inc. > Share repurchases > $89.1 billion
+* Apple Inc. > Legal Proceedings > Ongoing investigations
+* Apple Inc. > European Commission > Investigation
+* Apple Inc. > U.S. Department of Justice > Investigation
+* Apple Inc. > Epic Games > Lawsuit
+* Apple Inc. > Net Income > $93.736 billion (2024)
+* Apple Inc. > Net Income > $96.995 billion (2023)
+* Apple Inc. > Net Income > $99.803 billion (2022)
+* Apple Inc. > EBITDA > $123.216 billion (increased 10.9% YoY)
+* Apple Inc. > Assets > $364.980 billion (increased 3.5% YoY)
+* Apple Inc. > Liabilities > $308.030 billion (increased 6.3% YoY)
+* Apple Inc. > Revenue > $391.035 billion (2024)
+* Apple Inc. > Revenue > $383.285 billion (2023)
+* Apple Inc. > Revenue > $394.328 billion (2022)
+* Apple Inc. > EBITDA > $103.036 billion (estimated)
+* Apple Inc. > Cash and Cash Equivalents > $140.8 billion
+* Apple Inc. > Debt > $97.3 billion
+* Apple Inc. > Capital Return Program > $110 billion share repurchase program and $0.25 quarterly dividend
+* Apple Inc. > Deferred revenue > Significant amount
+* Apple Inc. > Marketable securities > Significant amount
+* Apple Inc. > Non-current liabilities > Significant amount
+* Apple Inc. > Share-based compensation expense > $11.7 billion (2024)
+* Apple Inc. > Unconditional purchase obligations > $11.2 billion remaining (as of September 28, 2024)
+* Apple Inc. > Net sales by geographic segment > Americas: $167 billion
+* Apple Inc. > Net sales by geographic segment > Europe: $101 billion
+* Apple Inc. > Net sales by geographic segment > Greater China: $67 billion
+* Apple Inc. > Net sales by geographic segment > Japan: $25 billion
+* Apple Inc. > Net sales by geographic segment > Rest of Asia Pacific: $31 billion
+* Apple Inc. > Share repurchase program > Active
+* Apple Inc. > Insider trading arrangements > Two executives
+* Apple Inc. > Operations > China
+* Apple Inc. > Legal proceedings and claims > Significant
+* Apple Inc. > Critical audit matter > Uncertain tax positions
+* Apple Inc. > EBITDA > $129.4 billion (up 10.5% YoY)
+* Apple Inc. > Assets > $45.7 billion (long-lived assets as of September 28, 2024)
+* Apple Inc. > Liabilities > $220.9 billion (calculated)
+* Apple Inc. > Net Income > $99.8 billion (up 5.7% YoY)
+* Apple Inc. > Cost of Goods Sold > $168.1 billion (up 10.2% YoY)
+* Apple Inc. > Operating Expenses > $77.7 billion (up 12.1% YoY)
+* Apple Inc. > Research & Development > $26.2 billion (up 15.2% YoY)
+* Apple Inc. > Cash & Cash Equivalents > $44.9 billion (down 12.5% YoY)
+* Apple Inc. > Debt > $116.7 billion (up 16.3% YoY)
+* Apple Inc. > Earnings per Share (EPS) > $6.14 (up 5.7% YoY)
+* Apple Inc. > Notes Outstanding > $5,350,000,000
+* Apple Inc. > Notes > Senior unsecured debt
+* Apple Inc. > Notes > Structurally subordinated to debt of subsidiaries
+* Apple Inc. > Notes > Denominated in various currencies
+* Apple Inc. > Notes > Different interest rates and maturity dates
+* Apple Inc. > Notes > Right to redeem some notes before maturity
+* Apple Inc. > Assets > Significant
+* Apple Inc. > Liabilities > Significant
+* Apple Inc. > Debt obligations > Various events of default
+* Apple Inc. > Debt securities > Issuance of additional securities
+* Apple Inc. > Employee Stock Plan > Employee compensation
+* Apple Inc. >
