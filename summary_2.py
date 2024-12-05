@@ -1,14 +1,15 @@
 import re
 import os
-from langchain_groq import ChatGroq
+from langchain_google_vertexai import VertexAI
 from langchain_core.prompts import ChatPromptTemplate
 
 # Initialize Groq API
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-chat_model = ChatGroq(
-    model="mixtral-8x7b-32768",
-    temperature=0.2,
-    groq_api_key=GROQ_API_KEY
+chat_model = VertexAI(
+    model="gemini-1.0-pro-002",
+    temperature=0.3,
+    max_output_tokens=2048,
+    top_p=0.3
 )
 
 def read_data_from_file(file_path):
@@ -83,18 +84,23 @@ def refine_with_groq(collated_texts):
     for heading, summary in collated_texts.items():
         # Define a prompt to refine text and extract knowledge graph
         prompt = ChatPromptTemplate.from_messages([
-            ("system", "You are a financial analyst and knowledge graph expert. Refine the input to remove redundancies and return a clear summary. Additionally, extract entities and relationships in the format: Node1 -> Relationship -> Node2."),
+            ("system", "You are a financial analyst and knowledge graph expert. Refine the input to remove redundancies and return a clear summary."),
             ("human", f"Heading: {heading}\nSummary: {summary}")
         ])
         chain = prompt | chat_model
 
         try:
             response = chain.invoke({"input": summary})
-            response_content = response.content
+            response_content = response
+            # print(response)
 
             # Separate refined summary and knowledge graph
+
+            print(response)
             refined, *graph_lines = response_content.split("\n")
-            refined_texts[heading] = refined.strip()
+            refined_texts[heading] = response.strip()
+
+            # print(refined_texts)
 
             # Extract and clean nodes and relationships
             for line in graph_lines:
@@ -137,6 +143,7 @@ def save_to_file(refined_texts, knowledge_graph, output_file, graph_file):
         output_file (str): Path to save the refined summaries.
         graph_file (str): Path to save the knowledge graph.
     """
+
     with open(output_file, 'w', encoding='utf-8') as file:
         for heading, summary in refined_texts.items():
             file.write(f"Heading: {heading}\n")
@@ -164,10 +171,10 @@ tnc = {
 
 
 # Example usage
-company = ''
+company = 'oracle'
 input_file = "Summary/"+company+"_summaries.txt"  # Path to the input text file
-output_file = "Results/"+tnc[company]+"refined_summaries.txt"  # Path to the refined summaries file
-graph_file = "Results/"+tnc[company]+"knowledge_graph.txt"  # Path to the knowledge graph file
+output_file = "Results/"+tnc[company]+"/refined_summaries.txt"  # Path to the refined summaries file
+graph_file = "Results/"+tnc[company]+"/knowledge_graph.txt"  # Path to the knowledge graph file
 
 # Read data from input file
 data = read_data_from_file(input_file)
@@ -177,6 +184,8 @@ collated = collate_texts_by_heading(data)
 
 # Use Groq to refine summaries and build a knowledge graph
 refined, graph = refine_with_groq(collated)
+# print(collated)
+# print(refined)
 
 # Save refined summaries and knowledge graph to files
 save_to_file(refined, graph, output_file, graph_file)

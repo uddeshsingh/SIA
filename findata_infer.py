@@ -139,5 +139,7 @@ def analyze_financial_performance(ticker):
     print(f"Analysis results saved to {analysis_file_path}")
 
 # Run the workflow for a company (for example, TSLA)
-ticker = "tsla"  # Replace with the ticker of your choice
-analyze_financial_performance(ticker)
+tnc = ["aapl","amzn","tsla","nvda","crm","avgo","googl","meta","msft","nflx","orcl"]
+
+for ticker in tnc:
+    analyze_financial_performance(ticker)

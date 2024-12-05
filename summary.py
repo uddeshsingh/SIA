@@ -2,16 +2,24 @@ import re
 import os
 from PyPDF2 import PdfReader
 from langchain_groq import ChatGroq
+from langchain_google_vertexai import VertexAI
+
 from langchain_core.prompts import ChatPromptTemplate
 
-# Initialize Groq API
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-chat_model = ChatGroq(
-    model="mixtral-8x7b-32768",
-    temperature=0.2,
-    groq_api_key=GROQ_API_KEY
-)
+# # Initialize Groq API
+# GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+# chat_model = ChatGroq(
+#     model="mixtral-8x7b-32768",
+#     temperature=0.0,
+#     groq_api_key=GROQ_API_KEY
+# )
 
+chat_model = VertexAI(
+    model="gemini-1.0-pro-002",
+    temperature=0.3,
+    max_output_tokens=512,
+    top_p=0.3
+)
 # Step 1: Extract Company Name from the First Page
 def extract_company_name(file_path):
     """
@@ -19,19 +27,21 @@ def extract_company_name(file_path):
     """
     reader = PdfReader(file_path)
     first_page_text = reader.pages[0].extract_text()
-    match = re.search(r"(?i)\b(company|corporation|inc|ltd|limited|plc|corp)\b", first_page_text)
+    # print(first_page_text)
+    match = re.search(r"(?i)\b(company|corporation|Corporaon|inc|ltd|limited|plc|corp)\b", first_page_text)
     if match:
+        print("Yes Match")
         lines = first_page_text.splitlines()
         for line in lines:
             if match.group() in line:
                 return line.split()[0].strip(' ,!')
-    return "Unknown Company"
+    return "Oracle"
 
 # Step 2: Extract Table of Contents Starting from Page 3
 def extract_toc_page(file_path):
     reader = PdfReader(file_path)
     toc_text = ""
-    for i in range(2, 5):  # Adjust range as needed
+    for i in range(1, 4):  # Adjust range as needed
         toc_text += reader.pages[i].extract_text()
     return toc_text
 
@@ -42,21 +52,25 @@ def extract_headings_and_pages_from_toc(toc_text):
     """
     section_page_map = {}
     # Regex pattern for headings and page numbers
-    pattern = r"PART [IVXLCDM]+, Item [0-9]+[A-Z]?\. (.*?) - Page (\d+)"
+    # [0-9]*\.? PART [IVXLCDM]+, Item [0-9]+[A-Z]?\. (.*?) - Page (\d+) |
+    pattern = r"\*? (.*?) - (\d+)"
     matches = re.findall(pattern, toc_text)
 
     for match in matches:
+        print(match)
         heading, page = match
         section_page_map[heading.strip()] = int(page)  # Store in dictionary
     return section_page_map
 
 def get_top_important_headings(headings_dict):
     # Convert the headings dictionary to a string for LLM input
-    headings_text = "\n".join([f"Heading: {heading}, Starting Page: {page}" for heading, page in headings_dict.items()])
+    headings_text = "\n".join([f"Heading: {heading.strip('*')} - Page {page}" for heading, page in headings_dict.items()])
+
+    print(headings_text)
 
     # LLM prompt
     prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are a financial analyst trained to prioritize sections of a 10-K report. Based on their importance to understanding a company's financial health and operations, identify the top 5 most critical sections from the following list. Return only the headings and their page numbers in the original format."),
+        ("system", "You are a financial analyst trained to prioritize sections of a 10-K report. Based on their importance to understanding a company's financial health and operations, identify the top 7 most critical sections in format: Heading - Page. No need for any additional information or explanation. stick to the instructions."),
         ("human", headings_text)
     ])
 
@@ -65,16 +79,22 @@ def get_top_important_headings(headings_dict):
     try:
         # Get the LLM response
         response = chain.invoke({"input": headings_text})
-        response_content = response.content
+        response_content = response
 
         # Debug: Print raw LLM output
         print("\nLLM Raw Output:")
         print(response_content)
 
+        cleaned_text = re.sub(r"\*\*", "", response_content)
+
+        print("\nLLM Processed Output:")
+        print(cleaned_text)
+
         # Parse the response into a dictionary
         top_headings = {}
-        matches = re.findall(r"Heading: (.*?), Starting Page: (\d+)", response_content)
+        matches = re.findall(r"^\d+\.\s+(.+?)\s+-\s+Page\s+(\d+)", cleaned_text, re.MULTILINE)
         for match in matches:
+            print(match)
             heading, page = match
             top_headings[heading] = int(page)
 
@@ -88,7 +108,7 @@ def extract_headings_and_pages(toc_text):
     Extract headings and their page numbers from LLM-processed ToC text.
     """
     prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are an assistant trained to identify section headings and their corresponding page numbers in financial reports. Extract headings with their starting page numbers from the following Table of Contents."),
+        ("system", "You are an assistant trained to identify section headings and their corresponding page numbers in financial reports. Extract headings with their starting page numbers from the following Table of Contents in format: [Heading] - [Page]."),
         ("human", f"{toc_text}")
     ])
     chain = prompt | chat_model
@@ -98,10 +118,10 @@ def extract_headings_and_pages(toc_text):
 
         # Print LLM raw output for debugging
         print("\nLLM Raw Output:")
-        print(response.content)
+        print(response)
 
         # Use regex to extract headings and page numbers
-        section_page_map = extract_headings_and_pages_from_toc(response.content)
+        section_page_map = extract_headings_and_pages_from_toc(response)
 
         # Debug: Print the dictionary
         print("\nExtracted Dictionary of Headings and Pages:")
@@ -189,7 +209,7 @@ def summarize_chunk_with_groq(chunk_name, text_chunk, company_name):
     chain = prompt | chat_model
     try:
         response = chain.invoke({"input": text_chunk})
-        response_content = response.content
+        response_content = response
         print(f"\nSummary for {chunk_name}:")
         print(response_content)
         return response_content
@@ -228,7 +248,7 @@ def process_10k_report(file_path, company_name):
     return summaries
 
 # File path to the 10-K report
-file_path = "Reports/10-K/tsla-10k-2024.pdf"
+file_path = "Reports/10-K/msft-10k-2024.pdf"
 
 print("Extracting company name from the 10-K report...")
 company_name = extract_company_name(file_path)
@@ -241,7 +261,7 @@ def save_summaries_to_file(summaries, company_name):
     """
     Save the summaries into a text file named after the company.
     """
-    cn = company_name.replace(' ', '_').tolower()
+    cn = company_name.replace(' ', '_').lower()
     filename = f"Summary/{cn}_summaries.txt"
     try:
         with open(filename, "w", encoding="utf-8") as file:
