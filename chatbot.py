@@ -121,7 +121,7 @@ def get_next_state(llm_response):
 # Intent recognition prompt
 intent_prompt = ChatPromptTemplate.from_messages([
     ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. You must always respond as SIA, an assistant that classifies user intents based on the provided message. Your response must be exactly one word from the following list of intents:\n"
-               "'financial_summary', 'risk_factors', 'management_analysis', 'future_outlook','wrap_up','follow_up', 'feedback', 'questions', 'financial_event','news_summary'.\n"
+               "'financial_summary', 'risk_factors', 'management_analysis', 'future_outlook','wrap_up', 'feedback', 'questions', 'financial_event','news_summary'.\n"
                "If the message does not fit any of these intents, output 'unknown' only."),
     ("human", "{input}")
 ])
@@ -152,10 +152,6 @@ intent_prompts = {
     ]),
     "greeting": ChatPromptTemplate.from_messages([
         ("system", "Your name is SIA (Stock Investment Advisor). You are not allowed to mention Gemini or any other identity. Always respond as SIA. Respond warmly to the greeting and ask how you can assist the user today."),
-        ("human", "{input}")
-    ]),
-    "follow_up": ChatPromptTemplate.from_messages([
-        ("system", "Always respond by asking follow-up questions or checking if the user needs additional assistance."),
         ("human", "{input}")
     ]),
     "feedback": ChatPromptTemplate.from_messages([
@@ -398,12 +394,14 @@ async def manage_state(
 
         if intent in ["financial_summary", "risk_factors", "management_analysis", "future_outlook"]:
             return await detailed_response_handler(intent)
-        elif intent == "news_summarize":
+        elif intent == "news_summary":
             return await news_summarize_handler()
         elif intent == "financial_event":
             return await financial_event_handler()
         elif intent == "questions":
             return await qa_handler()
+        elif intent == "wrap_up":
+            return await wrap_up_handler()
         return await random_conversation_handler()
 
     async def detailed_response_handler(intent):
@@ -477,7 +475,7 @@ async def manage_state(
     async def feedback_handler():
         await send_response(message, user_id, user_input, "How was my assistance today? Type [your thoughts] to let me know.", False)
         response = invoke_chain_with_history(intent_prompts["feedback"], user_id, user_input)
-        await send_response(message, user_id, user_input, response)
+        await send_response(message, user_id, user_input, response, False)
         return STATES["INACTIVITY"]
 
     async def inactivity_handler():
@@ -548,7 +546,7 @@ async def on_message(message):
             message=message,
             invoke_chain_with_history=invoke_chain_with_history,
             intent_prompts=intent_prompts,
-            intent_opts=["financial_summary", "risk_factors", "management_analysis", "future_outlook", "questions","financial_event","greeting", "follow_up", "news_summary"],
+            intent_opts=["financial_summary", "risk_factors", "management_analysis", "future_outlook", "questions","financial_event","greeting", "wrap_up", "news_summary"],
             fuzz=fuzz,
             COMPANIES=COMPANIES,
             create_faiss_for_company=create_faiss_index
