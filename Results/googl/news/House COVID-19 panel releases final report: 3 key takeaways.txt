@@ -1,0 +1,17 @@
+Authors: ['Joseph Choi']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 21:01:44
+Description: The House Select Subcommittee on the Coronavirus Pandemic released its final report Monday, laying out numerous conclusions from its review of the federal pandemic response, including what the Republican-controlled panel believes to be the likely origins of the virus. The 520-page document encompassed a wide range of issues relating to the pandemic including vaccinations, public…
+Filename: .json
+Image_Url: https://media.zenfs.com/en/the_hill_articles_341/c7230796ed72cf0a1d4c0fd049285d9b
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: House COVID-19 panel releases final report: 3 key takeaways
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The 520-page document encompassed a wide range of issues relating to the pandemic including vaccinations, public health guidance, state-level actions and use of relief funds. “Throughout this process, the Select Subcommittee sent more than 100 investigative letters, conducted 38 transcribed interviews or depositions, held 25 hearings or meetings, and reviewed more than one million pages of documents from of custodians,” he noted. Wenstrup listed seven specific findings in his letter, including that the National Institutes of Health funded controversial gain-of-function research at the Wuhan Institute of Virology, Operation Warp Speed was “tremendous success” and the public school closures will have an “enduring impact” on American children. Here are three takeaways from the report: Lab leak theory The report starts with the finding that the SARS-CoV-2 virus “likely emerged because of a laboratory or research related accident.” This finding was supported by remarks from people like Robert Redfield, the former director of the Centers for Disease Control and Prevention (CDC), former Director of National Intelligence John Ratcliffe and former U.K. Prime Minister Boris Johnson, all of whom publicly stated their support for the lab leak theory. “With four years of hindsight, it is clear the international travel restrictions early in the pandemic delayed spread of the virus but did not prevent COVID-19 from entering the U.S.,” states the report.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Taylor Penley']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 12:48:45
+Description: Trump FCC chair pick Brendan Carr spoke on the issue of Big Tech censorship on "Sunday Morning Futures," saying tackling the issue will be a top priority under his leadership.
+Filename: .json
+Image_Url: https://static.foxnews.com/foxnews.com/content/uploads/2024/12/carr-scaled.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Trump FCC pick says bringing 'censorship cartel' to heel will be a 'top' priority: 'It's got to end'
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Bringing the "censorship cartel" to heel is slated to be a top priority for incoming Federal Communications Commission (FCC) Chairman Brendan Carr. That's why you feel this vibe shifting in the country where people know President Trump is about to lead another great American comeback, because this wet blanket of government control is going away, and our economy is going to flourish again." Big Tech companies have long received criticism for allegedly stifling free speech and operating with a liberal bias, perhaps most infamously when Twitter removed the Hunter Biden laptop story from its platform prior to the Elon Musk takeover and various platforms, including Facebook, censored content branded as COVID-19 misinformation during the pandemic. Just months ago, Meta CEO Mark Zuckerberg admitted to bowing to pressures from the Biden-Harris administration to censor content on its platforms and expressed regret for doing so. Trump tapped current senior Republican member of the FCC Brendan Carr to lead the agency last month as his cabinet began to take shape, branding him as a "warrior for free speech" who has "fought against the regulatory Lawfare that has stifled Americans’ Freedoms, and held back our Economy."
+Financial_Events: []

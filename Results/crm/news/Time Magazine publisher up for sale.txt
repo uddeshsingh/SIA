@@ -1,0 +1,17 @@
+Authors: ['Stephanie Ruhle', 'Alex Sherman, CNBC']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-01 15:00:58
+Description: Billionaire Marc Benioff, co-founder of Salesforce, bought the Time Magazine publisher for $190 million in 2018.
+Filename: .json
+Image_Url: https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241031-Marc-Benioff-ch-1435-2cdb54.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Time Magazine publisher up for sale
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Greek media company Antenna Group is in talks to acquire Time from Salesforce co-founder Marc Benioff, according to people familiar with the matter. The talks come at a particularly turbulent time for legacy media companies, which are trying to stay afloat as digital-first assets amid competition with free services such as YouTube, TikTok and Instagram. The Washington Post, owned by fellow tech billionaire Jeff Bezos, has lost more than 10% of its subscribers in recent days after deciding it wouldn’t endorse a candidate in the U.S. presidential election, according to NPR. Benioff and his wife, Lynne, bought Time from Meredith Corp., which owned the magazine for less than a year. Disclosure: Comcast owns NBCUniversal, the parent company of CNBC, NBC News and MSNBC.
+Financial_Events: []

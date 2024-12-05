@@ -1,0 +1,17 @@
+Authors: ['Tim Hardwick', 'Joe Rossignol', 'Mitchel Broussard', 'Hartley Charlton']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 05:25:43
+Description: Apple has proposed investing nearly $10 million in Indonesian manufacturing operations in an effort to lift the country's recent ban on...
+Filename: .json
+Image_Url: https://images.macrumors.com/t/zCDvSLBbMEumFfY-mTfll1a4mY8=/1600x/article-new/2024/09/iPhone-16.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Indonesia iPhone Ban: Apple Proposes $10M Manufacturing Investment
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Apple has proposed investing nearly $10 million in Indonesian manufacturing operations in an effort to lift the country's recent ban on iPhone 16 sales, according to sources familiar with the matter (via South China Morning Post). The manufacturing investment comes in response to Indonesia blocking iPhone 16 sales last month, after it was determined that Apple's local unit failed to meet the country's requirement for 40% domestic content in smartphones. The ban is part of broader protectionist policies implemented under new President Prabowo Subianto's administration, which has also restricted sales of Google's Pixel phones for similar reasons. Apple has established four developer academies in Indonesia to train students and engineers, but the country's officials have pressed for more substantial manufacturing investments. The proposed $10 million facility would mark Apple's first manufacturing presence in Indonesia, potentially helping the company comply with local content requirements.
+Financial_Events: []

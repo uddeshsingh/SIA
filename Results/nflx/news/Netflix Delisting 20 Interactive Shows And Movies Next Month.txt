@@ -1,0 +1,17 @@
+Authors: ['Zack Zwiezen']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 17:10:00
+Description: Only four titles will remain on the service after December 1
+Filename: .json
+Image_Url: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f7be6996cb455db3c3b305addedbd5be.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix Delisting 20 Interactive Shows And Movies Next Month
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Remember a few years ago when Netflix dipped its toes into the world of video games by creating interactive choose-your-own-adventure movies and TV shows? But most people didn’t really start paying attention to the streamer’s interactive output until 2018's critically panned Black Mirror special: Bandersnatch. The tech behind these early choose-your-own-adventure-like productions was then used to create about 20 or so different shows and movies, including ones based on Jurassic World, Carmen San Diego, and Boss Baby. In January, it was confirmed by Netflix’s gaming boss Mike Verdu that the company was no longer making interactive titles anymore. In late October, Netflix quietly shut down its big AAA game studio, Team Blue, after just two years and with nothing to show.
+Financial_Events: []

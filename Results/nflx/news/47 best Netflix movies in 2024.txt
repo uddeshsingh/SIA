@@ -1,0 +1,17 @@
+Authors: ['Kelly Woo', 'Josh Bell', 'Henry T. Casey', 'Brittany Vincent']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2022-10-03 14:36:12
+Description: The best Netflix movies feature wild adventures, epic films and two of the best movies of the last year, so you don't even need to go to a theater
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/i5ALzNeY8heztMbvNNjJUT-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 47 best Netflix movies in 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Genre: Black comedy Rotten Tomatoes score: 80% Stars: Olivia Colman, Jessie Buckley, Anjana Vasan, Joanna Scanlan Director: Thea Sharrock Watch now 'Lola' Lola (Nicola Peltz Beckham) works hard to to save enough money to rescue her younger brother Arlo (Luke David Blumm), from their toxic and oppressive home life and their mother Mona (Virginia Madsen). Genre: Action Rotten Tomatoes score: 78% Stars: Eddie Murphy, Joseph Gordon-Levitt, Taylour Paige Director: Mark Molloy Watch now 'Aftersun' Sophie (Frankie Corio/Celia Rowlson-Hall) is a young woman who looks back on a significant vacation she shared with her father, Calum (Paul Mescal), two decades earlier at a once-vibrant but now deteriorating holiday resort. Genre: Apocalyptic psychological thriller Rotten Tomatoes score: 74% Stars: Julia Roberts, Ethan Hawke, Mahershala Ali, Kevin Bacon Director: Sam Esmail Watch now They Cloned Tyrone (2023) Fontaine (John Boyega) sells drugs, Slick Charles (Jamie Foxx) is a pimp and Yo-Yo (Teyonah Parris) is a sex worker. Genre: Sci-fi comedy thriller Rotten Tomatoes score: 91% Stars: John Boyega, Jamie Foxx, Teyonah Parris, Kiefer Sutherland, David Alan Grier Directors: Juel Taylor Watch now Missing (2023) June (Storm Reid) was going to have the weekend most teen dream of. Genre: Mystery/Thriller Rotten Tomatoes score: 87% Stars: Storm Reid, Joaquim de Almeida, Ken Leung, Nia Long, Daniel Henney, Amy Landecker, Megan Suri, Tim Griffin Directors: Will Merrick, Nicholas D. Johnson Watch now Comedy Do Revenge (2022) At Miami's elite Rosehill Country Day High School, Drea's (Camila Mendes) picture-perfect life shatters when an intimate video with her boyfriend goes viral.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Joseph F. Kovar']
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: The news of Ingram Micro’s 850 layoffs comes after several rounds of layoffs over the last couple years that had resulted in over 1,100 employees being let go.
+Filename: .json
+Image_Url: https://www.crn.com/news/channel-news/2024/media_104b1fdf26a26cd02b591440efd5745278cf3d0f0.png?width=1200&format=pjpg&optimize=medium
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Ingram Micro To Lay Off 850 Employees In Restructuring Move
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In the letter, a copy of which was reviewed by CRN, Bay wrote that Ingram Micro is undertaking a “series of restructuring activities” across the company over the next three months that will result in the elimination of 850 employees. [Related: The 10 Biggest Tech Company Layoffs Of 2024 (So Far)] The restructuring includes the integration of Ingram Micro’s digital and information technology teams to reduce costs and eliminate redundancies, transforming the company’s historical shared services model into an exception-based model, and streamlining selected country, business, and functional organizations. Mark Essayian, president of Irvine, Calif.-based KME Systems, an Ingram Micro partner, said while the layoffs are unfortunate, he’s not surprised given that the company recently went public. The human element is real, almost [900] people are going to lose their job.” However, Essayian said he believes Bay has proven he knows how to run a successful company and is making “these tough choices” to ensure the business remains competitive. Another Ingram Micro partner, James Rocker, CEO of Hauppauge, N.Y.-based MSP Nerds That Care, said he’s cautiously optimistic that the layoffs would not significantly disrupt key relationships.
+Financial_Events: []

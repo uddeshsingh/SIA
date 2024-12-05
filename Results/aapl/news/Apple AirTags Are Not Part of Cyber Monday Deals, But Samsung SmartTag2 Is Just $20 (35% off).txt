@@ -1,0 +1,17 @@
+Authors: ['Brittany Vincent']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:00:34
+Description: Samsung SmartTags are better and cheaper than AirTags.
+Filename: .json
+Image_Url: https://gizmodo.com/app/uploads/2024/12/galaxy-smarttag-2.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple AirTags Are Not Part of Cyber Monday Deals, But Samsung SmartTag2 Is Just $20 (35% off)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Its IP67 water and dust resistance means it can handle life’s mishaps, while the integration with SmartThings Find feature gives you an intuitive tracking experience. Beyond finding lost items, it can trigger your compatible IoT devices, adding another layer of automation to your daily routine. The Power Saving Mode extends battery life by up to 40%, ensuring your tagged items stay findable even longer. Think about it – you’re getting robust water resistance, extended battery life, and smart home integration in a compact device that’s both stylish and functional. Remember you have a SmartTag 2, knowing you’ve got Samsung’s most advanced tracking technology keeping tabs on your valuable items, and just start your search.
+Financial_Events: []

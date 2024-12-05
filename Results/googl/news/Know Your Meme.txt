@@ -1,0 +1,17 @@
+Authors: ['wimpykidfan37']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2022-09-30 00:52:23
+Description: Alphabet Lore refers to a series of web videos produced by Mike Salcedo in 2022. The series revolves around the twenty-six letters in the Latin alphabet an
+Filename: .json
+Image_Url: https://i.kym-cdn.com/entries/icons/mobile/000/042/088/mqdefault.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Know Your Meme
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: About Alphabet Lore refers to a series of web videos produced by Mike Salcedo in 2022. History On February 2nd, 2022, Mike Salcedo uploaded a video to YouTube that simply titled "A", after the first letter in the alphabet. In the second-to-last episode, titled "Y" and uploaded on May 2nd, F was finally defeated for good, and it was revealed that F's plan was to spell the word "friends". Online Presence Alphabet Lore quickly became immensely popular on YouTube. Another YouTuber, Soup Earth Society, uploaded a parody video entitled "Number Lore (1-10)", which reached 1 million views within a week (shown below, right).
+Financial_Events: []

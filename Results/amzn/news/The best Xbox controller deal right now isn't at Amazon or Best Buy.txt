@@ -1,0 +1,17 @@
+Authors: ['Tyler Wilde']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:13:29
+Description: Lenovo's got white Xbox controllers for $34.99, which is $5 less than others.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/cMAJDkuAyqkqYG6fvj5F9Y-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The best Xbox controller deal right now isn't at Amazon or Best Buy
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Xbox controllers go on sale often enough that I'd never spend $60 on one, but I'd pull the trigger at around $45. With certain Xbox Controllers down to $34.99 at Lenovo (use code BFCMXBOX at checkout), I'm contemplating picking one up as a backup just in case I ever decide to return to my more aggressive Rocket League playing days, which weren't kind to the analog sticks. The price listed on the website is $39.99, and you won't see the full discount until you apply the code in your shopping cart. (You'll see a different code automatically applied when you go to checkout at Lenovo—make sure to enter BFCMXBOX in the "Have an eCoupon or discount?" 👉 We're curating the best Black Friday PC gaming deals right here 👈 Lenovo's beating the competition here: Amazon and Best Buy's best price for Xbox controllers during Black Friday and Cyber Monday has been $39.99.
+Financial_Events: []

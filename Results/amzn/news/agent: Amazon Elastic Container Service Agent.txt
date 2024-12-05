@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Amazon Elastic Container Service Agent. Contribute to aws/amazon-ecs-agent development by creating an account on GitHub.
+Filename: .json
+Image_Url: https://opengraph.githubassets.com/8d10dd3bf23ca37f535b6429a84ca30b8d89dab0b10947d56028e00d1ba96c18/aws/amazon-ecs-agent
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: agent: Amazon Elastic Container Service Agent
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Setting this value to true can help reduce the CPU usage of dockerd and containerd on the ECS container instance. 0 0 ECS_AVAILABLE_LOGGING_DRIVERS ["awslogs","fluentd","gelf","json-file","journald","logentries","splunk","syslog"] Which logging drivers are available on the container instance. 24 24 ECS_LOG_DRIVER awslogs | fluentd | gelf | json-file | journald | logentries | syslog | splunk The logging driver to be used by the Agent container. {} Not applicable ECS_ENABLE_AWSLOGS_EXECUTIONROLE_OVERRIDE true Whether to enable awslogs log driver to authenticate via credentials of task execution IAM role. false Not applicable HTTP_PROXY 10.0.0.131:3128 The hostname (or IP address) and port number of an HTTP proxy to use for the Amazon ECS agent to connect to the internet.
+Financial_Events: []

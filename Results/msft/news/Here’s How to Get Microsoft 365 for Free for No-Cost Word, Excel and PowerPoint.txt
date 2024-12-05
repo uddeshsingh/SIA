@@ -1,0 +1,17 @@
+Authors: ['Alison DeNisco Rayome', 'Zachary McAuliffe', 'Moe Long']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2021-12-02 00:00:00
+Description: You can get a heap of apps, including Microsoft Office, PowerPoint and Excel at no cost, whether you're a student, teacher or just on a budget. Here's how to get Microsoft 365 for free.
+Filename: .json
+Image_Url: https://www.cnet.com/a/img/resize/4a1e4e107d240460fc7c4e9d10309f11505c3552/hub/2021/12/02/11de87b3-219e-4b3b-b902-af294f5df70f/microsoftoffice-free-v2.jpg?auto=webp&fit=crop&height=675&width=1200
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Here’s How to Get Microsoft 365 for Free for No-Cost Word, Excel and PowerPoint
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: An Office 365 Education subscription provides access to Word, Excel, PowerPoint, OneNote and Teams, plus other classroom tools. The good news is that you can access a number of apps online for free, including Word, Excel, PowerPoint, OneDrive, Outlook, Calendar, My Content, Skype, Designer and Clipchamp as long as you don't need the full suite of Microsoft 365 tools. The functionality of the free apps is limited, so they only run in your web browser and you can only use them while you're actively connected to the internet -- there’s no offline version. However, for more demanding situations, like small businesses and classroom settings, you may need to pay for a full account or snag a free copy of Microsoft 365 using a school email address. There are still benefits to the free version of Microsoft 365, including the ability to share links to your work and collaborate in real-time, similar to what the Google Workspace (formerly G Suite) productivity tools allow.
+Financial_Events: []

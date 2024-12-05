@@ -1,0 +1,17 @@
+Authors: ['JR Research', 'seekingalpha.com', 'jr-research']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 08:30:15
+Description: Broadcom remains well-positioned to capitalize on the surge in hyperscale spending in 2025. Read why I maintain my buy rating on AVGO stock.
+Filename: .json
+Image_Url: https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1193973091/image_1193973091.jpg?io=getty-c-w1536
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Broadcom: I'm Very Thankful For This Pullback
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: He was also recognized by Seeking Alpha as a "Top Analyst To Follow" for Technology, Software, and Internet, as well as for Growth and GARP. He identifies attractive risk/reward opportunities supported by robust price action to potentially generate alpha well above the S&P 500. He focuses on identifying growth investing opportunities that present the most attractive risk/reward upside potential. His approach combines sharp price action analysis with fundamentals investing. The group is designed for investors seeking to capitalize on growth stocks with robust fundamentals, buying momentum, and turnaround plays at highly attractive valuations.
+Financial_Events: []

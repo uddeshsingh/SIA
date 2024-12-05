@@ -1,0 +1,17 @@
+Authors: ['Jacob Roach']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 06:00:45
+Description: After a year of beta updates, the Nvidia app is officially here, kicking both the Nvidia Control Panel and GeForce Experience to the curb.
+Filename: .json
+Image_Url: https://www.digitaltrends.com/wp-content/uploads/2024/11/nvidia-app-desktop.jpg?resize=1200%2C630&p=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia is finally ditching GeForce Experience for good
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Now, it’s out of beta, officially replacing the legacy GeForce Experience and Nvidia Control Panel apps, and with some new features in tow. It may seem mundane, but you’d previously need to download GeForce Experience and create an Nvidia account for GPU driver updates. If you install your drivers through the Nvidia app, you’ll be able to roll them back to previous versions if you run into any issues. The redesigned overlay is much more responsive — speaking from personal use here — and it can show your system stats, track your performance, and capture photos and videos. The company says the “migration of GeForce Experience and Nvidia Control Panel features is complete” with this release.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:30:00
+Description: After lackluster spending at U.S. stores on a deals-heavy Black Friday, retailers are pulling out all the stops with steep promotions and discounts on their websites and apps to entice people to buy holiday gifts and other merchandise after the long Thanksgiving weekend.
+Filename: .json
+Image_Url: https://www.staradvertiser.com/wp-content/uploads/2024/12/web1_20241202_brk_shp01.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Cyber Monday deals heat up as U.S. retailers offer deep cuts
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: After lackluster spending at U.S. stores on a deals-heavy Black Friday, retailers are pulling out all the stops with steep promotions and discounts on their websites and apps to entice people to buy holiday gifts and other merchandise after the long Thanksgiving weekend. Retailers have been coaxing cautious U.S. shoppers on Cyber Monday — traditionally America’s biggest internet shopping day — with push notifications, emails and other ads touting heavily discounted cosmetics, electronics, toys, clothing and other products. The moves follow a mixed holiday season so far, with muted spending in stores on key shopping days such as Black Friday. Online, retailers like Walmart and Amazon have relied on generative AI customer service and search features to make it easier for shoppers to find products on websites and mobile apps. Pittsburgh, Pennsylvania, resident Cheyenne Berens, 29, has been using Amazon’s generative AI chatbot Rufus to track prices of baby merchandise and electronics this holiday season.
+Financial_Events: ['The price started at $90 before the holidays, briefly rose to $120 and dropped back to $90, she said.\nCaila Schwartz, director of consumer insights at Salesforce, a cloud-computing company that tracks global shopping data from more than 1.5 billion consumers, said that GenAI tools such as chatbots to answer online shoppers’ basic questions, such as queries about products, helped retailers protect their profit margins despite rising costs.\nOn Saturday, retailers using GenAI tools for customer service saw a 15% higher purchase rate by users, according to estimates by Salesforce']

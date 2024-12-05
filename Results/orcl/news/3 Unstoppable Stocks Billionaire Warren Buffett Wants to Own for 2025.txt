@@ -1,0 +1,17 @@
+Authors: ['Sean Williams', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 10:06:00
+Description: Although Warren Buffett has been a net seller of stocks for eight consecutive quarters, he can't stop buying shares of these three industry-leading businesses.
+Filename: .json
+Image_Url: https://g.foolcdn.com/editorial/images/799387/buffett11-tmf.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 3 Unstoppable Stocks Billionaire Warren Buffett Wants to Own for 2025
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Oracle of Omaha's consistent outperformance of the benchmark S&P 500 spanning almost six decades has led to investors closely monitoring his trading activity and, sometimes, riding his coattails to big gains. The company's newest five-year plan, dubbed "Hungry for MORE," promotes new food items, leans on technology to increase output and make products more consistent, and leverages its top-notch franchisees to grow the brand. For instance, global energy companies were forced to slash their capital expenditures for roughly three years due to historic demand uncertainty during the COVID-19 pandemic. When coupled with Russia's invasion of Ukraine and the uncertainties this leads to for Europe's energy needs, it creates a perfect scenario for upstream and integrated operators to benefit from. It generates a disproportionately high percentage of its sales and operating cash flow from drilling, which means a higher price for crude oil can lead to an outsized bottom-line benefit for the company.
+Financial_Events: ["Although Domino's Pizza is on track for its 31st consecutive year of international same-store sales growth, a forward price-to-earnings ratio (P/E) of 27 for a restaurant chain delivering mid-single-digit sales growth in a historically pricey market may be a tough pill to swallow.\nOccidental Petroleum\nA second unstoppable stock that Warren Buffett clearly wants to own as we turn the page on 2024 is integrated oil and gas behemoth Occidental Petroleum (OXY -0.32%)"]

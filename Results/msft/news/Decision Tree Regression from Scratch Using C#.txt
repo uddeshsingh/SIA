@@ -1,0 +1,17 @@
+Authors: ['James McCaffrey']
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Dr. James McCaffrey from Microsoft Research presents a complete end-to-end demonstration of decision tree regression using the C# language. Unlike most implementations, this one does not use recursion or pointers, which makes the code easy to understand and modify.
+Filename: .json
+Image_Url: https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/ml.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Decision Tree Regression from Scratch Using C#
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The key parts of the demo output are: Loading synthetic train (200) and test (40) data Set maxDepth = 6 Set minSamples = 2 Creating regression tree Done Accuracy train (within 0.15) = 0.8850 Accuracy test (within 0.15) = 0.5500 Predicting for x = -0.1660 0.4406 -0.9998 -0.3953 -0.7065 y = 0.4909 The two parameters that control the behavior of the demo decision tree are maxDepth and minSamples. Figure 2 shows a small decision tree with maxDepth = 2 and minSamples = 2, which was created using a tiny set of 10 training items. In the early days of machine learning, with limited computer memory and slow CPU processing speeds, various sampling techniques were used to reduce the number of candidate split value examinations. The minor downside to using list/array storage is that empty nodes are explicitly stored, but in my opinion that's a small price to pay for greatly increased ease of debugging, interpretability, and customization. The demo has no significant .NET dependencies and any relatively recent version of Visual Studio with .NET (Core) or the older .NET Framework will work fine.
+Financial_Events: []

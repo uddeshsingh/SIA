@@ -1,0 +1,17 @@
+Authors: ['Bella Avila']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 08:00:00
+Description: You can buy Nvidia stock through an online brokerage account. You'll need to add money to the account and then search for Nvidia stock within the brokerage's platform.
+Filename: .json
+Image_Url: https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/12/GettyImages-1279395368-e1701988932441-1440x864.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How to Buy Nvidia Stock (NVDA)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This information may be different than what you see when you visit a financial institution, service provider or specific product's site. Companies which are engaged by Atomic Invest receive compensation of 0% to 0.85% annualized, payable monthly, based upon assets under management for each referred client who establishes an account with Atomic Invest (i.e., exact payment will differ). This conflict of interest affects our ability to provide you with unbiased, objective information about the services of Atomic Invest. For additional information regarding conflicts, please see Items 5, 12 and 14 of Atomic Invest's Form ADV Part 2A. Technology services may be provided by AtomicVest, Inc. NerdWallet™ | 55 Hawthorne St. - 10th Floor, San Francisco, CA 94105
+Financial_Events: []

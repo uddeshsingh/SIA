@@ -1,0 +1,17 @@
+Authors: ['Nancy LeBrun', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2023-01-12 09:43:34
+Description: Flu A and flu B are both types of the influenza virus, but there are differences. The flu vaccine helps prevent both.
+Filename: .json
+Image_Url: https://www.verywellhealth.com/thmb/CvyVZS40jyc2lyy3fnpccff8rqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1216247419-fc0778ba24e34ceaa5f8916532d5e337.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Flu A vs. Flu B: What Are the Differences?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The information as to the type or strain of flu is important from a public health perspective but is unlikely to affect your treatment plan. The sample is collected by nasal swab and tested for influenza viral antigens (substances on the virus that can produce an immune response). Reverse-transcription polymerase chain reaction (RT-PCR): This is the most accurate type of flu test, which uses a different process to analyze the genetic makeup of a nasal swab sample. Home remedies that may help include honey for a sore throat and inhaling steam to clear your stuffy nose. Flus A or B can affect certain populations more seriously, so call a healthcare provider if you are pregnant, over age 64, have a weakened immune system, or have a chronic medical illness, such as asthma, heart disease, or diabetes.
+Financial_Events: []

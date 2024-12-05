@@ -1,0 +1,17 @@
+Authors: ['CNN Newssource']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 21:56:02
+Description: A live TV news station covering breaking news and traffic for Colorado Springs, Pueblo, and Southern Colorado with a strong investigative team
+Filename: .json
+Image_Url: https://krdo.b-cdn.net/2021/06/49643-news-app-button_B.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: After days of Israeli strikes, Hezbollah hits back, each accusing the other of ceasefire violations
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Hours later, Israel’s military said it began striking “terror targets” in Lebanon after Israeli Prime Minister Benjamin Netanyahu vowed to retaliate in a statement, calling Hezbollah’s attack “a serious violation of the ceasefire.” The Israel Defense Forces (IDF) said earlier on Monday that its own cross-border strikes, despite the ceasefire, had been “in response to several acts by Hezbollah in Lebanon that posed a threat to Israeli civilians, in violation of the understandings between Israel and Lebanon.” It said it had struck military vehicles at a Hezbollah missile manufacturing site in the Beqaa Valley and tunnels near the Syrian border in northern Lebanon. A shaky start Both sides have, since the early hours of last week’s ceasefire, accused each other of violations, and the escalating tensions risk endangering the agreement altogether. During that time, Hezbollah fighters are expected to retreat some 40 kilometers (25 miles) from the Israel-Lebanon border, while Israeli ground forces withdraw from Lebanese territory. UN Security Council Resolution 1701, which ended the last all-out war between the two countries in 2006, has been the basis of the deal and the negotiations have mainly revolved around the treaty’s enforcement. Under the agreement, Lebanon would implement a more rigorous supervision of Hezbollah’s movements south of the country’s Litani river, to prevent militants from regrouping there.
+Financial_Events: []

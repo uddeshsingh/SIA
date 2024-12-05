@@ -1,0 +1,17 @@
+Authors: ['MARIA CHENG AND MARIA VERZA']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 06:15:10
+Description: A twice-yearly shot that prevents HIV infections will be available at low cost in 120 poor countries.
+Filename: .json
+Image_Url: https://imengine.prod.srp.navigacloud.com/?uuid=61363534-3834-4362-b563-353331613233&type=primary&q=75&width=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: A twice-yearly shot could help end AIDS. But will it get to everyone who needs it?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Drugmaker Gilead said it will allow cheap, generic versions to be sold in 120 poor countries with high HIV rates — mostly in Africa, Southeast Asia and the Caribbean. “In Latin American countries, there is still a lot of stigma, patients are ashamed to ask for the pills,” said Dr. Alma Minerva Pérez, who recruited and enrolled a dozen study volunteers at a private research center in Guadalajara. While countries including Norway, France, Spain and the U.S. have paid more than $40,000 per year for Sunlenca, experts have calculated it could be produced for as little as $40 per treatment once generic production expands to cover 10 million people. Hannya Danielle Torres, a 30-year-old trans woman and artist who was in the Sunlenca study in Mexico, said she hoped the government would find a way to provide the shots. Asia Russell, executive director of the advocacy group Health Gap, said that with more than 1 million new HIV infections globally every year, established prevention methods are not enough.
+Financial_Events: []

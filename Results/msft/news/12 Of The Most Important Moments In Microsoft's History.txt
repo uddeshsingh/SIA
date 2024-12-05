@@ -1,0 +1,17 @@
+Authors: ['Erynn Ruiz']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 17:30:23
+Description: Microsoft has been a major player in the tech industry for decades. Over those years, it's had a lot of big milestones moments, for better and for worse.
+Filename: .json
+Image_Url: https://www.slashgear.com/img/gallery/12-of-the-most-important-moments-in-microsofts-history/l-intro-1732139061.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 12 Of The Most Important Moments In Microsoft's History
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If your family was an early adopter of PC technology like mine, you might remember booting up your computer to doodle in Paint or try your hand at Minesweeper. One notable success from the Windows phone was the voice assistant Cortana, though Microsoft also discontinued it despite its similar level of accuracy to Google. At the same time, Microsoft already had a tool (a personal information manager software system) called Outlook, so things got a bit messy there. There's even a Windows app for LinkedIn if you want to skip the browser experience, although it didn't earn rave reviews at first, and Microsoft has ended up removing some less-used features over the years. Given Microsoft's (well, everyone's) interest in AI tools lately, it's not entirely surprising that the company is using personal data pulled from LinkedIn for training purposes.
+Financial_Events: ['Various acquisitions have also changed the tech landscape, at Microsoft and beyond', "It wasn't originally a Microsoft product, but the company's acquisition of it in 2011 was a big moment for the brand", "Although a quick search suggests sites like Indeed and Jobcase, those don't seem to be direct competitors functionality-wise.\nAdvertisement\nMicrosoft made a smart decision to invest early; purchasing LinkedIn cost the company a massive $26.2 billion, but since 2016 it has generated over $77 billion in revenue"]

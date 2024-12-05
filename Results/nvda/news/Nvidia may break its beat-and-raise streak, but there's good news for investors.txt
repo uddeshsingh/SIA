@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 16:09:00
+Description: None
+Filename: .json
+Image_Url: https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia may break its beat-and-raise streak, but there's good news for investors
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nvidia Corp. has been a poster child for spectacular beat-and-raise quarters recently, but will that take a pause when the company posts results next Wednesday? While Nvidia is known for giving upbeat guidance, Mizuho's Vijay Rakesh thinks the company's outlook for the January quarter might more or less just match what analysts are expecting. He thinks that ramp will take place toward the end of the January quarter, limiting the upside that Blackwell graphics processing units and systems can offer. Business growth is expected to accelerate in the second half of the fiscal year, "fueled by massive orders and pent-up demand for Blackwell as [Nvidia's] supply chain is able to [manufacture] and ship the full-rack NVL72 systems in true volumes," according to Klein. Meanwhile, Citi analyst Christopher Danely called artificial intelligence "the bright spot" in the semiconductor sector as areas like industrial and automotive chips continue to face challenges.
+Financial_Events: ["By Emily Bary\nNvidia's outlook for the January quarter may not wow Wall Street when the company posts earnings next week", 'His new January-quarter revenue forecast is for $36.7 billion, while the FactSet consensus view is for $36.6 billion', 'Rakesh said the consensus elsewhere is even with his estimate at $36.7 billion.\nRakesh noted that buy-side investors are likely expecting revenue guidance ranging from $36 billion to $39 billion.\nFactSet shows that Nvidia has beaten expectations with its quarterly sales guidance in each of its past seven reports']

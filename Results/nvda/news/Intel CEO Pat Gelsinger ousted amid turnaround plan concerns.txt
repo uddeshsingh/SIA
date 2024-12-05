@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:30:00
+Description: SAN FRANCISCO >> Intel Chief Executive Pat Gelsinger has been forced out less than four years after taking the helm of the company, handing control to two lieutenants as the faltering American chipmaking icon searches for a permanent replacement.
+Filename: .json
+Image_Url: https://www.staradvertiser.com/wp-content/uploads/2024/12/web1_20241202_brk_int01.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel CEO Pat Gelsinger ousted amid turnaround plan concerns
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: SAN FRANCISCO >> Intel Chief Executive Pat Gelsinger has been forced out less than four years after taking the helm of the company, handing control to two lieutenants as the faltering American chipmaking icon searches for a permanent replacement. “While we have made significant progress in regaining manufacturing competitiveness and building the capabilities to be a world-class foundry, we know that we have much more work to do at the company and are committed to restoring investor confidence,” Frank Yeary, independent chair of the board, said in a release. But the spending coincided with a post-pandemic collapse in the market for laptops and PCs, which in turn sank Intel’s gross margins well below historical norms and depressed its stock price, sparking takeover interest in the company. “The stock lost more than 60% under his tenure, so this shouldn’t have come as a very big surprise,” said Ryan Detrick, chief market strategist for investment advisory firm Carson Group. “New leadership is needed to turn things around and it is safe to say that any of his major strategic decisions are on the chopping board, including the move to focus on being a contract manufacturer.” Gelsinger also failed to field an effective AI chip challenger to Nvidia, which began its march toward becoming a $3 trillion company by powering services such as ChatGPT.
+Financial_Events: ['Intel has announced a handful of foundry customers such as Microsoft and Amazon.com, but neither would bring to Intel’s factories the huge volumes of chips needed to ensure the factories’ profitability.\nThe spending spree, coupled with the lack of tangible progress in the company’s foundry, created tension on the board of directors, causing Lip-Bu Tan, a board member who himself had turned around a faltering firm in the chip industry, to leave over disagreements with Gelsinger’s strategy.']

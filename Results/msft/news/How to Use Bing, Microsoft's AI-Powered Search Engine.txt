@@ -1,0 +1,17 @@
+Authors: ['Grace Eliza Goodwin', 'Sarah Jackson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 11:03:02
+Description: Bing is Microsoft's AI-powered search engine, developed with OpenAI. Here's how to use the chatbot.
+Filename: .json
+Image_Url: https://i.insider.com/673f9d6fede4eeae3928e11c?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How to Use Bing, Microsoft's AI-Powered Search Engine
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The new Bing, which promised to be "more powerful than ChatGPT," runs on Microsoft's own next-generation language model called "Prometheus." The proprietary technology was developed using elements of OpenAI's most advanced GPT models as part of Microsoft's partnership with the company. And though Microsoft CEO Satya Nadella once raved that Copilot would "fundamentally transform our relationship with technology," the AI assistant has struggled to live up to the hype, both inside and outside the company. The page displays several helpful resources related to that query, including a Table of Contents with sections that guide you through the process of learning to play guitar, alongside videos and step-by-step instructions. In the "Message Copilot" text field at the bottom of the page, you can type something you need help with, like, for example, "Write me a poem," or "plants that survive with minimal light."
+Financial_Events: []

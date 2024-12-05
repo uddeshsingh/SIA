@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: A CLI tool which lets you install proprietary NVIDIA drivers and much more easily on Fedora Linux (32 or above and Rawhide) - gridhead/nvidia-auto-installer-for-fedora-linux
+Filename: .json
+Image_Url: https://opengraph.githubassets.com/39aa724029013c3b03d413c78386459a84edf78f4f0e6b457df70bad37907f9d/gridhead/nvidia-auto-installer-for-fedora-linux
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: linux: A CLI tool which lets you install proprietary NVIDIA drivers and much more easily on Fedora Linux (32 or above and Rawhide)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: sudo nvautoinstall primec This mode allows you to toggle the PRIME offloading to render all display elements using the discrete card. This tool has been tried and tested multiple times and is expected to work flawlessly in Fedora Linux (32 or above, and Rawhide). Compatibility infomation was obtained [ ✓ ] One or more active NVIDIA GPUs were detected 01:00.0 VGA compatible controller: NVIDIA Corporation TU117M [GeForce GTX 1650 Mobile / Max-Q] (rev a1) 04:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] (rev c2) [ ✓ ] An Optimus Dual GPU setup was detected [ ★ ] GATHERING CURRENT HOST INFORMATION... [ ! ] Host information was gathered System: Linux v5.15.6-100.fc34.x86_64 Hostname: 038e97fb8ac6 Version: #1 SMP Wed Dec 1 13:41:51 UTC 2021 Distribution: Fedora Linux x86_64 [ ★ ] CHECKING FOR HOST COMPATIBILITY... [ ✓ ] Supported OS detected This tool is expected to work correctly here [ ✗ ] Leaving installer Handling drivers installation $ sudo nvautoinstall driver [ # ] NVIDIA AUTOINSTALLER FOR FEDORA LINUX [ ★ ] CHECKING SUPERUSER PERMISSIONS... [ ✓ ] Superuser privilege acquired [ ★ ] CHECKING AVAILABILITY OF RPM FUSION NVIDIA REPOSITORY... [ ! ] This mode is yet to be implemented [ ✗ ] Leaving installer Enabling the official NVIDIA repository for CUDA $ sudo nvautoinstall nvrepo [ # ] NVIDIA AUTOINSTALLER FOR FEDORA LINUX [ ★ ] CHECKING SUPERUSER PERMISSIONS... [ ✓ ] Superuser privilege acquired [ ★ ] CHECKING AVAILABILITY OF OFFICIAL CUDA REPOSITORY... [ ! ]
+Financial_Events: []

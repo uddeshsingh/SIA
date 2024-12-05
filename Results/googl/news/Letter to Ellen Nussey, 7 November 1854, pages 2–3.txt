@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2016-09-07 13:17:12
+Description: Charlotte Brontë (1816–1855), Letter to Ellen Nussey, dated Haworth, 7 November 1854, pages 2–3
+Filename: .json
+Image_Url: https://www.themorgan.org/sites/default/files/facsimile/283622v_0002-p2-3.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Letter to Ellen Nussey, 7 November 1854, pages 2–3
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: He was out when I commenced this letter, but he is just come in – on my asking him whether he would give the pledge required in return – he says “yes we may now write any dangerous stuff we please to each other – it is not “old friends” he mistrusts, but the chances of war – the accidental passing of letters into hands and under eyes for which they were never written.” All this seems mighty amusing to me: it is a man’s mode of viewing correspondence – Men’s letters are proverbially uninteresting and uncommunicative – I never quite knew before why they made them so. Strange chances do fall out certainly. As to my own notes I never thought of attaching importance to them, or considering their fate – till Arthur seemed to reflect on both so seriously. Mr Sowden and his brother were here yesterday – stayed all night and are but just gone. George Sowden is six or seven years the junior of Sutcliffe Sowden (the one you have seen) he looks very delicate and quiet – a good sincere man – I should think – Mr. S – asked after “Miss Nussey.” I will write again next week if all be well, to name a day for coming to see you – I am sure you want – or at least, ought to have a little rest before you are bothered with more company: but whenever I come – I suppose, dear Nell, under present circumstances – it will be
+Financial_Events: []

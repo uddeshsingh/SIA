@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-16 05:47:47
+Description: Netflix’s first attempt at handling a live sports event did not receive a passing grade. Friday’s fight between Mike Tyson and Jake Paul experienced streaming problems according to many viewers on social media.
+Filename: .json
+Image_Url: https://dims.apnews.com/dims4/default/c0c8fc2/2147483647/strip/true/crop/2544x1431+0+133/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2Fe9%2F6b09011e259a6e9b936a63a0c179%2Fe52457d6f89641d5bdd5ebc7b1ba0b96
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix experiences streaming delays leading up to Tyson-Paul fight
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: LOS ANGELES (AP) — Netflix’s first attempt at handling a live sports event did not receive a passing grade. The fight Friday night between Mike Tyson and Jake Paul experienced streaming problems according to many viewers on social media. Netflix representatives had no comment via e-mails to The Associated Press on the streaming problems viewers experienced leading up to or during the fight. The bout between the YouTuber-turned-boxer Paul, and Tyson, 58-year-old former heavyweight champion, from AT&T Stadium in Arlington, Texas, was Netflix’s biggest live sports event to date, and an opportunity to make sure it can handle audience demand with the NFL and WWE on the horizon. Viewers saw Tyson’s bare butt in only a jockstrap when he walked away at the end of a pre-fight interview in his locker room.
+Financial_Events: []

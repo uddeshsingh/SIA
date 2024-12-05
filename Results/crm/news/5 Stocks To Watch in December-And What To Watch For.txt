@@ -1,0 +1,17 @@
+Authors: ['Colin Laidley']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 07:00:00
+Description: Stocks soared to record highs in November as Wall Street looked ahead to a second term for President-elect Donald Trump. Trump's incoming administration and the Fed's interest rate-cutting campaign are likely to remain in the spotlight in December.
+Filename: .json
+Image_Url: https://www.investopedia.com/thmb/yJmaw0CmX0uZgfD0cdC3F3s5GOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2186333859-316b31154f7749d38b142bdfe7b16a70.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 5 Stocks To Watch in December-And What To Watch For
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Russell 2000, an index of small-cap stocks, surged nearly 11%, boosted by expectations for faster economic growth and lower taxes under Trump and a Republican-controlled Congress. That surge, which has pushed the company's market value over $1 trillion, has come even as the incoming Trump administration has vowed to roll back government support for EVs, including a $7,500 tax credit. Wall Street expects Tesla to benefit from Elon Musk’s sway with the future President, which he could exercise as both an informal advisor and the co-leader of the newly created Department of Government Efficiency. Trump's transition team has already reportedly outlined plans to ease self-driving car rules, which could help make real Musk's dream of launching a Tesla robotaxi service. Elliott has pushed Honeywell to follow the lead of fellow conglomerates General Electric and 3M, and break itself up into two publicly traded companies focused, respectively, on aviation and automation.
+Financial_Events: ['Musk could also encourage Trump to exempt Tesla’s vehicles from proposed tariffs on goods from China.\nTesla stock will remain in focus this month as Trump continues to staff and define the priorities of his incoming administration.\nSalesforce\nSalesforce (CRM) reports earnings after markets close on Dec']

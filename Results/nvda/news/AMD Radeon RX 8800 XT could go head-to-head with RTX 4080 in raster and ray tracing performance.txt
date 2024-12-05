@@ -1,0 +1,17 @@
+Authors: ['Daniel Sims']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 17:14:00
+Description: A proven leaker from the Chiphell forums recently reported that an upcoming AMD RDNA4 graphics card substantially outperforms the company's current flagship in ray tracing while drawing...
+Filename: .json
+Image_Url: https://www.techspot.com/articles-info/2928/images/2024-11-25-image-17.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: AMD Radeon RX 8800 XT could go head-to-head with RTX 4080 in raster and ray tracing performance
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A proven leaker from the Chiphell forums recently reported that an upcoming AMD RDNA4 graphics card substantially outperforms the company's current flagship in ray tracing while drawing less power. We should note that Capcom's action horror remake only features ray-traced reflections, and the other games were unnamed, but the tipster described AMD's RT performance uplift as "epic." In contrast, the RX 8800 XT matches the RTX 4080 and 4080 Super in traditional raster rendering and ray tracing, representing a dramatic improvement. If zhangzhonghao's report proves accurate, it would align with an AMD data sheet that leaked earlier this year, which described new technology designed to boost RT performance in the company's future products. Inno3D, which sells Nvidia graphics cards, recently confirmed that Team Green plans to reveal its upcoming RTX 50 series at CES in January.
+Financial_Events: []

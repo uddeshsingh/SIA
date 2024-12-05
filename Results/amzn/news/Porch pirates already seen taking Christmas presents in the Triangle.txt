@@ -1,0 +1,17 @@
+Authors: ['Diane Wilson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:10:06
+Description: Porch pirates already looking to swipe packages delivered to homes across central North Carolina. Ways you can keep your deliveries safe.
+Filename: .json
+Image_Url: https://cdn.abcotvs.com/dip/images/15615767_120224-wtvd-porch-pirate-img.jpg?w=1600
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Porch pirates already seen taking Christmas presents in the Triangle
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: CLAYTON, N.C. (WTVD) -- This holiday season it's key to protect your online orders from porch pirates. "I ordered some things for my kids for Christmas, so I was excited to get them," Clayton resident Dee Strong said. Amazon, one of the biggest online retailers, said to prevent package thefts customers should take advantage of their delivery options. Another way to protect your packages, leave the light on as deliveries are happening after sunset and in the early morning hours. You can designate one of those locations and make sure you pick up your package, so it's not left on your doorstep for too long," Rocha said.
+Financial_Events: []

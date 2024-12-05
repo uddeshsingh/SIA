@@ -1,0 +1,17 @@
+Authors: ['Robert Izquierdo', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-24 11:10:00
+Description: None
+Filename: .json
+Image_Url: https://g.foolcdn.com/editorial/images/798281/ai_chip-on-circuit-board_gettyimages-1408715370-1201x739-83b708e.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Better Artificial Intelligence Stock: Broadcom vs. AMD
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Among AI tech stocks, semiconductor firms Broadcom (AVGO 2.73%) and Advanced Micro Devices (AMD 3.56%) are two to consider investing in. VMware is famous for its virtualization software, which allows IT organizations to run multiple operating systems on a single server. Broadcom believes some companies don't want their data shared with other businesses through AI, whether to protect intellectual property or to comply with legal requirements. Broadcom also generates AI-related sales from an array of semiconductor products, including those for the computer networking, storage, and broadband industries. This customer demand resulted in 18% year-over-year revenue growth to $6.8 billion in AMD's fiscal third quarter, ended Sept. 28.
+Financial_Events: ["The AI industry's growth has led to outsized sales for both as customers flocked to their offerings.\nBut if you had to choose between them, is one a better AI stock than the other? Let's compare Broadcom and AMD to help you decide which is the better AI investment for the long run.\nBroadcom's strategic AI acquisition\nBroadcom is basking in the AI fervor, as sales expanded 47% year over year to $13.1 billion in its fiscal third quarter, ended Aug", "That's an impressive increase, but 43% of the growth came from its acquisition of VMware, which closed last November.\nVMware is famous for its virtualization software, which allows IT organizations to run multiple operating systems on a single server", "But its private AI technology looks like a key strategic factor behind Broadcom's acquisition.\nPrivate AI shields a firm's data from access by any AI system except those designated by the business", "Its semiconductor solutions division contributed $7.3 billion of its $13.1 billion in Q3 revenue, a 5% year-over-year increase.\nAMD's approach to AI\nAMD's strategy to capture AI market share is for its semiconductor products to concentrate on accelerated computing", "For example, Meta purchased 1.5 million units of AMD's EPYC computer processor for its cloud computing servers, which house AI systems.\nThis customer demand resulted in 18% year-over-year revenue growth to $6.8 billion in AMD's fiscal third quarter, ended Sept", 'This, in turn, enabled diluted earnings per share (EPS) to increase to $0.47, a 161% year-over-year increase.\nDeciding between Broadcom and AMD stock\nBoth Broadcom and AMD possess AI strategies with the ability to capitalize on the growing AI market over the long term', "With its Q3 cash and equivalents of $3.9 billion, AMD's net debt was effectively zero.\nAnother consideration is the price-to-earnings ratio (P/E ratio) for each company", "This metric is a way to assess the relative value of a stock by telling you how much investors are willing to pay for every dollar of earnings.\nAMD's P/E multiple was far higher than Broadcom's earlier in 2024, but has come down recently"]

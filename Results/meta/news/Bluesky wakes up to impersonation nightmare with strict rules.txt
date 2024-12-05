@@ -1,0 +1,17 @@
+Authors: ['Nadeem Sarwar']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 08:06:33
+Description: A healthy chunk of Bluesky’s top accounts have an impersonator lurking around, per research. Now, the platform is taking strict measures to curb such activity.
+Filename: .json
+Image_Url: https://www.digitaltrends.com/wp-content/uploads/2024/11/IMG_1264.jpeg?resize=1200%2C630&p=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Bluesky wakes up to impersonation nightmare with strict rules
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Just over a week ago, the platform crossed the 20 million users benchmark and briefly sat at the top of Apple App Store charts. Recommended Videos “Impersonation and handle-squatting accounts will be removed,” the company’s safety team wrote in an update on Bluesky. Bluesky says it is already sitting on a pile of moderation-related requests submitted by its community due to the high number of fresh sign-ups. According to Bluesky CEO Jay Graber (via TechCrunch), the company is hoping to build a verification system where it is not the sole entity in control of the identity submission and authentication pipeline. It would be interesting to see how soon Bluesky launches extra protective measures to rein in such bad actors and offer an official channel for identity verification.
+Financial_Events: []

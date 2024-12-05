@@ -1,0 +1,17 @@
+Authors: ["Anthony D'Alessandro"]
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:22:30
+Description: Netflix's The Fall Edit - Behind the Music symposium featured the composers and music supervisors of 'Bridgerton' and 'Monsters' series talking about their work.
+Filename: .json
+Image_Url: https://deadline.com/wp-content/uploads/2024/12/Crew-Call1.jpg?w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How Music Plays A Character
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Song and score are prominent characters in the Netflix series Bridgerton and Monsters: The Lyle and Erik Menendez Story, and what’s obvious is that it’s not always a push and pull between the two in the final edit, rather an eloquent complement. Needle drops are signatures for both series: For Bridgerton it’s about the securing of pop ditties from Nick Jonas, Sia, Ariana Grande, Billie Eilish and more which are then transformed into the most calming classical arrangements. Admits Kamp, “Every song is not obtainable; we’ve gotten denials for Bridgerton.” Adds Thomas, “Monsters is actually one of the harder shows for us. So, what we’re always sort of figuring out is how do we sort of explain the use and explain what they’re being a part of.” The use of 1990s pop band Milli Vanilli was a crucial component for Monsters, in fact the first episode which centers around the brothers’ gory murder of their parents was entitled “Blame It On the Rain.” The fraternal duo were die hard fans of the lip-sync group. Per Thomas, there was no back-up plan as far as the use of other music in that episode: “It was Milli Vanilli or bust.” In regard to how song and score find a balance on a series, Monsters co-composer Julia Newman says that on Monsters “Because we have so many pieces of source music throughout the show, then it’s a conversation more about how score is interacting with that source in order to make both of those the most effective, dramatically as possible.” Watch our conversation above.
+Financial_Events: []

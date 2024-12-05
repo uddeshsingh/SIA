@@ -1,0 +1,17 @@
+Authors: ['Dan Cancian']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: Max Verstappen made clear there is no love lost between him and George Russell following a controversial incident in the qualifying session of the Qatar Grand Prix.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/674daa056f610c0899346ec6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Why Max Verstappen Has ‘Lost All Respect’ For George Russell
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Max Verstappen made clear there is no love lost between him and George Russell following a controversial incident in the qualifying session of the Qatar Grand Prix on Saturday. The Mercedes driver complained over the radio that Verstappen’s behaviour had been “extremely dangerous” and the pair argued their case with the stewards at the end of the qualifying session. While the sanction ultimately proved inconsequential as he won the race on Sunday ahead of Charles Leclerc and Oscar Piastri, Verstappen didn’t mince his words when it came to Russell, who finished fourth. Max Verstappen fires back at George Russell The four-time world champion was even more blunt when speaking to to Dutch TV broadcaster Viaplay. “I did feel that George [Russell] and Mercedes made a big meal out of it, and it was unprecedented on a slow lap for Max [Verstappen] to end up with a one-place penalty,” he said.
+Financial_Events: []

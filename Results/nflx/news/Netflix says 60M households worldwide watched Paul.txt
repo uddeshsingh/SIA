@@ -1,0 +1,17 @@
+Authors: ['ESPN Staff', 'Andreas Hale', 'Mike Coppinger', 'Nick Parkinson', 'James Regan', 'ESPN News Services']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-16 22:49:00
+Description: Netflix says 60 million households tuned in live to watch Jake Paul's unanimous decision win over Mike Tyson, while 50 million watched Katie Taylor retain her undisputed women's lightweight championship over Amanda Serrano.
+Filename: .json
+Image_Url: https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1116%2Fr1415509_1296x729_16%2D9.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix says 60M households worldwide watched Paul
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Streaming giant Netflix said Saturday that 60 million households tuned in live to watch YouTuber-turned-prizefighter Paul, 27, cruise to a unanimous decision over Tyson, the 58-year-old former heavyweight champion, at AT&T Stadium in Arlington, Texas. In addition, Netflix said 50 million households globally watched the co-main event, which saw Katie Taylor retain her undisputed women's lightweight championship with a controversial unanimous decision over Amanda Serrano. "The boxing mega-event dominated social media, shattered records and even had our buffering systems on the ropes," Netflix said Saturday. Tyson suffered an ulcer flare-up on an airline flight over the summer, leading him to postpone a fight that was originally scheduled to take place July 20. Nielsen said the Kansas City Chiefs' 25-22 overtime victory over the San Francisco 49ers in last season's Super Bowl averaged 123.7 million viewers across TV and streaming platforms, making it the most-watched program in television history.
+Financial_Events: []

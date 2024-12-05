@@ -1,0 +1,17 @@
+Authors: ['Michael Nuñez']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-24 18:57:42
+Description: Meta has launched compressed AI models that run directly on smartphones, making artificial intelligence faster and more private while using less memory than cloud-based alternatives.
+Filename: .json
+Image_Url: https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_Vector_art_of_a_quantum_atom_coming_out_of_a_smartpho_b79cd110-dbb1-4e55-a187-eba70c8451d1.webp?w=986?w=1200&strip=all
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta just beat Google and Apple in the race to put powerful AI on phones
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Meta Platforms has created smaller versions of its Llama artificial intelligence models that can run on smartphones and tablets, opening new possibilities for AI beyond data centers. While Google and Apple take careful, controlled approaches to mobile AI — keeping it tightly integrated with their operating systems — Meta’s strategy is markedly different. By optimizing its models for these widely-used processors, Meta ensures its AI can run efficiently on phones across different price points — not just premium devices. The future of AI in your pocket Meta’s announcement today points to a larger shift in artificial intelligence: the move from centralized to personal computing. While cloud-based AI will continue to handle complex tasks, these new models suggest a future where phones can process sensitive information privately and quickly.
+Financial_Events: []

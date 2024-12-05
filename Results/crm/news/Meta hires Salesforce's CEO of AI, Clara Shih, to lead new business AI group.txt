@@ -1,0 +1,17 @@
+Authors: ['Maxwell Zeff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-20 00:14:07
+Description: Meta hired Salesforce's CEO of AI, Clara Shih, to lead a new organization building AI tools for businesses that use Meta's apps to reach consumers, according to a LinkedIn post from Shih on Tuesday. Meta confirmed the appointment and the new Business AI group in a statement to TechCrunch. "I’m thrilled to share today that I’ve joined Meta to lead a new Business AI group," said Shih.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/ixboeRQgemTImktJ.X8oeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/fe58aa311314f96eb0cf6fdafc7e7e72
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta hires Salesforce's CEO of AI, Clara Shih, to lead new business AI group
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: "I’m thrilled to share today that I’ve joined Meta to lead a new Business AI group," said Shih. Mark Zuckerberg's company doesn't sell a subscription to its AI chatbots, like OpenAI or Google, in order to generate revenue. Specifically, Meta's new group will offer AI products made with Llama to the millions of businesses advertising and creating content on Instagram, Facebook, and WhatsApp. It's unclear if Meta will sell these AI tools, or if they'll be offered for free as a way to drive up ad spending — the company's main source of revenue. "This new product group under Clara’s leadership will help us bring that vision to life.” Shih previously led Salesforce's AI efforts, which have not exactly been a huge success.
+Financial_Events: ["Mark Zuckerberg's company doesn't sell a subscription to its AI chatbots, like OpenAI or Google, in order to generate revenue", 'It\'s unclear if Meta will sell these AI tools, or if they\'ll be offered for free as a way to drive up ad spending — the company\'s main source of revenue.\n"We believe these latest advancements in AI represent a significant opportunity for businesses to drive more efficiencies and significantly improve the experiences they offer their customers," said Meta\'s VP and Head of Monetization, John Hegeman, in an emailed statement to TechCrunch']

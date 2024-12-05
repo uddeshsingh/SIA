@@ -1,0 +1,17 @@
+Authors: ['Bloomberg']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-30 00:00:00
+Description: OpenAI is less focused on GPUs, chips that are used to train and build generative AI models – a market that has been cornered by Nvidia.
+Filename: .json
+Image_Url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/10/30/ec107e1d-7d0e-483e-8f86-897318d1dd9b_046c8c3f.jpg?itok=dTjY_H6s&v=1730259358
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: OpenAI, Broadcom working to develop AI inference chip
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: OpenAI is working with Broadcom to develop a new artificial intelligence chip specifically focused on running AI models after they have been trained, according to two people familiar with the matter. OpenAI has been planning a custom chip and working on such uses for the technology for around a year, the people said, but the discussions are still at an early stage. OpenAI is less focused on graphics processing units, chips that are used to train and build generative AI models – a market that has been cornered by Nvidia. Investors and analysts expect the need for chips to support inference will only grow as more tech companies use AI models to field more complex tasks. Reuters earlier reported that OpenAI was pulling back from the effort of establishing its own chip manufacturing capacity.
+Financial_Events: []

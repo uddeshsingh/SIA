@@ -1,0 +1,17 @@
+Authors: ['PC Mag']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:10:00
+Description: I've tested and reviewed hundreds of gaming laptops and desktops for PCMag, so I know a thing or two about what makes a good deal. These top-rated rigs should be on your Cyber Monday shortlist.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/1m0qjXtyoInoBUrNn2p2hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/cc3eb23f881650408149c6099a2c1abb
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Get in the Game With Up to $500 Off Our Favorite Gaming PCs This Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A potent graphics chip is vital for a gaming system, and even though each of these picks occupies different pricing positions in their categories, all three have capable GPUs and fast processors that will satisfy the most discerning gamers. This gaming laptop's specs are closer to the midrange than the budget category, with a snappy AMD Ryzen 7 8845HS CPU, 32GB of memory, and a 1TB solid-state drive. For gamers seeking more than entry-level power, the Asus TUF Gaming A16 is a high-end laptop discounted to a midrange price for Cyber Monday. (We recently reviewed an Intel GPU version of the Lenovo LOQ 15, and it's safe to bet the Nvidia model will perform better.) For more bargains, visit our Cyber Monday deals page, which includes the entire field of offers and more specific category-based picks.
+Financial_Events: []

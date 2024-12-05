@@ -1,0 +1,17 @@
+Authors: ['Daniel Rubino']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:06:05
+Description: Believe it or not, you CAN get a $299 Windows 11 laptop that's not a slow mess, thanks to this flash sale from HP.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/rD2ToBXzfnKLGwgDosNCBj-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: This $299 HP 15-inch laptop is way better than you think
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: What's neat is IF you have a bit more budget you can actually customize this laptop at HP.com and improve RAM (up to 16GB), storage (up to 1TB), CPU (up to a Core i7 P-processor), and even the display (up to Full HD) to something you may prefer. This HP 15 Laptop is great for general family use, as a first or second house computer, couch surfing, students, or anyone who needs to get the basics done, such as Office, email, writing, web browsing, watching YouTube/Netflix, and other productivity tasks. But with a Core i5, an SSD for storage, and fast RAM, when you combine that with a full HD display, you’ll get a laptop that feels like something much more, and that’s what matters for day-to-day use. While Black Friday and Cyber Monday tend to start earlier each year, the worldwide sales event often ends on a similar note. It's best to take advantage of sales you're interested in the moment you spot them to avoid stock shortages and limited-time discounts, but Cyber Monday does frequently boast its own batch of last-minute deals separate from Black Friday.
+Financial_Events: []

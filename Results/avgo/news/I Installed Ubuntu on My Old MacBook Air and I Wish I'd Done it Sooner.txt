@@ -1,0 +1,17 @@
+Authors: ['Matt Klein']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 14:01:17
+Description: Make your old Mac feel new again with Linux.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/LpVJRIdN490XYNTtyP70tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/how_to_geek_999/1d499db350f70126d53f5f3ed58569c0
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: I Installed Ubuntu on My Old MacBook Air and I Wish I'd Done it Sooner
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If you’re eyeing a shiny new Apple silicon Mac but don’t know what to do with your old one, installing Linux can transform what you thought was obsolete tech into a capable machine. What was once snappy now feels sluggish; app icons bounce endlessly while applications open, and spinning beach balls are a common occurrence. Linux distributions, like Ubuntu or Xubuntu, are built to run efficiently on a wide range of hardware, including older machines. With Linux, even older hardware stays secure and functional with access to the latest software and system updates for the long term. Boot the Ubuntu LiveDisk Insert the USB drive into your Mac, power it on, and hold the Option or Alt key until the Startup Manager opens.
+Financial_Events: []

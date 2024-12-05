@@ -1,0 +1,17 @@
+Authors: ['Emily Barnes']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-07-22 00:00:00
+Description: According to Change Healthcare, letters notifying business customers of the breach started being sent out back in June but New Yorkers have been receiving them as recently as September and October.
+Filename: .json
+Image_Url: https://www.lohud.com/gcdn/authoring/authoring-images/2024/07/22/PDTF/74500728007-img-getty-images-14024505-2-1.JPG?crop=7067,3974,x1051,y0&width=3200&height=1800&format=pjpg&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Is this Change Healthcare data breach letter a scam? What to know
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: You may have recently received a letter in the mail alerting you to a Change Healthcare data breach and are wondering if it's a scam. According to Change Healthcare, letters notifying business customers of the breach started being sent out back in June but New Yorkers have been receiving them as recently as September and October. The cyberattack began on Feb. 21 against Change Healthcare, which is a health care technology company that is part of Optum and owned by UnitedHealth Group, according to the American Hospital Association. It remains unclear how many hospitals in New York have been impacted, but trade groups have asserted Change Healthcare transactions touch one in every three patient records. Consider placing a free credit freeze or fraud alert to further protect yourself from people trying to open new accounts in your name.
+Financial_Events: []

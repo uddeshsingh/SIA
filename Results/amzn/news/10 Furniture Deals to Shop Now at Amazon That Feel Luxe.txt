@@ -1,0 +1,17 @@
+Authors: ['Jacorey Moon']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:30:07
+Description: Amazon is known for selling trendy, sturdy furniture finds — we rounded up ten deals to shop that exude rich mom energy!
+Filename: .json
+Image_Url: https://www.usmagazine.com/wp-content/uploads/2024/11/rich-mom-furniture-deals.jpg?crop=0px%2C281px%2C2000px%2C1051px&resize=1200%2C630&quality=70&strip=all
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 10 Furniture Deals to Shop Now at Amazon That Feel Luxe
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: We rounded up ten furniture deals to shop at Amazon that will help you exude rich mom energy no matter what — read on to see our picks! Counting Sheep: This Sha Cerlin queen size metal platform bed will help you sleep peacefully — was $170, now just $126! Clean And Simple: This Qeeig narrow c shaped side table set are so cute, and they can hold tons of things — was $65, now just $40! Plushly Soft: This Poly & Bark Essexl leather couch that it’s sure to become a key player in your living room — seriously — was $2,195, now just $1,519! Fuzzy Wuzzy: We can’t get enough of this Greenstell vanity stool chair because it uses faux fur for style points and it comes with storage — was $50, now just $47!
+Financial_Events: []

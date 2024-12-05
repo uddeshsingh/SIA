@@ -1,0 +1,17 @@
+Authors: ['Scott Thompson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-16 15:52:15
+Description: The Jake Paul-Mike Tyson fight stream on Netflix proved to be a mess, as some NFL fans are concerned about the Christmas Day doubleheader upcoming.
+Filename: .json
+Image_Url: https://static.foxnews.com/foxnews.com/content/uploads/2024/11/netflix.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: NFL fans worried about Christmas games streamed on Netflix after Paul-Tyson fight buffering debacle
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Netflix is set for its NFL debut doubleheader on Christmas, as the Kansas City Chiefs and Pittsburgh Steelers go head-to-head before the Baltimore Ravens and Houston Texans play as well on that Wednesday night. Four passionate fanbases with huge AFC implications don’t want to see the same issues with their game, yet it’s hard to feel confident after what went down with this boxing match at AT&T Stadium, the home of the Dallas Cowboys, on Friday night. Randy Baumann, a Pittsburgh sports radio host, even suggested that buffering during the Steelers game would lead to some tossed Christmas dinner tables. Netflix, like many other top streaming services, paid a handsome sum of around $150 million, according to the New York Post, to air the Christmas Day NFL games. And Netflix themselves admitted that their buffering systems couldn't handle the 60 million around the world who tuned in to watch the fight live.
+Financial_Events: []

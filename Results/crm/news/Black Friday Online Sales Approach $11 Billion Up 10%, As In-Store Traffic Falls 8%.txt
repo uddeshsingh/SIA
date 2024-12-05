@@ -1,0 +1,17 @@
+Authors: ['Joan Verdon']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 13:52:28
+Description: Online brands saw big growth on Black Friday, but it came at the expense of in-store shopping. The extended promotional period also hurt Black Friday.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/674b3b80cd69e9c7f814193e/0x0.jpg?format=jpg&crop=2785,1857,x0,y0,safe&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Black Friday Online Sales Approach $11 Billion Up 10%, As In-Store Traffic Falls 8%
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Both Adobe Analytics and Salesforce, which track online sales, showed big jumps in e-commerce spending on Black Friday. “And with consumers getting more comfortable with everything from mobile shopping to chat bots, we have tailwinds that can prop up online growth for Black Friday moving forward,” Adobe analyst Pandya said. Adobe Analytics draws its data by analyzing online transactions covering over 1 trillion vists to U.S. retail sites and includes 18 product categories. Another Shopify online brand, BK Beauty, also saw strong sales growth on Black Friday and during the weeks leading up to Thanksgiving. Westfield Garden State Plaza in Paramus, N.J., one of the New York metro area’s biggest and more productive malls, saw the types of crowds and car traffic that it hasn’t seen since Black Friday, 2018, Senior General Manager Wesley Rebisz said in an interview.
+Financial_Events: []

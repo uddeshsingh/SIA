@@ -1,0 +1,17 @@
+Authors: ['Filip De Mott']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:13:10
+Description: "Maybe for once, we will see relative softness on the big high flyers that have been so good for the market the last two years," Jeremy Siegel said.
+Filename: .json
+Image_Url: https://i.insider.com/672d108c192f52589856c589?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Market Returns to Weaken in 2025 As Huge Tech-Driven Gains Turn Flat
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This AI frenzy has sent a handful of tech companies soaring, making S&P gains heavily dependent on their performance. But according to Siegel, the so-called Magnificent 7 stocks — which include names such as Amazon, Nvidia, and Meta — are starting to lag. A lot will depend on future bond yields, as rising rates will likely cap risk assets in 2025, the bank said. Although tech has been the S&P 500's big catalyst this year, Donald Trump's election has helped drive even steeper gains in recent weeks. "Maybe the Mag 7 will do nothing next year, and those small and mid-sized caps, stocks — which are really so undervalued compared to the others — are finally going to have their day in the sun," Siegel said.
+Financial_Events: []

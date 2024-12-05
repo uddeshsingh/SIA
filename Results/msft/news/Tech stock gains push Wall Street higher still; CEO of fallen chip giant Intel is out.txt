@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:30:00
+Description: Tech stocks pull S&P to another high
+Filename: .json
+Image_Url: https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/a9/aa9fd7dc-b06f-5908-94cd-c2e5a2245a04/674e1b38da392.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tech stock gains push Wall Street higher still; CEO of fallen chip giant Intel is out
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The company was once a dominant force in the semiconductor industry but has been eclipsed by rival Nvidia, which has cornered the market for chips that run artificial intelligence systems. As head of PSA Peugeot, Tavares took control of the Netherlands-based company in January 2021 — when it merged with Fiat Chrysler Automobiles, creating an automotive giant that is the parent to several well-known brands today. But he noted that there’s a risk that inflation “may be getting stuck above” the 2 percent target, which would support an argument for keeping the rate unchanged when the Fed meets later this month. Trump has pledged to end funding for EV projects, which he called the “green new scam.” Feds open up a Microsoft antitrust probe WASHINGTON — Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsoft’s business practices, starting off a big legal project that an incoming Trump administration must take up or abandon. It’s the latest action of more than three years of aggressive antitrust enforcement shepherded by FTC Chair Lina Chan, who was elevated to lead the agency by President Joe Biden after he came into office pledging tougher scrutiny of monopolistic behavior by Big Tech companies.
+Financial_Events: ["Beyond Jeep, Citroën and Ram, the company portfolio includes Dodge, Chrysler, Fiat, Peugeot, Maserati and Opel.\nStellantis' North American operations had been the company's main source of profits for some time, but struggles piled up this year, with the company citing rising competition and larger market changes"]

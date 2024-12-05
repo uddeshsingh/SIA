@@ -1,0 +1,17 @@
+Authors: ['BBC News']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2021-04-05 16:02:04
+Description: The US Supreme Court has handed Google a major win in a decade-long battle over copied code.
+Filename: .json
+Image_Url: https://ichef.bbci.co.uk/news/1024/branded_news/C70A/production/_117845905_gettyimages-1231609344.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Google v Oracle: Supreme Court declares Google's code copying fair
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: At issue was whether Google's use of Oracle's Java API - a widely-used "building block" for programmers - counted as "fair use" under US copyright law. So many programmers used and had deep knowledge of Oracle's building blocks that such a move would turn computer code into "a lock limiting the future creativity of new programs". 'A monopolist' Oracle made clear that it firmly disagreed with the court's judgement, saying that it had increased Google's power further and damaged other companies' ability to compete. "They stole Java and spent a decade litigating as only a monopolist can," said Dorian Daley, the company's general counsel, in a statement. "Today's Supreme Court decision in Google v Oracle is a big win for innovation, interoperability and computing," wrote Ken Walker, the company's senior vice president for global affairs.
+Financial_Events: []

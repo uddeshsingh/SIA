@@ -1,0 +1,17 @@
+Authors: ['Kyle Barr', 'Gizmodo Deals', 'Matt Novak', 'Matthew Gault', 'Ed Cara']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:03:16
+Description: Intel's stock price has seen better days, but Pat Gelsinger has also led the company through numerous scandals with its latest processors.
+Filename: .json
+Image_Url: https://gizmodo.com/app/uploads/2024/08/IntelCEOBible.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Pat Gelsinger Retires from Intel After Three Turbulent Years
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Intel is gearing up to release two new discrete GPUs this week, plus it will have to deal with any new competing processor and computing hardware coming out of CES in January next year. The companyÂ went through waves of layoffs earlier this year, and then its latest Arrow Lake desktop Intel Core Ultra chips, launched in October,Â didnât set the world on fire. Intelâs Lunar Lake chips made up some ground on battery life and X86 performance, but OEMs have not adopted some of the more expensive and powerful Intel Core Ultra Series 2 processors. Chief finance officer David Zinsner and Michelle Johnston Holthaus, who will also be CEO of Intelâs product, data centers, and AI groups, are stepping up to the co-CEO role. Itâs unclear whether the former Intel CEO received any pressure to retire, but this latest shakeup only helps show that the companyâs current initiatives werenât working as well as intended.
+Financial_Events: ['It was left behind on AI training chips while competitor Nvidia became one of the most profitable companies in the world']

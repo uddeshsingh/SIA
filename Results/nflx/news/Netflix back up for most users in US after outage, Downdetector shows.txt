@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-16 11:07:14
+Description: Downdetector, which collates status reports from a number of sources, showed that there were fewer than 100 user reports of problems accessing Netflix as of 5 a.m. ET (1000 GMT). At the peak of the outage, which began on Friday, there were more than 90,000 reports of problems with Netflix according to Downdetector, on the night when viewers were tuning in to watch a highly anticipated boxing match between Mike Tyson and Jake Paul, which Paul won.
+Filename: .json
+Image_Url: https://media.zenfs.com/en/reuters-finance.com/bab72f04c536aa9cf6c9aa352740d0d0
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix back up for most users in US after outage, Downdetector shows
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In This Article: (Reuters) -Video streaming platform Netflix was back up on Saturday after an outage that lasted roughly six hours in the United States, according to the outage tracking website Downdetector.com. At the peak of the outage, which began on Friday, there were more than 90,000 reports of problems with Netflix according to Downdetector, on the night when viewers were tuning in to watch a highly anticipated boxing match between Mike Tyson and Jake Paul, which Paul won. The platform has suffered outages during live or highly anticipated events in the past, with spikes in user traffic often contributing. In April last year, it experienced a brief outage during a live stream of the dating reality show Love is Blind, drawing complaints from thousands of users. (Reporting by Surbhi Misra and Mrinmay Dey in Bengaluru; Editing by Clarence Fernandez, Stephen Coates and Kevin Liffey) Recommended Stories
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Jason Bailey', 'www.nytimes.com', 'jason-bailey']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-18 21:49:34
+Description: There are so many film experiences to choose from on Netflix, let us help you narrow down your choices.
+Filename: .json
+Image_Url: https://static01.nyt.com/images/2024/10/01/multimedia/best-netflix-movies-pix1-bfvp/best-netflix-movies-pix1-bfvp-facebookJumbo.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The 50 Best Movies on Netflix Right Now
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The sheer volume of films on Netflix — and the site’s less than ideal interface — can make finding a genuinely great movie there a difficult task. To help, we’ve plucked out the 50 best films currently streaming on the service in the United States, updated regularly as titles come and go. (Note: Streaming services sometimes remove titles or change starting dates without giving notice.) ‘Woman of the Hour’ (2024) Anna Kendrick makes an impressive directorial debut in this fictionalized account of the serial killer Rodney Alcala, who — in the midst of a yearslong spree of sexual assaults and murders — appeared as one of the bachelors on “The Dating Game” in 1978. Our critic praised Kendrick’s ability to balance “the buoyant goofiness of a TV game show with a menacing undertone.”
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Verity Babbs']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:54:05
+Description: First discovered in 2004 but confirmed thanks to recent carbon dating, researchers found the world's oldest alphabet in a Syrian tomb.
+Filename: .json
+Image_Url: https://p-news-upload.storage.googleapis.com/2024/11/oldest-alphabet-syria-schwarz-johns-hopkins-university-3-scaled.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: World’s Oldest Alphabet Turns Up in Ancient Syrian Tomb
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The earliest known example of alphabetic writing has been discovered etched onto small clay cylinders in an ancient Syrian tomb, which was excavated by researchers from Maryland’s Johns Hopkins University. The characters are neither numerical nor cuneiform (which is the world’s earliest form of writing, predating Egyptian hieroglyphics and first used more than 5,000 years ago). Schwartz led the team who discovered the clay cylinders during a 16-year-long excavation at Umm-el Marra (possibly the ancient city of Tuba). The excavation was part of a collaboration with the University of Amsterdam in which researchers were studying the development of cities in the area during the early Bronze Age. During a dig at one of the tomb sites, they found remains accompanied by jewelry made from precious metals, a spearhead, stoneware, and the four finger-length clay cylinders.
+Financial_Events: []

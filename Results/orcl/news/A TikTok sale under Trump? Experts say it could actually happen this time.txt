@@ -1,0 +1,17 @@
+Authors: ['Bobby Allyn', 'www.kalw.org', 'bobby-allyn']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-27 16:18:05
+Description: Will TikTok be sold? The question has been asked before, during Trump's first term. But now, the situation has changed considerably.
+Filename: .json
+Image_Url: https://npr.brightspotcdn.com/dims4/default/801f98c/2147483647/strip/true/crop/4000x2100+0+950/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4000x4000%201000%200%2Fresize%2F4000x4000%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2Fb6%2F08b03ad740ccad045d6142458aa9%2Fgettyimages-2081068441.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: A TikTok sale under Trump? Experts say it could actually happen this time
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Experts told NPR that if China can extract some tariff concessions alongside a possible TikTok deal, officials there could become more receptive to a sale, something Beijing has long resisted. While Yass never publicly endorsed Trump, he funneled millions into groups including the super PAC Club for Growth that backed conservative policies in the 2024 election. "As long as TikTok is controlled by an entity under the jurisdiction of the CCP, it's not great for Americans," said Megan Stifel, the former director of international cyber policy on the National Security Council under President Obama. The Justice Department argued that the divest-or-ban law is justified because Americans' data and views cannot be potentially vulnerable to decisions made by China, a foreign adversary of the U.S. James Lewis, a former diplomat now at the Center for Strategic and International Studies, agreed that Chinese officials could entertain a sale if it becomes part of the larger trade debate.
+Financial_Events: []

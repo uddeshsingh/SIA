@@ -1,0 +1,17 @@
+Authors: ['Marc Deschamps']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 21:38:01
+Description: Crash Team Racing Nitro-Fueled has been confirmed for Xbox Game Pass, and will arrive on the service on December 4th.
+Filename: .json
+Image_Url: https://comicbook.com/wp-content/uploads/sites/4/2024/12/Crash-Team-Racing-Nitro-Fueled.jpg?resize=2000,1125
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Crash Team Racing Nitro-Fueled Coming to Xbox Game Pass This Week
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: With the impending release of Indiana Jones and the Great Circle, this month is already set to be a big one for Xbox Game Pass subscribers. Xbox confirmed today that Crash Team Racing Nitro-Fueled will be added to the service on December 4th. The game is a remaster of the original Crash Team Racing, adding in new features, such as online play and new modes. Reviewers for the game were largely positive, with the Xbox One version currently holding an 84 score on Metacritic. It took a while for Game Pass subscribers to see any benefits from the deal, but Microsoft has been slowly but surely digging into the company’s catalog to bring more options to the service.
+Financial_Events: ['Reviewers for the game were largely positive, with the Xbox One version currently holding an 84 score on Metacritic.\nMicrosoft closed its acquisition of Activision Blizzard in late 2023']

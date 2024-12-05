@@ -1,0 +1,17 @@
+Authors: ['Harvesting Dividends', 'seekingalpha.com', 'harvesting-dividends']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 21:12:35
+Description: Itâll be a busy December for dividend growth investors, with 25 companies announcing their annual increases. Check out the companies with dividend increases.
+Filename: .json
+Image_Url: https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458117345/image_458117345.jpg?io=getty-c-w1536
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Mastercard, Broadcom, Pfizer Among 24 Companies To Announce Dividend Increases In December
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: I have no business relationship with any company whose stock is mentioned in this article. However, I may take a position in any of the stocks mentioned in this article in the near future. Seeking Alpha's Disclosure: Past performance is no guarantee of future results. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.
+Financial_Events: []

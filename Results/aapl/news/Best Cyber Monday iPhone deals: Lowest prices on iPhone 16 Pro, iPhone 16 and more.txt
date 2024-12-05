@@ -1,0 +1,17 @@
+Authors: ['Richard Priday']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 15:43:49
+Description: A whole bunch of iPhone deals are available this Cyber Monday — and these are the best ones.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/Jz6yqvQTbVitCSfBQxY9kK-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Cyber Monday iPhone deals: Lowest prices on iPhone 16 Pro, iPhone 16 and more
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: So let us guide you towards the top deals on the latest iPhones as well as older models that are still worth buying at a discounted price. It may sound like a typo, but one of the best Cyber Monday deals has been one that gives you an iPhone 16 or 16 Pro for just one cent up front. Verizon-owned Visible is offering a $250 gift card for iPhone 16 Pro Max purchases. Speaking of older models, Apple isn't offering any discounts on its phones for Cyber Monday. And make sure you check out our Cyber Monday deals live blog for the latest sales on TVs, laptops and more.
+Financial_Events: []

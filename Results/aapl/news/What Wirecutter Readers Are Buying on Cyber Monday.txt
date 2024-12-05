@@ -1,0 +1,17 @@
+Authors: ['The Wirecutter Deals Team']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: Follow the wisdom of the crowd and pick up the Cyber Monday deals that Wirecutter readers have loved the most.
+Filename: .json
+Image_Url: https://cdn.thewirecutter.com/wp-content/media/2024/12/ROUNDUP-MOST-POPULAR-BF-2024-2048px-2x1-v2.jpg?auto=webp&quality=75&crop=1.91:1&width=1200
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What Wirecutter Readers Are Buying on Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: It’s easy to get swept up in the chaos and clichés of Cyber Monday, when every online retailer you’ve ever visited is flooding your inbox and claiming to offer the biggest deals of the year. Wirecutter readers know there’s a better way: trusting our team of expert journalists to make thoughtful recommendations of products that we know will last at prices that aren’t too good to be true. A leakproof tumbler with a unique handle Buying Options $30 $23 from Amazon You save $7 (23%) $30 $23 from Walmart With store pickup What we like: A staff-pick high-quality, budget-friendly Stanley-tumbler dupe. Offers the best combination of style, health and fitness features, app selection, battery life, and price of any smartwatch for any platform. Read more: The 20 Best Gifts for Bridesmaids Editor’s note: The photo at the top of this article may reflect previous deals that are no longer valid and have been removed.
+Financial_Events: []

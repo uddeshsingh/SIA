@@ -1,0 +1,17 @@
+Authors: ['John Benson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:54:24
+Description: Several shows, including comedy performances by Jimmy Carr, Adam Ray, Iliza Shlesinger and Josh Johnson, have been announced for Playhouse Square in Celveland
+Filename: .json
+Image_Url: https://www.news-herald.com/wp-content/uploads/2024/12/TNH-L-DidYouHear-120624-01.jpg?w=624&h=627
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Jimmy Carr at Playhouse Square in October | Did You Year?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: After releasing his most recent Netflix special, “Natural Born Killer,” last year, Carr announced a stateside tour that includes a show on Oct. 11 in Cleveland at Playhouse Square’s Connor Palace. Having recently appeared with his regular standup material at Cleveland’s Hilarities 4th Street Theatre, the Los Angeles-based comedian —- dressed as the talk show host — will be back in Northeast Ohio for a “Dr. Iliza Shlesinger, who filmed her 2022 Netflix special, “Hot Forever,” at Playhouse Square, has announced her new “The Get Ready Tour,” which includes a show Feb. 21 at the KeyBank State Theatre. Featuring Piero Barone, Ignazio Boschetto and Gianluca Ginoble, Il Volo recently released its latest album, “Ad Astra,” earlier this year. Keeping the music of the Rock & Roll Hall of Fame-inducted act alive is the national touring show “The Simon & Garfunkel Story,” which features a live band playing nearly 30 songs.
+Financial_Events: []

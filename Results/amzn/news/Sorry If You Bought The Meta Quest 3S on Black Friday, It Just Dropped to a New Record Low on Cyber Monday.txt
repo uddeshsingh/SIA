@@ -1,0 +1,17 @@
+Authors: ['Gizmodo Deals']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 22:25:20
+Description: Amazon has just increased the promotional credit to $100, up from $75 during Black Friday.
+Filename: .json
+Image_Url: https://gizmodo.com/app/uploads/2024/11/batman-meta-quest-3s.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Sorry If You Bought The Meta Quest 3S on Black Friday, It Just Dropped to a New Record Low on Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This Cyber Monday, Amazon is continuing its impressive promotions from Black Friday and one of the most popular products is the newest Meta Quest 3S. As the latest offering from Meta, this VR headset is designed to be the most affordable (yet premium) option in their lineup and makes it an attractive choice for both newcomers to virtual reality and seasoned users looking for a budget-friendly upgrade. The Meta Quest 3S also has a user-friendly design: It weights in at just 514 grams, it is lightweight and comfortable to wear for extended periods and it is therefore ideal for gaming sessions or virtual meetings. The headset features an adjustable strap that ensures a secure fit while the high-resolution display provides crisp visuals that enhance immersion in games and applications. Its status as the number one best seller in standalone virtual reality headsets speaks volumes about its popularity among consumers seeking an accessible yet powerful VR solution.
+Financial_Events: []

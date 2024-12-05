@@ -1,0 +1,17 @@
+Authors: ['Mark Huffman', 'Gary Guthrie', 'Truman Lewis']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-19 00:00:00
+Description: Read the latest news about Apple here, including information on privacy issues, technological advancements, new product launches, and much more.
+Filename: .json
+Image_Url: https://media.consumeraffairs.com/files/cache/news/porch-pirate-ca-02_medium.webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple News
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Companies displayed may pay us to be Authorized or when you click a link, call a number or fill a form on our site. Home Warranty disclosure for New Jersey Residents: The product being offered is a service contract and is separate and distinct from any product or service warranty which may be provided by the home builder or manufacturer. Consumers Unified, LLC does not take loan or mortgage applications or make credit decisions. Rather, we display rates from lenders that are licensed or otherwise authorized to work in Vermont. The contents of this site may not be republished, reprinted, rewritten or recirculated without written permission.
+Financial_Events: []

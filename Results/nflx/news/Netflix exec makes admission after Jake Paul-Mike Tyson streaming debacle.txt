@@ -1,0 +1,17 @@
+Authors: ['Jared Schwartz']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-17 20:13:26
+Description: Netflix heard all the complaints, and one of their execs made an admission after there were streaming issues during the Jake Paul-Mike Tyson fight.
+Filename: .json
+Image_Url: https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-qfp7fd4m0-1731872718906.jpg?quality=75&strip=all&1731854792&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix exec makes admission after Jake Paul-Mike Tyson streaming debacle
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The streaming company announced Saturday that 60 million people tuned in for its heavily anticipated Mike Tyson-Jake Paul Friday night at AT&T Stadium. “This unprecedented scale created many technical challenges, which the launch team tackled brilliantly by prioritizing stability of the stream for the majority of viewers,” Netflix CTO Elizabeth Stone wrote to employees, according to Bloomberg. “We don’t want to dismiss the poor experience of some members, and know we have room for improvement, but still consider this event a huge success.” Netflix’s streaming issues are notable since the company is set to air an NFL doubleheader on Christmas — Chiefs vs. Steelers and the Ravens vs. Texans. “60 million households around the world tuned in live to watch Paul vs. Tyson! The boxing mega-event dominated social media, shattered records, and even had our buffering systems on the ropes,” Netflix wrote on X on Saturday.
+Financial_Events: []

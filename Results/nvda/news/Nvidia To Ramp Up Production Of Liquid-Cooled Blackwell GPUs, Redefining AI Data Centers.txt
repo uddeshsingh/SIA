@@ -1,0 +1,17 @@
+Authors: ['Surbhi Jain']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 10:22:08
+Description: Nvidia's Blackwell GPUs are driving demand for liquid cooling in AI servers, creating opportunities for companies like Vertiv and Delta. Customization is key in this changing supply chain.
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2024/12/02/Post-COVID-Growth-Accelerating-Through-T.jpeg?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia To Ramp Up Production Of Liquid-Cooled Blackwell GPUs, Redefining AI Data Centers
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Market News and Data brought to you by Benzinga APIs © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+Financial_Events: []

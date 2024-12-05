@@ -1,0 +1,17 @@
+Authors: ['Lucia Moses']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-04 13:41:54
+Description: Mike Verdu, Netflix's former games chief, is now leading AI-driven game development for the streaming giant.
+Filename: .json
+Image_Url: https://i.insider.com/66c6265f5da406397bf7a812?width=1024&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix Gaming Exec Reveals New AI Role After Studio Shutdown, Cuts
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: "Many view this technology with fear, but I am a game-maker at heart and I see its potential to unlock all of us, to create mind-blowing new experiences for players, to lift us to new heights," Verdu wrote on LinkedIn. As of September 2023, fewer than 1% of Netflix's subscribers had played its games, per data from the analytics firm Apptopia. Co-CEO Greg Peters said during Netflix's second-quarter earnings call that the company was happy with its progress and that user engagement on games had tripled in 2023. The company sees games as a tool to boost subscriber retention to its streaming services, which could explain why Netflix hasn't introduced advertising as a way of monetizing them. He wrote that after Netflix games started to scale up, he recognized his strength was in running smaller teams.
+Financial_Events: ["Co-CEO Greg Peters said during Netflix's second-quarter earnings call that the company was happy with its progress and that user engagement on games had tripled in 2023"]

@@ -1,0 +1,17 @@
+Authors: ['MARIA DEUTSCHER', 'DUNCAN RILEY', 'KYT DOTSON']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 17:15:56
+Description: AI data center builder Nebius raises $700M in funding - SiliconANGLE
+Filename: .json
+Image_Url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/12/unsplash.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: AI data center builder Nebius raises $700M in funding
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: CoNebius NV, a publicly traded provider of artificial intelligence infrastructure, today announced that it has raised $700 million in funding. The H200 is an upgraded version of Nvidia Corp.’s bestselling H100 graphics card that includes a faster, higher-capacity memory pool. It involves using cool air from outside a data center to chill water, which in turn functions as a coolant for the hardware inside. When it detailed the data center upgrade earlier this year, the company also disclosed plans to open three additional facilities. Besides building custom data centers, the company also deploys AI hardware in co-location facilities operated by partners.
+Financial_Events: ['Nebius says that it plans to add support for models that can generate images and videos.\nIn conjunction with today’s funding announcement, the company upgraded its 2025 revenue forecast to between $750 million and $1 billion']

@@ -1,0 +1,17 @@
+Authors: ['Richard Speed']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 14:18:10
+Description: No sign of 'rollback' yet
+Filename: .json
+Image_Url: https://regmedia.co.uk/2023/05/11/heart_shutterstock.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Microsoft 'resolves' Windows Server 2025 update issue
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The company updated its Release Health Dashboard over the weekend to confirm that some devices were indeed upgraded automatically. The Windows vendor said: "This was observed in environments that use third-party products to manage the update of clients and servers." "Feature update metadata must be interpreted as Optional and not Recommended by patch management tools." According to cybersecurity biz Heimdal last week, the update had been misclassified and was subsequently pulled back by Microsoft. Microsoft described the problem as "mitigated" but has yet to provide tools to facilitate a rollback, meaning affected administrators will have to reach for their backups or potentially pay for Windows Server 2025 licensing.
+Financial_Events: []

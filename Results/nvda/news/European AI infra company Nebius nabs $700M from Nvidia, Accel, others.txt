@@ -1,0 +1,17 @@
+Authors: ['Paul Sawers']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 12:00:46
+Description: Nebius, the European AI infrastructure company formerly known as Yandex, has raised $700 million in financing to power its U.S. expansion.
+Filename: .json
+Image_Url: https://techcrunch.com/wp-content/uploads/2024/12/Arkady-volozh-e1733142644388.jpg?resize=1200,800
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: European AI infra company Nebius nabs $700M from Nvidia, Accel, others
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: While all the investors’ names will be revealed when the paperwork is filed with the Securities and Exchange Commission (SEC), the company is only disclosing three for now: existing partner and GPU giant Nvidia, Silicon Valley VC firm Accel, and asset manager Orbis. The private placement will see Nebius issue 33.3 million Class A shares at $21, implying a 3% premium on the stock’s average price since trading resumed in October. A capital-intensive plan Nebius is adopting a hybrid approach to growing its footprint, involving a mix of co-location facilities (shared data centers) and its own “greenfield” sites built from scratch. Notably, CoreWeave is in the midst of expanding from the U.S. to Europe, while Nebius is moving in the opposite direction, recently announcing plans for a new GPU cluster at a co-location in Kansas City. In the six weeks that followed its reentry into the public markets, however, Nebius’ shares have hovered around the $21 mark, meaning that existing shareholders have had ample opportunity to sell at well over the buy-back price.
+Financial_Events: ['That is why Volozh says the company is already looking ahead to raising more capital, be that equity or debt.\n“Of course, we will have some revenues that will help, but we will need more capital to build quicker,” Volozh said']

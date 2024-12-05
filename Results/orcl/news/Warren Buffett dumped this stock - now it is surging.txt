@@ -1,0 +1,17 @@
+Authors: ['Mijuško Šibalić']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-28 16:23:31
+Description: Warren Buffett slashed his holdings in Ulta Beauty by 96% in the last quarter — in the past week, ULTA stock has surged by almost 10%.
+Filename: .json
+Image_Url: https://assets.finbold.com/uploads/2024/11/Warren-Buffett-dumped-this-stock-—-now-it-is-surging.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Warren Buffett dumped this stock - now it is surging
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The ‘Oracle of Omaha’ is a value investor — he tends to buy equity in businesses that are trading at attractive valuations, and preferably have an economic moat — in simpler terms, an enduring competitive advantage. Throughout the latter half of 2024, he has been notably restrained, or even bearish — Berkshire Hathaway (NYSE: BRK.A) has been a net seller of stocks for the last eight quarters, and Buffett currently maintains a record-breaking cash pile. It remains to be seen whether a market correction is in the making and if the ‘Oracle of Omaha’ is right on that account — what’s even more interesting, is that the billionaire could have made another of his seldom-seen mistakes by slashing his stake in a company whose stock is currently surging. Berkshire Hathaway first invested in the cosmetics company back in Q2 2024 — the exact dates are not known per disclosure rules, but in that span of time, ULTA stock was trading between $439 and $376. While there is a chance that a profit was made on the sale, it’s slim and would have required precise timing — which is not exactly a hallmark of Buffett’s preferred investment style.
+Financial_Events: ['While there is a chance that a profit was made on the sale, it’s slim and would have required precise timing — which is not exactly a hallmark of Buffett’s preferred investment style.\nWhile the business does not possess a meaningful economic moat, its peer, Bath & Body Works (NYSE: BBWI) reported a beat in terms of both earnings and revenue for Q3 2024 — as a result, markets have high expectations for Ulta Beauty’s earnings call, due December 5.']

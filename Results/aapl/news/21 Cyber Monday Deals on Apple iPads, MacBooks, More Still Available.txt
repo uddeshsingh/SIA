@@ -1,0 +1,17 @@
+Authors: ['Brenda Stolyar', 'Julian Chokkattu', 'Nena Farrell', 'Louryn Strampe', 'Simon Hill', 'Boutayna Chokrane', 'Adrienne So', 'Molly Higgins', 'Christopher Null', 'Eric Ravenscraft']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-27 09:30:00
+Description: Are Apple's gadgets on your holiday gift lists this year? You're in luck. Nab these Cyber Monday Apple deals for discounted MacBooks, Apple Watches, iPads, and AirPods.
+Filename: .json
+Image_Url: https://media.wired.com/photos/674769026811d4146e6fa13b/191:100/w_1280,c_limit/cyber-monday-apple-deals.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 21 Cyber Monday Deals on Apple iPads, MacBooks, More Still Available
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: I suggest going for the 16 GB of unified memory to get smoother performance, but this M3-powered machine works great for all my tasks, including streaming content, video calls with an 1080p webcam, word processing and web browsing. It also has a modern design, with slim bezels around a large 10.9-inch Liquid Retina display (IPS LCD), Touch ID integrated into the power button, a USB-C port for charging, and a 12-megapixel front-facing camera that's located in the center of the iPad. This past September, Apple finally updated the AirPods Max (8/10, WIRED Recommends) to include USB-C. Aside from the new port, the rest of the features remain the same as on the Lightning version (those are on sale as well). The smartwatch runs the latest WatchOS 11 operating system, so you'll have features like Training Load, which displays how your workouts impact your fitness over time, and Vitals, to check your baseline each morning. It also comes equipped with dual-frequence GPS, a Backtrack functionality for creating virtual breadcrumb trails on the Compass app (via the Action button), and access to offline maps (that you'll have to download to your iPhone).
+Financial_Events: []

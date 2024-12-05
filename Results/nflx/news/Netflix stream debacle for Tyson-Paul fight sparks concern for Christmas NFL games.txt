@@ -1,0 +1,17 @@
+Authors: ['Ryan Glasspiegel']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-16 15:01:56
+Description: Netflix has about six weeks to figure it out.
+Filename: .json
+Image_Url: https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-0qkro16bj-1731765601813.jpg?quality=75&strip=all&1731747761&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix stream debacle for Tyson-Paul fight sparks concern for Christmas NFL games
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The streaming service’s first foray into airing a big live sporting event with Mike Tyson boxing Jake Paul on Friday night turned into a nightmare as Netflix did not have the requisite bandwidth and viewers were livid over buffering issues. Netflix will be airing an NFL doubleheader on Christmas, featuring the Chiefs vs. Steelers and the Ravens vs. Texans, games that will both have big playoff implications in the AFC. They have no chance of successfully airing a Chiefs-Steelers Christmas Day NFL game based on this performance,” OutKick founder Clay Travis wrote on X. Pittsburgh sports talk radio host Randy Baumann exaggeratedly imagined a grisly scene if Netflix had another streaming debacle on Christmas. An NFL memes account posted a video with the caption, “If Netflix broadcasted NFL games,” which showed the play buffering and a subsequent error message in the middle of Jayden Daniels’ recent Hail Mary to Noah Brown to defeat the Bears. “It’s all fun and games tonight @netflix, but if you ruin my family’s Christmas because we can’t watch the Steelers… there will be real hell to pay,” he wrote.
+Financial_Events: []

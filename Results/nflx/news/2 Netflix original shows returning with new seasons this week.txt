@@ -1,0 +1,17 @@
+Authors: ['Jacob Siegal', 'Andy Meek', 'Joshua Hawkins', 'Chris Smith', 'José Adorno']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:20:00
+Description: Netflix is bringing back two original shows for new seasons this week: the anime series Beastars and The Ultimatum: Marry or Move On.
+Filename: .json
+Image_Url: https://bgr.com/wp-content/uploads/2024/12/Beastars.jpg?quality=82&strip=all
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 2 Netflix original shows returning with new seasons this week
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In fact, it’s rare even a single week passes without one of Netflix’s original shows returning for a new season, but it can be difficult to keep track of them all. In this series, couples “break up” and enter into trial marriages with someone new in order to find out if their original relationship is worth fighting for. The new season features couples Zaina and JR, Nick and Sandy, Mariah and Caleb, Aria and Scotty, Chanel and Micah, and David and Vanessa. “Following the confrontation with Riz, Legoshi decides to leave school and begins living alone in Beast Apartments,” reads the synopsis for season 3. Around this time, current BEASTAR Yahya pursues Melon, a violent criminal who seeks pleasure in murdering beasts.
+Financial_Events: []

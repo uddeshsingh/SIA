@@ -1,0 +1,17 @@
+Authors: ['MARK KENNEDY Entertainment']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:07:00
+Description: The Golden Globes are raising a glass to former "Cheers" star Ted Danson by naming him the Carol Burnett Award honoree for 2025.
+Filename: .json
+Image_Url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2674e0827ef1d4.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Ted Danson to be honored with Carol Burnett Award at the Golden Globes
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Comedian and actor Nikki Glaser has been picked to host.The Carol Burnett Award was inaugurated in 2019 and is presented to an honoree who has "made outstanding contributions to television on or off screen." "Ted Danson has entertained audiences for decades with his iconic performances that will forever be ingrained in television history," Helen Hoehne, president of the Golden Globes, said in a statement. "Danson's film credits include "Hearts Beat Loud," "Three Men and a Baby" and Steven Spielberg's World War II drama "Saving Private Ryan." "Ted Danson has entertained audiences for decades with his iconic performances that will forever be ingrained in television history," Helen Hoehne, president of the Golden Globes, said in a statement. Danson's film credits include "Hearts Beat Loud," "Three Men and a Baby" and Steven Spielberg's World War II drama "Saving Private Ryan."
+Financial_Events: []

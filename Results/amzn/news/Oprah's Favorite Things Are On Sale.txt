@@ -1,0 +1,17 @@
+Authors: ['Francisco Bernard']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:43:00
+Description: When checking her list, we noticed that some of Oprah’s Favorite Things are actually seeing price reduction for Black Friday.
+Filename: .json
+Image_Url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/oprah-s-favorite-things-2024-6724cafa73e98.png?crop=1.00xw:1.00xh;0,0&resize=1200:*
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oprah's Favorite Things Are On Sale
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: When checking her list, we noticed that some of Oprah’s Favorite Things are actually seeing price reductions for Cyber Monday. Ninja CREAMi ice cream maker - The popular social media sensation is seeing a $50 price reduction during Cyber Monday. De'Longhi Eletta Explore espresso machine - Save $300 on the favorite coffee appliance during Cyber Monday. Studio Pro x Kim Kardashian Wireless Headphones amazon.com $349.95 $159.99 Bose Ultra Open Earbuds amazon.com $299.00 $229.00 Ray-Ban Smart Glasses amazon.com $299.00 $239.20 AromaTech Ambience Scent Diffuser amazon.com $257.00 $185.00 Hannah Festive Knit Clog amazon.com $44.00 $22.00 LITFLASK Smart Water Bottle with Premium Bluetooth Speaker amazon.com $99.00 $78.21 Makeup Brush Set amazon.com $38.00 $30.00 Ninja CREAMi ice cream maker - The popular social media sensation is seeing a $50 price reduction during Cyber Monday. De'Longhi Eletta Explore espresso machine - Save $300 on the favorite coffee appliance during Cyber Monday.
+Financial_Events: []

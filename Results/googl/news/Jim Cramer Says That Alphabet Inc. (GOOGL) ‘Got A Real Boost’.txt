@@ -1,0 +1,17 @@
+Authors: ['Syeda Seirut Javed']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 18:12:01
+Description: We recently compiled a list of the Jim Cramer Talked About These 16 Stocks. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against the other stocks Jim Cramer was talking about. Jim Cramer, host of Mad Money, shared his thoughts on the market’s reaction to the election results. […]
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/DAytqpJ37WPkT1O3cj4krg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ddded06c9301164bc21c334085fab02f
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Jim Cramer Says That Alphabet Inc. (GOOGL) ‘Got A Real Boost’
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Additionally, Cramer suggested that there could be more significant market moves in the near future, especially if President-elect Trump makes comments about the Federal Reserve that investors find unsettling. In 2020, the U.S. Department of Justice (DOJ) filed an antitrust lawsuit against it, accusing the company of engaging in monopolistic practices to maintain its dominance in online search. In addition to the lawsuit, there have been signals from the DOJ suggesting that it could push for the breakup of Google, a move that would fundamentally change how the company operates. Among the potential actions being discussed is the termination of Google’s payments to secure its default status on new devices, a practice that has played a key role in keeping the company at the top of the search engine market. While we acknowledge the potential of GOOGL as an investment, our conviction lies in the belief that AI stocks hold greater promise for delivering higher returns and doing so within a shorter timeframe.
+Financial_Events: ['If you are looking for an AI stock that is more promising than GOOGL but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.\nREAD NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock.']

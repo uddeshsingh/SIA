@@ -1,0 +1,17 @@
+Authors: ['Adrian Kingsley-Hughes']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-03-07 00:00:00
+Description: Headed to the Apple Store for holiday shopping? Before spending your hard-earned paycheck, consult this list for products worth buying and products to avoid.
+Filename: .json
+Image_Url: https://www.zdnet.com/a/img/resize/cdc164d968db71aa5ac030eb104dd717a000e1cf/2024/03/07/a1a1827e-746a-4c71-820e-b2b068006009/m3-macbook-air-dual-monitors.jpg?auto=webp&fit=crop&height=675&width=1200
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 4 Apple products you shouldn't buy right now (including a popular iPhone model)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: However, in an interesting turn of events, rather than updating the Apple Watch Ultra 2 and the AirPods Pro, Apple has given this hardware a new lease on life by adding new features such as sleep apnea detection for the Ultra 2 and a clinical hearing aid feature for the AirPods Pro. Apple TV: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months. Apple iPad Mini The all-new 2024 iPad Mini replaces the three-year-old model with one powered by an A17 Pro chip that's Apple Intelligence ready, and comes in a range of colors (blue, purple, starlight, and space grey) and storage capacities (128GB, 256GB, and 512GB) to suit everyone. Apple has now refreshed the charging case to use USB-C rather than Lightning -- great if you have a new iPhone, but yet another cable or dongle to carry if not. Also: How to find out if an AirTag is tracking you Well-made, robust, and with a replaceable battery, these will make misplaced keys or lost wallet things of the past.
+Financial_Events: []

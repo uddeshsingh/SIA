@@ -1,0 +1,17 @@
+Authors: ['Haley Henschel']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:47:59
+Description: Walmart's standout Cyber Monday sales include savings on Apple Watch SE ($149) and a 55-inch QLED TV ($288).
+Filename: .json
+Image_Url: https://helios-i.mashable.com/imagery/articles/07mNgCdcD25dHyVOtiMlfAM/hero-image.fill.size_1200x675.v1733127331.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Walmart Cyber Monday deals 2024: Shop 125+ rollbacks
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The big-box store's sale features lingering deals from its Black Friday event last week, including $154 Apple AirPods Pro 2, $29 JLab ANC headphones, a $178 55-inch 4K TV, and $30 digital copies of The Legend of Zelda: Tears of the Kingdom. Mashable's team of deal-hunting pros knows how to distinguish good discounts from duds, having covered Cyber Weekend sales for nearly a decade, and we're keeping a running list of Walmart's top holiday deals on popular tech and gifts this season. Keep scrolling to see our picks, and check back often: Walmart is dropping additional deals randomly during its holiday sales this year. Walmart has been a trendsetter this Cyber Weekend: After it dropped the AirPods Pro 2 down to a record-low of $154 during its second Black Friday deals event (normally $249), other retailers like Amazon and Target swiftly followed suit. Twenty-nine bucks is a surprisingly and stupidly low price on a solid pair of comfy budget headphones with good noise cancellation and a long battery life.
+Financial_Events: []

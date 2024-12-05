@@ -1,0 +1,17 @@
+Authors: ['Satish Thomas']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 16:00:01
+Description: Across every industry, AI is creating a fundamental shift in what’s possible, enabling new use cases and driving business outcomes. While organizations around the world recognize the value and potential of AI, for AI to be truly effective it must be tailored to specific industry needs. Today, we’re announcing adapted AI models, expanding our industry...
+Filename: .json
+Image_Url: https://blogs.microsoft.com/wp-content/uploads/prod/2024/11/Adapted-AI-Models-Hero-Image-1024x576.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Microsoft introduces new adapted AI models for industry
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Today, we’re announcing adapted AI models, expanding our industry capabilities and enabling organizations to address their unique needs more accurately and effectively. Cerence, which creates intuitive, seamless and AI-powered user experiences for the world’s leading automakers, is enhancing its in-vehicle digital assistant technology with fine-tuned SLMs within the vehicle’s hardware. It can be used for in-car controls, such as adjusting air conditioning systems, and scenarios that involve limited or no cloud connectivity, enabling drivers to access the rich, responsive experiences they’ve come to expect from cloud-based large language models (LLMs), no matter where they are. The model provides timely recommendations, explanations and knowledge about specific manufacturing processes, machines and inputs to factory floor workers and engineers. Manufacturers can use the Factory Operations Agent to enhance production efficiency and reduce downtime by enabling engineers and frontline workers to quickly identify and troubleshoot issues.
+Financial_Events: []

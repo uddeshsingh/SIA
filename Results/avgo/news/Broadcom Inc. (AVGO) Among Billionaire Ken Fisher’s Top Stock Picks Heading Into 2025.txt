@@ -1,0 +1,17 @@
+Authors: ['Neha Gupta']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 21:51:19
+Description: We recently compiled a list of the Billionaire Ken Fisher's Top 15 Stock Picks Heading Into 2025. In this article, we are going to take a look at where Broadcom Inc.
+Filename: .json
+Image_Url: https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/20101315/AVGO-insidermonkey-1695219193323.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Broadcom Inc. (AVGO) Among Billionaire Ken Fisher’s Top Stock Picks Heading Into 2025
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In the past year, Fisher’s firm made a 32.18% return, mainly because it invested a lot in tech stocks, especially those benefiting from the AI boom. While other managers are selling tech stocks due to high valuations, Fisher’s firm is buying more, especially in companies making AI chips. Broadcom Inc. (NASDAQ:AVGO) sells various semiconductor products, including those for the computer networking, storage, and broadband sectors related to artificial intelligence. Likewise, Broadcom Inc. (NASDAQ:AVGO) has succeeded in securing stable revenue streams from Alphabet and Meta Platforms for virtualization software. While we acknowledge the potential of AVGO as an investment, our conviction lies in the belief that AI stocks hold greater promise for delivering higher returns and doing so within a shorter timeframe.
+Financial_Events: ['Broadcom’s revenue base should receive a boost as AI workload increases and demand for fast data centers increases', 'The company is projected to generate $12 billion in AI revenues in 2024.\nIts acquisition of VMware has gone a long way in strengthening its infrastructure software solutions', '(NASDAQ:AVGO) has succeeded in securing stable revenue streams from Alphabet and Meta Platforms for virtualization software.\nOverall AVGO ranks 8th on our list of Ken Fisher’s top stock picks heading into 2025', 'If you are looking for an AI stock that is more promising than AVGO but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.\nREAD NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock.\nDisclosure: None']

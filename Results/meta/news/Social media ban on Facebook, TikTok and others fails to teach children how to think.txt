@@ -1,0 +1,17 @@
+Authors: ['Jared Lynch at The Australian', 'Special Report']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 04:56:34
+Description: What our policymakers have not spelt out is how social media titans will verify a child’s age to ensure social media ban compliance.
+Filename: .json
+Image_Url: https://stockhead.com.au/wp-content/uploads/2024/12/GettyImages-653894861-scaled.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Social media ban on Facebook, TikTok and others fails to teach children how to think
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: While Meta spends about 27 per cent of its revenue, or more than $US40bn a year, on research and development, trusting it and other tech companies such as Chinese-owned TikTok to come up solutions to government problems, is dangerous. “Relying on tech giants to manage sensitive data is a risky gamble, particularly without robust legal protections in place.” Bunnings sparked a fierce debate when the Privacy Commissioner slammed the hardware chain’s use of facial recognition cameras at its stores without customers’ consent. But ensuring safety while not creating unintended consequences is a delicate balance – and as UNSW Founders director of entrepreneurship David Burt says: “We must be careful that today’s easy solution isn’t tomorrow’s absolute disaster”. A key concern for the individuals – in this case children – is that biometric data cannot be reset and can be used to commit identity fraud, create fake legal documents, passports, bank accounts and access sensitive information such as medical details. “Improving education around digital literacy and online safety in schools will equip young people with the tools they need to navigate social media responsibly.
+Financial_Events: ['It received bipartisan support, despite tech and child-safety experts warning that the bill was too rushed.\nWhat our policymakers did not spell out was how social media titans would verify a child’s age to ensure it complied with the ban.\nThere is a thought in Canberra that companies like Facebook owner Meta – which is valued at $US1.4 trillion – possess the best technology in the world and therefore can simply “figure it out”.\nBut such thinking represents breathtaking naivety.\nWhile Meta spends about 27 per cent of its revenue, or more than $US40bn a year, on research and development, trusting it and other tech companies such as Chinese-owned TikTok to come up solutions to government problems, is dangerous.\nAustralian Human Rights Commissioner Lorraine Finlay and National Children’s Commissioner Anne Hollonds attempted to warn the government, saying a social media ban “oversimplifies a complex issue and carries the risk of unintended harms”, particularly in regard to the collection of biometric data.\nThey said it represented a significant privacy risk to millions.\n“Enforcing a ban would require some form of age assurance, potentially involving biometric data or official identification documents,” they said.\n“Social media companies, such as US-owned Meta and Chinese-owned TikTok, would need to collect this sensitive information from millions of Australians.\n“Relying on tech giants to manage sensitive data is a risky gamble, particularly without robust legal protections in place.”\nBunnings sparked a fierce debate when the Privacy Commissioner slammed the hardware chain’s use of facial recognition cameras at its stores without customers’ consent.\nAnd the same core issues are at play']

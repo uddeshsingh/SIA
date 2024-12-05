@@ -1,0 +1,17 @@
+Authors: ['Attiya Zainib']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 21:47:49
+Description: We recently published a list of Wells Fargo’s Tech Stocks To Beat The S&P: 14 Top AI & Non-AI Stocks. In this article, we are going to take a look at where Qorvo Inc.
+Filename: .json
+Image_Url: https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta Platforms, Inc. (META) Among Wells Fargo’s Top Tech Stocks to Beat the S&P
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: As 2024 heads to a close, investors are now focused on the state of the economy, its influence on the Federal Reserve’s interest rate reduction cycle, and the potential offered by the technology industry. Broadly speaking, these factors are growing energy requirements and capital expenditure costs, global geopolitical tensions, model inaccuracies, and regulatory constraints. It shares that utility company believes that “the server rack power density required to train a generative-AI-based large language model can require up to five to seven times more power than server racks used for traditional IT workloads in a data center.” While semiconductor companies are natural beneficiaries of the AI boom, some oft-ignored sectors that WF mentions are industrials and materials. After the company’s “year of efficiency,” where it cut costs in its core business, management is now indicating another ramp-up in GenAI and metaverse spending, spurring concerns about future profit margins. While we acknowledge the potential of META as an investment, our conviction lies in the belief that AI stocks hold greater promise for delivering higher returns and doing so within a shorter timeframe.
+Financial_Events: ['Here is what the fund said:\n“Meta Platforms delivered robust results in the period, with revenue growth accelerating in the first quarter', 'However, revenue comparisons for Meta will become more difficult from here, and its guidance for 2Q revenue fell below market expectations', 'After the company’s “year of efficiency,” where it cut costs in its core business, management is now indicating another ramp-up in GenAI and metaverse spending, spurring concerns about future profit margins', 'If you are looking for an AI stock that is more promising than META but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.\nREAD NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock']

@@ -1,0 +1,17 @@
+Authors: ['GABRIELA SÁ PESSOA', 'AAMER MADHANI', 'COLLEEN LONG', 'law enforcement', 'legal affairs', 'apnews.com', 'aamer-madhani', 'colleen-long']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-17 05:03:45
+Description: Biden declared that nobody can reverse “the clean energy revolution that’s underway in America” even as the incoming Trump administration is poised to scale back efforts to combat climate change.
+Filename: .json
+Image_Url: https://dims.apnews.com/dims4/default/16c74b3/2147483647/strip/true/crop/3880x2183+0+202/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2F49%2F1a5a1f394b8858a6d41ef11338c6%2F711f7a6800c84379a930c333c6efc754
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Joe Biden becomes first sitting US president to visit Amazon rainforest
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Biden’s administration announced plans last year for a $500 million contribution to the Amazon Fund, the most significant international cooperation effort to preserve the rainforest, primarily financed by Norway. Biden’s trip was significant, but “we can’t expect concrete results from this visit,” said Suely Araújo, former head of the Brazilian environmental protection agency and public policy coordinator with the nonprofit Climate Observatory. That includes the launch of a finance coalition looking to spur at least $10 billion in public and private investment for land restoration and eco-friendly economic projects by 2030 as well as a $37.5 million loan to support the large-scale planting of native tree species on degraded grasslands in Brazil. When Brazilian President Luiz Inácio Lula da Silva took office last year, he signaled a shift in environmental policy from his far-right predecessor, Jair Bolsonaro. Roosevelt, joined by his son and naturalists, traversed roughly 15,000 miles, and the former president fell ill with malaria and suffered a serious leg infection after a boat accident.
+Financial_Events: ['has said it has provided $50 million, and the White House announced Sunday an additional $50 million contribution.\nBiden’s trip was significant, but “we can’t expect concrete results from this visit,” said Suely Araújo, former head of the Brazilian environmental protection agency and public policy coordinator with the nonprofit Climate Observatory.\nShe doubts that a “single penny” will go to the Amazon Fund once Trump is in the White House.\nThe Biden administration touted a series of new efforts aimed at bolstering the Amazon and stemming the impact of climate change.\nThat includes the launch of a finance coalition looking to spur at least $10 billion in public and private investment for land restoration and eco-friendly economic projects by 2030 as well as a $37.5 million loan to support the large-scale planting of native tree species on degraded grasslands in Brazil.\nThe Amazon has been suffering under two years of historic drought that have dried up waterways, isolated thousands of river communities and hindered riverine dwellers’ ability to fish']

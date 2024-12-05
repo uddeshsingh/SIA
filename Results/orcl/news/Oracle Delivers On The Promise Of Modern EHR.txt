@@ -1,0 +1,17 @@
+Authors: ['David Chou']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-03 14:23:33
+Description: At the Oracle Health Summit this week, Oracle unveiled its newly built EHR, set for release in 2025 for early adopters.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/67258b549e60113753837a0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle Delivers On The Promise Of Modern EHR
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: After previewing the product, I noted its modern design, which incorporates its clinical AI agent that enables hands-free documentation and patient queries, decreasing the use of traditional keyboard and mouse clicks. Meanwhile, major healthcare systems like Intermountain Health, the University of Pittsburgh Medical Center, and AdventHealth have already signaled plans to move away from Oracle's EHR. Staying with the current system can significantly reduce expenses and provide time to assess whether consolidating to a single EHR across the enterprise is necessary. Large health systems face substantial implementation costs when mergers and acquisitions play a role in their strategic plans. Seema Verma, executive vice president and general manager, Oracle Health and Life Sciences said “Most EHRs were built in the 90s and are ill-equipped to meet the complex security requirements and clinical needs of today’s healthcare networks, practitioners, and patients.” Additionally, Oracle is exploring new implementation partners for the EHR, which could enhance client support and implementation experience.
+Financial_Events: ["Leaning on one vendor platform will make integrating back office data and clinical data management easier while assisting healthcare CIOs in reducing the number of point solutions in their portfolio.\nIt will be interesting to see whether having Oracle's cloud ERP solution will influence a healthcare organization's decision to adopt or remain with Oracle's new EHR.\nMergers And Acquisitions Strategy\nMergers and acquisitions remain strong as we start seeing large systems integrating with a peer of similar size or acquiring a smaller organization to roll into the enterprise", "The thought process behind system consolidation is to centralize the technology tools and potential operating model, while the acquiring organization believes they have better technology and operational efficiencies.\nHealthcare CIOs and executives can reconsider their EHR strategy during mergers and acquisitions if the organization acquires a hospital using Oracle's EHR", "Large health systems face substantial implementation costs when mergers and acquisitions play a role in their strategic plans.\nOracle's launch of a brand-new EHR is a great achievement and a promising advancement for the industry"]

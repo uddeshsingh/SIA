@@ -1,0 +1,17 @@
+Authors: ['Aimee Picchi']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 12:14:00
+Description: Amazon rolls out a new shopping service, dubbed Amazon Haul, that sells items for $20 or less.
+Filename: .json
+Image_Url: https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/13/06dfe9c0-c140-4c0c-9cfa-268c314d93ce/thumbnail/1200x630/d4c873b774a2ebb288c03f9501cd6333/gettyimages-2180146053.jpg?v=e3aa8b4a58817620ee227c79202c9709
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon debuts Amazon Haul with "crazy low prices." Here's what to know.
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Temu and Shein have won over many Gen Z shoppers and other bargain hunters by offering low-cost clothing, electronics and other items that typically ship directly from manufacturers in China. At the same time, U.S. consumers are still feeling the bite of inflation that hit a 40-year high in the pandemic, with many searching for deals as a result. "Amazon Haul is a response to both the rise of low-price Chinese marketplaces and the fact that consumers are increasingly seeking value for money as they try to make their budgets stretch further," said Neil Saunders, managing director of market research firm GlobalData. He added, "The value retail segment has been a major growth area over the past few years, and while the regular Amazon site has a good value-for-money reputation, its wide offer means that it is not primarily seen as an everyday low-price destination." Items available on Amazon Haul on Wednesday included a three-pack of fuzzy socks for $4.99 and a quilted tote bag for $7.99.
+Financial_Events: []

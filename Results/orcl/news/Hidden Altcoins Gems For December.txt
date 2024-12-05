@@ -1,0 +1,17 @@
+Authors: ['Tiago Amaral']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-28 16:30:00
+Description: Bitcoin hits a new all-time high as Virtual, Pyth Network, and Raydium showcase growth. Explore how Layer 2 and DeFi fuel altcoins momentum.
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Hidden Altcoins Gems For December
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: November was marked by Bitcoin reaching a new all-time high, with other coins like Solana and SUI following its lead. Meanwhile, PYTH and RAY are capitalizing on ecosystem dominance and utility, with both tokens gaining significant traction and highlighting the expanding potential of DeFi and blockchain technology. As the AI coin narrative continues to gain traction, VIRTUAL’s momentum suggests there could still be significant upside potential. Over the past 30 days, Raydium has brought in over $200 million in fees, outperforming major projects like Jito, Solana, Ethereum, Circle, and Uniswap, second only to Tether. Given Raydium’s dominance and rapid growth, the token’s recent performance could signal the beginning of an even stronger upward trajectory as altcoins season is just getting started.
+Financial_Events: []

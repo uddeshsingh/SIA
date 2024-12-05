@@ -1,0 +1,17 @@
+Authors: ['Joan Verdon']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 11:39:04
+Description: Online spending rose significantly on Thanksgiving Day, with more people than ever shopping on their mobile devices.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/6749d46c67cd26aa55f32333/0x0.jpg?format=jpg&crop=2072,1380,x0,y0,safe&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Shoppers Spent Over $6 Billion Online On Thanksgiving, As Cyber Week Begins
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Salesforce is projecting that based on Thanksgiving Day results this could be the strongest Cyber Week ever in terms of online sales. ForbesAmazon Black Friday Ad Costs Rise As Brands Battle For Holiday Shoppers While the numbers available thus far reflect online sales only, there are early indications that Americans are showing up to shop in stores as well. That is down slightly compared to last year, but could reflect the fact that online shopping means it no longer is necessary to get to stores early for doorbuster deals. “This could be the strongest Cyber Week we’ve ever seen.” Shopify, the e-commerce platform used by millions of merchants and brands, also reported a strong start to the peak selling period. “We’re just a few hours into Black Friday in North America, but the excitement is already building across the globe, with merchants gearing up for a strong weekend,” Finkelstein said.
+Financial_Events: []

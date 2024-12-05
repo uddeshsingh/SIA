@@ -1,0 +1,17 @@
+Authors: ['Shubhangi Goel']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:02
+Description: The former software engineer negotiated a sign-on bonus and relocation allowance when she moved from India to California in 2022.
+Filename: .json
+Image_Url: https://i.insider.com/6737bb98ede4eeae3927fa13?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: An Oracle Product Manager Explains How She Moved From India to the US
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Ketaki Vaidya had worked in Oracle's office in Hyderabad, India, for about five years when she wanted a change. Vaidya shared how, over seven years with Oracle, she navigated two promotions, a career change, and the international transfer. At the end of her projects, Vaidya found ways to demonstrate her work to leadership, such as sharing what she learned on the team's group chat, she said. She didn't think she had all the necessary skills, so she applied for master's courses specializing in product management in the US to better understand global work culture. After negotiating her base salary up to $80,000, she discussed other compensation components, including the timing of her next review, sign-on bonuses, relocation costs, paid leave, and remote work.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-04 00:00:00
+Description: In an interview with Bloomberg's Tech Disruptors podcast, Nutanix President and CEO Rajiv Ramaswami discussed the growing adoption of hybrid multicloud and how Broadcom’s acquisition of VMware is pushing IT customers to explore alternatives like Nutanix.
+Filename: .json
+Image_Url: https://www.cio.com/wp-content/uploads/2024/11/3598831-0-26104900-1730743003-article-1_CEO.jpg?quality=50&strip=all&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nutanix CEO sees multi-year opportunity after Broadcom’s VMware acquisition
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “It’s going to change the relationship customers have with the company because Broadcom’s focus is on running as efficiently as possible,” said Rajiv Ramaswami, president and CEO of Nutanix, in an April 2024 episode of Bloomberg’s Tech Disruptors podcast. On the Tech Disruptors podcast, Ramaswami outlined how Nutanix is meeting the rising demand for simplified IT infrastructure and positioning itself as the easiest alternative for VMware customers seeking to reduce risk or dependence. “We’ve certainly seen a higher level of engagement with many channel partners,” Ramaswami said, highlighting a recent announcement that WiPro created a Nutanix Business Unit to accelerate digital transformation and hybrid multicloud innovation. Many might adopt a dual vendor strategy and might use Nutanix in a portion of the business.” Woo recognized the rising significance of hybrid multicloud following the COVID pandemic, a time that accelerated digital transformation to accommodate remote work and the surge in online commerce. In Nutanix’s recent Enterprise Cloud Index (ECI) – which surveyed 1,500 IT, DevOps, and platform engineering leaders globally – over 80% of organizations viewed hybrid IT as essential for managing applications and data.
+Financial_Events: ['Historically, data center virtualization pioneer VMware was seen as a technology leader, but recent business changes have stirred consternation since its acquisition by Broadcom in late 2023', 'Disruption from the Broadcom-VMware acquisition “gives us an opportunity to grow [market] share faster than we probably normally have into that TAM']

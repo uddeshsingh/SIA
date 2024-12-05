@@ -1,0 +1,17 @@
+Authors: ['Cassidy Brock']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-06 15:00:00
+Description: On Monday, Nov. 9 SUNY New Paltz’s Art Education Student Association (AESA) held a ceremony to debut their Fall 2024 exhibition.
+Filename: .json
+Image_Url: https://oracle.newpaltz.edu/wp-content/uploads/2024/11/SAE4-scaled.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Art Education Student Association Student Exhibit
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Light refreshments including apple cider, cookies and donuts were served to guests who varied from students to friends and family. Anyone is welcome at every meeting, member or not.” AESA creates an environment for artists and aspiring art educators alike to express their ideas, work and themselves. A lot of us don’t have studio classes together, so this is a chance to see everyone’s work on display.” Fourth-year Art Education major Elizabeth Katz is the vice president of AESA. We don’t have the opportunity to do a senior thesis, but I personally would love it if we did.” Third-year Art Education major Marygrace Froehlich is the treasurer of the association. If you are interested in attending meetings, joining the club or simply staying up to date with future events, you can check them out on their Instagram @newpaltzaesa.
+Financial_Events: []

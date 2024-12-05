@@ -1,0 +1,17 @@
+Authors: ['Benzinga Insights', 'Benzinga Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-14 09:46:00
+Description: None
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2023/movers_image_18.jpeg?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What the Options Market Tells Us About Meta Platforms
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Below, we can observe the evolution of the volume and open interest of calls and puts, respectively, for all of Meta Platforms's whale trades within a strike price range from $575.0 to $600.0 in the last 30 days. End users can leverage these applications for a variety of different purposes, from keeping in touch with friends to following celebrities and running digital businesses for free. What Analysts Are Saying About Meta Platforms 5 market experts have recently issued ratings for this stock, with a consensus target price of $703.0. * An analyst from Piper Sandler has decided to maintain their Overweight rating on Meta Platforms, which currently sits at a price target of $650. * Consistent in their evaluation, an analyst from JP Morgan keeps a Overweight rating on Meta Platforms with a target price of $660.
+Financial_Events: ["This includes an assessment of its current market status and performance.\nMeta Platforms's Current Market Status\nWith a trading volume of 287,051, the price of META is down by -0.45%, reaching $577.39.\nCurrent RSI values indicate that the stock is is currently neutral between overbought and oversold.\nNext earnings report is scheduled for 77 days from now.\nWhat Analysts Are Saying About Meta Platforms\n5 market experts have recently issued ratings for this stock, with a consensus target price of $703.0.\nUnusual Options Activity Detected: Smart Money on the Move\nBenzinga Edge's Unusual Options board spots potential market movers before they happen"]

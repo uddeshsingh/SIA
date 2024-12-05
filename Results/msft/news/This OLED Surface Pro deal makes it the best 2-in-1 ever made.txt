@@ -1,0 +1,17 @@
+Authors: ['Luke Larsen']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:01:11
+Description: The Surface Pro 11 got a decent discount for Cyber Monday, making it an even better option than before.
+Filename: .json
+Image_Url: https://www.digitaltrends.com/wp-content/uploads/2024/07/surface-pro-11-07.jpg?resize=1200%2C630&p=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: This OLED Surface Pro deal makes it the best 2-in-1 ever made
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: It’s a true iPad Pro competitor in just about every aspect — except that it runs Windows and is a much better laptop replacement. Microsoft never sells the device bundled with the Surface Pro keyboard, which you’re definitely going to want, and that adds another $180. But for Cyber Monday, it’s being sold at a significant discount, easily making it the best 2-in-1 laptop ever made. It’s been discounted to $840, which has the Snapdragon X Plus and LCD screen, yes, but comes at quite an inexpensive price for this quality of a device. That was one of my biggest hangups with previous generations of the Surface Pro, which never got enough battery life to make it the ultimate travel device.
+Financial_Events: []

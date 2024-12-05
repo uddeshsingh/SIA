@@ -1,0 +1,17 @@
+Authors: ['Writankar Mukherjee']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-09 05:30:00
+Description: Apple established a new subsidiary in India, Apple Operations India, marking its first direct presence in the country. This subsidiary will focus on research, design, testing, and providing support to third-party manufacturers. This move signifies Apple's commitment to expanding its operational footprint in India beyond assembly and sales.
+Filename: .json
+Image_Url: https://img.etimg.com/thumb/msid-115095570,width-1200,height-630,imgsize-30892,overlay-economictimes/articleshow.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple Inc sets up first subsidiary in India for R&D
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: (Catch all the Business News, Breaking News, Budget 2024 Events and Latest News Updates on The Economic Times.) Subscribe to The Economic Times Prime and read the ET ePaper online.
+Financial_Events: []

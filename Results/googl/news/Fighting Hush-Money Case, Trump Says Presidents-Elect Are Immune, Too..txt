@@ -1,0 +1,17 @@
+Authors: ['Laura Italiano']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 22:17:59
+Description: SCOTUS gave presidents broad immunity from prosecution. Trump says that protection extends to him now, before he's sworn into office.
+Filename: .json
+Image_Url: https://i.insider.com/674e27459e9761932b4a3e5e?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Fighting Hush-Money Case, Trump Says Presidents-Elect Are Immune, Too.
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Monday is the defense team's deadline for spelling out to Merchan why a pre-inaugural Trump cannot be sentenced and why the whole case must instead be tossed — as if a nearly seven-year investigation and prosecution by the Manhattan District Attorney's Office had never happened. Trump was convicted six months ago on 34 counts of falsifying business records throughout his first year in office in order to retroactively hide a hush-money payment that silenced porn actress Stormy Daniels 11 days before the 2016 election. The legal precedents and federal regulations cited so far by Blanche and Bove bridge the gap indirectly, and lawyers for Manhattan District Attorney Alvin Bragg have promised to fight the claim that such a thing as presidential-elect immunity even exists. A second argument for special treatment of presidents-elect, made repeatedly by the two lawyers in the past month, draws on the Presidential Transition Act of 1963, which provides for the "orderly transfer of Executive powers." A so-called interest of justice dismissal would require Merchan to find "some compelling factor, consideration or circumstance" under which continuing a prosecution "would constitute or result in injustice."
+Financial_Events: []

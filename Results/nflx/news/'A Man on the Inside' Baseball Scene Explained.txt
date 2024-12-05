@@ -1,0 +1,17 @@
+Authors: ['Rick Porter']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 17:00:00
+Description: 'A Man on the Inside' creator Mike Schur breaks down the filming of a key scene at San Francisco's Oracle Park, and what he had to cut from it.
+Filename: .json
+Image_Url: https://www.hollywoodreporter.com/wp-content/uploads/2024/11/AMOTI_107_Unit_01183RC-H-2024.jpg?w=1296&h=730&crop=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 'A Man on the Inside' Baseball Scene Explained
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: [This story contains some spoilers for Netflix‘s A Man on the Inside, and specifically episode seven, “From Russian Hill With Love.”] The writers of Netflix’s A Man on the Inside referred to the season’s seventh installment as “the Ferris Bueller episode.” Charles (Ted Danson), the widower who’s gone undercover inside a San Francisco retirement community to help a private investigator, and his new friend Calbert (Stephen McKinley Henderson) ditch an outing at a local mall to see the city’s sights. Via Calbert’s access to his son’s company car and “the magic of television,” as creator Mike Schur put it, the two friends take a boat tour past Alcatraz, view the Golden Gate Bridge, chat in a redwood forest, take in a view of the Palace of Fine Arts and watch a Giants game at Oracle Park, where they have a heartfelt conversation about their fraught relationships with their adult kids. I just saw it in the way we were designing him, and then once the actor signed on, it was like, this is the right thing.” Before Henderson took the role of Calbert, the show’s writers had envisioned the scene as taking place at a Golden State Warriors game, but “when Stephen signed on, I was like, no, he’s not an NBA guy.” (The NBA team does make its way into the show via Margaret Avery’s character, Florence, who’s a huge fan of the Warriors.) Working with Major League Baseball, Danson, Henderson and the Man on the Inside crew filmed the scene at Oracle Park in May. “As soon as it was over, I was like, ‘Oh, we can’t use any of that.’ You can’t show the crowd losing its mind and then cut to a scene where they’re talking very contemplatively and quietly about their kids, without any evidence of what just happened,” Schur said.
+Financial_Events: []

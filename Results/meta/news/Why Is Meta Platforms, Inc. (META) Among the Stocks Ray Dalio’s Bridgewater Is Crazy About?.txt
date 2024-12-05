@@ -1,0 +1,17 @@
+Authors: ['Sheryar Siddiq']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 13:05:13
+Description: We recently compiled a list of the Billionaire Ray Dalio's Bridgewater Is Crazy About These 15 Stocks. In this article, we are going to take a look at where Meta Platforms, Inc.
+Filename: .json
+Image_Url: https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Why Is Meta Platforms, Inc. (META) Among the Stocks Ray Dalio’s Bridgewater Is Crazy About?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Ray Dalio, a seasoned global macro investor with over 50 years of experience, founded Bridgewater Associates from his two-bedroom apartment in New York City and led the firm for most of its 47-year history. Millions of Chinese citizens enter the middle class each year, and if the government can successfully restructure debt in critical sectors like housing, China’s long-term growth prospects remain significant. The “All-Weather” ETF Bridgewater Associates recently partnered with State Street’s asset management division to expand into the retail investment market, marking a strategic shift for the hedge fund. This move reflects a growing trend among hedge funds venturing into the $14 trillion ETF market, which has flourished due to its liquidity, tax efficiency, and typically lower fees. The company’s strategic investments in AI to improve app user experiences and engagement have bolstered its ability to attract high-value advertising campaigns, ensuring continued growth in its core business segments.
+Financial_Events: ['Additionally, Meta AI, already engaging over 500 million monthly active users, is seen as a potential $10 billion+ revenue driver in sectors such as travel and entertainment, particularly in search and assistant services by 2026.\nIn its Q3 2024 earnings, Meta Platforms, Inc', '(NASDAQ:META) reported impressive results, with earnings per share of $6.03 and revenue of $40.5 billion, surpassing analyst estimates of $5.22 per share and $40.2 billion in revenue', 'The company generates more than 95% of its revenue from advertising, evenly split between North America and international markets', 'During the quarter, shares contributed to performance following the release of strong fiscal second quarter operating results, with revenues and earnings beating analyst estimates', 'Management also raised their fiscal 2024 revenue guidance, citing improved advertising monetization', 'If you are looking for an AI stock that is more promising than META but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.\nREAD NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock.']

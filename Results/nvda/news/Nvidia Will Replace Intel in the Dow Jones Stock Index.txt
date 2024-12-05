@@ -1,0 +1,17 @@
+Authors: ['Kate Conger', 'www.nytimes.com', 'kate-conger']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-01 23:30:34
+Description: The change, starting next Friday, lifts a dominant player in artificial intelligence over its chip-making rival, which has struggled to keep up.
+Filename: .json
+Image_Url: https://static01.nyt.com/images/2024/11/01/multimedia/01NVIDIA-bpvh/01NVIDIA-bpvh-facebookJumbo.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia Will Replace Intel in the Dow Jones Stock Index
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: S&P Dow Jones Indices, which maintains the stock index, said in a statement that the change would take place before the opening of trading next Friday “to ensure a more representative exposure to the semiconductors industry.” Nvidia established an early foothold in the A.I. chip sales and has become the second-most-valuable company in the world, slightly trailing Apple at $3.32 trillion after trading hours on Friday. “The thing that we understood is that this is a reinvention of how computing is done,” Jensen Huang, Nvidia’s chief executive and one of its founders, told The New York Times last year. “And we built everything from the ground up, from the processor all the way up to the end.” A recent stock split at Nvidia prompted speculation that it would replace Intel on the Dow Jones. In June, Nvidia unveiled a 10-for-one stock split that would make it easier for a retail investor to buy into the company without diluting its valuation.
+Financial_Events: ['But its board resisted the acquisition, and Nvidia went on to become a dominant player in the A.I']

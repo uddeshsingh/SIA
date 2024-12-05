@@ -1,0 +1,17 @@
+Authors: ['Peter Tonguette', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 10:00:00
+Description: The legacy media institutions that went to war with Donald Trump are trying to come to terms with his return.
+Filename: .json
+Image_Url: https://www.washingtonexaminer.com/wp-content/uploads/2024/11/Cover1.webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Trump’s erstwhile critics in the press try to come to terms with four more years
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “It was the first time we had seen him in seven years,” Brzezinski said, an admission that, in itself, goes some way toward explaining the myopia in elite media circles: The Morning Joe duo has spent nearly a decade trashing and thrashing the president, ex-president, and presidential candidate, but they have done so largely in ignorance of the man himself and certainly of the millions of people who, to greater or lesser degrees, support his agenda of sensible foreign policy, robust border security, and consistent anti-wokeism. Despite making their faithful viewers raving mad, the Morning Joe co-hosts’ great reversal represented another Schumer-style mugging-by-reality: The Electoral College had again made Trump president — and, worse from their perspective, the popular vote had rendered that victory unassailable — and a media strategy predicated on incandescent rage against the new administration no longer looked like a smart move. For years, MAGA voters have been, to revise the immortal words of Timothy Leary slightly, dropping out from legacy media and turning to alternate forms of communication, such as Truth Social, the Daily Wire, or the right-wing-ish anti-“woke” podcasts that played host to Trump and running mate J.D. “In the view of its critics, The Times has been far too distracted as of late by worries over President Joe Biden’s age, allowing it to steal attention away from the larger and far more serious danger posed by a second Trump administration,” CNN reported in March. Notwithstanding such vestigial anti-Trump performance art, most of the other View co-hosts seem off their game: The ladies have been compelled to read multiple “legal notes” to correct assertions they had confidently made about various Republicans, including nominees for the Trump Cabinet.
+Financial_Events: []

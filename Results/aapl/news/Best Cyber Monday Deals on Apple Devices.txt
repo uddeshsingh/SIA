@@ -1,0 +1,17 @@
+Authors: ['Samantha B. Gordon']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2023-11-27 11:09:00
+Description: This Cyber Monday score big savings on Apple Watches, Airpods, MacBooks and other Apple products that score well in Consumer Reports' tests.
+Filename: .json
+Image_Url: https://article.images.consumerreports.org/image/upload/t_article_tout/v1730315114/prod/content/dam/CRO-Images-2024/Shopping/Holiday/CR-Shopping-InlineHero-Cyber-Monday-Apple-Deals-1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Cyber Monday Deals on Apple Devices
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Thin, light, and powerful, the 2022 MacBook Air remains a great machine, providing a compelling combination of performance and battery life. The newer MacBook Air has a more powerful M3 chip under the hood, but if you’re doing everyday tasks (streaming movies, browsing social media, doing regular online things), you’re unlikely to perceive a difference. Smaller size and lighter weight make this iPad Mini easier to hold for extended periods than its larger brethren. The model has a bright, sharp display with a large viewing angle, meaning you don’t need to hold it dead center in front of your face to see it clearly. But, that said, there are millions of iPhones and other Apple devices roaming around out there that can pick up a signal and discreetly convey it to you when you find yourself searching, say, a park or a school campus for the keys you dropped.
+Financial_Events: []

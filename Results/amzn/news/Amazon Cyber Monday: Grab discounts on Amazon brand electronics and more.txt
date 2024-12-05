@@ -1,0 +1,17 @@
+Authors: ['Nora Colomer']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2023-11-24 08:00:40
+Description: Save on Amazon signature gadgets and more this Cyber Monday.
+Filename: .json
+Image_Url: https://static.foxnews.com/foxnews.com/content/uploads/2024/11/commerce-cyber-monday-sales-istock-1346571203-1.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon Cyber Monday: Grab discounts on Amazon brand electronics and more
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Amazon's Cyber Monday runs through Dec. 2, extending the timeline of the commerce giant's huge Black Friday discounts. The unit is rated for HDR10 and HLG to produce a stellar display to watch vibrant shows and movies. All-new Amazon Fire TV Stick 4K Max with Blink Video Doorbell: on sale for $62.98 Original price: $119.98 You can score the Amazon Fire TV Stick and Blink Video Doorbell at 47% off the list price. The All-new Fire TV Stick 4K Max is Amazon's most powerful model yet, featuring lightning-fast app starts and fluid navigation. For more deals, visit www.foxnews.com/category/deals Nespresso VertuoPlus Coffee and Espresso Machine: on sale for $110.47 Original price: $169.95
+Financial_Events: []

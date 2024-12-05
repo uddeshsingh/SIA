@@ -1,0 +1,17 @@
+Authors: ['Daniel Howley', 'AOL Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:30:52
+Description: Amazon is redesigning its data centers for the AI age.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/plItTndIUzZdrTARMPOxvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/aol_yahoo_finance_433/31a07cafe82150d2dab6f1dc77e1b8b9
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon is giving its data centers a facelift for the generative AI age
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: And anything that improves the cloud business’s availability and performance has the potential to draw more customers while ensuring existing users don’t flee to Amazon’s rivals. Amazon says the latest updates include simplified electrical and mechanical designs for its data centers that ensure better than 99% infrastructure availability. The tech giant says it’s also preparing for Nvidia’s (NVDA) upcoming Blackwell chips by outfitting its data centers with liquid cooling capabilities. That’s got firms like Amazon, Microsoft, and Google, among others, looking at ways to improve data center efficiency and new power sources including nuclear energy. The generative AI hype cycle is still relatively new, and cloud providers are set to continue building out ever more powerful data centers.
+Financial_Events: ["And we've been innovating on our power delivery design to these servers as well,” he added.\nAWS is Amazon's most profitable business unit", 'The segment brought in $90.7 billion in 2023, lower than the retail division’s $484 billion in revenue']

@@ -1,0 +1,17 @@
+Authors: ['Kyle Barr', 'Thomas Maxwell', 'Jorge Jimenez']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:33:19
+Description: Intel confirmed it will share more news of what everyone expects is its long-rumored Battlemage GPU to finally compete against Nvidia and AMD.
+Filename: .json
+Image_Url: https://gizmodo.com/app/uploads/2024/12/Intel-ARC-Graphics-A770.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel Says it Will Show Off its Budget Battlemage Discrete GPU
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: IntelÂ released aÂ teaser video over the Thanksgiving holiday break showing whatâs obviously a graphics card of some kind. Team Blue has triedÂ pushing its discrete GPUsÂ for a few years, and itsÂ Alchemist lineup, like the A580, is already entrenched for budget-end buyers. Plenty of unconfirmed rumors on the Chinese social media appÂ Weibo mention synthetic benchmarks, but perhaps the best we could claim is that Intelâs GPU could match theÂ performance of the Nvidia Geforce RTX 4060 Ti. Intelâs mobile and desktop offerings will support the companyâs XeSS upscaling tech, the most recent super sampling technology compared to AMDâs FSR and Nvidiaâs DLSS. Intelâs latest Arrow Lake desktop processors also promise good gaming performance without needing a discrete GPU.
+Financial_Events: []

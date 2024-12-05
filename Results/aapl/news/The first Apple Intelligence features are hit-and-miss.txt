@@ -1,0 +1,17 @@
+Authors: ['Jason Cross', 'Senior Editor', 'Author: Jason Cross']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-29 00:00:00
+Description: The iPhone 16 finally has a real reason to exist, but the big AI stuff is still more than a month away.
+Filename: .json
+Image_Url: https://www.macworld.com/wp-content/uploads/2024/10/apple-intelligence-graphic.jpg?quality=50&strip=all&w=1024
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The first Apple Intelligence features are hit-and-miss
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: I’ve been using iOS 18.1 throughout its extended beta test, and there are only two really good AI features, with the rest being a mix of annoyances and “use it a few times and forget about it” demonstrations. Apple Intelligence: The good There are two new AI features that I use daily and I think most people will make a part of their everyday iPhone use: Notification summaries and the Clean Up tool. I almost never found the need to select some text and change its tone or summarize it, and let’s face it, nobody’s going to proofread their emails or social media posts with this. The generative image features (other than the Clean Up tool) have already made an appearance in the first iOS 18.2 beta and are expected to arrive later this year, including seamless integration with ChatGPT. After years of not investing properly in advancing Siri’s capabilities, it seems like Apple Intelligence is finally poised to give it a big boost, but we still have five or six months from getting that on our iPhone 16s.
+Financial_Events: []

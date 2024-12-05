@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:30:00
+Description: New set of flexible data center components will support the next generation of generative AI innovation and provide 12% more compute power, while improving availability and efficiency
+Filename: .json
+Image_Url: https://assets.aboutamazon.com/dims4/default/b79fdfb/2147483647/strip/true/crop/1320x660+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2F08%2F232f7d434fdd9622143a76f5c5f4%2Famazon-smile-og-open-graph.jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: AWS Announces New Data Center Components to Support AI Innovation and Further Improve Energy Efficiency
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: AWS’s latest data center design improvements include simplified electrical distribution and mechanical systems, which enable infrastructure availability of 99.9999%. Innovations in cooling, rack design, and control systems AWS has built a number of new and enhanced capabilities to offer customers the most performant, highly available, and energy efficient infrastructure possible. This flexible, multimodal cooling design allows AWS to provide maximum performance and efficiency at the lowest cost, whether running traditional workloads or AI models. “Security and regulatory compliance are fundamental for us, and working with AWS helps to fortify our position as a trusted technology provider, supporting businesses across a variety of industries. With their energy-efficient and AI-optimized facilities, we can dedicate more resources to the rapid delivery of new data-driven products rather than data center management.” “Our customers depend on us to deliver reliable and highly secure generative AI innovation in a trusted, private environment,” said Jeff Reihl, chief technology officer, LexisNexis Legal & Professional.
+Financial_Events: []

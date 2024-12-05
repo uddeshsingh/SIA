@@ -1,0 +1,17 @@
+Authors: ['Adrian Potoroaca']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 12:29:00
+Description: TechCrunch reports that Meta plans to pour an estimated $10 billion into an internet infrastructure project to improve global connectivity. The company is a massive driver of...
+Filename: .json
+Image_Url: https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-29-image-11.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Meta plans to lay down a $10 billion subsea fiber optic cable
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In context: At a time when undersea cables are a prime target for sabotage by bad actors, tech companies are still interested in building more of them. As internet use continues to surge globally due to significant developments in artificial intelligence, Meta plans to install one of the world's longest subsea cables as a dedicated pipeline for its digital platforms. The company is a massive driver of internet traffic worldwide, serving billions of users accessing platforms like Facebook, WhatsApp, Instagram, and Threads. While the company already shares ownership of several subsea cables such as Echo, Amite, Havhingsten, Bifrost, 2Africa, and Anjana, Tagare says Meta will wholly own this new internet backbone. Apparently, Meta wants to improve its network resilience in light of incidents earlier this year that saw prolonged downtime for AAE-1 in the Red Sea and other subsea cables.
+Financial_Events: []

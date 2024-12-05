@@ -1,0 +1,17 @@
+Authors: ['Alan Ohnsman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-29 17:52:42
+Description: The autonomous vehicle company’s weekly ridership has jumped more than 50% in two months and more than doubled since the start of 2024.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/66cd073f245b56c254dcc9e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Alphabet’s Waymo Logs 150,000 Paid Rides And 1 Million Miles A Week
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Waymo, Alphabet’s robotic taxi unit, is now providing over 150,000 paid rides per week, up by more than 50% since August as the tech giant seeks to stay ahead of potential rivals in autonomous driving including Elon Musk’s Tesla. Barring any major accidents, growth should remain brisk in the months ahead as it further expands in Los Angeles, and launches in Austin, Texas, and Atlanta. Musk is repositioning Tesla to be a major provider of robotaxi rides despite the fact that his company hasn’t operated any public test program of autonomous vehicles or shared detailed information about its system. Tesla’s controversial Autopilot and Full Self-Driving features, which the company charges customers $15,000 for, aren’t technically autonomous as they require a human driver to be ready to take over at any time. In addition to new cash, Waymo is also adding a vehicle production facility in metro Phoenix to install sensors and its computing system into its robotaxis.
+Financial_Events: ['The Mountain View, California-based company didn’t say how much revenue Waymo generated in the quarter though its Other Bets business that includes the robotaxi service jumped 31% to $388 million, likely driven by the ride company which Pichai said is “the biggest part” of that portfolio', "Waymo is also shifting to a new lower-cost sensor and compute system that it says is more powerful than the one currently in use and that will help it eventually become profitable.\n“It's an exciting moment,” Pichai said"]

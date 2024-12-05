@@ -1,0 +1,17 @@
+Authors: ['Fiona Jackson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 13:00:21
+Description: TechRepublic asked cyber experts to predict the top trends that will impact the security field in 2025.
+Filename: .json
+Image_Url: https://assets.techrepublic.com/uploads/2024/11/tr_20241129-cyber-security-trends-2025.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Top 5 Cyber Security Trends for 2025
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Renewed focus on third-party risk management, including the AI software supply chain This year, headlines were dominated by the CrowdStrike incident, which disabled about 8.5 million Windows devices worldwide and caused huge disruption to emergency services, airports, law enforcement, and other critical organisations. The focus will no longer be just on vetting third-party code but scrutinising AI models that may have inadvertently introduced security gaps through data poisoning or bias exploitation. “Our research at Moonlock shows a notable spike in macOS-targeted stealer malware, with 2024 seeing 3.4 times more unique samples than 2023.’ SEE: Threat Actors Increasingly Target macOS, Report Finds The number of macOS vulnerabilities exploited in 2023 increased by more than 30%, with attackers using infostealers, fake PDFs, fake Mac apps, legitimate Microsoft apps, and other novel techniques to breach the operating system this year. Vishal Gupta, CEO of security software provider Seclore, told TechRepublic in an email: “In the coming year, long raging wars and general geopolitical tensions will drive the bulk of regulations. ‘Country over collaboration’ may well be the theme of these regulations.” Douglas McKee, executive director of Threat Research at security firm SonicWall, added that it will become increasingly difficult to detect the origins of attacks because “the line between state and criminal operations will continue to blur further.” SEE: Tenable: Cyber Security Pros Should Worry About State-Sponsored Cyber Attacks As a result, decision-makers should strengthen international collaboration rather than create more division.
+Financial_Events: []

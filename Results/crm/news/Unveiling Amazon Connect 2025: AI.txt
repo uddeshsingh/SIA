@@ -1,0 +1,17 @@
+Authors: ['Scott Clark']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:42:49
+Description: Amazon Connect’s new features set a higher standard for secure, AI-powered customer interactions.
+Filename: .json
+Image_Url: https://www.cmswire.com/-/media/45f2b4199faf4645ac9977d67622019f.ashx
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Unveiling Amazon Connect 2025: AI
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: AWS recently announced a significant expansion of Amazon Connect, introducing generative AI capabilities, Salesforce integration and enhanced security features to advance customer engagement, operational efficiency and data compliance. Generative AI-Powered Enhancements At AWS re:Invent, Amazon Connect introduced a wide range of updates aimed at advancing customer engagement and optimizing contact center operations through innovative technologies. While this level of personalization boosts customer satisfaction and loyalty, successfully deploying AI-powered segmentation and outreach may require businesses to address challenges such as fragmented legacy data systems and the need for skilled personnel to manage these advanced tools. However, the introduction of advanced technologies such as generative AI and omnichannel tools also presents challenges, such as the complexity of integration, potential resource demands for customization and the need for continuous training to ensure adoption by contact center staff. By integrating WhatsApp for omnichannel support, enhancing data protection and previewing a Salesforce partnership, AWS has positioned Amazon Connect as a viable solution for addressing the evolving demands of modern customer engagement.
+Financial_Events: []

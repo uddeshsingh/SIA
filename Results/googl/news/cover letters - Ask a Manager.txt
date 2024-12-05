@@ -1,0 +1,17 @@
+Authors: ['Alison Green']
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Your cover letter is where you make a case for why you’d excel at the job, aside from what’s in your resume. A good cover letter can be the thing that gets you an interview. Here’s how to write one. Your cover letter is where you make a case for yourself, aside from what's in your resume. A good cover letter will make you stand out. Here's how.
+Filename: .json
+Image_Url: https://www.askamanager.org/wp-content/uploads/2022/08/Ask-a-Manager-twitter-Card-pass-3.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: cover letters - Ask a Manager
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If you’re thinking your materials are fine, I’ve got to tell you: More often than not, […] Read the full article → this is how to write a cover letter that will get you a job I’ve read thousands, maybe tens of thousands, of cover letters in my career. What I can tell you from enduring that experience is that most cover letters are terrible – and not only that, but squandered opportunities. I have a relatively small pool of applicants and quite […] Read the full article → here’s an example of a cover letter that will make you a stronger candidate I frequently get asked for examples of good cover letters, and a reader recently sent me a good one that I want to share. I’m always telling people “don’t just use your cover letter to summarize your resume — add something new.” This is a good example of what that can look like — the […] Read the full article → here’s an example of an excellent cover letter I often get asked for examples of good cover letters, and a reader recently sent me a good one that I want to share. I’m always telling people “don’t just use your cover letter to summarize your resume — add something new.” This is a really nice example of how you can talk about your work […] Read the full article →
+Financial_Events: []

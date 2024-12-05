@@ -1,0 +1,17 @@
+Authors: ['Sheena Goodyear', 'CBC Radio']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-11 23:41:00
+Description: When Loryl MacDonald closes her eyes, she can imagine a young Canadian soldier, filled with nerves and far from home, writing a letter to his family on the eve of one of the bloodiest battles in human history.
+Filename: .json
+Image_Url: https://i.cbc.ca/1.7380441.1732988244!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lt-harold-wrong-flower.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Mysterious flower pressed into WW I soldier's last letter home identified a century later
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: When University of Toronto librarian Loryl MacDonald closes her eyes, she can imagine a young Canadian soldier, filled with nerves and far from home, writing a letter to his family on the eve of one of the bloodiest battles in human history. She acknowledges that it may seem like an insignificant detail in the story of the Somme, a grisly, months-long battle in France in which more than one million soldiers were killed, wounded or lost, including more than 24,000 Canadians. Flowers common in soldiers' letters It's a sentiment that resonates with Stephen Davies, a historian from Vancouver Island University who wasn't involved in the research. When history meets modern tech Wrong's letter has been in the U of T's possession since the 1960s, donated as part of a package of items associated with the young soldier's family. The new scanner, developed at the Rochester Institute of Technology in New York, is on loan at U of T's Old Books New Science lab, where researchers are using it to identify materials from the university's archives.
+Financial_Events: []

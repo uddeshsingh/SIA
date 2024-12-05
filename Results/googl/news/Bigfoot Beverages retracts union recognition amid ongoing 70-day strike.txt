@@ -1,0 +1,17 @@
+Authors: ['www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 14:27:00
+Description: Bigfoot Beverages said it has withdrawn its recognition of the union representing employees who have been on strike for more than 70 days.The announcement was m
+Filename: .json
+Image_Url: https://kval.com/resources/media2/16x9/927/986/0x47/90/031564d7-c636-42e5-95af-8bdf83a25e2e-Capture.JPG
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Bigfoot Beverages retracts union recognition amid ongoing 70-day strike
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The announcement was made via a letter dated Nov. 26 and addressed to employees in Eugene, Coos Bay, Newport, and Springfield. It states the company received a petition from a majority of its employees Nov. 25 requesting to no longer be represented by Teamsters Local No. In addition to not recognizing the union in contract negotiations, the company also says it has terminated its collective bargaining agreement and is halting contributions to existing pension funds. The unions cited the company’s attempt to replace employee pensions and replace it with 401k plans as the primary reason for the strike, also claiming the company had “lied to the bargaining committee during contract negotiations,” according to post on the union’s Facebook page. Furthermore, the Bigfoot workers have not filed a de-certification petition with the NLRB, which is what would be required if this process to move forward in the real world.
+Financial_Events: []

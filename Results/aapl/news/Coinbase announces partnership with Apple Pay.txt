@@ -1,0 +1,17 @@
+Authors: ['Tipranks']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 21:21:05
+Description: Coinbase (COIN) announced the launch of Apple Pay (AAPL) for all fiat-to-crypto purchases via Coinbase Onramp, a tool to build onramps into exis...
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Coinbase announces partnership with Apple Pay
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Coinbase (COIN) announced the launch of Apple Pay (AAPL) for all fiat-to-crypto purchases via Coinbase Onramp, a tool to build onramps into existing products. Coinbase said: “Coinbase Onramp takes the hassle out of fiat-to-crypto conversions with lightweight KYC for eligible purchases, free USDC on and offramping, and access to the most popular payment methods. With Apple Pay, getting onchain only takes seconds… If you’re an existing app using Coinbase Onramp, there’s nothing you need to do. Your users will automatically see Apple Pay appear as an option when making an eligible purchase.”
+Financial_Events: []

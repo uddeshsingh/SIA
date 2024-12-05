@@ -1,0 +1,17 @@
+Authors: ['Andrew Kessel']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 11:17:00
+Description: Apple will report earnings after the market closes Thursday, the company’s first report since the release of the iPhone 16 last month.
+Filename: .json
+Image_Url: https://www.investopedia.com/thmb/VoDr23kK9lY3Dt55cGIb2j1FfWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_AppleiPhone16_GettyImages-2173355561-54ca7ed0b20e49ed9924b62e9299ede7.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple Earnings Preview: Numbers and Themes To Watch
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Analyst Estimates for Q4 2024 Q3 2024 Q4 2023 Revenue $94.58 billion $85.78 billion $89.5 billion Earnings Per Share $1.48 $1.40 $1.46 Net Income $22.49 billion $21.45 billion $22.96 billion Key Metric: Late-Cycle iPhone 15 Shipments Apple’s fiscal fourth quarter includes the very beginning of the iPhone 16 cycle, but shipments of iPhone 15s will go a long way toward whether the company beats expectations, analysts at Morgan Stanley said. This upward revision “more than offsets" expected weakness in Mac sales, the firm said. Business Spotlight: iPhone 16 Performance in China The iPhone 16 outsold its predecessor in China by 20% in the three weeks following its release, according to Counterpoint Research data cited by Bloomberg. That report supports the “China iPhone rebound thesis,” analysts at Wedbush said. The firm estimates that about 300 million iPhones globally have not been upgraded, paving the way for an “AI-driven super cycle led by iPhone 16.” Wedbush suggested Apple could also partner with Baidu (BIDU), the dominant internet search engine company in China, to capture the “[artificial intelligence] piece of the China market.”
+Financial_Events: ['Analyst Estimates for Q4 2024 Q3 2024 Q4 2023 Revenue $94.58 billion $85.78 billion $89.5 billion Earnings Per Share $1.48 $1.40 $1.46 Net Income $22.49 billion $21.45 billion $22.96 billion\nKey Metric: Late-Cycle iPhone 15 Shipments\nApple’s fiscal fourth quarter includes the very beginning of the iPhone 16 cycle, but shipments of iPhone 15s will go a long way toward whether the company beats expectations, analysts at Morgan Stanley said.\nThe firm raised its estimate for iPhones shipped in the quarter to 55 million units, up from 52.5 million units previously and above the Street consensus of 50 million']

@@ -1,0 +1,17 @@
+Authors: ['Avi Kapoor']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-29 09:43:04
+Description: Alphabet Inc. (NASDAQ: GOOG) (NASDAQ: GOOGL) to release Q3 earnings after closing bell on Tuesday. Analysts expect EPS of $1.84 and revenue of $86.3B.
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2024/10/29/google-shutter2.jpeg?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How To Earn $500 A Month From Alphabet Stock Ahead Of Q3 Earnings
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Alphabet Inc. GOOG GOOGL will release earnings results for its third quarter, after the closing bell on Tuesday. With the recent buzz around Alphabet ahead of quarterly earnings, some investors may be eyeing potential gains from the company's dividends too. So, an investor would need to own approximately $1,250,400 worth of Alphabet, or 7,500 shares to generate a monthly dividend income of $500. GOOGL Price Action: Shares of Alphabet rose by 0.9% to close at $166.72 on Monday. Read More: Top 3 Industrials Care Stocks That Plunge This Month Photo: Shutterstock
+Financial_Events: ['GOOG GOOGL will release earnings results for its third quarter, after the closing bell on Tuesday.\nAnalysts expect the Mountain View, California-based bank to report quarterly earnings at $1.84 per share, up from $1.55 per share in the year-ago period', "Alphabet projects to report revenue of $86.3 billion for the recent quarter, compared to $76.69 billion a year earlier, according to data from Benzinga Pro.\nWith the recent buzz around Alphabet ahead of quarterly earnings, some investors may be eyeing potential gains from the company's dividends too"]

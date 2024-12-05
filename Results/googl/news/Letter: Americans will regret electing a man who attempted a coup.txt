@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-10 05:50:00
+Description: Letter: The time will soon come when Americans will need to answer for why they elected a man who tried to overthrow the government.
+Filename: .json
+Image_Url: https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/1f/d1f31ec0-9d81-11ef-aafd-f71c3bbd9c6b/672d867d0aa78.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Letter: Americans will regret electing a man who attempted a coup
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: There’s a lot to process about Donald Trump’s election victory last week. Economic concerns and durable dissatisfaction are complex issues poorly addressed by the Democratic Party and the Kamala Harris campaign, especially amongst voter groups they took for granted. But those critiques must come downstream of a clean and straightforward truth that paraphrases Ta Nehisi Coates’ assessment of Trump’s first win in 2016: Certainly not every Trump voter is a racist, sexist, homophobe, transphobe, xenophobe, insurrectionist, or convicted felon. But this is not exculpatory; every single 2024 Trump voter felt it acceptable to hand the fate of the country over to one. The time will soon come when Americans will need to answer for why they elected a man who tried to overthrow the government — on camera, in front of the world — in order to lead it.
+Financial_Events: []

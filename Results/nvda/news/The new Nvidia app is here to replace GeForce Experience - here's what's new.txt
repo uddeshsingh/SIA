@@ -1,0 +1,17 @@
+Authors: ['Dave LeClair']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-12 14:31:22
+Description: The new Nvidia app is here, which is great news for gamers who didn't like the GeForce Experience app.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/JoHhQaTPx69p3ZTiBerSXj-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The new Nvidia app is here to replace GeForce Experience - here's what's new
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The app, launched in beta in 2024, comes bundled with video card drivers and integrates several features from the company's simpler Nvidia Control Panel. It can record your gameplay, put Nvidia's AI-powered RTX game filters on and show statistics in an overlay. The most significant benefit of the GeForce Experience was optimizing game settings based on a PC's specs; that feature remains in the new Nvidia app. Previously, configuring displays, enabling and disabling G-Sync and tuning the GPU's performance were locked to the control panels, but these settings are tunable in the new app. "In future updates, we’ll continue to add remaining NVIDIA Control Panel options like Surround and Multiple Display Mode settings, along with new features and further enhancements."
+Financial_Events: []

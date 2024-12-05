@@ -1,0 +1,17 @@
+Authors: ['ZimSitRep_M']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-28 04:16:07
+Description: Source: Lawyer in court for US$180K fraud -Newsday Zimbabwe A TOP lawyer this week appeared at the Harare Magistrates Courts facing allegations of fraud involving a US$180 000 botched land deal. Emmanuel Makanyera Mukwewa (49), who is a senior partner with Mukwewa Law Chambers, appeared before Harare magistrate Marehwanazvo Gofa. He was released on US$200 […]
+Filename: .json
+Image_Url: https://www.zimbabwesituation.com/wp-content/uploads/2024/11/tRBvnS9pWzprm3a5rWuSxx0rZVNJUO3EQ8tgewth.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Lawyer in court for US$180K fraud
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: He was released on US$200 bail and ordered to report at CID Commercial Crimes once a week, not to interfere with State witnesses and to surrender his passport. As they sought buyers, they allegedly misrepresented that the land in question belonged to Oracle Estate (Pvt) Limited. According to court documents, Guy approached Chagadama and expressed interest and was referred to Mukwewa, the estate’s legal practitioner. The complainant paid the asking price of US$180 000, with half of it put under Mukwewa’s trust fund since it was supposed to be released after conclusion of the transaction. It is at that stage that Guy learnt that the piece of land belonged to the government and not Oracle Estate.
+Financial_Events: []

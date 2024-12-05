@@ -1,0 +1,17 @@
+Authors: ['Monica Bell', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 06:30:00
+Description: The Cyber Monday deals on tech and electronics are rolling in, and we've narrowed the 60 best ones you can score on top brands like Apple, Samsung, and Sony. Save up to $300-plus on noise-canceling headphones, portable chargers, smart TVs, and more at Amazon, Best Buy, Target, REI, and Macy's.
+Filename: .json
+Image_Url: https://www.travelandleisure.com/thmb/_ift1H-HyMTKpM9zIEqhfeUvRxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/travel-tech-editor-grab-these-cyber-monday-deals-tout-e317096a0a93408ab875025ffbd15c47.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Tech and Electronics Cyber Monday Deals 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: As a travel tech editor, I’ve covered dozens of sales across both spheres and have the inside scoop on the best Cyber Monday deals you’ll want to jump on today. If you’re looking for stocking stuffers $20 and under, don’t miss the Unihand Rechargeable Hand Warmers that instantly heat you up when you’re taking a winter walk or waiting for a ski lift. Other can't-beat finds include the Apple iPad (10th Generation), which is at its lowest price in 30 days, and the Loveledi 2-pack Portable Charger Set; it's the ultimate two-for-one savings opportunity at $20. The Costway Portable Electric Space Heater is a lifesaver for weekends away in cold-weather cabins, as it boasts 1500 watts of power and 60-degree oscillation; snag it for 67 percent off this Cyber Monday. Its handy clip attaches to everything from a backpack strap and a belt loop to a water bottle handle so they can listen to their favorite tunes while they're on the go.
+Financial_Events: []

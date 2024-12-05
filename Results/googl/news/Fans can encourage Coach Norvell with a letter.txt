@@ -1,0 +1,17 @@
+Authors: ['Jim Henry']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2020-04-30 00:00:00
+Description: "I am angry, sad, disappointed," famed FSU instructor Mark Zeigler says. But "I always want to be part of the solution."
+Filename: .json
+Image_Url: https://www.tallahassee.com/gcdn/presto/2020/04/30/PTAL/5111f3fa-19f7-43ac-816c-2104efdfcdd7-ZEIGLER_1.jpg?crop=899,506,x0,y45&width=899&height=506&format=pjpg&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Fans can encourage Coach Norvell with a letter
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Their Seminoles tumbled to 1-8 after dropping their fifth straight game in Saturday's 35-11 home defeat to North Carolina. One diehard FSU fan, however, is encouraging other Seminoles to send positive vibes to coach Mike Norvell in a letter writing campaign. On the flip side, that span features 26 seasons with double-digit victories and three national titles - two under Bobby Bowden (1993 and 1999) and one under Jimbo Fisher (2013). The Seminoles close out their season at Notre Dame Saturday and at home against Charleston Southern (Nov. 23) and Florida (Nov. 30). Sue Hall, a former administrative assistant for legendary Bowden, also said she recently penned a letter of support and encouragement to Norvell.
+Financial_Events: []

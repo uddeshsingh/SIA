@@ -1,0 +1,17 @@
+Authors: ['Benzinga Insights', 'Benzinga Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-15 16:02:31
+Description: None
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2023/analyst_ratings_image_1.png?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Expert Outlook: Oracle Through The Eyes Of 30 Analysts
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Ratings for Oracle ORCL were provided by 30 analysts in the past three months, showcasing a mix of bullish and bearish perspectives. The table below provides a concise overview of recent ratings by analysts, offering insights into the changing sentiments over the past 30 days and drawing comparisons with the preceding months for a holistic perspective. When compared to others in the Information Technology sector, the company faces challenges, achieving a growth rate lower than the average among peers. Beyond their standard evaluations, some analysts contribute predictions for metrics like growth estimates, earnings, and revenue, furnishing investors with additional guidance. Breaking: Wall Street's Next Big Mover Benzinga's #1 analyst just identified a stock poised for explosive growth.
+Financial_Events: ["This emphasizes its significant scale and robust market position.\nRevenue Growth: Oracle's remarkable performance in 3 months is evident", 'As of 31 August, 2024, the company achieved an impressive revenue growth rate of 6.86%', "This signifies a substantial increase in the company's top-line earnings", 'Analysts typically rate each stock once per quarter.\nBeyond their standard evaluations, some analysts contribute predictions for metrics like growth estimates, earnings, and revenue, furnishing investors with additional guidance']

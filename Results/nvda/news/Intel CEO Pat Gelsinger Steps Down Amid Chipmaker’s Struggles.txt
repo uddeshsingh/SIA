@@ -1,0 +1,17 @@
+Authors: ['Don Clark', 'Tripp Mickle', 'Steve Lohr', 'www.nytimes.com', 'don-clark', 'tripp-mickle', 'steve-lohr']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 14:33:16
+Description: Pat Gelsinger stepped down after nearly four years at the helm of the onetime highflying company, Intel said Monday.
+Filename: .json
+Image_Url: https://static01.nyt.com/images/2024/12/02/multimedia/02intel-ceo-01-pjvb/02intel-ceo-01-pjvb-facebookJumbo.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel CEO Pat Gelsinger Steps Down Amid Chipmaker’s Struggles
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Over the weekend, Patrick Gelsinger, Intel’s chief executive, was given a choice by the company’s board of directors: Resign or be fired. Intel’s board had concluded that Mr. Gelsinger had to depart after his plans to turn around the iconic semiconductor maker were not showing results quickly enough, said a person with knowledge of the matter, who was not authorized to speak publicly. But the company has been mired in recent years in innovation struggles and has ceded ground to rivals including Nvidia, the reigning maker of artificial intelligence chips. “We have much more work to do at the company and are committed to restoring investor confidence,” Frank Yeary, who will serve as interim executive chair on Intel’s board, said in a statement. “It has been a challenging year for all of us as we have made tough but necessary decisions to position Intel for the current market dynamics,” he added.
+Financial_Events: []

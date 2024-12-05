@@ -1,0 +1,17 @@
+Authors: ['Lekha Gupta', 'Benzinga Editor']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 05:55:57
+Description: Broadcom expands partnership with Telia for modernization and transformation of telecom and cloud infrastructure using VMware's product portfolio, including new AI-powered advancements and partner program.
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2024/11/05/Broadcom--Shutterstock.jpeg?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Broadcom Powers Telia's Modernization with VMware, Launches AI-Driven VeloRAIN & More
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Krish Prasad, SVP and general manager, VMware Cloud Foundation Division, Broadcom, said, “We are delighted to enable Telia to continue serving its customers with this VMware software-based platform that includes the needed network and infrastructure orchestration, automation and scale.” In addition, Broadcom disclosed significant enhancements to its VeloCloud product line and introduced a new partner program aimed at helping enterprises better support AI and non-AI workloads and enhance connectivity. Broadcom’s latest advancements include the launch of VeloRAIN, an AI/ML-powered architecture designed to boost the performance and security of distributed AI workloads. Additionally, the new Titan Partner Program will help VeloCloud Managed Service Providers grow as enterprise AI adoption accelerates. Sanjay Uppal, vice president and general manager, VeloCloud Division, Broadcom, stated, “By harnessing the advanced capabilities of VeloRAIN, AI workloads from distributed inferencing and agentic peer-to-peer applications to upstream heavy RAG transactions will see improved application-based QoE and security across all endpoints of the enterprise.” Apart from this, at VMware Explore 2024 in Barcelona, the company disclosed expanded VMware Cloud Foundation (VCF) Advanced Services, new ecosystem partnerships, and modernization programs. Krish Prasad, senior vice president and general manager, VCF Division at Broadcom, commented, “Through a private cloud platform and portfolio of Advanced Services that are ubiquitous, flexible and secure, we are unlocking the promise of AI in the enterprise, delivering new levels of organizational resilience, and supporting the privacy and digital sovereignty demands of customers around the world.” Investors can gain exposure to the stock via Direxion Daily AVGO Bull 2X Shares AVL and Columbia Semiconductor and Technology ETF SEMI.
+Financial_Events: []

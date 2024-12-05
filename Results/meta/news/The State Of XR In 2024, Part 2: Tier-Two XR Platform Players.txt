@@ -1,0 +1,17 @@
+Authors: ['Anshel Sag']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 12:06:37
+Description: Snap, Niantic and Valve are following different paths to commercializing XR and AR as they work to bring spatial computing to a broader base of consumers.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/674de642ba17d202dec396c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The State Of XR In 2024, Part 2: Tier-Two XR Platform Players
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Still, the company has some key successes: with over 850 million monthly active users, the Snapchat app has built a lot of brand awareness in the fashion space for try-ons, plus it has expanded Snap’s partnerships beyond virtual clothes. Niantic has also partnered with Snap on the latest generation of Spectacles to enable its Peridot virtual pet, and to use Gaussian splats to create 3-D objects with a simple scan using technology from Scaniverse. However, it struggled mightily to get its first headset out the door, incorrectly targeted consumers rather than commercial customers and eventually made a late pivot towards enterprise uses—like many other companies in the XR space. Since its founding, Magic Leap has burned through $3 billion and ended up in the hands of the Saudi sovereign wealth fund after its original investors wrote it off as a complete loss. The Valve Index VR headset is now five years old, and instead of delivering a new version of it, the company has decided to create a Steam Link app for the Meta Quest platform.
+Financial_Events: ['Nobody is going to call the companies in this overview “small.” Most of them have revenues in the billions of dollars, but they aren’t public companies with trillion-dollar market caps like all the companies we covered in my State of XR Part 1 article, so they fall into second tier', 'Niantic also expanded its offering in 2022 with the acquisition of 8th Wall, a web-based AR platform, boosting the potential user base that Niantic could address', 'Niantic has also partnered with Snap on the latest generation of Spectacles to enable its Peridot virtual pet, and to use Gaussian splats to create 3-D objects with a simple scan using technology from Scaniverse.\nI believe that Niantic is still onto something important with its location-based, world-scale AR focus and with its acquisitions of companies, including 8th Wall and Universe', 'This marketplace, called Steam, generates more than $10 billion a year in revenue and has over 132 million monthly active users', 'Steam has also set the standard for app-store economics with its 30% cut of developer revenues that is now so familiar from Apple, Google and others']

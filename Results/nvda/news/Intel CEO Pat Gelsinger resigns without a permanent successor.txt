@@ -1,0 +1,17 @@
+Authors: ['Dean Takahashi']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:40:00
+Description: In a blow to Intel's turnaround plans, CEO Pat Gelsinger has resigned from the big chip maker without a permanent successor in place.
+Filename: .json
+Image_Url: https://venturebeat.com/wp-content/uploads/2021/10/cto-7.jpg?w=1024?w=1200&strip=all
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Intel CEO Pat Gelsinger resigns without a permanent successor
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In a blow to Intel‘s turnaround plans, CEO Pat Gelsinger has resigned from the big chip maker without a permanent successor in place. Intel was a vaunted chipmaker throughout its history, but it fell behind Taiwan’s TSMC in leading technology and Advanced Micro Devices made a comeback with its Zen designers for microprocessors. It’s been a tail wind for our move into foundry.” Interim successors Zinsner has more than 25 years of financial and operational experience in semiconductors, manufacturing and the technology industry. All designs have moved from monolithic to chiplets.” Moorhead added, “With Gaudi Intel did create a competitive part, but the hyperscalers ended up building their own ASICs (custom chips). He accomplished a lot, but things were missed at the same time.” Kevin Krewell, an analyst for Tirias Research, said in a message that he believed in Gelsinger’s factory strategy and wished they had given him another year.
+Financial_Events: ['Holthaus has held a variety of management and leadership roles at Intel, including chief revenue officer and general manager of the Sales and Marketing Group, and lead of global CCG sales.\nZinsner and Holthaus said in a statement, “We are grateful for Pat’s commitment to Intel over these many years as well as his leadership', 'Ultimately, returning to process leadership is central to product leadership, and we will remain focused on that mission while driving greater efficiency and improved profitability.”\nYeary concluded, “With Dave and MJ’s leadership, we will continue to act with urgency on our priorities: simplifying and strengthening our product portfolio and advancing our manufacturing and foundry capabilities while optimizing our operating expenses and capital']

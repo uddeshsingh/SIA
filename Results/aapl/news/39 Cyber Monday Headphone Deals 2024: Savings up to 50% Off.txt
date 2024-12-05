@@ -1,0 +1,17 @@
+Authors: ['GQ']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-25 20:07:51
+Description: The top Cyber Monday headphones deals include all of our favorite audio products (yes, all of them). Save 50% on Beats Solo4 and 30% on Bose noise-cancelling headphones.
+Filename: .json
+Image_Url: https://media.gq.com/photos/67379f29a6915cdf51c5facb/16:9/w_1280,c_limit/headphoneslede.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 39 Cyber Monday Headphone Deals 2024: Savings up to 50% Off
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: We checked Target, Best Buy, Walmart, Amazon, and plenty of other shops to make sure we’re bringing you the lowest prices on AirPods, Sony headphones, Beats products, and Bose’s best. Not only do these Shure buds have a cool transparent casing, but they provide deep bass and noise isolation for high-fidelity music listening. Not only do the new Beats cans pack 50 hours of battery, but for Cyber Week they get a 50% discount, bringing them into budget territory despite the premium features. These stupid cheap Echo Buds offer pretty good ANC, with 15 hours of battery life and some sick sound quality. Add in 60 hours of battery life, comfortable ear cups, and transparency mode for a pair of headphones that will let you immerse yourself into everything you listen to.
+Financial_Events: []

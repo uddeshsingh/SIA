@@ -1,0 +1,17 @@
+Authors: ['Tipranks']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:34:55
+Description: In a report released today, Daniel Ives from Wedbush maintained a Buy rating on Salesforce (CRM – Research Report), with a price target of $375....
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Salesforce (CRM) Gets a Buy from Wedbush
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In addition to Wedbush, Salesforce also received a Buy from Piper Sandler’s Brent Bracelin in a report issued today. TipRanks tracks over 100,000 company insiders, identifying the select few who excel in timing their transactions. By upgrading to TipRanks Premium, you will gain access to this exclusive data and discover crucial insights to guide your investment decisions. Salesforce (CRM) Company Description: salesforce.com, inc. engages in the design and development of cloud-based enterprise software for customer relationship management. The company was founded by Marc Russell Benioff, Parker Harris, David Moellenhoff, and Frank Dominguez in February 1999 and is headquartered in San Francisco, CA.
+Financial_Events: []

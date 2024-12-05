@@ -1,0 +1,17 @@
+Authors: ['Brian Heater']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-05 23:18:10
+Description: Nvidia on Tuesday exceeded Apple’s market capitalization to become the world’s largest company, on the strength of a global AI push. As Bloomberg notes,
+Filename: .json
+Image_Url: https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2087335475.jpg?resize=1200,799
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia just became the world's largest company amid AI boom
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nvidia on Tuesday exceeded Apple’s market capitalization to become the world’s largest company, on the strength of a global AI push. As Bloomberg notes, the chipmaker has experienced an astronomical 850% growth since the tail end of 2022. Nvidia was valued at $3.43 trillion at the close of market, topping Apple’s $3.38 trillion. This isn’t the first time the two have swapped places; Nvidia also pushed past Apple in June, though it only held the top spot for a day.
+Financial_Events: []

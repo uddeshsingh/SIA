@@ -1,0 +1,17 @@
+Authors: ['The Associated Press', 'ABC News']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 16:13:53
+Description: Sabrina Carpenter hosting a holiday variety music special on Netflix and Keira Knightley and Ben Whishaw playing a spy and an assassin in the TV series “Black Doves" are some of this week’s new streaming entertainment releases
+Filename: .json
+Image_Url: https://i.abcnewsfe.com/a/620a2b78-28b0-486d-b309-fc857bb76719/wirestory_cb7f220b6c3f8fbf5e6420670432e4e8_16x9.jpg?w=1600
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What to stream: Sabrina Carpenter holiday special, 'Beetlejuice Beetlejuice' and Rosé goes solo
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: In her review, AP’s Jocelyn Noveck called it “a joyously rendered sequel that sometimes makes sense, and sometimes doesn’t, but just keeps rollicking.” — A lowkey reunion of “Love Actually” writer-director Richard Curtis and one of that film’s stars, Bill Nighy, is part of the new Netflix animated movie “That Christmas” (streaming Wednesday). The film was co-written by Curtis (it’s based on his series of Christmas books) and features Nighy as the voice of Lighthouse Bill, one of the Wellington-on-Sea townspeople grappling with a winter blizzard. — Lauren Mayberry, vocalist and percussionist from the Scottish pop band Chvrches, makes her solo debut with “Vicious Creature.” The 12 tracks veer from the coffee-house folk of “Anywhere But Dancing” to the punky “Punch Drunk,” the dance-pop of “Change Shapes” and stuttering glam of “Sorry, Etc.” “It’s a mission statement of all things that you like,” she tells us in an interview. I cannot wait for you to listen to this little journal of mine.” — AP Entertainment Writer Mark Kennedy — In their new Netflix series “Black Doves,” Keira Knightley and Ben Whishaw play old friends who also happen to be a spy and an assassin, that team up to solve a murder (and get revenge) at Christmas. — Margo Martindale stars in the new Prime Video series “The Sticky,” as a down-on-her-luck woman on the brink of financial ruin who finds herself in a crime ring stealing, of all things, millions of dollars’ worth of maple syrup.
+Financial_Events: []

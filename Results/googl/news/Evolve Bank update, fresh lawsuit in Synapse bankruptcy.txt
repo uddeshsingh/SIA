@@ -1,0 +1,17 @@
+Authors: ['Penny Crosman', 'www.americanbanker.com', 'penny-crosman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:33:19
+Description: Banks have been returning some funds to fintech customers affected by the Synapse collapse, but a multimillion-dollar gap remains between how much Synapse says customers are owed and how much the banks say they have.
+Filename: .json
+Image_Url: https://arizent.brightspotcdn.com/dims4/default/59d0c11/2147483647/strip/true/crop/2200x1155+0+292/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F0d%2F4c%2F9ff470c44ca4ae9b7fd39ac0fdd4%2Fsynapse.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Evolve Bank update, fresh lawsuit in Synapse bankruptcy
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: But on May 10, he received an email from Yotta Technologies explaining it was going to stop paying rewards on savings balances, paycheck deposits and card spending. Asselyn is one of thousands of fintech customers who have lost large sums of money, in some cases their entire life savings, in the wake of Synapse's bankruptcy in April. Once Evolve receives transaction data from the other banks, it will have Ankura conduct an ecosystem-wide reconciliation to accurately determine where the money is so that the right amounts can be returned to the right end users, it said. But for this to work properly, "the bank has to have accurate records of who the beneficial owners are," said Todd Baker, a senior fellow at the Richman Center for Business, Law & Public Policy at Columbia University and the managing principal of Broadmoor Consulting. Sherrod Brown of Ohio, Ron Wyden of Oregon, Tammy Baldwin of Wisconsin and John Fetterman of Pennsylvania urged Synapse, its investors and its bank and fintech partners to restore customers' access to their money.
+Financial_Events: []

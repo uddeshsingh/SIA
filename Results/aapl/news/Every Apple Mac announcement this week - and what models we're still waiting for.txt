@@ -1,0 +1,17 @@
+Authors: ['Kyle Kucharski']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2022-09-08 00:00:00
+Description: Apple today announced the new MacBook Pro with the M4 chip, joining a revamped catalog of new Mac computers this week.
+Filename: .json
+Image_Url: https://www.zdnet.com/a/img/resize/3e1c76eab1abba383a473e1b706db77e65433b25/2022/09/08/5e73698c-368c-4c5b-96ac-005b32edc3ef/red-mac-at-apple-store.jpg?auto=webp&fit=crop&height=675&width=1200
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Every Apple Mac announcement this week - and what models we're still waiting for
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Apple's proprietary AI feature set includes text summaries, writing tools, and image generation, with ChatGPT being integrated into Siri in December of 2024. Here are the main features: They're available in seven colors (green, yellow, orange, pink, purple, blue, and silver) with color-matching USB-C accessories. A new 12MP Center Stage camera that auto-centers during video calls and a wide-angle lens that can show a top-down view of the desktop geared toward educators or students. Additionally, Gurman reports that the M4 chip isn't likely to be available in the MacBook Air line of laptops until the first part of next year. The latest iOS version, 18.1, was also released earlier this week, including call recording and transcription features powered by Apple Intelligence.
+Financial_Events: []

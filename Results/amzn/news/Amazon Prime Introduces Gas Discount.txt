@@ -1,0 +1,17 @@
+Authors: ['Ryley Amond', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-23 19:00:01
+Description: Amazon Prime members now receive fuel savings of up to 10 cents off per gallon at approximately 7,000 participating BP, Amoco and AMPM gas stations nationwide.
+Filename: .json
+Image_Url: https://image.cnbcfm.com/api/v1/image/108051863-1729705559771-gettyimages-1461611941-ma99041.jpeg?v=1729705581&w=1920&h=1080
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon Prime Introduces Gas Discount
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Pro tip: You can cover the cost of a Walmart+ membership with a monthly Walmart+ statement credit of up to $12.95 plus applicable taxes (subject to auto-renewal) with The Platinum Card® from American Express. If you prefer to earn flexible travel rewards that you can transfer to partner hotel and airline loyalty programs, consider the Citi Strata Premier℠ Card. At CNBC Select, our mission is to provide our readers with high-quality service journalism and comprehensive consumer advice so they can make informed decisions with their money. While CNBC Select earns a commission from affiliate partners on many offers and links, we create all our content without input from our commercial team or any outside third parties, and we pride ourselves on our journalistic standards and ethics. Catch up on CNBC Select's in-depth coverage of credit cards, banking and money, and follow us on TikTok, Facebook, Instagram and Twitter to stay up to date.
+Financial_Events: []

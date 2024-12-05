@@ -1,0 +1,17 @@
+Authors: ['Stephanie Holland']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 15:13:00
+Description: The new Netflix docuseries, ‘Cold Case: Who Killed JonBenét Ramsey,’ has us examining the lack of media coverage for crimes against Black children.
+Filename: .json
+Image_Url: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/66860ccbcd92b61d340e2553f5970507.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Media Obsessed With JonBenét Ramsey But Not Missing Black Folks
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: On Christmas Day 1996, 6-year-old JonBenét Ramsey was found dead in the basement of her family’s Boulder, Colo. home, sparking a decades-long obsession with the still unsolved case. You’ve certainly heard of Ramsey if you’re of a certain age, but you likely have no idea who Tineshia Jackson, Taranika Raymond or Kreneice Jones or Asha Degree are. While the circus-like atmosphere surrounding the media coverage has not led to the capture and prosecution of the perpetrator, it has kept the case relevant and the investigation ongoing. Regular stories about botched investigations from the past and recently discovered graves of Black victims tell us how crimes against our community have never been given their proper attention or dignity. Whether it’s assumptions about family stability, misinformation about immigrants, or just plain old racism, when Black folks go missing or are killed, they simply don’t get the same coverage and considerations as white victims.
+Financial_Events: []

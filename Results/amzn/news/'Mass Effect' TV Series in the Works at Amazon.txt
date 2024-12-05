@@ -1,0 +1,17 @@
+Authors: ['Joe Otterson']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-07 18:00:00
+Description: A "Mass Effect" TV series is officially in development at Amazon MGM Studios, Variety has learned exclusively.
+Filename: .json
+Image_Url: https://variety.com/wp-content/uploads/2024/11/Mass-Effect.jpg?w=1000&h=563&crop=1
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 'Mass Effect' TV Series in the Works at Amazon
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: A “Mass Effect” TV series is officially in development at Amazon MGM Studios, Variety has learned exclusively. It was previously reported in 2021 that Amazon was in negotiations to develop a “Mass Effect” TV series, but there have been no updates on the project until now. There have also been multiple mobile games in the franchise, as well as an animated film, novels, comic books, and other media. Zreik was previously an executive at the now defunct Marvel Television unit under Jeph Loeb. During his time with Marvel, he served as an executive producer on hit shows like “Daredevil,” “Jessica Jones,” “Luke Cage,” “The Punisher,” and “Legion” among several others.
+Financial_Events: []

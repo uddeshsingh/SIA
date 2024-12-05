@@ -1,0 +1,17 @@
+Authors: ['Michelle Del Rey']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 14:41:45
+Description: In-store purchases were stagnant on biggest shopping day of the year, consumer experts reported
+Filename: .json
+Image_Url: https://static.independent.co.uk/2024/11/29/18/Black_Friday_51133.jpg?quality=75&width=1200&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Black Friday goes digital as Americans rack up $10bn worth of online purchases
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Americans spent a staggering $10bn online shopping on Black Friday while in-store purchases continued to dip, according to analysts. This year, consumers took advantage of deals from Amazon and Walmart to purchase desktops, laptops and phones, while sales at Best Buy and Target were stagnant. “Crossing the $10bn mark is a big e-commerce milestone for Black Friday, for a day that in the past was more anchored towards in-store shopping,” Vivek Pandya, lead analyst at Adobe Digital Insights, said in a statement. Online-only retailers like Shein and Temu saw a growth in sales in the seven days through Friday compared to a year earlier, Reuters reported. Despite inflation, Michelle Meyer, chief economist at Mastercard Economics Institute, told Reuters that popular holiday purchases, like clothing, appliances, sporting goods, personal care products and jewelry are increasing modestly or declining in price over the last year.
+Financial_Events: []

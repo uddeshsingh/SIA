@@ -1,0 +1,17 @@
+Authors: ['Zak Doffman']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-02 03:50:45
+Description: Microsoft’s security surprise should make 2025 a year for exciting PC deals in stores.
+Filename: .json
+Image_Url: https://imageio.forbes.com/specials-images/imageserve/66326c977605f1e72ab87c8d/0x0.jpg?format=jpg&crop=1184,724,x1303,y831,safe&height=900&width=1600&fit=bounds
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Why You Should Buy A New Microsoft Windows PC In 2025
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: All change for Microsoft users this week, with the surprising news that Windows 10 won’t be going quite as end-of-life as expected in October next year. Less than two weeks ago, the third-quarter global PC sales numbers were lower than hoped, but as Canalys reported, the need for strong growth in 2025 should be boosted “as a large proportion of the Windows PC installed base still needs to be refreshed before the end of life of Windows 10 in October 2025.” Erm, not any more. ForbesiPhones Under Attack—New Warning As Hackers Target Apple Devices While Canalys pegged third-quarter growth at just 1.3%, IDC reported “worldwide shipments of traditional PCs dipped 2.4% year-over-year (YoY) to 68.8 million units, during the third quarter of 2024 (3Q24).” Gartner saw the same decline, reporting a slightly lower 1.3% dip. Add that to Microsoft’s huge push to encourage users into new AI-enabled PCs, and you have an industry gearing up for an event that has just been canceled—or postponed, at least. Windows 11 also includes phishing protection, offering robust defense mechanisms, and provides an extra layer of security against common and persistent cyberattacks, like attempts to compromise login credentials or install malware.” ForbesFBI Warns Gmail, Outlook, AOL, Yahoo Users—Hackers Gain Access To Accounts Nothing is ever certain, but the basic principles of supply and demand and the imperative for a recovery from a soft 2024, allied to materially lower than expected demand given the extended support options, means 2025 could be a year of exciting PC deals in the marketplace.
+Financial_Events: []

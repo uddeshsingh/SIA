@@ -1,0 +1,17 @@
+Authors: ["MATT O'BRIEN", 'apnews.com', 'matt-obrien']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:34:58
+Description: Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsoft’s business practices, starting off a big legal project that an incoming Trump administration must take up or abandon.
+Filename: .json
+Image_Url: https://dims.apnews.com/dims4/default/26103d2/2147483647/strip/true/crop/3000x1688+0+198/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F6c%2F5b25a0afc30b6be5fa87c2d76e29%2Fb10dbc1be9414283881b1d4ae3a0c049
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: FTC opens Microsoft antitrust investigation
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsoft’s business practices, starting a big legal project that an incoming Trump administration must take up or abandon. It’s the latest action of more than three years of aggressive antitrust enforcement shepherded by FTC Chair Lina Khan, who was elevated to lead the agency by President Joe Biden after he came into office pledging tougher scrutiny of monopolistic behavior by Big Tech companies. Khan’s FTC already lost one antitrust fight with Microsoft last year when a federal judge declined to block its $69 billion takeover of video game company Activision Blizzard. The case will only move forward if President-elect Donald Trump’s choice to lead the FTC decides to continue the investigation and take it to court. Some analysts are expecting a lighter approach to the tech industry under Trump, though incoming Vice President JD Vance has praised Khan’s work.
+Financial_Events: []

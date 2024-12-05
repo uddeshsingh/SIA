@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Salesforce Extensions for VS Code. Contribute to forcedotcom/salesforcedx-vscode development by creating an account on GitHub.
+Filename: .json
+Image_Url: https://opengraph.githubassets.com/1dd5b02404f38e0b8604dae2aa314b88f8ba4be4bf8551804d3e3951ae858560/forcedotcom/salesforcedx-vscode
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Salesforce Extensions for VS Code
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: salesforcedx-vscode-apex This extension uses the Apex Language Server to provide features such as syntax highlighting and code completion. salesforcedx-vscode-apex-debugger This extension enables VS Code to use the real-time Apex Debugger with your scratch orgs and to use ISV Customer Debugger with your subscribers’ sandbox orgs. salesforcedx-vscode-soql This extension enables you to interactively build a SOQL query via a form-based visual editor, view the query as you build, and save the output to a .csv or .json file. You can find more information about using the Salesforce Extensions for VS Code in the public documentation. If the docs don’t cover what you are looking for, please feel free to open an issue.
+Financial_Events: []

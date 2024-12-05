@@ -1,0 +1,17 @@
+Authors: ['DUNCAN RILEY', 'MIKE WHEATLEY', 'MARIA DEUTSCHER']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-19 09:00:26
+Description: Front acquires Idiomatic to bolster AI-driven customer service solutions - SiliconANGLE
+Filename: .json
+Image_Url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/11/idiomatic.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Front acquires Idiomatic to bolster AI
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The platform analyzes data from different sources, such as surveys, social media, app reviews and help desks, to uncover the underlying reasons behind customer sentiments and issues. The platform’s marketing intelligence capabilities also help brands refine their messaging and monitor campaign effectiveness. One notable feature offered by Idiomatic is its use of custom data labels, which tailor the analysis to the unique language of each business. By unlocking previously siloed customer service data, Front is aiming to empower businesses to make smarter, customer-centric and data-driven decisions. “This acquisition will strengthen Front’s position in the customer service space, helping turn customer feedback into actionable data for all.” As part of the acquisition, Idiomatic founder and CEO Kevin Yang has been appointed to drive Front’s AI strategy and product roadmap moving forward.
+Financial_Events: ['and Slack.\nThe acquisition of Idiomatic will enhance Front’s ability to deliver automated insights, such as inferred customer satisfaction and product feedback, directly from every customer conversation, irrespective of whether the conversation involves an agent or AI', '“This acquisition will strengthen Front’s position in the customer service space, helping turn customer feedback into actionable data for all.”\nAs part of the acquisition, Idiomatic founder and CEO Kevin Yang has been appointed to drive Front’s AI strategy and product roadmap moving forward', 'Idiomatic’s research and development team will also be joining Front.\nComing into its acquisition, Idiomatic had raised a single round of $4 million, according to Tracxn']

@@ -1,0 +1,17 @@
+Authors: ['Kayode Omotosho']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-18 14:24:23
+Description: Broadcom currently trades at $165.14 and has been a dream stock for shareholders. It’s returned 431% since November 2019, blowing past the S&P 500’s 87.9% gain. The company has also beaten the index over the past six months as its stock price is up 16.8%. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/veJ7PjK32Trm1E990C8Ciw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/c33d5012ea1701a7be34c00d3064b11a
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Broadcom: 3 Reasons We Love This Stock
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Final Judgment These are just a few reasons why we think Broadcom is a great business, and with its shares outperforming the market lately, the stock trades at 28.2x forward price-to-earnings (or $165.14 per share). Is now a good time to initiate a position? With rates dropping and inflation cooling, many analysts expect a breakout market to cap off the year - and we’re zeroing in on the stocks that could benefit immensely. Take advantage of the rebound by checking out our Top 9 Market-Beating Stocks. This is a curated list of our High Quality stocks that have generated a market-beating return of 175% over the last five years.
+Financial_Events: ['Final Judgment\nThese are just a few reasons why we think Broadcom is a great business, and with its shares outperforming the market lately, the stock trades at 28.2x forward price-to-earnings (or $165.14 per share)']

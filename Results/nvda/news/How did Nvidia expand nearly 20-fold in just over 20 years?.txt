@@ -1,0 +1,17 @@
+Authors: ['Hallam Bullock']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 12:28:00
+Description: From 2003 to 2024, Nvidia's growth surged with top pay, AI-driven revenue, and strong workforce expansion, outpacing rivals.
+Filename: .json
+Image_Url: https://i.insider.com/6749a9f09f2901eb60379cd5?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: How did Nvidia expand nearly 20-fold in just over 20 years?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Beyond its historic rise in market value, this growth has been aided by a slew of employee incentives, including a futuristic headquarters that reflects the company's "no barriers and no boundaries" philosophy (it's easy to see why they named the building "Voyager"). This is in part due to early investment in building a programming software layer called CUDA — the main element that keeps AI builders from easily switching to competing hardware. News brief Top headlines China reacts to Donald Trump's tariff announcement, calling the move ineffective and unjustified. From tech gadgets and home essentials to fashion finds and beauty must-haves, this is your go-to guide for scoring major savings across every category. Wardrobe refresh: Our women's style team rounded up the best Black Friday sales from our favorite clothing and shoe brands on the internet.
+Financial_Events: ["It's difficult to believe, considering the company can now boast about back-to-back earnings beats, a market capitalization of more than $3 trillion, and a stock price that has climbed nearly 200% over the past 12 months — Citi analysts also recently eyed a catalyst that could push the stock a further 27% by January.\nAdvertisement\nSo, how can a company grow so much, so quickly? The data behind the evolution of Nvidia's workforce tells the story, BI's Emma Cosgrove writes.\nNvidia's workforce has grown nearly 20-fold since 2003", "As the above chart illustrates, it's also left other tech giants in the dust.\nNvidia's revenue per employee has recovered after years of investment", "The company's revenue-to-headcount ratio showed a downward trend from 2003 until 2014, and then steady upward progress until the AI boom in 2023", "Letting it expire could save money, but the middle class might pay more.\nFTX scammer Caroline Ellison has already had nearly four months shaved from her scheduled release from prison.\nTurkey angles for Trump to break the deadlock on F-35 purchases, after the US barred the country from acquiring them five years ago.\nUber and Lyft drivers say Waymo's robotaxis are hurting their earnings in Phoenix and LA.\nMeet the billionaires working with Trump on his second term.\nAdvertisement\n3 things in deals\nHoliday shopping, meet Black Friday: Our team has scoured the internet to bring you the ultimate roundup of Black Friday deals"]

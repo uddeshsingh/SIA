@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Command Line Interface for Oracle Cloud Infrastructure - oracle/oci-cli
+Filename: .json
+Image_Url: https://opengraph.githubassets.com/0c2f4680e1d3111bf7bf9f75d39971612e3451156008e14df236284f490b7373/oracle/oci-cli
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: cli: Command Line Interface for Oracle Cloud Infrastructure
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: OCI CLI offers interactive features to guide you through command usage. Read about setup requirements and instructions on Working with the OCI CLI Container Image. Download and copy the zip file for your Operating System to the environment where you want to install CLI. Detailed documentation for CLI prerequisites, installation and configuration, and troubleshooting can be found here. Oracle gratefully acknowledges the contributions to oci-cli that have been made by the community.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Emma Street']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-03 00:15:01
+Description: LinkedIn offers benefits for paying for its Premium features, but are they really worth it? We took a look at the new AI tools on the platform.
+Filename: .json
+Image_Url: https://www.slashgear.com/img/gallery/linkedin-has-a-few-ai-features-for-users-to-try-and-heres-how-to-use-them/l-intro-1732640953.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: What Are The New AI Features On LinkedIn & How Do You Use Them?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: LinkedIn has recently introduced a new AI Hiring Assistant tool, which, according to its website, will "take on a recruiter's most repetitive tasks so they can spend more time on their most impactful work." None of the answers did what many LinkedIn gurus recommend: Using your headline as a mini elevator pitch, like "providing tailored writing solutions to the B2B finance industry." The usefulness of the output will wholly depend on the quality of the information you've already provided in your LinkedIn resume, which it will scan to produce an introduction that covers your skills and experience. Some employers would be turned off applications containing statements like "My passion for producing engaging content aligns perfectly with your company's vision," and the AI regurgitated large chunks of the job description verbatim. I wasn't qualified, but my AI-generated cover letter confidently stated that "my experience in managing software release schedules aligns well with the responsibilities of coordinating dental treatments."
+Financial_Events: []

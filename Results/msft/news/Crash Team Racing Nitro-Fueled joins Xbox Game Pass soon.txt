@@ -1,0 +1,17 @@
+Authors: ['Samuel Tolbert']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:24:33
+Description: Crash Team Racing Nitro-Fueled is headed to Xbox Game Pass on December 4.
+Filename: .json
+Image_Url: https://cdn.mos.cms.futurecdn.net/EfoMKkL44FkvfTUHx3rCqg-1200-80.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Crash Team Racing Nitro-Fueled joins Xbox Game Pass soon
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The official Xbox Game Pass X (Twitter) account shared on Monday that players can soon look forward to Crash Team Racing Nitro-Fueled joining the service on Dec. 4, 2024. This remastered effort was developed by Beenox, a team that often provides support work on other Activision Blizzard titles, including the Call of Duty franchise. Crash Team Racing launched on Xbox One, PlayStation 4, and Nintendo Switch, though oddly enough, no PC version was ever released. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Xbox Series X 1TB Digital Edition | $449.99 at Amazon The Xbox Series X Digital Edition ditches the disc drive to give you $50 in additional savings. The white console is otherwise largely unchanged, save for a new CPU process that should boost power efficiency slightly.
+Financial_Events: ["The game has not been updated for modern gaming consoles, meaning it still runs at 30 FPS on all platforms.\n🔥The hottest Cyber Monday deals🔥\n🎮Lenovo Legion Go (Z1 Extreme) | $472.97 at Amazon (Save $227!)\n🕹️Xbox Game Pass Ultimate (3-months) | $27.99 at CDKeys (Save $12!)\n🎮ASUS ROG Ally (Z1) | $349.99 at Best Buy (Save $150!)\n\U0001f6dcXbox Series X Digital Edition (1TB) | $399.99 at Best Buy (Save $50!)\n🖥️Beelink Mini PC (Ryzen 5) | $279 at Amazon (Save $70!)\n🥽Meta Quest 3 (512GB) + free game | $499 at Best Buy (Save $150!)\nClosing out 2024 with more Activision Blizzard games\nAfter Microsoft finished its acquisition of Activision Blizzard King in October 2023, it took some time for any benefits to filter down to players.\nTop Xbox recommendations\n- Best Xbox headsets to get in 2024\n- Best upcoming Xbox games\n- Best gaming laptops in 2024\n- Best Xbox controller deals\n- Best Xbox hard drives\n- Best Xbox SSDs\nOver the last few months, games from Activision Blizzard's library have been very slowly but very steadily added to Game Pass at an ever-so-softly increasing pace, including Call of Duty: Modern Warfare 3, Crash Bandicoot N"]

@@ -1,0 +1,17 @@
+Authors: ['Steve Wilson | The Center Square', 'Steve Wilson', 'The Center Square', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 19:25:14
+Description: The Tampa Bay Rays ownership said in a letter that a $1.3 billion deal to build a new stadium in St. Petersburg.
+Filename: .json
+Image_Url: https://www.washingtonexaminer.com/wp-content/uploads/2024/04/AP24101770652541-scaled.jpg.optimal.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Rays say in letter that stadium deal is still in effect
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The letter sent to the Pinellas County Commission on Friday said team Co-President “Brian Auld did not waver from our commitment to the new ballpark project” and blamed the commission for not honoring the spirit of the agreement reached in July to build a new stadium and multi-use development in the historic Gas Plant District. The Rays’ latest communication comes as a response to an letter issued by the commission that gave the team a deadline of Sunday to decide whether the deal went forward. That contradicts a letter distributed by the team before the county commission meeting on Nov. 19 that said the body’s failure to approve the bonds at its Oct. 29 meeting “ended the ability for a 2028 delivery of the ballpark” and that the Rays can’t absorb the additional costs due to the delay. The City Council also voted to approve and then delay about $23 million to repair the roof of the Rays’ present home, Tropicana Field, that was heavily damaged by Category 3 Hurricane Milton. The Rays will play their home games next year at the New York Yankees’ spring training park, George Steinbrenner Field, next season, with 69 of its final 103 games to be on the road to avoid the region’s rainy season.
+Financial_Events: []

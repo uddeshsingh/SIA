@@ -1,0 +1,17 @@
+Authors: ['Conor Cawley', 'Jennifer McIlveen Editor']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-30 00:00:00
+Description: This Salesforce pricing guide covers all of the Salesforce Sales Cloud, Service Cloud, and Marketing Cloud pricing plans, plus add-on costs and hidden fees.
+Filename: .json
+Image_Url: https://images.tech.co/wp-content/uploads/2024/10/30132749/AdobeStock_391018013_Editorial_Use_Only-1-min.jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: All Plans, Hidden Fees & Add-Ons (2024)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Lightning suite of services all use a different user interface than the classic versions of these plan tiers but offer the basically same features (albeit with a few new productivity tools – it also just looks nicer, in our opinion). The Essentials plan is definitely reserved for smaller companies that don’t need a lot of advanced functionality, but still want to take advantage of Salesforce analytics, which are available at every price point. The Unlimited plan is where you can unlock the built-in AI features for free, which provide in-depth lead and opportunity scoring, as well as insights into customer interactions and deal health at your business. Like the Sales Cloud, the Essentials plan is aimed at smaller businesses interested in getting started with Salesforce but not financially equipped to utilize the advanced features. After conducting an initial exploration to identify the most relevant, popular, and established CRM tools in the market, we put them through their paces to find out more about their strengths and weaknesses.
+Financial_Events: []

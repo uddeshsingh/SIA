@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Oracle Cloud Infrastructure SDK for Java. Contribute to oracle/oci-java-sdk development by creating an account on GitHub.
+Filename: .json
+Image_Url: https://opengraph.githubassets.com/49f530ca56324a0620f24fc7cf194e4af1dd1bcec87f64c9aaacbac3da5105d7/oracle/oci-java-sdk
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Oracle Cloud Infrastructure SDK for Java
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: This Github repository will refer to OCI Java SDK version 3.x.y by default where support for new features and services will be added. In order to use Jersey 2 as HTTP client library, a dependency on oci-java-sdk-common-httpclient-jersey needs to be explicitly declared in application's pom.xml. To learn about known issues with OCI Legacy Java SDK, please refer Known Issues in OCI Legacy Java SDK Details: When using version 1.25.1 or earlier of the OCI Java SDK clients that upload streams of data (for example ObjectStorageClient or FunctionsInvokeClient), either synchronously and asynchronously, and you use a RefreshableOnNotAuthenticatedProvider (for example, for Resource Principals or Instance Principals) you may be affected by silent data corruption. Direct link to this issue: Potential data corruption issue with OCI Java SDK on binary data upload with RefreshableOnNotAuthenticatedProvider If the request to the server hangs for an indefinite time and the program gets stuck, it could be because the connection is not released from the Apache connection pool. Note : If both the above Apache Connection closing strategies do not give you optimal results for your use-cases, please consider switching back to Jersey Default HttpUrlConnectorProvider.
+Financial_Events: []

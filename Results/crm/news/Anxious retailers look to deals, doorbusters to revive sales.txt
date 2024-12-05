@@ -1,0 +1,17 @@
+Authors: ['JAEWON KANG', 'JEANNETTE NEUMANN']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 16:00:00
+Description: THE lure of US$10 gift cards wasn’t enough to draw big early-bird Black Friday crowds at the Macy’s Inc flagship New York City location in Herald Square.
+Filename: .json
+Image_Url: https://apicms.thestar.com.my/uploads/images/2024/12/02/3046664.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Anxious retailers look to deals, doorbusters to revive sales
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: THE lure of US$10 gift cards wasn’t enough to draw big early-bird Black Friday crowds at the Macy’s Inc flagship New York City location in Herald Square. Macy’s and other retailers that cater to middle-income consumers went into the holiday shopping season hoping that exclusive products and special promotions could help revive demand in an otherwise humdrum year. Their efforts spoke to the high stakes that many retailers are facing after a year of sluggish sales with consumers fatigued by the higher prices that dogged the post-pandemic period. Soft expectations US retailers garner about 20% of their annual sales during the holiday season, and early projections have pointed to this year being softer than those past. Target, which cut its annual forecast last week citing slowing demand for discretionary products, saw an early rush of shoppers who came to buy Taylor Swift’s The Eras Tour Book, which the company said is already its bestselling title of the year.
+Financial_Events: ['Apple AirPods, 65-inch Roku TVs and men’s denim were among the bestsellers in stores on Black Friday.\nWhile all retailers look to the holidays for a boost, those that cater to middle-income shoppers are feeling particularly pinched by a slowdown in discretionary spending.\nUnder Macy’s chief executive officer Tony Spring, who took over in February, the largest department store in the United States by revenue and number of stores is trying to draw more shoppers.\nMacy’s discounts this year were roughly in line with last year, including 40% to 50% off some boots and shoes and 50% off select handbags and wallets, but it’s betting newer products from different brands will attract shoppers.\nTraffic at the Herald Square Macy’s picked up as the day continued.\nTarget, which cut its annual forecast last week citing slowing demand for discretionary products, saw an early rush of shoppers who came to buy Taylor Swift’s The Eras Tour Book, which the company said is already its bestselling title of the year.\nThe company said sales of all three exclusive Swift products – the book, vinyl and CD – have exceeded expectations so far.\nItems were exclusively sold in stores last Friday and will be available online starting last Saturday.\nAt 8.45am, Sasha Drozdetski of Ardsley, New York, was already on her second Target trip of the day, wearing a full Swift-themed sweat suit.\nDrozdetski, 34, had first arrived at the White Plains, New York, store at 5.30am, she said']

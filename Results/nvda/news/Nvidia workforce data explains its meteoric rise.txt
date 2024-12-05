@@ -1,0 +1,17 @@
+Authors: ['Emma Cosgrove']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-28 09:00:02
+Description: Nvidia's workforce expansion since 2003 shows its rapid growth in AI, with high salaries, low turnover, and a unique culture of public feedback.
+Filename: .json
+Image_Url: https://i.insider.com/6747867eede4eeae392a26d9?width=1200&format=jpeg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia workforce data explains its meteoric rise
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nvidia recruiters are now swamped at conferences, and platforms like Reddit and Blind are full of eager posters wondering how to land a job or at least get an interview at the company, which has around 30,000 employees. Huang famously has dozens of direct reports and eschews one-on-one meetings, preferring to call out mistakes in public rather than saving harsh feedback for private conversation, so that everyone can learn. Beginning in 2006, long before using graphics processing units to run AI models was commonplace, Nvidia invested in building a programming software layer called compute unified device architecture (CUDA). CUDA is the main element that keeps AI builders from easily or willingly switching to competing hardware like AMD's MI325 and Amazon's Trainium chips. Nvidia's stats are in line with the industry totals for female representation, but ahead of the pack when it comes to women in technical and management positions.
+Financial_Events: ["Tech industry turnover below 20% is notable, an HR firm told Business Insider earlier this year.\nThe data behind the evolution of Nvidia's workforce tells the story of the company's meteoric rise just as well, if not better than the revenue or stock price", "Still, Huang has repeatedly said that despite Nvidia's AI dominance, he wakes up worrying about staying on top.\nRelated stories\nNvidia's revenue per employee has recovered after years of investment\nDivide the company's revenue by its employee headcount and its financial strategy shows through.\nBeginning in 2006, long before using graphics processing units to run AI models was commonplace, Nvidia invested in building a programming software layer called compute unified device architecture (CUDA).\nNvidia's GPUs are capable of immense computing capacity at nearly unprecedented speed because they perform calculations simultaneously rather than one at a time", "CUDA is the main element that keeps AI builders from easily or willingly switching to competing hardware like AMD's MI325 and Amazon's Trainium chips.\nIt's not a literal translation of every employee's contribution, but looking at the revenue-to-headcount ratio can show trends in efficiency, investment, and return.\nNvidia's revenue-to-headcount ratio showed a downward trend from 2003 until 2014, and then steady upward progress until the AI boom in 2023"]

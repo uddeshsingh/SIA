@@ -1,0 +1,17 @@
+Authors: ['Jordan Valinsky']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 17:09:03
+Description: Amazon is targeting retail rivals Shein, Temu and TikTok with a new deeply discounted storefront that sells a wide array of products for $20 or less.
+Filename: .json
+Image_Url: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1691108145.jpg?c=16x9&q=w_800,c_fill
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Everything is under $20 at Amazon’s newest store
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Amazon is targeting retail rivals Shein, Temu and TikTok Shop with a new deeply discounted storefront that sells a wide array of products for $20 or less. Haul is Amazon’s response to Chinese marketplaces, which have seen rapid growth in the United States from cost-conscious shoppers looking for cheap products, according to Neil Saunders, managing director for retail at GlobalData. “The value retail segment has been a major growth area over the past few years, and while the main Amazon site has a good value-for-money reputation, its wide offer means that it is not primarily seen as an everyday low-price destination,” he told CNN. In what could be seen as a slight dig to its overseas rivals, Amazon said it “screens the products sellers offer in Haul so customers can be confident they’ll receive products that are safe, authentic, and compliant with applicable regulations.” Shein and Temu have been recently targeted by US regulators in a proposed investigation for selling “deadly baby and toddler products.” Two leaders from the Consumer Product Safety Commission want to look into how the companies comply with safety regulations. Amazon said Haul was created because it hears from customers who want “ultra-low-priced products even if some of them take one to two weeks to arrive.” Saunders said there will be concerns that Haul might cannibalize sales from its flagship website, but it’s “better that Amazon cannibalize its own sales than cede ground to rivals,” and the storefront could prove popular with younger consumers who are avid shoppers of Amazon competitors.
+Financial_Events: []

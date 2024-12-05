@@ -1,0 +1,17 @@
+Authors: ['Zachary McAuliffe']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-08-21 00:00:00
+Description: Think you can outlast everyone else in this game inspired by the popular series?
+Filename: .json
+Image_Url: https://www.cnet.com/a/img/resize/0e50ebf2694a32801cafadeeca63a509e5f6383a/hub/2024/08/21/80179194-3756-4305-b075-f28065a50113/screenshot-2024-08-21-at-11-14-20am.png?auto=webp&fit=crop&height=675&width=1200
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix Games Set to Release Squid Game: Unleashed in December
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Netflix is virtually synonymous with streaming movies and TV shows, such as Black Mirror and Stranger Things, but your subscription also gives you access to mobile games you can play on your iOS or Android device. If you subscribe to Netflix (which starts at $7 a month), you can play these games and many more without ads or in-app purchases at no additional charge. Head off on a modern-day treasure hunt in North Carolina in this game based on the popular Netflix series. Design roller coasters, build rides and develop the amusement park of your dreams in the mobile adaption of the classic PC game. Set sail as Noor, a lighthouse keeper's apprentice, as she searches for a new source of power before the light from the world fades away.
+Financial_Events: []

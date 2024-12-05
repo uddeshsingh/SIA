@@ -1,0 +1,17 @@
+Authors: ['JOE REEDY', 'apnews.com', 'joe-reedy']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-15 11:00:07
+Description: Jake Paul and Mike Tyson aren’t the only ones who have high stakes when they meet in the boxing ring on Friday night.
+Filename: .json
+Image_Url: https://dims.apnews.com/dims4/default/7b43adb/2147483647/strip/true/crop/5213x2932+0+272/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2Fa9%2F24929676840f75bcb0e794082707%2F16f08839ff9a41a1a3e0902064bc6164
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Tyson-Paul fight gives Netflix opportunity to show it can handle big events with NFL, WWE on horizon
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The bout between the YouTuber-turned-boxer Paul, and Tyson, 58-year-old former heavyweight champion, from AT&T Stadium in Arlington, Texas, will stream globally and be available to Netflix’s 280 million subscribers at no additional cost. “We believe the Jake Paul vs. Mike Tyson fight could be the most watched boxing match ever given ease of access and NFLX’s (Netflix’s) large global subscriber base, and it should attract Ad Tier subs, viewers, and dollars,” Anmuth said in his analyst note according to CNBC Pro. “Countdown: Paul vs. Tyson”, a three-part documentary series previewing the fight card, was ranked second Thursday night among Netflix’s most-viewed shows. The bigger component, though, is that Netflix will carry all of the company’s shows overseas, including its premium live events like WrestleMania, SummerSlam and Royal Rumble. The biggest problem they might have is you just end up in a situation where you’ve got so much volume and viewing a way that you haven’t had in the past,” said Patrick Crakes, a media consultant and former Fox Sports executive.
+Financial_Events: []

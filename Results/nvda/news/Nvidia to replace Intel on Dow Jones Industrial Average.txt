@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-02 16:49:42
+Description: Chipmaker Nvidia will replace Intel on the Dow Jones Industrial Average on Friday as the recent emergence of artificial intelligence continues driving Nvidia's value higher.
+Filename: .json
+Image_Url: https://cdnph.upi.com/sv/ph/og/upi/9811730571579/2024/1/1e7acf273bafddd98259d53408b3c037/v1.5/Nvidia-to-replace-Intel-on-Dow-Jones-Industrial-Average.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Nvidia to replace Intel on Dow Jones Industrial Average
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Nov. 2 (UPI) -- Chipmaker Nvidia will replace Intel on the Dow Jones Industrial Average on Friday as the recent emergence of artificial intelligence continues driving Nvidia's value higher. Nvidia briefly overtook Apple to become the world's most valuable company in late October Microsoft, Google, Meta and Amazon are among the large tech firms buying graphics processing units from Nvidia to build more computer clusters to drive their respective AI pursuits. Nvidia recently announced its Blackwell chip, which the tech firms says will quadruple AI training performance compared to its current Hopper chip. Nvidia's shares price has grown by 740% since OpenAI launched its ChatGPT generative AI program in November 2022. In another Industrial Average change, Sherwin Williams will replace Dow Inc., also on Friday.
+Financial_Events: []

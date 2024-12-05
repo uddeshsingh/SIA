@@ -1,0 +1,17 @@
+Authors: ['Gazette-Lee Des Moines Bureau', 'Trish Mehaffey', 'Mike Hlas', 'John Steppe', 'Tom Barton', 'Gazette staff', 'Erin Murphy', 'The Gazette', 'Orlan Love - correspondent', 'Emily Andersen']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 16:05:00
+Description: Also, Iowa Department of Education invests $3.5 million to provide first grade students with literacy instruction books to take home
+Filename: .json
+Image_Url: https://imengine.public.prod.cdr.navigacloud.com/?uuid=906b124d-801e-5c3c-aac7-686d77110805&type=preview&q=75&width=1200&height=800
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Capitol Notebook: Reynolds, GOP governors warn ag economy at risk without new farm bill
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The comprehensive package of legislation supports several key farm and safety net programs, like crop insurance, as well as agriculture research, rural development, conservation projects and food assistance for low-income families. The letter, signed by Reynolds and 16 other Republican governors, warns that further delays threaten to jeopardize the well-being of U.S. farmers, who already face inflationary pressures, high interest rates and supply chain disruptions that have depressed farm income. Kim Reynolds and the Iowa Department of Education announced the statewide investment Monday to provide elementary schools in the state more than 100,000 “decodable book packs” to send home with students to reinforce classroom reading instruction. Reynolds, in a statement, said the book packs build upon legislation she signed into law earlier this year adding new supports and requirements for early readers and teachers. “These book packs, based on the Science of Reading, bring parents more fully into that process by giving them a fun way to reinforce at home what their children are learning at school,” Reynolds said.
+Financial_Events: []

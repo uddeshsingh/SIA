@@ -1,0 +1,17 @@
+Authors: ['Neil Patel', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-01 09:50:00
+Description: None
+Filename: .json
+Image_Url: https://g.foolcdn.com/editorial/images/799239/ai-robots-holding-chart-going-up-and-right.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Should You Forget Nvidia and Buy 2 Other Artificial Intelligence (AI) Stocks Right Now?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The semiconductor business elevated to new heights thanks to sizable investments from multiple tech giants looking to build out their network infrastructure and processing capabilities, leading to monster gains for the company and its stock. And the race among other companies to invest aggressively behind this technological trend resulted in strong demand for Nvidia products and services. The business posted a stellar operating margin of 62%, helping net income surge 109% compared to the same period of fiscal 2024. But investors need to consider Nvidia's competitive threats, namely that some of its biggest customers, like Microsoft and Amazon, among others, are working on developing their own AI chips. Dominant internet businesses Nvidia is deservedly getting a lot of love these days, as its stock powers higher with strong revenue and earnings growth.
+Financial_Events: ['27), it reported revenue of $35.1 billion, a figure that was up 94% year over year', "Nvidia's profits are maybe even more impressive", 'The stock trades for a price-to-earnings ratio (P/E) of 52.6, a 58% premium to the Nasdaq-100 index.\nSome might argue that the valuation is reasonable', 'This introduces a risk that Nvidia will see demand, and its growth, start to diminish as we look ahead.\nDominant internet businesses\nNvidia is deservedly getting a lot of love these days, as its stock powers higher with strong revenue and earnings growth']

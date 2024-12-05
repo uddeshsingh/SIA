@@ -1,0 +1,17 @@
+Authors: ['Maleha Afzal']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-07 13:29:16
+Description: We recently published a list of 10 Best Innovative Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other best innovative stocks to invest in according to hedge funds. Technology is a Big Deal, Strategist Highlights The Magnificent Seven […]
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/V4tGuBo0fm2vOSewxPjpmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/057172d1bddd5e7eaee5fc08e2756794
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Salesforce Inc (CRM)’s AI Innovations: Why Hedge Funds Are Investing Heavily
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: On October 31, Christian Dery, head of macro strategy at Capital Fund Management, appeared in an interview on Yahoo Finance to discuss the impact of the magnificent seven on the market. However, if you look at the “tech incumbents”, they have to increase their capital expenditures to develop compute clusters and scale their operations, suggests Dery. In 2023, the chips industry generated revenue of about $3 billion, reflecting that we are yet to find a killer use case or see results of generous AI spending. Dery reiterated that the market is yet to see the investments pay off multiple times but maintains his interest in capital expenditures by these companies playing out. While he is bullish on technological innovation and believes artificial intelligence is disruptive and a “big deal”, he fails to see viable results as of now.
+Financial_Events: ['That said, investors and analysts are excited to see what this earnings period has to offer for the magnificent seven and how much of an influence they have on the market', 'On October 31, Christian Dery, head of macro strategy at Capital Fund Management, appeared in an interview on Yahoo Finance to discuss the impact of the magnificent seven on the market.\nDery suggested that these companies have grown to become large entities and their market capitalization often fluctuates by $2 billion to $400 billion on earnings events', 'However, if you look at the “tech incumbents”, they have to increase their capital expenditures to develop compute clusters and scale their operations, suggests Dery.\nIn 2023, the chips industry generated revenue of about $3 billion, reflecting that we are yet to find a killer use case or see results of generous AI spending', 'Dery adds that the market is more likely to be “discerning” on the path to profitability since companies are going to focus more on capital expenditures and projections for capital expenditures']

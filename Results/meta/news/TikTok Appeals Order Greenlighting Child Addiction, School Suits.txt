@@ -1,0 +1,17 @@
+Authors: ['Isaiah Poritz']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-29 21:55:36
+Description: TikTok Inc. and parent company ByteDance Ltd. filed notice Friday saying they will appeal a pair of court rulings advancing hundreds of lawsuits from parents and school districts alleging the social media app causes addiction among children.
+Filename: .json
+Image_Url: https://db0ip7zd23b50.cloudfront.net/dims4/default/4feea26/2147483647/strip/false/crop/3994x1539+3+424/resize/960x370!/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F08%2F3d%2F7782536a40f6b5521477fa042434%2Fbloomberg-generic-tiktok.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: TikTok Appeals Order Greenlighting Child Addiction, School Suits
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: TikTok Inc. and parent company ByteDance Ltd. filed notice Friday saying they will appeal a pair of court rulings advancing hundreds of lawsuits from parents and school districts alleging the social media app causes addiction among children. The notice asks the San Francisco-based US Court of Appeals for the Ninth Circuit to review the trial court orders which denied TikTokâs motion to dismiss based on Section 230 of the Communications Decency Act, a decades-old federal law that immunizes online platforms from lawsuits based on user-created content.
+Financial_Events: []

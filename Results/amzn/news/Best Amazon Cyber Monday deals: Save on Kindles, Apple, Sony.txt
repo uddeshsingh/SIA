@@ -1,0 +1,17 @@
+Authors: ['Leah Stodart']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 23:35:22
+Description: Amazon's Cyber Monday sale features deals on the new Kindle, the Dyson Supersonic, and the Apple AirPods Pro 2. Remember: the sale ends Dec. 2 at 11:59 pm PT.
+Filename: .json
+Image_Url: https://helios-i.mashable.com/imagery/articles/07D0Cy0zggqjFiEG0jXSjQz/hero-image.fill.size_1200x675.v1733127271.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Best Amazon Cyber Monday deals: Save on Kindles, Apple, Sony
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Table of Contents Amazon's Black Friday sale went live Nov. 21 (a full week before Thanksgiving), ushering in year-round low prices on robot vacuums, Apple products, and Fire TVs. Mashable Tech Editor Kim Gedeon was impressed by its power efficiency, its stellar speakers, and its upgraded 12MP webcam, rating it a 4.2/5, but said that 'at a starting price of $1,599, it’s an investment that’s not for the faint of heart.' "Microsoft's slick Qualcomm-powered laptop lasted nearly 23 hours in our battery life test and one-upped the M3 MacBooks in our performance benchmark (both the Air and the Pro models). On that screen, you'll be able to swipe through a more detailed running dashboard than the previous generation, check your heart rate changes from sleep, to regular daytime chilling, to a legit cardio workout, make payments via Google Wallet, and more. It's one of Mashable Lead Shopping Reporter Bethany Allard's favorite Dyson Supersonic dupes, particularly for smoothing — its QuickSmooth brush in particular not only dries hair quickly, but "keeps things from looking too windswept and more styled and volumized."
+Financial_Events: []

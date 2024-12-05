@@ -1,0 +1,17 @@
+Authors: ['Colette Stallbaumer']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-07 16:00:00
+Description: We're sharing monthly highlights of new Microsoft Copilot innovations and how to get the most value from Copilot. Learn more.
+Filename: .json
+Image_Url: https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2024/11/M365_372575_Blog_241105.png
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: The latest on AI at work: November 2024
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Based on customer feedback, we’ve dramatically improved performance: Copilot responses are more than two times faster on average, and response satisfaction has improved by nearly three times.1 In October, we continued this next innovation wave by introducing the ability to create autonomous agents with Microsoft Copilot Studio, along with new agents that automate business processes. Rather than jumping from idea to complete presentation, Narrative builder will now write a draft outline for you—one you can edit, add to, reorder, or rework. Using natural language, you simply tell Copilot what you’re trying to learn, and it will run the analysis for you, writing Python code that you can review and even edit. Think of it as a way to free up resources that can be reinvested into your function.” —Nathalie D’Hers, Corporate Vice President, Microsoft Digital Check out the article for more data and insights from Nathalie and six other functional leaders on what they’re learning—and how AI can help future-proof any organization. “Then we started talking about those tips and tricks with other leaders so that they could demonstrate that behavior, and then showing reports of adoption to our employees,” Johnson said on the WorkLab podcast.
+Financial_Events: ['And they’re seeing the impact on their business.\nWith Copilot supporting sales associates, Lumen Technologies projects $50 million in savings annually.\nVodafone is deploying 68,000 licenses after seeing average time savings of 3 hours a week per person, with 90% of users praising the benefits.\nFinastra is reducing creative production time from seven months to seven weeks.\nFor one business group here at Microsoft, Copilot is providing a 9.4% increase in revenue per seller and a 20% increase in close rates among high users of the tool.2 That’s according to this WorkLab article on how AI is already changing work']

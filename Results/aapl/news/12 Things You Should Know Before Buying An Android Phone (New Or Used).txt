@@ -1,0 +1,17 @@
+Authors: ['Jordan Wirth']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:30:50
+Description: If you're tired of the restrictive side of Apple's ecosystem, it might be time to switch to Android. Here's what you should know before making the jump.
+Filename: .json
+Image_Url: https://www.slashgear.com/img/gallery/12-things-you-should-know-before-buying-an-android-phone-new-or-used/l-intro-1732149273.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 12 Things You Should Know Before Buying An Android Phone (New Or Used)
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Combine all that with the steep Apple Tax, limiting flagship phones to outdated hardware like 60Hz displays, and other shenanigans, and it's looking like a great time to switch to Android. Advertisement Face ID on iPhone works incredibly well, and it has a number of brilliant features that make it a reliable and secure way to unlock your device. If you liked fancy features like instant device swapping for Bluetooth earbuds or the Universal Clipboard, you'll be happy to know that several Android manufacturers have replicated similar functionality. The AI bubble is on the verge of bursting, but one thing can be said for sure: The Google Pixel lineup does an incredible job making machine learning actually useful in your everyday life. Advertisement iOS 18 brought a whole bunch of useful features, one of which made Android users try hard not to smirk: the ability to place icons anywhere on the home screen.
+Financial_Events: ["Apple isn't known for giving away features that would make it less money — like that sweet, sweet App Store revenue — so it's probable only local regulation in specific regions would force the change"]

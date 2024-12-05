@@ -1,0 +1,17 @@
+Authors: ['Amanda Silberling']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 16:02:29
+Description: Amazon has rolled out its answer to the discounted, low-cost storefronts of Temu and Shein. The Amazon Haul store, currently available on the mobile app
+Filename: .json
+Image_Url: https://techcrunch.com/wp-content/uploads/2024/11/amazon-haul.jpeg?w=767
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Amazon takes on Temu and Shein with discount 'Amazon Haul' store
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Some items are labeled with rocket ship emojis that warn that this $4.99 iPhone 16 Pro case is “selling fast!” Or, you might see a fire emoji declaring that the price for a three-pack of $2.89 mesh laundry bags is “crazy low.” Like its competitors, Amazon Haul also sells clothing ($16 for a pair of men’s golf pants, or $4.99 for 80s-style women’s leg warmers). Temu and Shein have been subject to wide criticism over their environmental impact, a byproduct of their worldwide shipping, and the waste caused by fast fashion. Both companies have also been subject to consumer protection probes in the European Union, where regulators are investigating their potential use of addictive design patterns and illegal products. However, Amazon claims that it screens sellers ahead of time, and if customers want to return their purchase, they can do so for free within 15 days as long as the item is over $3. It’s a dubious time for Amazon to invest in this business model, given that president-elect Donald Trump has proposed leveraging a 60% tax on imported Chinese goods.
+Financial_Events: []

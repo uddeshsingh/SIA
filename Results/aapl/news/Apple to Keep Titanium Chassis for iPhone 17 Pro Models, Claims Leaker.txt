@@ -1,0 +1,17 @@
+Authors: ['Tim Hardwick', 'Mitchel Broussard', 'Joe Rossignol', 'Hartley Charlton']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 07:57:38
+Description: Next year's iPhone 17 Pro and iPhone 17 Pro Max will feature a titanium chassis just like the current Pro models, contrary to reports of Apple...
+Filename: .json
+Image_Url: https://images.macrumors.com/t/0Rutap6SxySNPzIp14RrHUq9Uec=/1600x/article-new/2023/09/iphone-15-pro-titanium-ad.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Apple to Keep Titanium Chassis for iPhone 17 Pro Models, Claims Leaker
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: However, Ma reports that with the ‌iPhone 17‌ lineup, Apple is planning to transition the entire range of devices back to aluminum. Looking back at recent iPhone models, Apple has consistently emphasized the premium frame materials of the Pro series as one of its key selling points, from 'surgical-grade stainless steel' to 'titanium.' It's unclear if the Weibo leaker has supply chain information to back up their claim, but as a standalone argument, it's not particularly water-tight. Instant Digital has a mixed reputation for accuracy with Apple rumors but has delivered some notably precise predictions. These include the 2023 launch of the Yellow iPhone 14, the frosted back glass on the iPhone 15 and ‌iPhone 15‌ Plus, the Apple Watch Series 9 being a minor refresh, spatial video capture on the ‌iPhone 15‌ Pro, the addition of a landscape front-facing camera to the iPad Air and iPad Pro, and the ‌iPad Pro‌'s nano-texture display option.
+Financial_Events: []

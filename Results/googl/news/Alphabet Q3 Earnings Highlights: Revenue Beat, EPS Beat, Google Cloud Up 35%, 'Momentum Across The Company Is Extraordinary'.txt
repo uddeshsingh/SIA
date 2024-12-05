@@ -1,0 +1,17 @@
+Authors: ['Chris Katje', 'Benzinga Staff']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-10-29 16:22:23
+Description: Alphabet reported third quarter financial results Tuesday. A look at the key highlights and what's next for the Google and YouTube owner.
+Filename: .json
+Image_Url: https://cdn.benzinga.com/files/images/story/2024/10/29/Google.jpeg?width=1200&height=800&fit=crop
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Alphabet Q3 Earnings Highlights: Revenue Beat, EPS Beat, Google Cloud Up 35%, 'Momentum Across The Company Is Extraordinary'
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Technology giant Alphabet Inc GOOG GOOGL reported third-quarter financial results after the market close Tuesday. The company reported third-quarter earnings per share of $2.12, which beat a Street consensus estimate of $1.84. Google Cloud revenues were up 35% year-over-year in the quarter, with the company highlighting continued growth from artificial intelligence. The company is winning larger deals and attracting new customers thanks to its AI solutions in cloud, the CEO said. Read Next: Alphabet Bulls Charge Ahead Of Q3: Will Meta’s AI Search, DOJ Roadblocks Change The Game?
+Financial_Events: ['Technology giant Alphabet Inc GOOG GOOGL reported third-quarter financial results after the market close Tuesday.\nHere are the key highlights.\nWhat Happened: Alphabet reported third-quarter revenue of $88.27 billion, up 15% year-over-year', 'The total beat a Street consensus estimate of $86.31 billion, according to data from Benzinga Pro.\nThe company reported third-quarter earnings per share of $2.12, which beat a Street consensus estimate of $1.84.\nRevenue was broken down as follows in the third quarter, with the prior year\'s total in parentheses:\nGoogle Search: $49.4 billion ($44 billion)\nYouTube ads: $8.9 billion ($8 billion)\nGoogle Network: $7.5 billion ($7.7 billion)\nTotal Google Advertising: $65.9 billion ($59.6 billion)\nThe company also reported Google subscribers, platform and devices revenue of $10.7 billion, up from $8.3 billion in the prior year and Google Cloud revenue of $11.4 billion, up from $8.45 billion in the third quarter of the prior year.\nGoogle Cloud revenues were up 35% year-over-year in the quarter, with the company highlighting continued growth from artificial intelligence.\nRead Also: Alphabet Q3 Earnings Preview: Antitrust Probe, 2024 Election, Streak Of Revenue Beats And More For Investors To Watch\n"The momentum across the company is extraordinary," Alphabet CEO Sundar Pichai said', '"Our commitment to innovation, as well as our long-term focus and investment in AI, are paying off with consumers and partners benefiting from our AI tools."\nPichai said AI features are expanding what people search for and how they search for it.\nThe company is winning larger deals and attracting new customers thanks to its AI solutions in cloud, the CEO said.\nYouTube passed $50 billion in total ads and subscription revenues over the last four quarters for the first time, he said.\n"I\'m looking forward to driving more advances for consumers, customers and creators globally."\nGOOG Price Action: Alphabet Class C stock is up 3.38% to $176.93 in after-hours trading Tuesday versus a 52-week trading range of $123.88 to $193.30.\nRead Next:\nAlphabet Bulls Charge Ahead Of Q3: Will Meta’s AI Search, DOJ Roadblocks Change The Game?\nPhoto via Shutterstock.']

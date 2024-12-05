@@ -1,0 +1,17 @@
+Authors: ['Barchart']
+Date_Download: None
+Date_Modify: None
+Date_Publish: None
+Description: Alphabet is scheduled to report its third-quarter results later this month, and analysts expect a double-digit earnings growth.
+Filename: .json
+Image_Url: https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/barchart/Alphabet%2520Inc%2520logo%2520signage%2520by-JHVEPhoto%2520via%2520Shutterstock.jpg?1733183544959674163
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Alphabet's Q3 2024 Earnings: What to Expect
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: With a market cap of $2 trillion, Alphabet Inc. (GOOG) is a global technology company and the parent of Google. The company has consistently surpassed Wall Street’s EPS projections in the past four quarters. GOOG stock is up 17.4% on a YTD basis, underperforming the S&P 500 Index’s ($SPX) 21.9% gains and the Communication Services Select Sector SPDR ETF Fund’s (XLC) 24.8% returns over the same time frame. While the company beat expectations with earnings of $1.89 per share and revenue of $84.7 billion, concerns arose after management warned that Q3 margins could be pressured due to increased expenses in AI and tech infrastructure. In addition, the stock fell 2.4% on Aug. 14 after reports that the U.S. Department of Justice was considering a full-scale breakup of the company following a ruling that its payments to be the default search engine on devices like Apple's and Samsung's constituted an illegal monopoly.
+Financial_Events: ['It generates around 90% of its revenue from Google services, including online ads, YouTube subscriptions, and the Play Store, while the rest comes from Google Cloud, hardware sales, and innovative projects like Waymo and Verily', 'The Mountain View, California-based company is expected to announce its Q3 earnings on Tuesday, Oct', '22.\nAhead of the event, analysts expect the tech giant to report a profit of $1.83 per share, up 18.1% from $1.55 per share reported in the year-ago quarter', 'Looking forward to fiscal 2025, its EPS is expected to grow 13.1% year-over-year to $8.64.\nGOOG stock is up 17.4% on a YTD basis, underperforming the S&P 500 Index’s ($SPX) 21.9% gains and the Communication Services Select Sector SPDR ETF Fund’s (XLC) 24.8% returns over the same time frame.\nDespite strong Q2 earnings results, Alphabet stock sank over 5% on Jul', 'While the company beat expectations with earnings of $1.89 per share and revenue of $84.7 billion, concerns arose after management warned that Q3 margins could be pressured due to increased expenses in AI and tech infrastructure', "Out of the 47 analysts covering the stock, 36 recommend “Strong Buy,” three advise “Moderate Buy,” and eight suggest “Hold.” This configuration is more bullish than three months ago, with 33 analysts suggesting a “Strong Buy.” Currently, GOOG is trading below the average analyst price target of $202.43.\nMore Stock Market News from Barchart\nTesla's Robotaxi Event Sends the Stock Sliding, But Is It Time to Sell?\nWhat to Expect from Bunge Global's Q3 2024 Earnings Report\nUnited Parcel Service's Q3 2024 Earnings: What to Expect\nEarnings Preview: What to Expect From Union Pacific's Report\nOn the date of publication, Sohini Mondal did not have (either directly or indirectly) positions in any of the securities mentioned in this article"]

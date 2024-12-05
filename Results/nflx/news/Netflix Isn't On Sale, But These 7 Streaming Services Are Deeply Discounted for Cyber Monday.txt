@@ -1,0 +1,17 @@
+Authors: ['PC Mag']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 18:16:04
+Description: Hulu, Peacock, Max, and pretty much all of the "Plus's" are out here, today, right now, trying to put a little money back in your pocket this holiday shopping season.
+Filename: .json
+Image_Url: https://s.yimg.com/ny/api/res/1.2/1eJvBAyH7H7ysbgGAShAUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/34d6ec9b10fb08369fee582b46e0b586
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Netflix Isn't On Sale, But These 7 Streaming Services Are Deeply Discounted for Cyber Monday
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: If you're on the fence about watching hits like the Emmy winner for Best Drama (Shogun, The Bear, Only Murders In the Building, just to name a few), keep in mind that Hulu is one of the best streaming services around. Our senior analyst, , praised the app in his , saying, “Hulu is an excellent choice for its combination of on-demand content and live TV.” Note: This offer ends on December 2. With HBO originals like House of The Dragon, The Penguin, Hacks, and Dune: Prophecy along with classic hit series like The Wire, The Sopranos, and Sex in the City, it's no wonder why Max is so acclaimed. That means you binge the greatest shows from the golden age of TV, for half of 2025 at a total price that's cheaper than two months of Max under a normal subscription. You can spend the majority of 2025 watching Yellowstone and other hits like The Office, NFL's Sunday Night Football, the Premier League, SNL, WWE and so much more for as low as $1.99.
+Financial_Events: []

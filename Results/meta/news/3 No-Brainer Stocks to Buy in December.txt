@@ -1,0 +1,17 @@
+Authors: ['Keithen Drury', 'www.facebook.com']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 09:55:00
+Description: None
+Filename: .json
+Image_Url: https://g.foolcdn.com/editorial/images/799085/image-of-stock-chart-going-up.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: 3 No-Brainer Stocks to Buy in December
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: All three of these companies are set to be long-term beneficiaries of the artificial intelligence (AI) arms race and make for great investments right now. This positions ASML well for the long term since its machines will continue to be purchased as the number of chips we use grows and the technology progresses. This continual improvement march nearly guarantees Taiwan Semiconductor's steady income growth, as the chip price rises with each new generation of technology. With investors able to turn back the clock to get ASML's stock for cheaper, I think they should take every opportunity, as this giant won't stay beaten down forever. According to Wall Street analysts, Taiwan Semiconductor's revenue is projected to grow by about 25% next year, and earnings per share (EPS) to rise by about 26%.
+Financial_Events: ["While the majority of Meta's revenue is generated from ads on its social media platforms, it's also heavily invested in the generative AI game", 'If Meta wins the generative AI race and Llama becomes one of the industry standards, it can benefit Meta as it will now have access to the most well-trained AI model, improving experiences on its platform.\nWhile all three companies have solid stories to invest in, they also look like great bargains.\nAll three stocks are not overpriced\nASML recently became a bargain after its stock plummeted following Q3 earnings', 'That report contained a reduction in revenue guidance for 2025, mainly centered on falling China revenue', "After the fall, ASML now trades for 33 times forward earnings, about the same price it traded for last year.\nWith investors able to turn back the clock to get ASML's stock for cheaper, I think they should take every opportunity, as this giant won't stay beaten down forever.\nTaiwan Semiconductor's stock price has consistently risen throughout 2024 as investors are starting to realize how smart of an investment it is", 'As a result, it\'s no longer "cheap," but I\'d say it\'s fairly valued.\nAccording to Wall Street analysts, Taiwan Semiconductor\'s revenue is projected to grow by about 25% next year, and earnings per share (EPS) to rise by about 26%']

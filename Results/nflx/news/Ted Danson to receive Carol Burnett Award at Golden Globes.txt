@@ -1,0 +1,17 @@
+Authors: ['Edward Segarra']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 20:34:07
+Description: Ted Danson is set to receive the Carol Burnett Award at the 2025 Golden Globes to honor the actor's "renowned career" in television.
+Filename: .json
+Image_Url: https://www.usatoday.com/gcdn/authoring/authoring-images/2024/12/02/USAT/76709061007-ted-danson.jpg?crop=1919,1080,x0,y432&width=1919&height=1080&format=pjpg&auto=webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Ted Danson to receive Carol Burnett Award at Golden Globes
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The award, created in 2019 and named after actress-comedian Carol Burnett, is given to an honoree who's made outstanding contributions to television on or off screen. "Ted Danson has entertained audiences for decades with his iconic performances that will forever be ingrained in television history," said Helen Hoehne, President of the Golden Globes, in a statement. "His renowned career is a testament to his remarkable talent and versatility as an actor and bears resemblance to the award's legendary namesake." On the silver screen, he's appeared in films including "Hearts Beat Loud," "Three Men and a Baby" and Steven Spielberg's World War II drama "Saving Private Ryan." Review:Ted Danson's 'A Man on the Inside' gets woefully lost In addition to the Carol Burnett Award, Danson will be honored at a gala dinner at the Beverly Hilton Hotel on Jan. 3, 2025, alongside fellow actor and Cecil B. DeMille Award winner Viola Davis.
+Financial_Events: []

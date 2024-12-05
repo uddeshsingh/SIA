@@ -1,0 +1,17 @@
+Authors: ['Simon Taylor', 'VP of Global Channel']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 05:00:00
+Description: News, voices and jobs for CIOs. Optimized for your mobile phone.
+Filename: .json
+Image_Url: https://imgproxy.divecdn.com/ThjLXI3cwKpqMAUDbX597kUfqTceEFQUYlVi74fbsDM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZXR0eWltYWdlcy0xMzY0MDA2MzQ2LTE3MDY2N2EuanBn.webp
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Stuck in endless cycles of deliberation on how to deal with Oracle’s new Java licensing dilemma?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: For many organizations, this shift has created a licensing landscape fraught with the exposure of compliance risk, escalating audit pressures, and unplanned budget uncertainties. Unless you want to spin endless cycles on deliberating Oracle’s new Java licensing model, you first need to understand your organization’s current situation and evaluate the options. Once these elements are assessed, IT and SAM professionals can explore one of six potential strategies to manage compliance, mitigate risks, and align Java use with business objectives. As Shawn Donohue of Miro Consulting said in a 2024 webinar, “If your plan is to sit and wait and do nothing, please do not do that.” There’s zero chance that Oracle doesn’t know your Java usage, even if you don’t. Audit risk increases with company size, and events like mergers, acquisitions, major hardware refresh cycles, and support renewal changes can trigger them.
+Financial_Events: ['(Source: “3 Steps to Manage Exposure for Oracle Java SE Licensing,” July 18, 2023).\nAudit risk increases with company size, and events like mergers, acquisitions, major hardware refresh cycles, and support renewal changes can trigger them.\n5']

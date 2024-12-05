@@ -1,0 +1,17 @@
+Authors: ['Scharon Harding']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-13 20:56:40
+Description: Selling subscriptions to Prime Video with ads is more lucrative for Amazon.
+Filename: .json
+Image_Url: https://cdn.arstechnica.net/wp-content/uploads/2024/11/bosch-1152x648.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Freevee sent to Amazon graveyard
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: Explaining the move to Deadline, an Amazon spokesperson said: To deliver a simpler viewing experience for customers, we have decided to phase out Freevee branding. There will be no change to the content available for Prime members, and a vast offering of free streaming content will still be accessible for non-Prime members, including select Originals from Amazon MGM Studios, a variety of licensed movies and series, and a broad library of FAST Channels – all available on Prime Video. Two anonymous sources told advertising trade publication Adweek in February that the two services were confusing subscribers and ad buyers. In February, Amazon denied that it was ending Freevee, saying it was "an important streaming offering providing both Prime and non-Prime customers thousands of hit movies, shows, and originals, all for free,” per Adweek. Freevee’s demise comes as streaming providers try navigating a booming market where profits remain elusive, and ad businesses are still developing.
+Financial_Events: ["With the subscription tier making money from subscription fees and ads shown on Prime Video with ads, it made little sense for Amazon to continue with Freevee, which only has the latter revenue stream.\nPushing people from streaming off of Freevee to Prime Video could help Amazon attract people to Prime Video or Amazon's e-commerce site and simplify tracking what people are streaming", 'In February, Amazon denied that it was ending Freevee, saying it was "an important streaming offering providing both Prime and non-Prime customers thousands of hit movies, shows, and originals, all for free,” per Adweek.\nFreevee’s demise comes as streaming providers try navigating a booming market where profits remain elusive, and ad businesses are still developing']

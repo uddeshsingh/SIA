@@ -1,0 +1,17 @@
+Authors: ['Frank Konkel', 'Lauren C. Williams']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-12-02 00:00:00
+Description: Oracle will soon host the service’s HR systems, under the Pentagon’s biggest cloud contracting vehicle.
+Filename: .json
+Image_Url: https://cdn.nextgov.com/media/img/cd/2024/12/02/8275508-1/open-graph.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Army aims to move its pay system to the cloud by 2027
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Army is moving its personnel and pay system to the cloud, an effort that has begun in earnest with the hiring of Oracle to host the HR records of more than 1 million soldiers. “So that has been a huge win for us.” Before that migration can start, Oracle must build a secure environment to host services, applications, and data. “This will enable us to begin the initial steps in a phased approach of migrating IPPS-A into a cloud environment based on our draft plan. “However, the back-end areas of the system, such as development, testing and production will receive necessary performance improvements because of the migration to the cloud, which provides operating efficiencies and cost saving to the program and the government in the future years. In 2018, Oracle unsuccessfully sued the Pentagon after being left out of the $10 billion competition for the Joint Enterprise Defense Infrastructure, or JEDI, cloud contract that preceded JWCC.
+Financial_Events: []

@@ -1,0 +1,17 @@
+Authors: ['Zacks']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2019-05-09 00:00:00
+Description: Meta Platforms META is set to report its third-quarter 2024 results on Oct. 30.It expects total revenues between $38.5 billion and $41 billion for the third quarter of 2024. The Zacks Consensus Estimate for third-quarter reve
+Filename: .json
+Image_Url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Pre-Q3 Earnings: Is Meta Platforms Stock a Portfolio Must-Have?
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The consensus mark for earnings stands at $5.17 per share, up a couple of cents over the past 30 days, suggesting growth of 17.77% from the figure reported in the year-ago quarter. META has been leveraging AI and machine learning to boost the potency of its social-media offerings, including WhatsApp, Instagram, Facebook and Threads. Meta Platforms shares have also outperformed most of its “Magnificent 7” peers, including Apple AAPL, Alphabet, Amazon AMZN, Microsoft and Tesla YTD. Year-to-Date Performance Chart Image Source: Zacks Investment Research Meta Platforms stock is not so cheap, as the Value Score of C suggests a stretched valuation at this moment. Expanding integrations with Spotify and Amazon Music, as well as new partnerships with Audible and iHeart, are expected to enhance the experience for Ray-Ban Meta AR glass users.
+Financial_Events: ['30.\nIt expects total revenues between $38.5 billion and $41 billion for the third quarter of 2024.\nThe Zacks Consensus Estimate for third-quarter revenues is pegged at $40.16 billion, indicating an increase of 17.62% from the year-ago quarter’s reported figure.\nThe consensus mark for earnings stands at $5.17 per share, up a couple of cents over the past 30 days, suggesting growth of 17.77% from the figure reported in the year-ago quarter.\nMeta Platforms’ earnings beat the Zacks Consensus Estimate in all the trailing four quarters, the average surprise being 12.61%.\nMeta Platforms, Inc', 'Quote\nFind the latest EPS estimates and surprises on Zacks Earnings Calendar .\nLet’s see how things have shaped up for the upcoming announcement.\nStrong Advertising to Aid META’s Q3 Results\nMETA is riding on strong advertising revenue growth prospects', 'In the second quarter of 2024, advertising revenues increased 21.7% year over year to $38.33 billion, accounting for 97.9% of revenues', 'At constant currency, advertising revenues increased 23% year over year.\nMeta Platforms’ advertising revenues are expected to benefit from strong spending by advertisers as they leverage its growing AI prowess.\nThe Zacks Consensus Estimate for third-quarter 2024 advertising revenues is currently pegged at $39.38 billion, suggesting 17.04% year-over-year growth.\nMeta Platforms’ offerings — WhatsApp, Instagram, Messenger and Facebook — currently reach more than three billion people daily', 'From those 5, Director of Research Sheraz Mian hand-picks one to have the most explosive upside of all.\nThis company targets millennial and Gen Z audiences, generating nearly $1 billion in revenue last quarter alone']

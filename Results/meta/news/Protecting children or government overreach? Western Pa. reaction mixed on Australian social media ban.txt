@@ -1,0 +1,17 @@
+Authors: []
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-07 00:00:00
+Description: Olivia Edwards understands the intent behind Australia’s recent blanket social media ban. “It makes sense,” she said. “The thought behind it is protecting children.” The new law established some of the most stringent internet usage restrictions outside of China and other non-democratic regimes and could be considered a precedent for
+Filename: .json
+Image_Url: None
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Protecting children or government overreach? Western Pa. reaction mixed on Australian social media ban
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: “Social media can be beneficial in so many ways, but unfortunately it has so many downsides, especially for minors.” Australia’s law will make platforms including TikTok, Facebook, Snapchat, Reddit, X and Instagram liable for fines of up to the equivalent of $33 million (U.S.) for systemic failures to prevent children younger than 16 from holding accounts. “I think kids say things online that they would never say in person because they feel like there’s a shield online.” She said she’s had to correct inflammatory language in her classroom multiple times because students have begun to form their opinions based on what they see on social media. “I think it would be more effective — and would help the issues that adults also have with social media — if they regulated the industry a little more.” UNICEF, the United Nations agency for children, said Australia’s ban would push young people into darker, unregulated places online. Almost all of the largest social media companies including TikTok, X and Meta, which owns Facebook and Instagram, expressed concerns about the law in submissions to a truncated Senate inquiry before the bill passed. Major operators including Meta Platforms Inc. say the rules are ineffective or flawed, while X, owned by Elon Musk, questioned whether the ban is lawful, heralding a possible court challenge.
+Financial_Events: []

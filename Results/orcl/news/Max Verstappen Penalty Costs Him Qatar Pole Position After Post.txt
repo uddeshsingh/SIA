@@ -1,0 +1,17 @@
+Authors: ['Lydia Mee']
+Date_Download: None
+Date_Modify: None
+Date_Publish: 2024-11-30 17:53:53
+Description: Max Verstappen lost his pole position at the Qatar Grand Prix due to a post-qualifying penalty.
+Filename: .json
+Image_Url: https://d.newsweek.com/en/full/2533399/max-verstappen.jpg
+Language: en
+Localpath: None
+Source_Domain: None
+Text: None
+Title: Max Verstappen Penalty Costs Him Qatar Pole Position After Post
+Title_Page: None
+Title_Rss: None
+Url: None
+Summary: The Red Bull driver had initially achieved the fastest time at the Lusail International Circuit, marking his first pole since the Austrian Grand Prix. The incident occurred while Verstappen was executing an extra warm-up lap during Q3, moving at a considerably slow pace before his final push. They determined that Verstappen was following a distinct preparation strategy that clashed with Russell's plan and was driving significantly below the prescribed delta time. As noted by the Stewards (below): "The Stewards heard from the driver of Car 1 (Max Verstappen), the driver of Car 63 (George Russell), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. He also could see Car 63 approaching as he looked in his mirror multiple times whilst on the small straight between Turns 11 and 12.
+Financial_Events: []
