@@ -529,7 +529,7 @@ async def on_message(message):
         user_id = str(message.author.id)
         user_state = get_user_state(user_id)
 
-        if user_input == 'reset history':
+        if user_input.lower() == 'reset history':
             logger.info("Resetting History")
             state = user_state.get("step", STATES["RESET_HISTORY"])
         else:
