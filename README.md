@@ -1,6 +1,11 @@
 # SIA
 Interactive Stock Investment Advisor (SIA) that provides users with company/stock information through a Q&A format.
 
+
+|[![YouTube](http://i.ytimg.com/vi/tPgusg6HCt0/hqdefault.jpg)](https://www.youtube.com/watch?v=tPgusg6HCt0)|
+|:-----:|
+|Demo video|
+
 ## Project Proposal: Stock Investment Advisor (SIA)
 
 ### Getting started
